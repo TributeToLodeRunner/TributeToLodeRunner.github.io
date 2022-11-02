@@ -1,0 +1,15 @@
+screenshots/ filter=lfs diff=lfs merge=lfs -text
+screenshots/2x2[[:space:]]tile[[:space:]]level[[:space:]]1[[:space:]]almost.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]level[[:space:]]2[[:space:]]failed[[:space:]]edge.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]perfect.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]12[[:space:]]ok.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3-7.mkv filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]level[[:space:]]1[[:space:]]success[[:space:]]run.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]level[[:space:]]7[[:space:]]ok.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/out.mp4 filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]8[[:space:]]failed.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]9[[:space:]]failed.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]level[[:space:]]13[[:space:]]failed.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]level[[:space:]]6[[:space:]]ok.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/3x3[[:space:]]level[[:space:]]2[[:space:]]almost.gif filter=lfs diff=lfs merge=lfs -text
+screenshots/5x5[[:space:]]tile[[:space:]][level[[:space:]]1][[:space:]]generator[[:space:]]failed[[:space:]]pass.gif filter=lfs diff=lfs merge=lfs -text
