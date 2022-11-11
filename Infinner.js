@@ -7188,7 +7188,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var ArrayList_init_$Create$_0 = kotlin_kotlin.$_$.s;
   var UiScene$default = kotlin_de_fabmax_kool_kool_core.$_$.t3;
   var UniversalKeyCode_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.e4;
-  var Companion_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.w4;
+  var Companion_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.z4;
   var int$default = kotlin_com_russhwolf_multiplatform_settings.$_$.c;
   var float$default = kotlin_com_russhwolf_multiplatform_settings.$_$.b;
   var boolean$default = kotlin_com_russhwolf_multiplatform_settings.$_$.a;
@@ -7246,7 +7246,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var padStart = kotlin_kotlin.$_$.lb;
   var IntCompanionObject_getInstance = kotlin_kotlin.$_$.z2;
   var lazy = kotlin_kotlin.$_$.md;
-  var Companion_getInstance_0 = kotlin_de_fabmax_kool_kool_core.$_$.k4;
+  var Companion_getInstance_0 = kotlin_de_fabmax_kool_kool_core.$_$.m4;
   var MutableVec2i_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.a4;
   var MutableVec2i_init_$Create$_0 = kotlin_de_fabmax_kool_kool_core.$_$.z3;
   var KProperty1 = kotlin_kotlin.$_$.ma;
@@ -7293,45 +7293,48 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var filter = kotlin_kotlin.$_$.ua;
   var last = kotlin_kotlin.$_$.x5;
   var Scene = kotlin_de_fabmax_kool_kool_core.$_$.x2;
-  var Companion_getInstance_1 = kotlin_de_fabmax_kool_kool_core.$_$.u4;
+  var Companion_getInstance_1 = kotlin_de_fabmax_kool_kool_core.$_$.x4;
   var InterpolatedFloat = kotlin_de_fabmax_kool_kool_core.$_$.n2;
   var InverseSquareAnimator = kotlin_de_fabmax_kool_kool_core.$_$.p2;
   var CosAnimator = kotlin_de_fabmax_kool_kool_core.$_$.m2;
   var NotImplementedError = kotlin_kotlin.$_$.qc;
-  var FitContent_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.m4;
+  var FitContent_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.o4;
   var Grow_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.f4;
   var width = kotlin_de_fabmax_kool_kool_core.$_$.e2;
   var height = kotlin_de_fabmax_kool_kool_core.$_$.u1;
   var margin$default = kotlin_de_fabmax_kool_kool_core.$_$.v3;
-  var ColumnLayout_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.l4;
+  var ColumnLayout_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.n4;
   var layout = kotlin_de_fabmax_kool_kool_core.$_$.v1;
   var AlignmentX_End_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.d3;
   var alignX = kotlin_de_fabmax_kool_kool_core.$_$.s1;
   var AlignmentY_Bottom_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.e3;
   var alignY = kotlin_de_fabmax_kool_kool_core.$_$.t1;
   var RowNode = kotlin_de_fabmax_kool_kool_core.$_$.p1;
-  var Companion_getInstance_2 = kotlin_de_fabmax_kool_kool_core.$_$.p4;
+  var Companion_getInstance_2 = kotlin_de_fabmax_kool_kool_core.$_$.r4;
   var size = kotlin_de_fabmax_kool_kool_core.$_$.a2;
-  var RowLayout_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.o4;
+  var RowLayout_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.q4;
   var TextNode = kotlin_de_fabmax_kool_kool_core.$_$.r1;
-  var Companion_getInstance_3 = kotlin_de_fabmax_kool_kool_core.$_$.r4;
+  var Companion_getInstance_3 = kotlin_de_fabmax_kool_kool_core.$_$.u4;
   var text = kotlin_de_fabmax_kool_kool_core.$_$.b2;
   var toggle = kotlin_de_fabmax_kool_kool_core.$_$.d2;
+  var Companion_getInstance_4 = kotlin_de_fabmax_kool_kool_core.$_$.s4;
+  var MsdfFont_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.k4;
+  var _Dp___init__impl__ms3zkb = kotlin_de_fabmax_kool_kool_core.$_$.l4;
   var Panel$default = kotlin_de_fabmax_kool_kool_core.$_$.s3;
   var AlignmentY_Center_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.f3;
   var align$default = kotlin_de_fabmax_kool_kool_core.$_$.u3;
-  var Companion_getInstance_4 = kotlin_de_fabmax_kool_kool_core.$_$.n4;
+  var Companion_getInstance_5 = kotlin_de_fabmax_kool_kool_core.$_$.p4;
   var onClick = kotlin_de_fabmax_kool_kool_core.$_$.y1;
   var SwitchNode = kotlin_de_fabmax_kool_kool_core.$_$.q1;
-  var Companion_getInstance_5 = kotlin_de_fabmax_kool_kool_core.$_$.q4;
+  var Companion_getInstance_6 = kotlin_de_fabmax_kool_kool_core.$_$.t4;
   var toggleState = kotlin_de_fabmax_kool_kool_core.$_$.c2;
   var onToggle = kotlin_de_fabmax_kool_kool_core.$_$.z1;
   var FilterMethod_LINEAR_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.k3;
-  var FullscreenShaderUtil_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.t4;
+  var FullscreenShaderUtil_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.w4;
   var RectProps = kotlin_de_fabmax_kool_kool_core.$_$.s2;
   var textureMesh$default = kotlin_de_fabmax_kool_kool_core.$_$.y3;
   var LinearAnimator = kotlin_de_fabmax_kool_kool_core.$_$.q2;
-  var Companion_getInstance_6 = kotlin_de_fabmax_kool_kool_core.$_$.v4;
+  var Companion_getInstance_7 = kotlin_de_fabmax_kool_kool_core.$_$.y4;
   var ConfigBuilder = kotlin_de_fabmax_kool_kool_core.$_$.g2;
   var Config = kotlin_de_fabmax_kool_kool_core.$_$.h2;
   var OffscreenRenderPass2d = kotlin_de_fabmax_kool_kool_core.$_$.i2;
@@ -7356,7 +7359,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var KslProgram = kotlin_de_fabmax_kool_kool_core.$_$.j;
   var KslShader = kotlin_de_fabmax_kool_kool_core.$_$.l1;
   var mvpMatrix = kotlin_de_fabmax_kool_kool_core.$_$.i;
-  var Companion_getInstance_7 = kotlin_de_fabmax_kool_kool_core.$_$.s4;
+  var Companion_getInstance_8 = kotlin_de_fabmax_kool_kool_core.$_$.v4;
   var times_1 = kotlin_de_fabmax_kool_kool_core.$_$.b1;
   var fragmentColorBlock$default = kotlin_de_fabmax_kool_kool_core.$_$.r3;
   var float4Port = kotlin_de_fabmax_kool_kool_core.$_$.p;
@@ -8705,7 +8708,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion.$metadata$ = objectMeta('Companion');
   var Companion_instance;
-  function Companion_getInstance_8() {
+  function Companion_getInstance_9() {
     if (Companion_instance == null)
       new Companion();
     return Companion_instance;
@@ -8955,7 +8958,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   $test4COROUTINE$2.$metadata$ = classMeta('$test4COROUTINE$2', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function App(ctx) {
-    Companion_getInstance_8();
+    Companion_getInstance_9();
     this.y6m_1 = ctx;
     var tmp = this;
     tmp.z6m_1 = Job$default(null, 1, null);
@@ -9447,7 +9450,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion_0.$metadata$ = objectMeta('Companion');
   var Companion_instance_0;
-  function Companion_getInstance_9() {
+  function Companion_getInstance_10() {
     if (Companion_instance_0 == null)
       new Companion_0();
     return Companion_instance_0;
@@ -9531,7 +9534,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return AtlasGeometry_init_$Init$(seen1, cols, rows, serializationConstructorMarker, Object.create(AtlasGeometry.prototype));
   }
   function AtlasGeometry(cols, rows) {
-    Companion_getInstance_9();
+    Companion_getInstance_10();
     this.l71_1 = cols;
     this.m71_1 = rows;
   }
@@ -9679,7 +9682,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion_1.$metadata$ = objectMeta('Companion');
   var Companion_instance_1;
-  function Companion_getInstance_10() {
+  function Companion_getInstance_11() {
     if (Companion_instance_1 == null)
       new Companion_1();
     return Companion_instance_1;
@@ -9781,7 +9784,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return Frame_init_$Init$(seen1, x, y, w, h, serializationConstructorMarker, Object.create(Frame.prototype));
   }
   function Frame(x, y, w, h) {
-    Companion_getInstance_10();
+    Companion_getInstance_11();
     this.v71_1 = x;
     this.w71_1 = y;
     this.x71_1 = w;
@@ -9924,7 +9927,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             var jsonObj = tmp0_decodeFromString.xn(isInterface(tmp0_cast, KSerializer) ? tmp0_cast : THROW_CCE(), content);
             if (!jsonObj.o10('geom'))
               throw IllegalStateException_init_$Create$_0('no geom for atlas ' + this.k72_1.o6m() + ' ' + this.i72_1.k73_1);
-            this.i72_1.n73_1 = Companion_getInstance_9().i71(ensureNotNull(jsonObj.p10('geom')));
+            this.i72_1.n73_1 = Companion_getInstance_10().i71(ensureNotNull(jsonObj.p10('geom')));
             this.i72_1.o73_1.t7();
             var tmp_0 = jsonObj.p10('frames');
             var tmp0_safe_receiver = tmp_0 instanceof JsonObject ? tmp_0 : null;
@@ -9937,7 +9940,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                 var tmp0_subject = element.n2();
                 var tmp_1;
                 if (tmp0_subject instanceof JsonObject) {
-                  tmp_1 = Companion_getInstance_10().i71(ensureNotNull(get_jsonObject(element.n2()).p10('frame'))).z71(ensureNotNull(this.i72_1.n73_1));
+                  tmp_1 = Companion_getInstance_11().i71(ensureNotNull(get_jsonObject(element.n2()).p10('frame'))).z71(ensureNotNull(this.i72_1.n73_1));
                 } else {
                   if (tmp0_subject instanceof JsonPrimitive) {
                     var tmp_2 = element.n2();
@@ -10185,7 +10188,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   Companion_2.$metadata$ = objectMeta('Companion');
   var Companion_instance_2;
-  function Companion_getInstance_11() {
+  function Companion_getInstance_12() {
     if (Companion_instance_2 == null)
       new Companion_2();
     return Companion_instance_2;
@@ -10258,7 +10261,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   $loadCOROUTINE$6.$metadata$ = classMeta('$loadCOROUTINE$6', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function LevelsRep(assets, scope) {
-    Companion_getInstance_11();
+    Companion_getInstance_12();
     this.r70_1 = assets;
     this.s70_1 = scope;
     var tmp = this;
@@ -10779,7 +10782,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion_3.$metadata$ = objectMeta('Companion');
   var Companion_instance_3;
-  function Companion_getInstance_12() {
+  function Companion_getInstance_13() {
     if (Companion_instance_3 == null)
       new Companion_3();
     return Companion_instance_3;
@@ -10806,7 +10809,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion_4.$metadata$ = objectMeta('Companion');
   var Companion_instance_4;
-  function Companion_getInstance_13() {
+  function Companion_getInstance_14() {
     if (Companion_instance_4 == null)
       new Companion_4();
     return Companion_instance_4;
@@ -10918,7 +10921,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           default:
             if (isBar)
               $this$BehaviorMoveDown.f77(ActorSequence_BarLeft_getInstance());
-            Companion_getInstance_12();
+            Companion_getInstance_13();
             tmp_4 = 'stop';
             break;
         }
@@ -11030,7 +11033,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       this$0.j79($this$onUpdate, delta / $this$onUpdate.z75_1);
       var tmp;
       if (delta === 0) {
-        Companion_getInstance_12();
+        Companion_getInstance_13();
         return 'stop';
       }
       var tmp_0;
@@ -11064,7 +11067,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       this$0.j79($this$onUpdate, delta / $this$onUpdate.y75_1);
       var tmp;
       if (delta === 0) {
-        Companion_getInstance_12();
+        Companion_getInstance_13();
         return 'stop';
       }
       var tmp_0;
@@ -11124,7 +11127,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   Companion_5.$metadata$ = objectMeta('Companion');
   var Companion_instance_5;
-  function Companion_getInstance_14() {
+  function Companion_getInstance_15() {
     if (Companion_instance_5 == null)
       new Companion_5();
     return Companion_instance_5;
@@ -11166,7 +11169,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       this$0.i79($this$onUpdate, delta / $this$onUpdate.z75_1);
       var tmp;
       if (delta === 0) {
-        Companion_getInstance_12();
+        Companion_getInstance_13();
         return 'stop';
       }
       var tmp_0;
@@ -11198,7 +11201,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   Companion_6.$metadata$ = objectMeta('Companion');
   var Companion_instance_6;
-  function Companion_getInstance_15() {
+  function Companion_getInstance_16() {
     if (Companion_instance_6 == null)
       new Companion_6();
     return Companion_instance_6;
@@ -11239,11 +11242,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function ControllableState(actor, animName, name) {
     ActorState.call(this, actor, animName, name);
     this.u78_1 = true;
-    Companion_getInstance_13();
-    this.s6z('fall', false, 0, Actor$ActorState$ControllableState$lambda(actor, this), 6, null);
-    Companion_getInstance_15();
-    this.s6z('runUp', false, 0, Actor$ActorState$ControllableState$lambda_0(), 6, null);
     Companion_getInstance_14();
+    this.s6z('fall', false, 0, Actor$ActorState$ControllableState$lambda(actor, this), 6, null);
+    Companion_getInstance_16();
+    this.s6z('runUp', false, 0, Actor$ActorState$ControllableState$lambda_0(), 6, null);
+    Companion_getInstance_15();
     this.s6z('runDown', false, 0, Actor$ActorState$ControllableState$lambda_1(), 6, null);
     var tmp = ActorSequence_BarLeft_getInstance().q75_1;
     this.s6z(tmp, false, 0, Actor$ActorState$ControllableState$lambda_2(), 6, null);
@@ -11257,26 +11260,26 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.s6z(tmp_3, false, 0, Actor$ActorState$ControllableState$lambda_6(), 6, null);
     var tmp_4 = ActorSequence_DigLeft_getInstance().q75_1;
     this.s6z(tmp_4, false, 0, Actor$ActorState$ControllableState$lambda_7(), 6, null);
-    Companion_getInstance_12();
+    Companion_getInstance_13();
     var tmp_5 = IntCompanionObject_getInstance().d1_1;
     this.s6z('stop', false, tmp_5, Actor$ActorState$ControllableState$lambda_8(this), 2, null);
     this.q6z(Actor$ActorState$ControllableState$lambda_9(actor));
   }
   ControllableState.$metadata$ = classMeta('ControllableState', undefined, undefined, undefined, undefined, ActorState.prototype);
   function StopState(actor) {
-    Companion_getInstance_12();
-    Companion_getInstance_12();
+    Companion_getInstance_13();
+    Companion_getInstance_13();
     ControllableState.call(this, actor, null, 'stop');
     this.k79(Actor$ActorState$StopState$lambda(actor));
   }
   StopState.$metadata$ = classMeta('StopState', undefined, undefined, undefined, undefined, ControllableState.prototype);
   function FallState(actor) {
-    Companion_getInstance_13();
-    Companion_getInstance_13();
+    Companion_getInstance_14();
+    Companion_getInstance_14();
     ActorState.call(this, actor, null, 'fall');
     this.q6z(Actor$ActorState$FallState$lambda(actor));
     this.r6z(Actor$ActorState$FallState$lambda_0(actor));
-    Companion_getInstance_12();
+    Companion_getInstance_13();
     this.s6z('stop', false, 0, Actor$ActorState$FallState$lambda_1(actor), 6, null);
     this.k79(Actor$ActorState$FallState$lambda_2(actor));
     this.c7b(this, Actor$ActorState$FallState$lambda_3(actor));
@@ -11284,7 +11287,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   FallState.$metadata$ = classMeta('FallState', undefined, undefined, undefined, undefined, ActorState.prototype);
   function MovementState(actor, animName, name) {
     ControllableState.call(this, actor, animName, name);
-    Companion_getInstance_12();
+    Companion_getInstance_13();
     var tmp = IntCompanionObject_getInstance().d1_1;
     this.s6z('stop', false, tmp, Actor$ActorState$MovementState$lambda(), 2, null);
     this.k79(Actor$ActorState$MovementState$lambda_0(this));
@@ -11314,11 +11317,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   BarRight.$metadata$ = classMeta('BarRight', undefined, undefined, undefined, undefined, MoveRight.prototype);
   function RunDown(actor) {
-    Companion_getInstance_14();
+    Companion_getInstance_15();
     var tmp = ActorSequence_RunUpDown_getInstance();
-    Companion_getInstance_14();
+    Companion_getInstance_15();
     MovementState.call(this, actor, tmp, 'runDown');
-    Companion_getInstance_12();
+    Companion_getInstance_13();
     this.s6z('stop', false, 0, Actor$ActorState$RunDown$lambda(), 6, null);
     this.c7b(this, Actor$ActorState$RunDown$lambda_0());
   }
@@ -11333,10 +11336,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   MoveUp.$metadata$ = classMeta('MoveUp', undefined, undefined, undefined, undefined, MovementState.prototype);
   function RunUp(actor) {
-    Companion_getInstance_15();
-    Companion_getInstance_15();
+    Companion_getInstance_16();
+    Companion_getInstance_16();
     MoveUp.call(this, actor, 'runUp', Actor$ActorState$RunUp$_init_$lambda_bf4iwu());
-    Companion_getInstance_12();
+    Companion_getInstance_13();
     this.s6z('stop', false, 0, Actor$ActorState$RunUp$lambda(this), 6, null);
   }
   RunUp.$metadata$ = classMeta('RunUp', undefined, undefined, undefined, undefined, MoveUp.prototype);
@@ -11364,7 +11367,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       $this_BehaviorMoveDown.i79($this$onUpdate, delta / $this$onUpdate.z75_1);
       var tmp;
       if (delta === 0) {
-        Companion_getInstance_12();
+        Companion_getInstance_13();
         return 'stop';
       }
       var tmp_0;
@@ -11950,7 +11953,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (equals(tmp2_safe_receiver == null ? null : tmp2_safe_receiver.w76_1, Status_LEVEL_STARTUP_getInstance())) {
       tmp = $this.k6q_1.m();
     } else {
-      tmp = Companion_getInstance_17().g7c_1[$this.k6q_1.m()][$this.m6q_1];
+      tmp = Companion_getInstance_18().g7c_1[$this.k6q_1.m()][$this.m6q_1];
     }
     var movesCount = tmp;
     while (movesCount > 0) {
@@ -12665,7 +12668,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion_7.$metadata$ = objectMeta('Companion');
   var Companion_instance_7;
-  function Companion_getInstance_16() {
+  function Companion_getInstance_17() {
     if (Companion_instance_7 == null)
       new Companion_7();
     return Companion_instance_7;
@@ -12722,7 +12725,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         tmp = Unit_getInstance();
       } else {
         println('done in shake');
-        Companion_getInstance_15();
+        Companion_getInstance_16();
         return 'runUp';
       }
       var tmp0_this = $this$onUpdate;
@@ -12865,14 +12868,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   Companion_8.$metadata$ = objectMeta('Companion');
   var Companion_instance_8;
-  function Companion_getInstance_17() {
+  function Companion_getInstance_18() {
     if (Companion_instance_8 == null)
       new Companion_8();
     return Companion_instance_8;
   }
   function InHole(actor) {
-    Companion_getInstance_16();
-    Companion_getInstance_16();
+    Companion_getInstance_17();
+    Companion_getInstance_17();
     ActorState.call(this, actor, null, 'inhole');
     this.q6z(Guard$InHole$lambda(actor));
     this.c7b(this, Guard$InHole$lambda_0());
@@ -13228,7 +13231,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Guard$fsm$delegate$lambda$lambda(this$0, $game) {
     return function ($this$state) {
       $this$state.q6z(Guard$fsm$delegate$lambda$lambda$lambda(this$0, $game));
-      Companion_getInstance_12();
+      Companion_getInstance_13();
       $this$state.s6z('stop', false, 0, Guard$fsm$delegate$lambda$lambda$lambda_0(), 6, null);
       $this$state.k79(Guard$fsm$delegate$lambda$lambda$lambda_1());
       $this$state.r6z(Guard$fsm$delegate$lambda$lambda$lambda_2($game, this$0));
@@ -13261,12 +13264,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           tmp0_apply.t6z(tmp, Guard$fsm$delegate$lambda$lambda(this$0, $game));
           var tmp$ret$0;
           {
-            Companion_getInstance_13();
+            Companion_getInstance_14();
             var tmp0_apply_0 = tmp0_apply.f7e('fall');
             {
             }
             {
-              Companion_getInstance_16();
+              Companion_getInstance_17();
               tmp0_apply_0.s6z('inhole', false, 0, Guard$fsm$delegate$lambda$lambda_0(), 6, null);
             }
             tmp$ret$0 = tmp0_apply_0;
@@ -13278,7 +13281,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     };
   }
   function Guard(game, random) {
-    Companion_getInstance_17();
+    Companion_getInstance_18();
     Actor.call(this, game);
     this.h7a_1 = random;
     this.i7a_1 = 0;
@@ -13558,7 +13561,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion_9.$metadata$ = objectMeta('Companion');
   var Companion_instance_9;
-  function Companion_getInstance_18() {
+  function Companion_getInstance_19() {
     Tile_initEntries();
     if (Companion_instance_9 == null)
       new Companion_9();
@@ -13624,7 +13627,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     Tile_GOLD_instance = Tile_init_$Create$('GOLD', 7, tmp_20, tmp_21, tmp_22, null, 32, null);
     Tile_GUARD_instance = new Tile('GUARD', 8, _Char___init__impl__6a9atx(48), TileLogicType_EMPTY_getInstance(), TileLogicType_EMPTY_getInstance(), '');
     Tile_PLAYER_instance = new Tile('PLAYER', 9, _Char___init__impl__6a9atx(38), TileLogicType_EMPTY_getInstance(), TileLogicType_EMPTY_getInstance(), '');
-    Companion_getInstance_18();
+    Companion_getInstance_19();
   }
   function Tile(name, ordinal, char, base, act, frameName) {
     Enum.call(this, name, ordinal);
@@ -13716,7 +13719,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       var tmp$ret$1;
       {
-        tmp$ret$1 = new ViewCell(false, unpackFrameNum(tmp0_with, Companion_getInstance_19()));
+        tmp$ret$1 = new ViewCell(false, unpackFrameNum(tmp0_with, Companion_getInstance_20()));
       }
       tmp$ret$2 = tmp$ret$1;
     }
@@ -13724,19 +13727,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion_10.$metadata$ = objectMeta('Companion');
   var Companion_instance_10;
-  function Companion_getInstance_19() {
+  function Companion_getInstance_20() {
     if (Companion_instance_10 == null)
       new Companion_10();
     return Companion_instance_10;
   }
   function ViewCell(hole, frameNum) {
-    Companion_getInstance_19();
+    Companion_getInstance_20();
     this.c71_1 = hole;
     this.d71_1 = frameNum;
   }
   ViewCell.prototype.e71 = function () {
     var b = _UInt___init__impl__l7qpdl(0);
-    b = packFrameNum(b, Companion_getInstance_19(), this.d71_1);
+    b = packFrameNum(b, Companion_getInstance_20(), this.d71_1);
     var tmp$ret$0;
     {
       var tmp0_toByte = b;
@@ -14162,7 +14165,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.a77_1.o1(toAdd);
   };
   GameLevel.prototype.r2g = function (x, y) {
-    return this.r7f(x, y) ? Companion_getInstance_19().b7f(this.s76_1.r(imul(y, this.q76_1) + x | 0)) : null;
+    return this.r7f(x, y) ? Companion_getInstance_20().b7f(this.s76_1.r(imul(y, this.q76_1) + x | 0)) : null;
   };
   GameLevel.prototype.q7f = function (x, y, v) {
     if (this.r7f(x, y))
@@ -14220,7 +14223,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                 index_0 = tmp1_0 + 1 | 0;
                 var tmp0__anonymous__q1qw7t = tmp1_0;
                 var guard = false;
-                var tile = ensureNotNull(Companion_getInstance_18().u7e_1.b3(new Char(item_0)));
+                var tile = ensureNotNull(Companion_getInstance_19().u7e_1.b3(new Char(item_0)));
                 var tmp0_subject = tile;
                 var tmp0 = tmp0_subject.y1();
                 switch (tmp0) {
@@ -14546,7 +14549,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             inductionVariable = inductionVariable + 1 | 0;
             var tmp$ret$0;
             {
-              tmp$ret$0 = values_3()[ensureNotNull(Companion_getInstance_18().u7e_1.b3(new Char(item))).a7f()].q7e_1;
+              tmp$ret$0 = values_3()[ensureNotNull(Companion_getInstance_19().u7e_1.b3(new Char(item))).a7f()].q7e_1;
             }
             tmp0_mapTo.b(new Char(tmp$ret$0));
           }
@@ -14562,7 +14565,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function (idx) {
       var x = idx % $exampleWidth | 0;
       var y = idx / $exampleWidth | 0;
-      return ensureNotNull(Companion_getInstance_18().u7e_1.b3(new Char(charSequenceGet($exampleMap.r(y), x)))).a7f();
+      return ensureNotNull(Companion_getInstance_19().u7e_1.b3(new Char(charSequenceGet($exampleMap.r(y), x)))).a7f();
     };
   }
   function generateGameLevel$lambda_1($exampleOriginX, $tmp, $exampleOriginY, $exampleWidth, $exampleHeight, $exampleMap) {
@@ -14639,7 +14642,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               var tmp1_0 = index_0;
               index_0 = tmp1_0 + 1 | 0;
               var tmp0__anonymous__q1qw7t_0 = tmp1_0;
-              wcf.y6i(this.o7g_1 + tmp0__anonymous__q1qw7t_0 | 0, this.p7g_1 + tmp0__anonymous__q1qw7t | 0, ensureNotNull(Companion_getInstance_18().u7e_1.b3(new Char(charSequenceGet(this.n7g_1.r(tmp0__anonymous__q1qw7t), tmp0__anonymous__q1qw7t_0)))).a7f());
+              wcf.y6i(this.o7g_1 + tmp0__anonymous__q1qw7t_0 | 0, this.p7g_1 + tmp0__anonymous__q1qw7t | 0, ensureNotNull(Companion_getInstance_19().u7e_1.b3(new Char(charSequenceGet(this.n7g_1.r(tmp0__anonymous__q1qw7t), tmp0__anonymous__q1qw7t_0)))).a7f());
             }
           }
           var tmp0_measureTimedValue = Monotonic_getInstance();
@@ -14703,7 +14706,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               var tmp1_2 = index_2;
               index_2 = tmp1_2 + 1 | 0;
               var tmp0__anonymous__q1qw7t_1 = tmp1_2;
-              out[tmp3__anonymous__ufb84q + this.p7g_1 | 0][this.o7g_1 + tmp0__anonymous__q1qw7t_1 | 0] = ensureNotNull(Companion_getInstance_18().u7e_1.b3(new Char(charSequenceGet(this.n7g_1.r(tmp3__anonymous__ufb84q), tmp0__anonymous__q1qw7t_1)))).y1();
+              out[tmp3__anonymous__ufb84q + this.p7g_1 | 0][this.o7g_1 + tmp0__anonymous__q1qw7t_1 | 0] = ensureNotNull(Companion_getInstance_19().u7e_1.b3(new Char(charSequenceGet(this.n7g_1.r(tmp3__anonymous__ufb84q), tmp0__anonymous__q1qw7t_1)))).y1();
             }
           }
           var index_3 = 0;
@@ -14891,7 +14894,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   Companion_11.$metadata$ = objectMeta('Companion');
   var Companion_instance_11;
-  function Companion_getInstance_20() {
+  function Companion_getInstance_21() {
     if (Companion_instance_11 == null)
       new Companion_11();
     return Companion_instance_11;
@@ -14935,7 +14938,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$onUpdate) {
       var tmp;
       var tmp_0 = $this$onUpdate.e76_1;
-      Companion_getInstance_20();
+      Companion_getInstance_21();
       if (tmp_0 >= 1) {
         var tmp0_subject = this$0;
         var tmp_1;
@@ -14949,7 +14952,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           }
         }
         $actor.f77(tmp_1);
-        Companion_getInstance_12();
+        Companion_getInstance_13();
         return 'stop';
       }
       var tmp1_this = $this$onUpdate;
@@ -14963,7 +14966,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     $this.i7b().h6q_1.z6q_1.m1e(value);
   }
   function DigState(actor, animName) {
-    Companion_getInstance_20();
+    Companion_getInstance_21();
     ActorState.call(this, actor, animName, animName.q75_1);
     this.q6z(Runner$DigState$lambda(actor));
     this.k79(Runner$DigState$lambda_0(actor, this));
@@ -15748,7 +15751,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     {
       {
       }
-      tmp$ret$0 = scene.k4r(Panel$default(null, null, null, GameLevelScene$setupUi$lambda(this, scene), 7, null));
+      var tmp = Companion_getInstance_4();
+      var tmp_0 = MsdfFont_init_$Create$(null, 4.0, 0.0, 0.0, 0.0, null, 61, null);
+      var tmp_1 = _Dp___init__impl__ms3zkb(4.0);
+      var tmp_2 = tmp.q44(tmp_0, null, null, null, null, tmp_1, null, null, null, null, 990, null);
+      tmp$ret$0 = scene.k4r(Panel$default(null, tmp_2, null, GameLevelScene$setupUi$lambda(this, scene), 5, null));
     }
     return tmp$ret$0;
   };
@@ -15762,7 +15769,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var textNd = _this__u8e3s4.w3s().m3t(getKClass(TextNode), Companion_getInstance_3().g45_1);
       text(textNd.d3u(), label);
       {
-        this.a7n(textNd, Companion_getInstance_4().m41_1);
+        this.a7n(textNd, Companion_getInstance_5().m41_1);
         var tmp = textNd.d3u();
         onClick(tmp, GameLevelScene$LabeledSwitch$lambda(toggleState_0));
       }
@@ -15771,7 +15778,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     var tmp$ret$3;
     {
       var tmp0_Switch = _this__u8e3s4.v3s(toggleState_0);
-      var switch_0 = _this__u8e3s4.w3s().m3t(getKClass(SwitchNode), Companion_getInstance_5().r4a_1);
+      var switch_0 = _this__u8e3s4.w3s().m3t(getKClass(SwitchNode), Companion_getInstance_6().r4a_1);
       var tmp0_safe_receiver = tmp0_Switch;
       if (tmp0_safe_receiver == null)
         null;
@@ -16025,7 +16032,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function GameScene$bg$delegate$lambda(this$0) {
     return function () {
-      return Companion_getInstance_8().b6y(this$0);
+      return Companion_getInstance_9().b6y(this$0);
     };
   }
   function $reloadCOROUTINE$10(_this__u8e3s4, newts, resultContinuation) {
@@ -16267,7 +16274,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.y7j_1.a6r_1.s3s(GameScene$lambda(this));
     var tmp$ret$3;
     {
-      var tmp0_apply_0 = Companion_getInstance_8().a6y(this.z7j_1.t6m(), this.z7j_1.u6m());
+      var tmp0_apply_0 = Companion_getInstance_9().a6y(this.z7j_1.t6m(), this.z7j_1.u6m());
       {
       }
       {
@@ -16276,7 +16283,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       tmp$ret$3 = tmp0_apply_0;
     }
     this.v4z(tmp$ret$3);
-    this.m5g().s4m(Companion_getInstance_6().k34_1);
+    this.m5g().s4m(Companion_getInstance_7().k34_1);
     var tmp_3 = this;
     var tmp_4 = this.y7j_1.a6r_1.m3s_1;
     tmp_3.n7k_1 = mutableStateOf(ImageAtlasSpec_init_$Create$(tmp_4, 0, 0, null, 14, null));
@@ -16412,7 +16419,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         {
           var tmp$ret$2;
           {
-            var tmp0_apply = Companion_getInstance_8().a6y(this.b7k_1, this.c7k_1);
+            var tmp0_apply = Companion_getInstance_9().a6y(this.b7k_1, this.c7k_1);
             {
             }
             {
@@ -16728,7 +16735,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     tmp_0.g7s_1 = mutableStateOf(ImageAtlasSpec_init_$Create$(tmp_1, 0, 0, null, 14, null));
     this.h7s_1 = true;
     this.i7s_1 = mutableStateOf(getStatusText(this.a7s_1, this));
-    this.v4z(Companion_getInstance_8().a6y(this.d7s_1.t6m(), this.d7s_1.u6m()));
+    this.v4z(Companion_getInstance_9().a6y(this.d7s_1.t6m(), this.d7s_1.u6m()));
     this.m5g().s4m(null);
     var tmp0_this = this.a7s_1;
     {
@@ -17725,12 +17732,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$main) {
       var tmp = mvpMatrix(this$0).m2h();
       var mvp = $this$main.m2z(tmp, null, 2, null);
-      $this$main.h30(this$0.q7u_1.n37(), $this_vertexStage.i39(Companion_getInstance_7().q2z_1.x2s_1));
+      $this$main.h30(this$0.q7u_1.n37(), $this_vertexStage.i39(Companion_getInstance_8().q2z_1.x2s_1));
       var tmp_0;
       if ($cfg.c30_1) {
-        tmp_0 = $this$main.z2z(mvp, $this_vertexStage.y2z(Companion_getInstance_7().w2z_1.x2s_1));
+        tmp_0 = $this$main.z2z(mvp, $this_vertexStage.y2z(Companion_getInstance_8().w2z_1.x2s_1));
       }
-      $this$main.h30($this_vertexStage.d2s_1, times_1(mvp, $this$main.g30($this_vertexStage.f30(Companion_getInstance_7().n2z_1.x2s_1), 1.0)));
+      $this$main.h30($this_vertexStage.d2s_1, times_1(mvp, $this$main.g30($this_vertexStage.f30(Companion_getInstance_8().n2z_1.x2s_1), 1.0)));
       return Unit_getInstance();
     };
   }
@@ -17850,8 +17857,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   TileMapShaderConf.$metadata$ = classMeta('TileMapShaderConf');
   function TileMapShader$Program$lambda$lambda(this$0, $this_vertexStage, $uMvp) {
     return function ($this$main) {
-      $this$main.h30(this$0.e7v_1.n37(), $this_vertexStage.i39(Companion_getInstance_7().q2z_1.x2s_1));
-      $this$main.h30($this_vertexStage.d2s_1, times_1($uMvp.m2h(), $this$main.g30($this_vertexStage.f30(Companion_getInstance_7().n2z_1.x2s_1), 1.0)));
+      $this$main.h30(this$0.e7v_1.n37(), $this_vertexStage.i39(Companion_getInstance_8().q2z_1.x2s_1));
+      $this$main.h30($this_vertexStage.d2s_1, times_1($uMvp.m2h(), $this$main.g30($this_vertexStage.f30(Companion_getInstance_8().n2z_1.x2s_1), 1.0)));
       return Unit_getInstance();
     };
   }
@@ -19208,7 +19215,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.l2d(0.0, 1.0, 0.0);
     var tmp$ret$1;
     {
-      var tmp0_mesh = listOf([Companion_getInstance_7().n2z_1, Companion_getInstance_7().q2z_1]);
+      var tmp0_mesh = listOf([Companion_getInstance_8().n2z_1, Companion_getInstance_8().q2z_1]);
       var mesh = new Mesh(new IndexedVertexList(tmp0_mesh), null);
       {
         mesh.y4k(LevelView$lambda(level));
@@ -19510,9 +19517,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$main) {
       var tmp = mvpMatrix(this$0).m2h();
       var mvp = $this$main.m2z(tmp, null, 2, null);
-      $this$main.h30($texCoords.n37(), $this_vertexStage.i39(Companion_getInstance_7().q2z_1.x2s_1));
-      $this$main.h30($color.n37(), $this_vertexStage.o37(Companion_getInstance_7().r2z_1.x2s_1));
-      $this$main.h30($this_vertexStage.d2s_1, times_1(mvp, $this$main.g30($this_vertexStage.f30(Companion_getInstance_7().n2z_1.x2s_1), 1.0)));
+      $this$main.h30($texCoords.n37(), $this_vertexStage.i39(Companion_getInstance_8().q2z_1.x2s_1));
+      $this$main.h30($color.n37(), $this_vertexStage.o37(Companion_getInstance_8().r2z_1.x2s_1));
+      $this$main.h30($this_vertexStage.d2s_1, times_1(mvp, $this$main.g30($this_vertexStage.f30(Companion_getInstance_8().n2z_1.x2s_1), 1.0)));
       return Unit_getInstance();
     };
   }
@@ -19537,13 +19544,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Sprite$SpriteShader$Model$lambda$lambda_0(this$0, $texCoords, $this_fragmentStage) {
     return function ($this$main) {
-      Companion_getInstance_21();
+      Companion_getInstance_22();
       var atlasTex = this$0.r31('tex');
-      Companion_getInstance_21();
+      Companion_getInstance_22();
       var textureOffset = this$0.q3m('texOffset');
-      Companion_getInstance_21();
+      Companion_getInstance_22();
       var tileSize = this$0.q3m('tileSize');
-      Companion_getInstance_21();
+      Companion_getInstance_22();
       var gray = this$0.p3m('gray');
       var atlasTexSize = toFloat2($this$main.z3o(atlasTex, null, 2, null));
       var tmp = toInt2($this$main.s3o(plus(times_0($texCoords.q36(), toFloat2(tileSize)), toFloat2(textureOffset))));
@@ -19566,7 +19573,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.d81_1 = 'texOffset';
     this.e81_1 = 'tileSize';
     this.f81_1 = 'gray';
-    this.g81_1 = listOf([Companion_getInstance_7().n2z_1, Companion_getInstance_7().q2z_1, Companion_getInstance_7().r2z_1]);
+    this.g81_1 = listOf([Companion_getInstance_8().n2z_1, Companion_getInstance_8().q2z_1, Companion_getInstance_8().r2z_1]);
     var tmp = this;
     var tmp$ret$0;
     {
@@ -19584,7 +19591,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   Companion_12.$metadata$ = objectMeta('Companion');
   var Companion_instance_12;
-  function Companion_getInstance_21() {
+  function Companion_getInstance_22() {
     if (Companion_instance_12 == null)
       new Companion_12();
     return Companion_instance_12;
@@ -19603,19 +19610,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     $this.k4r(group('scaler', Sprite$buildMesh$lambda($this)));
   }
   function SpriteShader() {
-    Companion_getInstance_21();
-    KslShader.call(this, new Model_0(), Companion_getInstance_21().h81_1);
+    Companion_getInstance_22();
+    KslShader.call(this, new Model_0(), Companion_getInstance_22().h81_1);
     var tmp = this;
-    Companion_getInstance_21();
+    Companion_getInstance_22();
     tmp.s81_1 = this.x2y('tex', null, 2, null);
     var tmp_0 = this;
-    Companion_getInstance_21();
+    Companion_getInstance_22();
     tmp_0.t81_1 = this.v2y('texOffset', null, 2, null);
     var tmp_1 = this;
-    Companion_getInstance_21();
+    Companion_getInstance_22();
     tmp_1.u81_1 = this.v2y('tileSize', null, 2, null);
     var tmp_2 = this;
-    Companion_getInstance_21();
+    Companion_getInstance_22();
     tmp_2.v81_1 = this.t2y('gray', null, 2, null);
   }
   SpriteShader.prototype.b2w = function (_set____db54di) {
@@ -19716,7 +19723,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$group) {
       var tmp$ret$0;
       {
-        var tmp0_mesh = Companion_getInstance_21().g81_1;
+        var tmp0_mesh = Companion_getInstance_22().g81_1;
         var tmp1_mesh = '' + this$0.il() + ' mesh';
         var mesh = new Mesh(new IndexedVertexList(tmp0_mesh), tmp1_mesh);
         {
@@ -19807,9 +19814,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$main) {
       var tmp = mvpMatrix(this$0).m2h();
       var mvp = $this$main.m2z(tmp, null, 2, null);
-      $this$main.h30($texCoords.n37(), $this_vertexStage.i39(Companion_getInstance_7().q2z_1.x2s_1));
-      $this$main.h30($color.n37(), $this_vertexStage.o37(Companion_getInstance_7().r2z_1.x2s_1));
-      $this$main.h30($this_vertexStage.d2s_1, times_1(mvp, $this$main.g30($this_vertexStage.f30(Companion_getInstance_7().n2z_1.x2s_1), 1.0)));
+      $this$main.h30($texCoords.n37(), $this_vertexStage.i39(Companion_getInstance_8().q2z_1.x2s_1));
+      $this$main.h30($color.n37(), $this_vertexStage.o37(Companion_getInstance_8().r2z_1.x2s_1));
+      $this$main.h30($this_vertexStage.d2s_1, times_1(mvp, $this$main.g30($this_vertexStage.f30(Companion_getInstance_8().n2z_1.x2s_1), 1.0)));
       return Unit_getInstance();
     };
   }
@@ -19821,9 +19828,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Sprite3d$SpriteAtlasShader$Model$lambda$lambda_0(this$0, $texCoords, $this_fragmentStage) {
     return function ($this$main) {
-      Companion_getInstance_22();
+      Companion_getInstance_23();
       var atlasTex = this$0.r3m('tex');
-      Companion_getInstance_22();
+      Companion_getInstance_23();
       var tileIndex = this$0.p3m('texOffset');
       var atlasTexSize = toFloat3($this$main.b3p(atlasTex, null, 2, null));
       var xyInTile = toInt2(times_0($texCoords.q36(), get_xy(atlasTexSize)));
@@ -19845,7 +19852,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.e82_1 = 'texOffset';
     this.f82_1 = 'tileSize';
     this.g82_1 = 'gray';
-    this.h82_1 = listOf([Companion_getInstance_7().n2z_1, Companion_getInstance_7().q2z_1, Companion_getInstance_7().r2z_1]);
+    this.h82_1 = listOf([Companion_getInstance_8().n2z_1, Companion_getInstance_8().q2z_1, Companion_getInstance_8().r2z_1]);
     var tmp = this;
     var tmp$ret$0;
     {
@@ -19863,7 +19870,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   Companion_13.$metadata$ = objectMeta('Companion');
   var Companion_instance_13;
-  function Companion_getInstance_22() {
+  function Companion_getInstance_23() {
     if (Companion_instance_13 == null)
       new Companion_13();
     return Companion_instance_13;
@@ -19889,7 +19896,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     $this.l2g();
     var tmp$ret$0;
     {
-      var tmp0_mesh = Companion_getInstance_22().h82_1;
+      var tmp0_mesh = Companion_getInstance_23().h82_1;
       var tmp1_mesh = $this.il();
       var mesh = new Mesh(new IndexedVertexList(tmp0_mesh), tmp1_mesh);
       {
@@ -19905,13 +19912,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     $this.k4r(tmp$ret$0);
   }
   function SpriteAtlasShader() {
-    Companion_getInstance_22();
-    KslShader.call(this, new Model_1(), Companion_getInstance_22().i82_1);
+    Companion_getInstance_23();
+    KslShader.call(this, new Model_1(), Companion_getInstance_23().i82_1);
     var tmp = this;
-    Companion_getInstance_22();
+    Companion_getInstance_23();
     tmp.t82_1 = this.z2y('tex', null, 2, null);
     var tmp_0 = this;
-    Companion_getInstance_22();
+    Companion_getInstance_23();
     tmp_0.u82_1 = this.t2y('texOffset', null, 2, null);
   }
   SpriteAtlasShader.prototype.r2w = function (_set____db54di) {
@@ -20229,7 +20236,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   Companion_14.$metadata$ = objectMeta('Companion');
   var Companion_instance_14;
-  function Companion_getInstance_23() {
+  function Companion_getInstance_24() {
     if (Companion_instance_14 == null)
       new Companion_14();
     return Companion_instance_14;
@@ -20252,10 +20259,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       inductionVariable = inductionVariable + 1 | 0;
       var tmp$ret$2;
       {
-        var tmp1_elvis_lhs = Companion_getInstance_23().w82_1.b3(new Char(c));
+        var tmp1_elvis_lhs = Companion_getInstance_24().w82_1.b3(new Char(c));
         var tmp;
         if (tmp1_elvis_lhs == null) {
-          Companion_getInstance_23();
+          Companion_getInstance_24();
           tmp = 0;
         } else {
           tmp = tmp1_elvis_lhs;
@@ -20349,7 +20356,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       $this$group.k4r(colorMesh$default(null, TextView$rebuildMeshes$lambda$lambda(), 1, null));
       var tmp$ret$1;
       {
-        var tmp0_mesh = listOf([Companion_getInstance_7().n2z_1, Companion_getInstance_7().q2z_1]);
+        var tmp0_mesh = listOf([Companion_getInstance_8().n2z_1, Companion_getInstance_8().q2z_1]);
         var mesh = new Mesh(new IndexedVertexList(tmp0_mesh), null);
         {
           mesh.y4k(TextView$rebuildMeshes$lambda$lambda_0($pads, $spec, this$0));
@@ -20410,7 +20417,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     };
   }
   function TextView(text, fontAtlas, spec, capacity, init) {
-    Companion_getInstance_23();
+    Companion_getInstance_24();
     Group_init_$Init$(null, 1, null, this);
     this.t83_1 = text;
     this.u83_1 = fontAtlas;
@@ -20448,7 +20455,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   $serializer_0.prototype.uu = typeParametersSerializers;
   //endregion
   //region block: init
-  Version = '0.4-221111.0903';
+  Version = '0.4-221111.0942';
   TILE_HEIGHT = 22;
   W4 = 5;
   H4 = 5;
@@ -21004,13 +21011,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var LinkedHashMap_init_$Create$_0 = kotlin_kotlin.$_$.a1;
   var to = kotlin_kotlin.$_$.rd;
   var PluginGeneratedSerialDescriptor = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.k1;
-  var StringSerializer_getInstance = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.n;
-  var ArrayListSerializer = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.f1;
+  var FloatSerializer_getInstance = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.l;
   var UnknownFieldException_init_$Create$ = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.d;
   var typeParametersSerializers = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.h1;
   var GeneratedSerializer = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.i1;
   var throwMissingFieldException = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.n1;
-  var FloatSerializer_getInstance = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.l;
+  var StringSerializer_getInstance = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.n;
+  var ArrayListSerializer = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.f1;
   var IntSerializer_getInstance = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.m;
   var removeAll_1 = kotlin_kotlin.$_$.h6;
   var MutableEntry = kotlin_kotlin.$_$.x3;
@@ -51078,620 +51085,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return this.r4p_1;
   };
   MsdfFontData.$metadata$ = classMeta('MsdfFontData');
-  function Companion_46() {
-    Companion_instance_46 = this;
-  }
-  Companion_46.$metadata$ = objectMeta('Companion');
-  var Companion_instance_46;
-  function Companion_getInstance_46() {
-    if (Companion_instance_46 == null)
-      new Companion_46();
-    return Companion_instance_46;
-  }
   function $serializer() {
     $serializer_instance = this;
-    var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('de.fabmax.kool.util.MsdfMeta', this, 5);
-    tmp0_serialDesc.wu('atlas', false);
-    tmp0_serialDesc.wu('name', false);
-    tmp0_serialDesc.wu('metrics', false);
-    tmp0_serialDesc.wu('glyphs', false);
-    tmp0_serialDesc.wu('kerning', false);
-    this.a5q_1 = tmp0_serialDesc;
-  }
-  $serializer.prototype.hn = function () {
-    return this.a5q_1;
-  };
-  $serializer.prototype.tu = function () {
-    var tmp$ret$2;
-    {
-      var tmp0_arrayOf = [$serializer_getInstance_0(), StringSerializer_getInstance(), $serializer_getInstance_3(), new ArrayListSerializer($serializer_getInstance_1()), new ArrayListSerializer($serializer_getInstance_4())];
-      var tmp$ret$1;
-      {
-        var tmp$ret$0;
-        {
-          tmp$ret$0 = tmp0_arrayOf;
-        }
-        tmp$ret$1 = tmp$ret$0;
-      }
-      tmp$ret$2 = tmp$ret$1;
-    }
-    return tmp$ret$2;
-  };
-  $serializer.prototype.in = function (decoder) {
-    var tmp0_desc = this.a5q_1;
-    var tmp1_flag = true;
-    var tmp2_index = 0;
-    var tmp3_bitMask0 = 0;
-    var tmp4_local0 = null;
-    var tmp5_local1 = null;
-    var tmp6_local2 = null;
-    var tmp7_local3 = null;
-    var tmp8_local4 = null;
-    var tmp9_input = decoder.aq(tmp0_desc);
-    if (tmp9_input.nq()) {
-      tmp4_local0 = tmp9_input.lq(tmp0_desc, 0, $serializer_getInstance_0(), tmp4_local0);
-      tmp3_bitMask0 = tmp3_bitMask0 | 1;
-      tmp5_local1 = tmp9_input.kq(tmp0_desc, 1);
-      tmp3_bitMask0 = tmp3_bitMask0 | 2;
-      tmp6_local2 = tmp9_input.lq(tmp0_desc, 2, $serializer_getInstance_3(), tmp6_local2);
-      tmp3_bitMask0 = tmp3_bitMask0 | 4;
-      tmp7_local3 = tmp9_input.lq(tmp0_desc, 3, new ArrayListSerializer($serializer_getInstance_1()), tmp7_local3);
-      tmp3_bitMask0 = tmp3_bitMask0 | 8;
-      tmp8_local4 = tmp9_input.lq(tmp0_desc, 4, new ArrayListSerializer($serializer_getInstance_4()), tmp8_local4);
-      tmp3_bitMask0 = tmp3_bitMask0 | 16;
-    } else
-      while (tmp1_flag) {
-        tmp2_index = tmp9_input.oq(tmp0_desc);
-        switch (tmp2_index) {
-          case -1:
-            tmp1_flag = false;
-            break;
-          case 0:
-            tmp4_local0 = tmp9_input.lq(tmp0_desc, 0, $serializer_getInstance_0(), tmp4_local0);
-            tmp3_bitMask0 = tmp3_bitMask0 | 1;
-            break;
-          case 1:
-            tmp5_local1 = tmp9_input.kq(tmp0_desc, 1);
-            tmp3_bitMask0 = tmp3_bitMask0 | 2;
-            break;
-          case 2:
-            tmp6_local2 = tmp9_input.lq(tmp0_desc, 2, $serializer_getInstance_3(), tmp6_local2);
-            tmp3_bitMask0 = tmp3_bitMask0 | 4;
-            break;
-          case 3:
-            tmp7_local3 = tmp9_input.lq(tmp0_desc, 3, new ArrayListSerializer($serializer_getInstance_1()), tmp7_local3);
-            tmp3_bitMask0 = tmp3_bitMask0 | 8;
-            break;
-          case 4:
-            tmp8_local4 = tmp9_input.lq(tmp0_desc, 4, new ArrayListSerializer($serializer_getInstance_4()), tmp8_local4);
-            tmp3_bitMask0 = tmp3_bitMask0 | 16;
-            break;
-          default:
-            throw UnknownFieldException_init_$Create$(tmp2_index);
-        }
-      }
-    tmp9_input.bq(tmp0_desc);
-    return MsdfMeta_init_$Create$(tmp3_bitMask0, tmp4_local0, tmp5_local1, tmp6_local2, tmp7_local3, tmp8_local4, null);
-  };
-  $serializer.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
-  var $serializer_instance;
-  function $serializer_getInstance() {
-    if ($serializer_instance == null)
-      new $serializer();
-    return $serializer_instance;
-  }
-  function MsdfMeta_init_$Init$(seen1, atlas, name, metrics, glyphs, kerning, serializationConstructorMarker, $this) {
-    if (!(31 === (31 & seen1)))
-      throwMissingFieldException(seen1, 31, $serializer_getInstance().a5q_1);
-    $this.n5j_1 = atlas;
-    $this.o5j_1 = name;
-    $this.p5j_1 = metrics;
-    $this.q5j_1 = glyphs;
-    $this.r5j_1 = kerning;
-    return $this;
-  }
-  function MsdfMeta_init_$Create$(seen1, atlas, name, metrics, glyphs, kerning, serializationConstructorMarker) {
-    return MsdfMeta_init_$Init$(seen1, atlas, name, metrics, glyphs, kerning, serializationConstructorMarker, Object.create(MsdfMeta.prototype));
-  }
-  function MsdfMeta(atlas, name, metrics, glyphs, kerning) {
-    Companion_getInstance_46();
-    this.n5j_1 = atlas;
-    this.o5j_1 = name;
-    this.p5j_1 = metrics;
-    this.q5j_1 = glyphs;
-    this.r5j_1 = kerning;
-  }
-  MsdfMeta.prototype.b5q = function () {
-    return this.n5j_1;
-  };
-  MsdfMeta.prototype.toString = function () {
-    return 'MsdfMeta(atlas=' + this.n5j_1 + ', name=' + this.o5j_1 + ', metrics=' + this.p5j_1 + ', glyphs=' + this.q5j_1 + ', kerning=' + this.r5j_1 + ')';
-  };
-  MsdfMeta.prototype.hashCode = function () {
-    var result = this.n5j_1.hashCode();
-    result = imul(result, 31) + getStringHashCode(this.o5j_1) | 0;
-    result = imul(result, 31) + this.p5j_1.hashCode() | 0;
-    result = imul(result, 31) + hashCode(this.q5j_1) | 0;
-    result = imul(result, 31) + hashCode(this.r5j_1) | 0;
-    return result;
-  };
-  MsdfMeta.prototype.equals = function (other) {
-    if (this === other)
-      return true;
-    if (!(other instanceof MsdfMeta))
-      return false;
-    var tmp0_other_with_cast = other instanceof MsdfMeta ? other : THROW_CCE();
-    if (!this.n5j_1.equals(tmp0_other_with_cast.n5j_1))
-      return false;
-    if (!(this.o5j_1 === tmp0_other_with_cast.o5j_1))
-      return false;
-    if (!this.p5j_1.equals(tmp0_other_with_cast.p5j_1))
-      return false;
-    if (!equals(this.q5j_1, tmp0_other_with_cast.q5j_1))
-      return false;
-    if (!equals(this.r5j_1, tmp0_other_with_cast.r5j_1))
-      return false;
-    return true;
-  };
-  MsdfMeta.$metadata$ = classMeta('MsdfMeta', undefined, undefined, {0: $serializer_getInstance});
-  function $serializer_0() {
-    $serializer_instance_0 = this;
-    var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('de.fabmax.kool.util.MsdfAtlasInfo', this, 6);
-    tmp0_serialDesc.wu('type', false);
-    tmp0_serialDesc.wu('distanceRange', false);
-    tmp0_serialDesc.wu('size', false);
-    tmp0_serialDesc.wu('width', false);
-    tmp0_serialDesc.wu('height', false);
-    tmp0_serialDesc.wu('yOrigin', false);
-    this.c5q_1 = tmp0_serialDesc;
-  }
-  $serializer_0.prototype.hn = function () {
-    return this.c5q_1;
-  };
-  $serializer_0.prototype.tu = function () {
-    var tmp$ret$2;
-    {
-      var tmp0_arrayOf = [StringSerializer_getInstance(), FloatSerializer_getInstance(), IntSerializer_getInstance(), IntSerializer_getInstance(), IntSerializer_getInstance(), StringSerializer_getInstance()];
-      var tmp$ret$1;
-      {
-        var tmp$ret$0;
-        {
-          tmp$ret$0 = tmp0_arrayOf;
-        }
-        tmp$ret$1 = tmp$ret$0;
-      }
-      tmp$ret$2 = tmp$ret$1;
-    }
-    return tmp$ret$2;
-  };
-  $serializer_0.prototype.in = function (decoder) {
-    var tmp0_desc = this.c5q_1;
-    var tmp1_flag = true;
-    var tmp2_index = 0;
-    var tmp3_bitMask0 = 0;
-    var tmp4_local0 = null;
-    var tmp5_local1 = 0.0;
-    var tmp6_local2 = 0;
-    var tmp7_local3 = 0;
-    var tmp8_local4 = 0;
-    var tmp9_local5 = null;
-    var tmp10_input = decoder.aq(tmp0_desc);
-    if (tmp10_input.nq()) {
-      tmp4_local0 = tmp10_input.kq(tmp0_desc, 0);
-      tmp3_bitMask0 = tmp3_bitMask0 | 1;
-      tmp5_local1 = tmp10_input.hq(tmp0_desc, 1);
-      tmp3_bitMask0 = tmp3_bitMask0 | 2;
-      tmp6_local2 = tmp10_input.fq(tmp0_desc, 2);
-      tmp3_bitMask0 = tmp3_bitMask0 | 4;
-      tmp7_local3 = tmp10_input.fq(tmp0_desc, 3);
-      tmp3_bitMask0 = tmp3_bitMask0 | 8;
-      tmp8_local4 = tmp10_input.fq(tmp0_desc, 4);
-      tmp3_bitMask0 = tmp3_bitMask0 | 16;
-      tmp9_local5 = tmp10_input.kq(tmp0_desc, 5);
-      tmp3_bitMask0 = tmp3_bitMask0 | 32;
-    } else
-      while (tmp1_flag) {
-        tmp2_index = tmp10_input.oq(tmp0_desc);
-        switch (tmp2_index) {
-          case -1:
-            tmp1_flag = false;
-            break;
-          case 0:
-            tmp4_local0 = tmp10_input.kq(tmp0_desc, 0);
-            tmp3_bitMask0 = tmp3_bitMask0 | 1;
-            break;
-          case 1:
-            tmp5_local1 = tmp10_input.hq(tmp0_desc, 1);
-            tmp3_bitMask0 = tmp3_bitMask0 | 2;
-            break;
-          case 2:
-            tmp6_local2 = tmp10_input.fq(tmp0_desc, 2);
-            tmp3_bitMask0 = tmp3_bitMask0 | 4;
-            break;
-          case 3:
-            tmp7_local3 = tmp10_input.fq(tmp0_desc, 3);
-            tmp3_bitMask0 = tmp3_bitMask0 | 8;
-            break;
-          case 4:
-            tmp8_local4 = tmp10_input.fq(tmp0_desc, 4);
-            tmp3_bitMask0 = tmp3_bitMask0 | 16;
-            break;
-          case 5:
-            tmp9_local5 = tmp10_input.kq(tmp0_desc, 5);
-            tmp3_bitMask0 = tmp3_bitMask0 | 32;
-            break;
-          default:
-            throw UnknownFieldException_init_$Create$(tmp2_index);
-        }
-      }
-    tmp10_input.bq(tmp0_desc);
-    return MsdfAtlasInfo_init_$Create$(tmp3_bitMask0, tmp4_local0, tmp5_local1, tmp6_local2, tmp7_local3, tmp8_local4, tmp9_local5, null);
-  };
-  $serializer_0.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
-  var $serializer_instance_0;
-  function $serializer_getInstance_0() {
-    if ($serializer_instance_0 == null)
-      new $serializer_0();
-    return $serializer_instance_0;
-  }
-  function MsdfAtlasInfo_init_$Init$(seen1, type, distanceRange, size, width, height, yOrigin, serializationConstructorMarker, $this) {
-    if (!(63 === (63 & seen1)))
-      throwMissingFieldException(seen1, 63, $serializer_getInstance_0().c5q_1);
-    $this.h5j_1 = type;
-    $this.i5j_1 = distanceRange;
-    $this.j5j_1 = size;
-    $this.k5j_1 = width;
-    $this.l5j_1 = height;
-    $this.m5j_1 = yOrigin;
-    return $this;
-  }
-  function MsdfAtlasInfo_init_$Create$(seen1, type, distanceRange, size, width, height, yOrigin, serializationConstructorMarker) {
-    return MsdfAtlasInfo_init_$Init$(seen1, type, distanceRange, size, width, height, yOrigin, serializationConstructorMarker, Object.create(MsdfAtlasInfo.prototype));
-  }
-  function MsdfAtlasInfo() {
-  }
-  MsdfAtlasInfo.prototype.d5q = function () {
-    return this.i5j_1;
-  };
-  MsdfAtlasInfo.prototype.m = function () {
-    return this.j5j_1;
-  };
-  MsdfAtlasInfo.prototype.f40 = function () {
-    return this.k5j_1;
-  };
-  MsdfAtlasInfo.prototype.g40 = function () {
-    return this.l5j_1;
-  };
-  MsdfAtlasInfo.prototype.toString = function () {
-    return 'MsdfAtlasInfo(type=' + this.h5j_1 + ', distanceRange=' + this.i5j_1 + ', size=' + this.j5j_1 + ', width=' + this.k5j_1 + ', height=' + this.l5j_1 + ', yOrigin=' + this.m5j_1 + ')';
-  };
-  MsdfAtlasInfo.prototype.hashCode = function () {
-    var result = getStringHashCode(this.h5j_1);
-    result = imul(result, 31) + getNumberHashCode(this.i5j_1) | 0;
-    result = imul(result, 31) + this.j5j_1 | 0;
-    result = imul(result, 31) + this.k5j_1 | 0;
-    result = imul(result, 31) + this.l5j_1 | 0;
-    result = imul(result, 31) + getStringHashCode(this.m5j_1) | 0;
-    return result;
-  };
-  MsdfAtlasInfo.prototype.equals = function (other) {
-    if (this === other)
-      return true;
-    if (!(other instanceof MsdfAtlasInfo))
-      return false;
-    var tmp0_other_with_cast = other instanceof MsdfAtlasInfo ? other : THROW_CCE();
-    if (!(this.h5j_1 === tmp0_other_with_cast.h5j_1))
-      return false;
-    if (!equals(this.i5j_1, tmp0_other_with_cast.i5j_1))
-      return false;
-    if (!(this.j5j_1 === tmp0_other_with_cast.j5j_1))
-      return false;
-    if (!(this.k5j_1 === tmp0_other_with_cast.k5j_1))
-      return false;
-    if (!(this.l5j_1 === tmp0_other_with_cast.l5j_1))
-      return false;
-    if (!(this.m5j_1 === tmp0_other_with_cast.m5j_1))
-      return false;
-    return true;
-  };
-  MsdfAtlasInfo.$metadata$ = classMeta('MsdfAtlasInfo', undefined, undefined, {0: $serializer_getInstance_0});
-  function $serializer_1() {
-    $serializer_instance_1 = this;
-    var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('de.fabmax.kool.util.MsdfGlyph', this, 4);
-    tmp0_serialDesc.wu('unicode', false);
-    tmp0_serialDesc.wu('advance', false);
-    tmp0_serialDesc.wu('planeBounds', true);
-    tmp0_serialDesc.wu('atlasBounds', true);
-    this.e5q_1 = tmp0_serialDesc;
-  }
-  $serializer_1.prototype.hn = function () {
-    return this.e5q_1;
-  };
-  $serializer_1.prototype.tu = function () {
-    var tmp$ret$2;
-    {
-      var tmp0_arrayOf = [IntSerializer_getInstance(), FloatSerializer_getInstance(), $serializer_getInstance_2(), $serializer_getInstance_2()];
-      var tmp$ret$1;
-      {
-        var tmp$ret$0;
-        {
-          tmp$ret$0 = tmp0_arrayOf;
-        }
-        tmp$ret$1 = tmp$ret$0;
-      }
-      tmp$ret$2 = tmp$ret$1;
-    }
-    return tmp$ret$2;
-  };
-  $serializer_1.prototype.in = function (decoder) {
-    var tmp0_desc = this.e5q_1;
-    var tmp1_flag = true;
-    var tmp2_index = 0;
-    var tmp3_bitMask0 = 0;
-    var tmp4_local0 = 0;
-    var tmp5_local1 = 0.0;
-    var tmp6_local2 = null;
-    var tmp7_local3 = null;
-    var tmp8_input = decoder.aq(tmp0_desc);
-    if (tmp8_input.nq()) {
-      tmp4_local0 = tmp8_input.fq(tmp0_desc, 0);
-      tmp3_bitMask0 = tmp3_bitMask0 | 1;
-      tmp5_local1 = tmp8_input.hq(tmp0_desc, 1);
-      tmp3_bitMask0 = tmp3_bitMask0 | 2;
-      tmp6_local2 = tmp8_input.lq(tmp0_desc, 2, $serializer_getInstance_2(), tmp6_local2);
-      tmp3_bitMask0 = tmp3_bitMask0 | 4;
-      tmp7_local3 = tmp8_input.lq(tmp0_desc, 3, $serializer_getInstance_2(), tmp7_local3);
-      tmp3_bitMask0 = tmp3_bitMask0 | 8;
-    } else
-      while (tmp1_flag) {
-        tmp2_index = tmp8_input.oq(tmp0_desc);
-        switch (tmp2_index) {
-          case -1:
-            tmp1_flag = false;
-            break;
-          case 0:
-            tmp4_local0 = tmp8_input.fq(tmp0_desc, 0);
-            tmp3_bitMask0 = tmp3_bitMask0 | 1;
-            break;
-          case 1:
-            tmp5_local1 = tmp8_input.hq(tmp0_desc, 1);
-            tmp3_bitMask0 = tmp3_bitMask0 | 2;
-            break;
-          case 2:
-            tmp6_local2 = tmp8_input.lq(tmp0_desc, 2, $serializer_getInstance_2(), tmp6_local2);
-            tmp3_bitMask0 = tmp3_bitMask0 | 4;
-            break;
-          case 3:
-            tmp7_local3 = tmp8_input.lq(tmp0_desc, 3, $serializer_getInstance_2(), tmp7_local3);
-            tmp3_bitMask0 = tmp3_bitMask0 | 8;
-            break;
-          default:
-            throw UnknownFieldException_init_$Create$(tmp2_index);
-        }
-      }
-    tmp8_input.bq(tmp0_desc);
-    return MsdfGlyph_init_$Create$(tmp3_bitMask0, tmp4_local0, tmp5_local1, tmp6_local2, tmp7_local3, null);
-  };
-  $serializer_1.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
-  var $serializer_instance_1;
-  function $serializer_getInstance_1() {
-    if ($serializer_instance_1 == null)
-      new $serializer_1();
-    return $serializer_instance_1;
-  }
-  function MsdfGlyph_init_$Init$(seen1, unicode, advance, planeBounds, atlasBounds, serializationConstructorMarker, $this) {
-    if (!(3 === (3 & seen1)))
-      throwMissingFieldException(seen1, 3, $serializer_getInstance_1().e5q_1);
-    $this.x5j_1 = unicode;
-    $this.y5j_1 = advance;
-    if (0 === (seen1 & 4))
-      $this.z5j_1 = new MsdfRect(0.0, 0.0, 0.0, 0.0);
-    else
-      $this.z5j_1 = planeBounds;
-    if (0 === (seen1 & 8))
-      $this.a5k_1 = new MsdfRect(0.0, 0.0, 0.0, 0.0);
-    else
-      $this.a5k_1 = atlasBounds;
-    return $this;
-  }
-  function MsdfGlyph_init_$Create$(seen1, unicode, advance, planeBounds, atlasBounds, serializationConstructorMarker) {
-    return MsdfGlyph_init_$Init$(seen1, unicode, advance, planeBounds, atlasBounds, serializationConstructorMarker, Object.create(MsdfGlyph.prototype));
-  }
-  function MsdfGlyph() {
-  }
-  MsdfGlyph.prototype.f5q = function () {
-    return this.x5j_1;
-  };
-  MsdfGlyph.prototype.a5o = function () {
-    return this.y5j_1;
-  };
-  MsdfGlyph.prototype.g5q = function () {
-    return this.z5j_1;
-  };
-  MsdfGlyph.prototype.h5q = function () {
-    return this.a5k_1;
-  };
-  MsdfGlyph.prototype.toString = function () {
-    return 'MsdfGlyph(unicode=' + this.x5j_1 + ', advance=' + this.y5j_1 + ', planeBounds=' + this.z5j_1 + ', atlasBounds=' + this.a5k_1 + ')';
-  };
-  MsdfGlyph.prototype.hashCode = function () {
-    var result = this.x5j_1;
-    result = imul(result, 31) + getNumberHashCode(this.y5j_1) | 0;
-    result = imul(result, 31) + this.z5j_1.hashCode() | 0;
-    result = imul(result, 31) + this.a5k_1.hashCode() | 0;
-    return result;
-  };
-  MsdfGlyph.prototype.equals = function (other) {
-    if (this === other)
-      return true;
-    if (!(other instanceof MsdfGlyph))
-      return false;
-    var tmp0_other_with_cast = other instanceof MsdfGlyph ? other : THROW_CCE();
-    if (!(this.x5j_1 === tmp0_other_with_cast.x5j_1))
-      return false;
-    if (!equals(this.y5j_1, tmp0_other_with_cast.y5j_1))
-      return false;
-    if (!this.z5j_1.equals(tmp0_other_with_cast.z5j_1))
-      return false;
-    if (!this.a5k_1.equals(tmp0_other_with_cast.a5k_1))
-      return false;
-    return true;
-  };
-  MsdfGlyph.$metadata$ = classMeta('MsdfGlyph', undefined, undefined, {0: $serializer_getInstance_1});
-  function Companion_47() {
-    Companion_instance_47 = this;
-  }
-  Companion_47.$metadata$ = objectMeta('Companion');
-  var Companion_instance_47;
-  function Companion_getInstance_47() {
-    if (Companion_instance_47 == null)
-      new Companion_47();
-    return Companion_instance_47;
-  }
-  function $serializer_2() {
-    $serializer_instance_2 = this;
-    var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('de.fabmax.kool.util.MsdfRect', this, 4);
-    tmp0_serialDesc.wu('left', false);
-    tmp0_serialDesc.wu('bottom', false);
-    tmp0_serialDesc.wu('right', false);
-    tmp0_serialDesc.wu('top', false);
-    this.i5q_1 = tmp0_serialDesc;
-  }
-  $serializer_2.prototype.hn = function () {
-    return this.i5q_1;
-  };
-  $serializer_2.prototype.tu = function () {
-    var tmp$ret$2;
-    {
-      var tmp0_arrayOf = [FloatSerializer_getInstance(), FloatSerializer_getInstance(), FloatSerializer_getInstance(), FloatSerializer_getInstance()];
-      var tmp$ret$1;
-      {
-        var tmp$ret$0;
-        {
-          tmp$ret$0 = tmp0_arrayOf;
-        }
-        tmp$ret$1 = tmp$ret$0;
-      }
-      tmp$ret$2 = tmp$ret$1;
-    }
-    return tmp$ret$2;
-  };
-  $serializer_2.prototype.in = function (decoder) {
-    var tmp0_desc = this.i5q_1;
-    var tmp1_flag = true;
-    var tmp2_index = 0;
-    var tmp3_bitMask0 = 0;
-    var tmp4_local0 = 0.0;
-    var tmp5_local1 = 0.0;
-    var tmp6_local2 = 0.0;
-    var tmp7_local3 = 0.0;
-    var tmp8_input = decoder.aq(tmp0_desc);
-    if (tmp8_input.nq()) {
-      tmp4_local0 = tmp8_input.hq(tmp0_desc, 0);
-      tmp3_bitMask0 = tmp3_bitMask0 | 1;
-      tmp5_local1 = tmp8_input.hq(tmp0_desc, 1);
-      tmp3_bitMask0 = tmp3_bitMask0 | 2;
-      tmp6_local2 = tmp8_input.hq(tmp0_desc, 2);
-      tmp3_bitMask0 = tmp3_bitMask0 | 4;
-      tmp7_local3 = tmp8_input.hq(tmp0_desc, 3);
-      tmp3_bitMask0 = tmp3_bitMask0 | 8;
-    } else
-      while (tmp1_flag) {
-        tmp2_index = tmp8_input.oq(tmp0_desc);
-        switch (tmp2_index) {
-          case -1:
-            tmp1_flag = false;
-            break;
-          case 0:
-            tmp4_local0 = tmp8_input.hq(tmp0_desc, 0);
-            tmp3_bitMask0 = tmp3_bitMask0 | 1;
-            break;
-          case 1:
-            tmp5_local1 = tmp8_input.hq(tmp0_desc, 1);
-            tmp3_bitMask0 = tmp3_bitMask0 | 2;
-            break;
-          case 2:
-            tmp6_local2 = tmp8_input.hq(tmp0_desc, 2);
-            tmp3_bitMask0 = tmp3_bitMask0 | 4;
-            break;
-          case 3:
-            tmp7_local3 = tmp8_input.hq(tmp0_desc, 3);
-            tmp3_bitMask0 = tmp3_bitMask0 | 8;
-            break;
-          default:
-            throw UnknownFieldException_init_$Create$(tmp2_index);
-        }
-      }
-    tmp8_input.bq(tmp0_desc);
-    return MsdfRect_init_$Create$(tmp3_bitMask0, tmp4_local0, tmp5_local1, tmp6_local2, tmp7_local3, null);
-  };
-  $serializer_2.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
-  var $serializer_instance_2;
-  function $serializer_getInstance_2() {
-    if ($serializer_instance_2 == null)
-      new $serializer_2();
-    return $serializer_instance_2;
-  }
-  function MsdfRect_init_$Init$(seen1, left, bottom, right, top, serializationConstructorMarker, $this) {
-    if (!(15 === (15 & seen1)))
-      throwMissingFieldException(seen1, 15, $serializer_getInstance_2().i5q_1);
-    $this.t5j_1 = left;
-    $this.u5j_1 = bottom;
-    $this.v5j_1 = right;
-    $this.w5j_1 = top;
-    return $this;
-  }
-  function MsdfRect_init_$Create$(seen1, left, bottom, right, top, serializationConstructorMarker) {
-    return MsdfRect_init_$Init$(seen1, left, bottom, right, top, serializationConstructorMarker, Object.create(MsdfRect.prototype));
-  }
-  function MsdfRect(left, bottom, right, top) {
-    Companion_getInstance_47();
-    this.t5j_1 = left;
-    this.u5j_1 = bottom;
-    this.v5j_1 = right;
-    this.w5j_1 = top;
-  }
-  MsdfRect.prototype.j5q = function () {
-    return this.t5j_1;
-  };
-  MsdfRect.prototype.k5q = function () {
-    return this.u5j_1;
-  };
-  MsdfRect.prototype.l5q = function () {
-    return this.v5j_1;
-  };
-  MsdfRect.prototype.m5q = function () {
-    return this.w5j_1;
-  };
-  MsdfRect.prototype.toString = function () {
-    return 'MsdfRect(left=' + this.t5j_1 + ', bottom=' + this.u5j_1 + ', right=' + this.v5j_1 + ', top=' + this.w5j_1 + ')';
-  };
-  MsdfRect.prototype.hashCode = function () {
-    var result = getNumberHashCode(this.t5j_1);
-    result = imul(result, 31) + getNumberHashCode(this.u5j_1) | 0;
-    result = imul(result, 31) + getNumberHashCode(this.v5j_1) | 0;
-    result = imul(result, 31) + getNumberHashCode(this.w5j_1) | 0;
-    return result;
-  };
-  MsdfRect.prototype.equals = function (other) {
-    if (this === other)
-      return true;
-    if (!(other instanceof MsdfRect))
-      return false;
-    var tmp0_other_with_cast = other instanceof MsdfRect ? other : THROW_CCE();
-    if (!equals(this.t5j_1, tmp0_other_with_cast.t5j_1))
-      return false;
-    if (!equals(this.u5j_1, tmp0_other_with_cast.u5j_1))
-      return false;
-    if (!equals(this.v5j_1, tmp0_other_with_cast.v5j_1))
-      return false;
-    if (!equals(this.w5j_1, tmp0_other_with_cast.w5j_1))
-      return false;
-    return true;
-  };
-  MsdfRect.$metadata$ = classMeta('MsdfRect', undefined, undefined, {0: $serializer_getInstance_2});
-  function $serializer_3() {
-    $serializer_instance_3 = this;
     var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('de.fabmax.kool.util.MsdfMetrics', this, 6);
     tmp0_serialDesc.wu('emSize', false);
     tmp0_serialDesc.wu('lineHeight', false);
@@ -51699,12 +51094,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     tmp0_serialDesc.wu('descender', false);
     tmp0_serialDesc.wu('underlineY', false);
     tmp0_serialDesc.wu('underlineThickness', false);
-    this.n5q_1 = tmp0_serialDesc;
+    this.a5q_1 = tmp0_serialDesc;
   }
-  $serializer_3.prototype.hn = function () {
-    return this.n5q_1;
+  $serializer.prototype.hn = function () {
+    return this.a5q_1;
   };
-  $serializer_3.prototype.tu = function () {
+  $serializer.prototype.tu = function () {
     var tmp$ret$2;
     {
       var tmp0_arrayOf = [FloatSerializer_getInstance(), FloatSerializer_getInstance(), FloatSerializer_getInstance(), FloatSerializer_getInstance(), FloatSerializer_getInstance(), FloatSerializer_getInstance()];
@@ -51720,8 +51115,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return tmp$ret$2;
   };
-  $serializer_3.prototype.in = function (decoder) {
-    var tmp0_desc = this.n5q_1;
+  $serializer.prototype.in = function (decoder) {
+    var tmp0_desc = this.a5q_1;
     var tmp1_flag = true;
     var tmp2_index = 0;
     var tmp3_bitMask0 = 0;
@@ -51783,16 +51178,16 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     tmp10_input.bq(tmp0_desc);
     return MsdfMetrics_init_$Create$(tmp3_bitMask0, tmp4_local0, tmp5_local1, tmp6_local2, tmp7_local3, tmp8_local4, tmp9_local5, null);
   };
-  $serializer_3.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
-  var $serializer_instance_3;
-  function $serializer_getInstance_3() {
-    if ($serializer_instance_3 == null)
-      new $serializer_3();
-    return $serializer_instance_3;
+  $serializer.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
+  var $serializer_instance;
+  function $serializer_getInstance() {
+    if ($serializer_instance == null)
+      new $serializer();
+    return $serializer_instance;
   }
   function MsdfMetrics_init_$Init$(seen1, emSize, lineHeight, ascender, descender, underlineY, underlineThickness, serializationConstructorMarker, $this) {
     if (!(63 === (63 & seen1)))
-      throwMissingFieldException(seen1, 63, $serializer_getInstance_3().n5q_1);
+      throwMissingFieldException(seen1, 63, $serializer_getInstance().a5q_1);
     $this.o5p_1 = emSize;
     $this.p5p_1 = lineHeight;
     $this.q5p_1 = ascender;
@@ -51838,7 +51233,619 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       return false;
     return true;
   };
-  MsdfMetrics.$metadata$ = classMeta('MsdfMetrics', undefined, undefined, {0: $serializer_getInstance_3});
+  MsdfMetrics.$metadata$ = classMeta('MsdfMetrics', undefined, undefined, {0: $serializer_getInstance});
+  function Companion_46() {
+    Companion_instance_46 = this;
+  }
+  Companion_46.$metadata$ = objectMeta('Companion');
+  var Companion_instance_46;
+  function Companion_getInstance_46() {
+    if (Companion_instance_46 == null)
+      new Companion_46();
+    return Companion_instance_46;
+  }
+  function $serializer_0() {
+    $serializer_instance_0 = this;
+    var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('de.fabmax.kool.util.MsdfMeta', this, 5);
+    tmp0_serialDesc.wu('atlas', false);
+    tmp0_serialDesc.wu('name', false);
+    tmp0_serialDesc.wu('metrics', false);
+    tmp0_serialDesc.wu('glyphs', false);
+    tmp0_serialDesc.wu('kerning', false);
+    this.b5q_1 = tmp0_serialDesc;
+  }
+  $serializer_0.prototype.hn = function () {
+    return this.b5q_1;
+  };
+  $serializer_0.prototype.tu = function () {
+    var tmp$ret$2;
+    {
+      var tmp0_arrayOf = [$serializer_getInstance_3(), StringSerializer_getInstance(), $serializer_getInstance(), new ArrayListSerializer($serializer_getInstance_1()), new ArrayListSerializer($serializer_getInstance_4())];
+      var tmp$ret$1;
+      {
+        var tmp$ret$0;
+        {
+          tmp$ret$0 = tmp0_arrayOf;
+        }
+        tmp$ret$1 = tmp$ret$0;
+      }
+      tmp$ret$2 = tmp$ret$1;
+    }
+    return tmp$ret$2;
+  };
+  $serializer_0.prototype.in = function (decoder) {
+    var tmp0_desc = this.b5q_1;
+    var tmp1_flag = true;
+    var tmp2_index = 0;
+    var tmp3_bitMask0 = 0;
+    var tmp4_local0 = null;
+    var tmp5_local1 = null;
+    var tmp6_local2 = null;
+    var tmp7_local3 = null;
+    var tmp8_local4 = null;
+    var tmp9_input = decoder.aq(tmp0_desc);
+    if (tmp9_input.nq()) {
+      tmp4_local0 = tmp9_input.lq(tmp0_desc, 0, $serializer_getInstance_3(), tmp4_local0);
+      tmp3_bitMask0 = tmp3_bitMask0 | 1;
+      tmp5_local1 = tmp9_input.kq(tmp0_desc, 1);
+      tmp3_bitMask0 = tmp3_bitMask0 | 2;
+      tmp6_local2 = tmp9_input.lq(tmp0_desc, 2, $serializer_getInstance(), tmp6_local2);
+      tmp3_bitMask0 = tmp3_bitMask0 | 4;
+      tmp7_local3 = tmp9_input.lq(tmp0_desc, 3, new ArrayListSerializer($serializer_getInstance_1()), tmp7_local3);
+      tmp3_bitMask0 = tmp3_bitMask0 | 8;
+      tmp8_local4 = tmp9_input.lq(tmp0_desc, 4, new ArrayListSerializer($serializer_getInstance_4()), tmp8_local4);
+      tmp3_bitMask0 = tmp3_bitMask0 | 16;
+    } else
+      while (tmp1_flag) {
+        tmp2_index = tmp9_input.oq(tmp0_desc);
+        switch (tmp2_index) {
+          case -1:
+            tmp1_flag = false;
+            break;
+          case 0:
+            tmp4_local0 = tmp9_input.lq(tmp0_desc, 0, $serializer_getInstance_3(), tmp4_local0);
+            tmp3_bitMask0 = tmp3_bitMask0 | 1;
+            break;
+          case 1:
+            tmp5_local1 = tmp9_input.kq(tmp0_desc, 1);
+            tmp3_bitMask0 = tmp3_bitMask0 | 2;
+            break;
+          case 2:
+            tmp6_local2 = tmp9_input.lq(tmp0_desc, 2, $serializer_getInstance(), tmp6_local2);
+            tmp3_bitMask0 = tmp3_bitMask0 | 4;
+            break;
+          case 3:
+            tmp7_local3 = tmp9_input.lq(tmp0_desc, 3, new ArrayListSerializer($serializer_getInstance_1()), tmp7_local3);
+            tmp3_bitMask0 = tmp3_bitMask0 | 8;
+            break;
+          case 4:
+            tmp8_local4 = tmp9_input.lq(tmp0_desc, 4, new ArrayListSerializer($serializer_getInstance_4()), tmp8_local4);
+            tmp3_bitMask0 = tmp3_bitMask0 | 16;
+            break;
+          default:
+            throw UnknownFieldException_init_$Create$(tmp2_index);
+        }
+      }
+    tmp9_input.bq(tmp0_desc);
+    return MsdfMeta_init_$Create$(tmp3_bitMask0, tmp4_local0, tmp5_local1, tmp6_local2, tmp7_local3, tmp8_local4, null);
+  };
+  $serializer_0.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
+  var $serializer_instance_0;
+  function $serializer_getInstance_0() {
+    if ($serializer_instance_0 == null)
+      new $serializer_0();
+    return $serializer_instance_0;
+  }
+  function MsdfMeta_init_$Init$(seen1, atlas, name, metrics, glyphs, kerning, serializationConstructorMarker, $this) {
+    if (!(31 === (31 & seen1)))
+      throwMissingFieldException(seen1, 31, $serializer_getInstance_0().b5q_1);
+    $this.n5j_1 = atlas;
+    $this.o5j_1 = name;
+    $this.p5j_1 = metrics;
+    $this.q5j_1 = glyphs;
+    $this.r5j_1 = kerning;
+    return $this;
+  }
+  function MsdfMeta_init_$Create$(seen1, atlas, name, metrics, glyphs, kerning, serializationConstructorMarker) {
+    return MsdfMeta_init_$Init$(seen1, atlas, name, metrics, glyphs, kerning, serializationConstructorMarker, Object.create(MsdfMeta.prototype));
+  }
+  function MsdfMeta(atlas, name, metrics, glyphs, kerning) {
+    Companion_getInstance_46();
+    this.n5j_1 = atlas;
+    this.o5j_1 = name;
+    this.p5j_1 = metrics;
+    this.q5j_1 = glyphs;
+    this.r5j_1 = kerning;
+  }
+  MsdfMeta.prototype.c5q = function () {
+    return this.n5j_1;
+  };
+  MsdfMeta.prototype.toString = function () {
+    return 'MsdfMeta(atlas=' + this.n5j_1 + ', name=' + this.o5j_1 + ', metrics=' + this.p5j_1 + ', glyphs=' + this.q5j_1 + ', kerning=' + this.r5j_1 + ')';
+  };
+  MsdfMeta.prototype.hashCode = function () {
+    var result = this.n5j_1.hashCode();
+    result = imul(result, 31) + getStringHashCode(this.o5j_1) | 0;
+    result = imul(result, 31) + this.p5j_1.hashCode() | 0;
+    result = imul(result, 31) + hashCode(this.q5j_1) | 0;
+    result = imul(result, 31) + hashCode(this.r5j_1) | 0;
+    return result;
+  };
+  MsdfMeta.prototype.equals = function (other) {
+    if (this === other)
+      return true;
+    if (!(other instanceof MsdfMeta))
+      return false;
+    var tmp0_other_with_cast = other instanceof MsdfMeta ? other : THROW_CCE();
+    if (!this.n5j_1.equals(tmp0_other_with_cast.n5j_1))
+      return false;
+    if (!(this.o5j_1 === tmp0_other_with_cast.o5j_1))
+      return false;
+    if (!this.p5j_1.equals(tmp0_other_with_cast.p5j_1))
+      return false;
+    if (!equals(this.q5j_1, tmp0_other_with_cast.q5j_1))
+      return false;
+    if (!equals(this.r5j_1, tmp0_other_with_cast.r5j_1))
+      return false;
+    return true;
+  };
+  MsdfMeta.$metadata$ = classMeta('MsdfMeta', undefined, undefined, {0: $serializer_getInstance_0});
+  function $serializer_1() {
+    $serializer_instance_1 = this;
+    var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('de.fabmax.kool.util.MsdfGlyph', this, 4);
+    tmp0_serialDesc.wu('unicode', false);
+    tmp0_serialDesc.wu('advance', false);
+    tmp0_serialDesc.wu('planeBounds', true);
+    tmp0_serialDesc.wu('atlasBounds', true);
+    this.d5q_1 = tmp0_serialDesc;
+  }
+  $serializer_1.prototype.hn = function () {
+    return this.d5q_1;
+  };
+  $serializer_1.prototype.tu = function () {
+    var tmp$ret$2;
+    {
+      var tmp0_arrayOf = [IntSerializer_getInstance(), FloatSerializer_getInstance(), $serializer_getInstance_2(), $serializer_getInstance_2()];
+      var tmp$ret$1;
+      {
+        var tmp$ret$0;
+        {
+          tmp$ret$0 = tmp0_arrayOf;
+        }
+        tmp$ret$1 = tmp$ret$0;
+      }
+      tmp$ret$2 = tmp$ret$1;
+    }
+    return tmp$ret$2;
+  };
+  $serializer_1.prototype.in = function (decoder) {
+    var tmp0_desc = this.d5q_1;
+    var tmp1_flag = true;
+    var tmp2_index = 0;
+    var tmp3_bitMask0 = 0;
+    var tmp4_local0 = 0;
+    var tmp5_local1 = 0.0;
+    var tmp6_local2 = null;
+    var tmp7_local3 = null;
+    var tmp8_input = decoder.aq(tmp0_desc);
+    if (tmp8_input.nq()) {
+      tmp4_local0 = tmp8_input.fq(tmp0_desc, 0);
+      tmp3_bitMask0 = tmp3_bitMask0 | 1;
+      tmp5_local1 = tmp8_input.hq(tmp0_desc, 1);
+      tmp3_bitMask0 = tmp3_bitMask0 | 2;
+      tmp6_local2 = tmp8_input.lq(tmp0_desc, 2, $serializer_getInstance_2(), tmp6_local2);
+      tmp3_bitMask0 = tmp3_bitMask0 | 4;
+      tmp7_local3 = tmp8_input.lq(tmp0_desc, 3, $serializer_getInstance_2(), tmp7_local3);
+      tmp3_bitMask0 = tmp3_bitMask0 | 8;
+    } else
+      while (tmp1_flag) {
+        tmp2_index = tmp8_input.oq(tmp0_desc);
+        switch (tmp2_index) {
+          case -1:
+            tmp1_flag = false;
+            break;
+          case 0:
+            tmp4_local0 = tmp8_input.fq(tmp0_desc, 0);
+            tmp3_bitMask0 = tmp3_bitMask0 | 1;
+            break;
+          case 1:
+            tmp5_local1 = tmp8_input.hq(tmp0_desc, 1);
+            tmp3_bitMask0 = tmp3_bitMask0 | 2;
+            break;
+          case 2:
+            tmp6_local2 = tmp8_input.lq(tmp0_desc, 2, $serializer_getInstance_2(), tmp6_local2);
+            tmp3_bitMask0 = tmp3_bitMask0 | 4;
+            break;
+          case 3:
+            tmp7_local3 = tmp8_input.lq(tmp0_desc, 3, $serializer_getInstance_2(), tmp7_local3);
+            tmp3_bitMask0 = tmp3_bitMask0 | 8;
+            break;
+          default:
+            throw UnknownFieldException_init_$Create$(tmp2_index);
+        }
+      }
+    tmp8_input.bq(tmp0_desc);
+    return MsdfGlyph_init_$Create$(tmp3_bitMask0, tmp4_local0, tmp5_local1, tmp6_local2, tmp7_local3, null);
+  };
+  $serializer_1.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
+  var $serializer_instance_1;
+  function $serializer_getInstance_1() {
+    if ($serializer_instance_1 == null)
+      new $serializer_1();
+    return $serializer_instance_1;
+  }
+  function MsdfGlyph_init_$Init$(seen1, unicode, advance, planeBounds, atlasBounds, serializationConstructorMarker, $this) {
+    if (!(3 === (3 & seen1)))
+      throwMissingFieldException(seen1, 3, $serializer_getInstance_1().d5q_1);
+    $this.x5j_1 = unicode;
+    $this.y5j_1 = advance;
+    if (0 === (seen1 & 4))
+      $this.z5j_1 = new MsdfRect(0.0, 0.0, 0.0, 0.0);
+    else
+      $this.z5j_1 = planeBounds;
+    if (0 === (seen1 & 8))
+      $this.a5k_1 = new MsdfRect(0.0, 0.0, 0.0, 0.0);
+    else
+      $this.a5k_1 = atlasBounds;
+    return $this;
+  }
+  function MsdfGlyph_init_$Create$(seen1, unicode, advance, planeBounds, atlasBounds, serializationConstructorMarker) {
+    return MsdfGlyph_init_$Init$(seen1, unicode, advance, planeBounds, atlasBounds, serializationConstructorMarker, Object.create(MsdfGlyph.prototype));
+  }
+  function MsdfGlyph() {
+  }
+  MsdfGlyph.prototype.e5q = function () {
+    return this.x5j_1;
+  };
+  MsdfGlyph.prototype.a5o = function () {
+    return this.y5j_1;
+  };
+  MsdfGlyph.prototype.f5q = function () {
+    return this.z5j_1;
+  };
+  MsdfGlyph.prototype.g5q = function () {
+    return this.a5k_1;
+  };
+  MsdfGlyph.prototype.toString = function () {
+    return 'MsdfGlyph(unicode=' + this.x5j_1 + ', advance=' + this.y5j_1 + ', planeBounds=' + this.z5j_1 + ', atlasBounds=' + this.a5k_1 + ')';
+  };
+  MsdfGlyph.prototype.hashCode = function () {
+    var result = this.x5j_1;
+    result = imul(result, 31) + getNumberHashCode(this.y5j_1) | 0;
+    result = imul(result, 31) + this.z5j_1.hashCode() | 0;
+    result = imul(result, 31) + this.a5k_1.hashCode() | 0;
+    return result;
+  };
+  MsdfGlyph.prototype.equals = function (other) {
+    if (this === other)
+      return true;
+    if (!(other instanceof MsdfGlyph))
+      return false;
+    var tmp0_other_with_cast = other instanceof MsdfGlyph ? other : THROW_CCE();
+    if (!(this.x5j_1 === tmp0_other_with_cast.x5j_1))
+      return false;
+    if (!equals(this.y5j_1, tmp0_other_with_cast.y5j_1))
+      return false;
+    if (!this.z5j_1.equals(tmp0_other_with_cast.z5j_1))
+      return false;
+    if (!this.a5k_1.equals(tmp0_other_with_cast.a5k_1))
+      return false;
+    return true;
+  };
+  MsdfGlyph.$metadata$ = classMeta('MsdfGlyph', undefined, undefined, {0: $serializer_getInstance_1});
+  function Companion_47() {
+    Companion_instance_47 = this;
+  }
+  Companion_47.$metadata$ = objectMeta('Companion');
+  var Companion_instance_47;
+  function Companion_getInstance_47() {
+    if (Companion_instance_47 == null)
+      new Companion_47();
+    return Companion_instance_47;
+  }
+  function $serializer_2() {
+    $serializer_instance_2 = this;
+    var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('de.fabmax.kool.util.MsdfRect', this, 4);
+    tmp0_serialDesc.wu('left', false);
+    tmp0_serialDesc.wu('bottom', false);
+    tmp0_serialDesc.wu('right', false);
+    tmp0_serialDesc.wu('top', false);
+    this.h5q_1 = tmp0_serialDesc;
+  }
+  $serializer_2.prototype.hn = function () {
+    return this.h5q_1;
+  };
+  $serializer_2.prototype.tu = function () {
+    var tmp$ret$2;
+    {
+      var tmp0_arrayOf = [FloatSerializer_getInstance(), FloatSerializer_getInstance(), FloatSerializer_getInstance(), FloatSerializer_getInstance()];
+      var tmp$ret$1;
+      {
+        var tmp$ret$0;
+        {
+          tmp$ret$0 = tmp0_arrayOf;
+        }
+        tmp$ret$1 = tmp$ret$0;
+      }
+      tmp$ret$2 = tmp$ret$1;
+    }
+    return tmp$ret$2;
+  };
+  $serializer_2.prototype.in = function (decoder) {
+    var tmp0_desc = this.h5q_1;
+    var tmp1_flag = true;
+    var tmp2_index = 0;
+    var tmp3_bitMask0 = 0;
+    var tmp4_local0 = 0.0;
+    var tmp5_local1 = 0.0;
+    var tmp6_local2 = 0.0;
+    var tmp7_local3 = 0.0;
+    var tmp8_input = decoder.aq(tmp0_desc);
+    if (tmp8_input.nq()) {
+      tmp4_local0 = tmp8_input.hq(tmp0_desc, 0);
+      tmp3_bitMask0 = tmp3_bitMask0 | 1;
+      tmp5_local1 = tmp8_input.hq(tmp0_desc, 1);
+      tmp3_bitMask0 = tmp3_bitMask0 | 2;
+      tmp6_local2 = tmp8_input.hq(tmp0_desc, 2);
+      tmp3_bitMask0 = tmp3_bitMask0 | 4;
+      tmp7_local3 = tmp8_input.hq(tmp0_desc, 3);
+      tmp3_bitMask0 = tmp3_bitMask0 | 8;
+    } else
+      while (tmp1_flag) {
+        tmp2_index = tmp8_input.oq(tmp0_desc);
+        switch (tmp2_index) {
+          case -1:
+            tmp1_flag = false;
+            break;
+          case 0:
+            tmp4_local0 = tmp8_input.hq(tmp0_desc, 0);
+            tmp3_bitMask0 = tmp3_bitMask0 | 1;
+            break;
+          case 1:
+            tmp5_local1 = tmp8_input.hq(tmp0_desc, 1);
+            tmp3_bitMask0 = tmp3_bitMask0 | 2;
+            break;
+          case 2:
+            tmp6_local2 = tmp8_input.hq(tmp0_desc, 2);
+            tmp3_bitMask0 = tmp3_bitMask0 | 4;
+            break;
+          case 3:
+            tmp7_local3 = tmp8_input.hq(tmp0_desc, 3);
+            tmp3_bitMask0 = tmp3_bitMask0 | 8;
+            break;
+          default:
+            throw UnknownFieldException_init_$Create$(tmp2_index);
+        }
+      }
+    tmp8_input.bq(tmp0_desc);
+    return MsdfRect_init_$Create$(tmp3_bitMask0, tmp4_local0, tmp5_local1, tmp6_local2, tmp7_local3, null);
+  };
+  $serializer_2.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
+  var $serializer_instance_2;
+  function $serializer_getInstance_2() {
+    if ($serializer_instance_2 == null)
+      new $serializer_2();
+    return $serializer_instance_2;
+  }
+  function MsdfRect_init_$Init$(seen1, left, bottom, right, top, serializationConstructorMarker, $this) {
+    if (!(15 === (15 & seen1)))
+      throwMissingFieldException(seen1, 15, $serializer_getInstance_2().h5q_1);
+    $this.t5j_1 = left;
+    $this.u5j_1 = bottom;
+    $this.v5j_1 = right;
+    $this.w5j_1 = top;
+    return $this;
+  }
+  function MsdfRect_init_$Create$(seen1, left, bottom, right, top, serializationConstructorMarker) {
+    return MsdfRect_init_$Init$(seen1, left, bottom, right, top, serializationConstructorMarker, Object.create(MsdfRect.prototype));
+  }
+  function MsdfRect(left, bottom, right, top) {
+    Companion_getInstance_47();
+    this.t5j_1 = left;
+    this.u5j_1 = bottom;
+    this.v5j_1 = right;
+    this.w5j_1 = top;
+  }
+  MsdfRect.prototype.i5q = function () {
+    return this.t5j_1;
+  };
+  MsdfRect.prototype.j5q = function () {
+    return this.u5j_1;
+  };
+  MsdfRect.prototype.k5q = function () {
+    return this.v5j_1;
+  };
+  MsdfRect.prototype.l5q = function () {
+    return this.w5j_1;
+  };
+  MsdfRect.prototype.toString = function () {
+    return 'MsdfRect(left=' + this.t5j_1 + ', bottom=' + this.u5j_1 + ', right=' + this.v5j_1 + ', top=' + this.w5j_1 + ')';
+  };
+  MsdfRect.prototype.hashCode = function () {
+    var result = getNumberHashCode(this.t5j_1);
+    result = imul(result, 31) + getNumberHashCode(this.u5j_1) | 0;
+    result = imul(result, 31) + getNumberHashCode(this.v5j_1) | 0;
+    result = imul(result, 31) + getNumberHashCode(this.w5j_1) | 0;
+    return result;
+  };
+  MsdfRect.prototype.equals = function (other) {
+    if (this === other)
+      return true;
+    if (!(other instanceof MsdfRect))
+      return false;
+    var tmp0_other_with_cast = other instanceof MsdfRect ? other : THROW_CCE();
+    if (!equals(this.t5j_1, tmp0_other_with_cast.t5j_1))
+      return false;
+    if (!equals(this.u5j_1, tmp0_other_with_cast.u5j_1))
+      return false;
+    if (!equals(this.v5j_1, tmp0_other_with_cast.v5j_1))
+      return false;
+    if (!equals(this.w5j_1, tmp0_other_with_cast.w5j_1))
+      return false;
+    return true;
+  };
+  MsdfRect.$metadata$ = classMeta('MsdfRect', undefined, undefined, {0: $serializer_getInstance_2});
+  function $serializer_3() {
+    $serializer_instance_3 = this;
+    var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('de.fabmax.kool.util.MsdfAtlasInfo', this, 6);
+    tmp0_serialDesc.wu('type', false);
+    tmp0_serialDesc.wu('distanceRange', false);
+    tmp0_serialDesc.wu('size', false);
+    tmp0_serialDesc.wu('width', false);
+    tmp0_serialDesc.wu('height', false);
+    tmp0_serialDesc.wu('yOrigin', false);
+    this.m5q_1 = tmp0_serialDesc;
+  }
+  $serializer_3.prototype.hn = function () {
+    return this.m5q_1;
+  };
+  $serializer_3.prototype.tu = function () {
+    var tmp$ret$2;
+    {
+      var tmp0_arrayOf = [StringSerializer_getInstance(), FloatSerializer_getInstance(), IntSerializer_getInstance(), IntSerializer_getInstance(), IntSerializer_getInstance(), StringSerializer_getInstance()];
+      var tmp$ret$1;
+      {
+        var tmp$ret$0;
+        {
+          tmp$ret$0 = tmp0_arrayOf;
+        }
+        tmp$ret$1 = tmp$ret$0;
+      }
+      tmp$ret$2 = tmp$ret$1;
+    }
+    return tmp$ret$2;
+  };
+  $serializer_3.prototype.in = function (decoder) {
+    var tmp0_desc = this.m5q_1;
+    var tmp1_flag = true;
+    var tmp2_index = 0;
+    var tmp3_bitMask0 = 0;
+    var tmp4_local0 = null;
+    var tmp5_local1 = 0.0;
+    var tmp6_local2 = 0;
+    var tmp7_local3 = 0;
+    var tmp8_local4 = 0;
+    var tmp9_local5 = null;
+    var tmp10_input = decoder.aq(tmp0_desc);
+    if (tmp10_input.nq()) {
+      tmp4_local0 = tmp10_input.kq(tmp0_desc, 0);
+      tmp3_bitMask0 = tmp3_bitMask0 | 1;
+      tmp5_local1 = tmp10_input.hq(tmp0_desc, 1);
+      tmp3_bitMask0 = tmp3_bitMask0 | 2;
+      tmp6_local2 = tmp10_input.fq(tmp0_desc, 2);
+      tmp3_bitMask0 = tmp3_bitMask0 | 4;
+      tmp7_local3 = tmp10_input.fq(tmp0_desc, 3);
+      tmp3_bitMask0 = tmp3_bitMask0 | 8;
+      tmp8_local4 = tmp10_input.fq(tmp0_desc, 4);
+      tmp3_bitMask0 = tmp3_bitMask0 | 16;
+      tmp9_local5 = tmp10_input.kq(tmp0_desc, 5);
+      tmp3_bitMask0 = tmp3_bitMask0 | 32;
+    } else
+      while (tmp1_flag) {
+        tmp2_index = tmp10_input.oq(tmp0_desc);
+        switch (tmp2_index) {
+          case -1:
+            tmp1_flag = false;
+            break;
+          case 0:
+            tmp4_local0 = tmp10_input.kq(tmp0_desc, 0);
+            tmp3_bitMask0 = tmp3_bitMask0 | 1;
+            break;
+          case 1:
+            tmp5_local1 = tmp10_input.hq(tmp0_desc, 1);
+            tmp3_bitMask0 = tmp3_bitMask0 | 2;
+            break;
+          case 2:
+            tmp6_local2 = tmp10_input.fq(tmp0_desc, 2);
+            tmp3_bitMask0 = tmp3_bitMask0 | 4;
+            break;
+          case 3:
+            tmp7_local3 = tmp10_input.fq(tmp0_desc, 3);
+            tmp3_bitMask0 = tmp3_bitMask0 | 8;
+            break;
+          case 4:
+            tmp8_local4 = tmp10_input.fq(tmp0_desc, 4);
+            tmp3_bitMask0 = tmp3_bitMask0 | 16;
+            break;
+          case 5:
+            tmp9_local5 = tmp10_input.kq(tmp0_desc, 5);
+            tmp3_bitMask0 = tmp3_bitMask0 | 32;
+            break;
+          default:
+            throw UnknownFieldException_init_$Create$(tmp2_index);
+        }
+      }
+    tmp10_input.bq(tmp0_desc);
+    return MsdfAtlasInfo_init_$Create$(tmp3_bitMask0, tmp4_local0, tmp5_local1, tmp6_local2, tmp7_local3, tmp8_local4, tmp9_local5, null);
+  };
+  $serializer_3.$metadata$ = objectMeta('$serializer', [GeneratedSerializer]);
+  var $serializer_instance_3;
+  function $serializer_getInstance_3() {
+    if ($serializer_instance_3 == null)
+      new $serializer_3();
+    return $serializer_instance_3;
+  }
+  function MsdfAtlasInfo_init_$Init$(seen1, type, distanceRange, size, width, height, yOrigin, serializationConstructorMarker, $this) {
+    if (!(63 === (63 & seen1)))
+      throwMissingFieldException(seen1, 63, $serializer_getInstance_3().m5q_1);
+    $this.h5j_1 = type;
+    $this.i5j_1 = distanceRange;
+    $this.j5j_1 = size;
+    $this.k5j_1 = width;
+    $this.l5j_1 = height;
+    $this.m5j_1 = yOrigin;
+    return $this;
+  }
+  function MsdfAtlasInfo_init_$Create$(seen1, type, distanceRange, size, width, height, yOrigin, serializationConstructorMarker) {
+    return MsdfAtlasInfo_init_$Init$(seen1, type, distanceRange, size, width, height, yOrigin, serializationConstructorMarker, Object.create(MsdfAtlasInfo.prototype));
+  }
+  function MsdfAtlasInfo() {
+  }
+  MsdfAtlasInfo.prototype.n5q = function () {
+    return this.i5j_1;
+  };
+  MsdfAtlasInfo.prototype.m = function () {
+    return this.j5j_1;
+  };
+  MsdfAtlasInfo.prototype.f40 = function () {
+    return this.k5j_1;
+  };
+  MsdfAtlasInfo.prototype.g40 = function () {
+    return this.l5j_1;
+  };
+  MsdfAtlasInfo.prototype.toString = function () {
+    return 'MsdfAtlasInfo(type=' + this.h5j_1 + ', distanceRange=' + this.i5j_1 + ', size=' + this.j5j_1 + ', width=' + this.k5j_1 + ', height=' + this.l5j_1 + ', yOrigin=' + this.m5j_1 + ')';
+  };
+  MsdfAtlasInfo.prototype.hashCode = function () {
+    var result = getStringHashCode(this.h5j_1);
+    result = imul(result, 31) + getNumberHashCode(this.i5j_1) | 0;
+    result = imul(result, 31) + this.j5j_1 | 0;
+    result = imul(result, 31) + this.k5j_1 | 0;
+    result = imul(result, 31) + this.l5j_1 | 0;
+    result = imul(result, 31) + getStringHashCode(this.m5j_1) | 0;
+    return result;
+  };
+  MsdfAtlasInfo.prototype.equals = function (other) {
+    if (this === other)
+      return true;
+    if (!(other instanceof MsdfAtlasInfo))
+      return false;
+    var tmp0_other_with_cast = other instanceof MsdfAtlasInfo ? other : THROW_CCE();
+    if (!(this.h5j_1 === tmp0_other_with_cast.h5j_1))
+      return false;
+    if (!equals(this.i5j_1, tmp0_other_with_cast.i5j_1))
+      return false;
+    if (!(this.j5j_1 === tmp0_other_with_cast.j5j_1))
+      return false;
+    if (!(this.k5j_1 === tmp0_other_with_cast.k5j_1))
+      return false;
+    if (!(this.l5j_1 === tmp0_other_with_cast.l5j_1))
+      return false;
+    if (!(this.m5j_1 === tmp0_other_with_cast.m5j_1))
+      return false;
+    return true;
+  };
+  MsdfAtlasInfo.$metadata$ = classMeta('MsdfAtlasInfo', undefined, undefined, {0: $serializer_getInstance_3});
   function RobotoRegularMeta() {
     RobotoRegularMeta_instance = this;
     var tmp = this;
@@ -59011,12 +59018,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.r4t(0);
   };
   GenericBuffer.$metadata$ = classMeta('GenericBuffer', [Buffer]);
-  function createFloat32Buffer(capacity) {
-    return new Float32BufferImpl(capacity);
-  }
-  function createUint32Buffer(capacity) {
-    return new Uint32BufferImpl(capacity);
-  }
   function BufferUtil() {
     BufferUtil_instance = this;
   }
@@ -59046,8 +59047,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       new BufferUtil();
     return BufferUtil_instance;
   }
-  function createMixedBuffer(capacity) {
-    return new MixedBufferImpl(capacity);
+  function createFloat32Buffer(capacity) {
+    return new Float32BufferImpl(capacity);
+  }
+  function createUint32Buffer(capacity) {
+    return new Uint32BufferImpl(capacity);
   }
   function Float32BufferImpl$_init_$lambda_l3hsy8($capacity) {
     return function () {
@@ -59179,6 +59183,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return this;
   };
   Uint32BufferImpl.$metadata$ = classMeta('Uint32BufferImpl', [Uint32Buffer], undefined, undefined, undefined, GenericBuffer.prototype);
+  function createMixedBuffer(capacity) {
+    return new MixedBufferImpl(capacity);
+  }
   function MixedBufferImpl$_init_$lambda_t0vvo0($capacity) {
     return function () {
       return new DataView(new ArrayBuffer($capacity));
@@ -59423,19 +59430,22 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   _.$_$.h4 = Texture2d_init_$Create$_1;
   _.$_$.i4 = Group_init_$Init$;
   _.$_$.j4 = Node_init_$Init$;
-  _.$_$.k4 = Companion_getInstance_6;
-  _.$_$.l4 = ColumnLayout_getInstance;
-  _.$_$.m4 = FitContent_getInstance;
-  _.$_$.n4 = Companion_getInstance_21;
-  _.$_$.o4 = RowLayout_getInstance;
-  _.$_$.p4 = Companion_getInstance_18;
-  _.$_$.q4 = Companion_getInstance_25;
-  _.$_$.r4 = Companion_getInstance_24;
-  _.$_$.s4 = Companion_getInstance_31;
-  _.$_$.t4 = FullscreenShaderUtil_getInstance;
-  _.$_$.u4 = Companion_getInstance_40;
-  _.$_$.v4 = Companion_getInstance_43;
-  _.$_$.w4 = Companion_getInstance_0;
+  _.$_$.k4 = MsdfFont_init_$Create$;
+  _.$_$.l4 = _Dp___init__impl__ms3zkb;
+  _.$_$.m4 = Companion_getInstance_6;
+  _.$_$.n4 = ColumnLayout_getInstance;
+  _.$_$.o4 = FitContent_getInstance;
+  _.$_$.p4 = Companion_getInstance_21;
+  _.$_$.q4 = RowLayout_getInstance;
+  _.$_$.r4 = Companion_getInstance_18;
+  _.$_$.s4 = Companion_getInstance_23;
+  _.$_$.t4 = Companion_getInstance_25;
+  _.$_$.u4 = Companion_getInstance_24;
+  _.$_$.v4 = Companion_getInstance_31;
+  _.$_$.w4 = FullscreenShaderUtil_getInstance;
+  _.$_$.x4 = Companion_getInstance_40;
+  _.$_$.y4 = Companion_getInstance_43;
+  _.$_$.z4 = Companion_getInstance_0;
   //endregion
   return _;
 }));
@@ -59481,15 +59491,6 @@ if (typeof Array.prototype.fill === 'undefined') {
     Object.defineProperty(TypedArray.prototype, 'fill', {value: Array.prototype.fill});
   }
 });
-if (typeof Math.sign === 'undefined') {
-  Math.sign = function (x) {
-    x = +x;
-    if (x === 0 || isNaN(x)) {
-      return Number(x);
-    }
-    return x > 0 ? 1 : -1;
-  };
-}
 if (typeof Math.clz32 === 'undefined') {
   Math.clz32 = function (log, LN2) {
     return function (x) {
@@ -59500,6 +59501,15 @@ if (typeof Math.clz32 === 'undefined') {
       return 31 - (log(asUint) / LN2 | 0) | 0;
     };
   }(Math.log, Math.LN2);
+}
+if (typeof Math.sign === 'undefined') {
+  Math.sign = function (x) {
+    x = +x;
+    if (x === 0 || isNaN(x)) {
+      return Number(x);
+    }
+    return x > 0 ? 1 : -1;
+  };
 }
 if (typeof Math.log2 === 'undefined') {
   Math.log2 = function (x) {
@@ -60731,36 +60741,6 @@ if (typeof Math.imul === 'undefined') {
      while (iterator.n());
     return minElem;
   }
-  function mapIndexed(_this__u8e3s4, transform) {
-    var tmp$ret$0;
-    {
-      var tmp0_mapIndexedTo = ArrayList_init_$Create$_0(collectionSizeOrDefault(_this__u8e3s4, 10));
-      var index = 0;
-      var tmp0_iterator = _this__u8e3s4.h();
-      while (tmp0_iterator.n()) {
-        var item = tmp0_iterator.o();
-        var tmp1 = index;
-        index = tmp1 + 1 | 0;
-        tmp0_mapIndexedTo.b(transform(checkIndexOverflow(tmp1), item));
-      }
-      tmp$ret$0 = tmp0_mapIndexedTo;
-    }
-    return tmp$ret$0;
-  }
-  function flatMap(_this__u8e3s4, transform) {
-    var tmp$ret$0;
-    {
-      var tmp0_flatMapTo = ArrayList_init_$Create$();
-      var tmp0_iterator = _this__u8e3s4.h();
-      while (tmp0_iterator.n()) {
-        var element = tmp0_iterator.o();
-        var list = transform(element);
-        addAll_0(tmp0_flatMapTo, list);
-      }
-      tmp$ret$0 = tmp0_flatMapTo;
-    }
-    return tmp$ret$0;
-  }
   function associateBy_0(_this__u8e3s4, keySelector) {
     var capacity = coerceAtLeast(mapCapacity(collectionSizeOrDefault(_this__u8e3s4, 10)), 16);
     var tmp$ret$0;
@@ -60789,6 +60769,36 @@ if (typeof Math.imul === 'undefined') {
         }
       }
       tmp$ret$0 = tmp1_associateTo;
+    }
+    return tmp$ret$0;
+  }
+  function mapIndexed(_this__u8e3s4, transform) {
+    var tmp$ret$0;
+    {
+      var tmp0_mapIndexedTo = ArrayList_init_$Create$_0(collectionSizeOrDefault(_this__u8e3s4, 10));
+      var index = 0;
+      var tmp0_iterator = _this__u8e3s4.h();
+      while (tmp0_iterator.n()) {
+        var item = tmp0_iterator.o();
+        var tmp1 = index;
+        index = tmp1 + 1 | 0;
+        tmp0_mapIndexedTo.b(transform(checkIndexOverflow(tmp1), item));
+      }
+      tmp$ret$0 = tmp0_mapIndexedTo;
+    }
+    return tmp$ret$0;
+  }
+  function flatMap(_this__u8e3s4, transform) {
+    var tmp$ret$0;
+    {
+      var tmp0_flatMapTo = ArrayList_init_$Create$();
+      var tmp0_iterator = _this__u8e3s4.h();
+      while (tmp0_iterator.n()) {
+        var element = tmp0_iterator.o();
+        var list = transform(element);
+        addAll_0(tmp0_flatMapTo, list);
+      }
+      tmp$ret$0 = tmp0_flatMapTo;
     }
     return tmp$ret$0;
   }
@@ -60833,6 +60843,25 @@ if (typeof Math.imul === 'undefined') {
   function distinct_0(_this__u8e3s4) {
     return toList_0(toMutableSet_0(_this__u8e3s4));
   }
+  function associateByTo_0(_this__u8e3s4, destination, keySelector) {
+    var tmp0_iterator = _this__u8e3s4.h();
+    while (tmp0_iterator.n()) {
+      var element = tmp0_iterator.o();
+      destination.a(keySelector(element), element);
+    }
+    return destination;
+  }
+  function associateTo(_this__u8e3s4, destination, transform) {
+    var tmp0_iterator = _this__u8e3s4.h();
+    while (tmp0_iterator.n()) {
+      var element = tmp0_iterator.o();
+      {
+        var tmp0_plusAssign = transform(element);
+        destination.a(tmp0_plusAssign.v_1, tmp0_plusAssign.w_1);
+      }
+    }
+    return destination;
+  }
   function mapIndexedTo(_this__u8e3s4, destination, transform) {
     var index = 0;
     var tmp0_iterator = _this__u8e3s4.h();
@@ -60850,25 +60879,6 @@ if (typeof Math.imul === 'undefined') {
       var element = tmp0_iterator.o();
       var list = transform(element);
       addAll_0(destination, list);
-    }
-    return destination;
-  }
-  function associateByTo_0(_this__u8e3s4, destination, keySelector) {
-    var tmp0_iterator = _this__u8e3s4.h();
-    while (tmp0_iterator.n()) {
-      var element = tmp0_iterator.o();
-      destination.a(keySelector(element), element);
-    }
-    return destination;
-  }
-  function associateTo(_this__u8e3s4, destination, transform) {
-    var tmp0_iterator = _this__u8e3s4.h();
-    while (tmp0_iterator.n()) {
-      var element = tmp0_iterator.o();
-      {
-        var tmp0_plusAssign = transform(element);
-        destination.a(tmp0_plusAssign.v_1, tmp0_plusAssign.w_1);
-      }
     }
     return destination;
   }
@@ -69850,11 +69860,11 @@ if (typeof Math.imul === 'undefined') {
   function abs_1(x) {
     return Math.abs(x);
   }
-  function round(x) {
-    return round_0(x);
-  }
   function min_0(a, b) {
     return Math.min(a, b);
+  }
+  function round(x) {
+    return round_0(x);
   }
   function pow_1(_this__u8e3s4, x) {
     return Math.pow(_this__u8e3s4, x);
