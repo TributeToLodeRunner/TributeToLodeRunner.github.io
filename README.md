@@ -21,12 +21,12 @@ Your player will start to flash. Move your player or push a joystick button to b
 
 ## KEYBOARD COMMANDS:
 
-ARROW UP = move up
-ARROW DOWN = move down 
-ARROW LEFT = move left
-ARROW RIGHT = move right
-Z = dig left 
-X = dig right
+- ARROW UP = move up
+- ARROW DOWN = move down 
+- ARROW LEFT = move left
+- ARROW RIGHT = move right
+- Z = dig left 
+- X = dig right
 
 ## GAME PLAY:
 To complete a level, you must collect all the gold chests in a scene. 
@@ -48,10 +48,12 @@ If an enemy carrying gold falls into a "dead end" that he and you are unable to 
 be able to get that gold chest safely. If stuck in a "dead end", press CTRL-A to continue (see below).
 
 ## SCORING:
+```
 Completing a level............1500 points
 Picking up a gold chest.......250
 Trapping an enemy.............75
 Enemy dying in a hole.........75
+```
 
 
 ## HIGH SCORES:
@@ -61,12 +63,12 @@ Type in your initials then press RETURN.
 Note: You can use the left and right arrow keys to make corrections before pressing RETURN.
 
 ## SPECIAL KEYS: 
- - *CTRL-A* aborts man if stuck without means of death or escape
- - *BACKSPACE* back to main menu
+ - **CTRL-A** aborts man if stuck without means of death or escape
+ - **BACKSPACE** back to main menu
 
 Cheat keys:
- - *CTRL-,* jump next level
- - *CTRL-.* jump prev level
+ - **CTRL-,** jump next level
+ - **CTRL-.** jump prev level
 
 
 Using either of the two "cheat keys" forfeits your high score attempt for that game. 
