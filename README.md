@@ -48,12 +48,13 @@ If an enemy carrying gold falls into a "dead end" that he and you are unable to 
 be able to get that gold chest safely. If stuck in a "dead end", press CTRL-A to continue (see below).
 
 ## SCORING:
-```
-Completing a level............1500 points
-Picking up a gold chest.......250
-Trapping an enemy.............75
-Enemy dying in a hole.........75
-```
+| event | points |
+| --- | --- |
+| Completing a level | 1500 |
+| Picking up a gold chest | 250 |
+| Trapping an enemy | 75 |
+| Enemy dying in a hole | 75 |
+
 
 
 ## HIGH SCORES:
