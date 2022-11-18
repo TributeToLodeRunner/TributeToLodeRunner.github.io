@@ -7181,27 +7181,41 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var _Char___init__impl__6a9atx = kotlin_kotlin.$_$.f2;
   var replace$default = kotlin_kotlin.$_$.o;
   var Vec2i = kotlin_de_fabmax_kool_kool_core.$_$.f;
-  var IllegalStateException_init_$Create$ = kotlin_kotlin.$_$.s1;
-  var objectMeta = kotlin_kotlin.$_$.s9;
   var contains = kotlin_kotlin.$_$.p4;
-  var Companion_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.p5;
+  var Companion_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.q5;
   var numberToInt = kotlin_kotlin.$_$.r9;
-  var ArrayList_init_$Create$_0 = kotlin_kotlin.$_$.s;
   var UiScene$default = kotlin_de_fabmax_kool_kool_core.$_$.g4;
   var asIterable = kotlin_kotlin.$_$.h4;
+  var ArrayList_init_$Create$_0 = kotlin_kotlin.$_$.s;
+  var AlignmentY_Top_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.r3;
+  var alignY = kotlin_de_fabmax_kool_kool_core.$_$.z1;
+  var AlignmentX_Start_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.o3;
+  var alignX = kotlin_de_fabmax_kool_kool_core.$_$.y1;
+  var FitContent_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.f5;
+  var RowNode = kotlin_de_fabmax_kool_kool_core.$_$.u1;
+  var Companion_getInstance_0 = kotlin_de_fabmax_kool_kool_core.$_$.i5;
+  var size = kotlin_de_fabmax_kool_kool_core.$_$.i2;
+  var RowLayout_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.h5;
+  var layout = kotlin_de_fabmax_kool_kool_core.$_$.c2;
+  var TextNode = kotlin_de_fabmax_kool_kool_core.$_$.w1;
+  var Companion_getInstance_1 = kotlin_de_fabmax_kool_kool_core.$_$.l5;
+  var text = kotlin_de_fabmax_kool_kool_core.$_$.k2;
+  var Companion_getInstance_2 = kotlin_de_fabmax_kool_kool_core.$_$.j5;
+  var Panel$default = kotlin_de_fabmax_kool_kool_core.$_$.f4;
+  var mutableStateOf = kotlin_de_fabmax_kool_kool_core.$_$.d2;
   var int$default = kotlin_com_russhwolf_multiplatform_settings.$_$.c;
   var float$default = kotlin_com_russhwolf_multiplatform_settings.$_$.b;
   var boolean$default = kotlin_com_russhwolf_multiplatform_settings.$_$.a;
-  var mutableStateOf = kotlin_de_fabmax_kool_kool_core.$_$.e2;
   var MutableStateValue = kotlin_de_fabmax_kool_kool_core.$_$.t1;
   var CoroutineScope = kotlin_org_jetbrains_kotlinx_kotlinx_coroutines_core.$_$.k;
-  var AssetManager = kotlin_de_fabmax_kool_kool_core.$_$.l3;
-  var OrthographicCamera = kotlin_de_fabmax_kool_kool_core.$_$.g3;
+  var AssetManager = kotlin_de_fabmax_kool_kool_core.$_$.k3;
+  var OrthographicCamera = kotlin_de_fabmax_kool_kool_core.$_$.f3;
   var Collection = kotlin_kotlin.$_$.l3;
   var debugOverlay$default = kotlin_de_fabmax_kool_kool_core.$_$.n4;
   var removeAll = kotlin_kotlin.$_$.i6;
   var ProjCorrectionMode_ONSCREEN_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.d4;
   var Texture2d_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.w4;
+  var objectMeta = kotlin_kotlin.$_$.s9;
   var AssertionError_init_$Create$ = kotlin_kotlin.$_$.j1;
   var contentHashCode = kotlin_kotlin.$_$.u4;
   var arrayIterator = kotlin_kotlin.$_$.i8;
@@ -7219,8 +7233,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var toMap = kotlin_kotlin.$_$.c7;
   var listOf = kotlin_kotlin.$_$.z5;
   var lazy = kotlin_kotlin.$_$.od;
-  var Companion_getInstance_0 = kotlin_de_fabmax_kool_kool_core.$_$.c5;
-  var Color = kotlin_de_fabmax_kool_kool_core.$_$.j3;
+  var Companion_getInstance_3 = kotlin_de_fabmax_kool_kool_core.$_$.c5;
+  var Color = kotlin_de_fabmax_kool_kool_core.$_$.i3;
   var MutableVec3f_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.q4;
   var Ray = kotlin_de_fabmax_kool_kool_core.$_$.d;
   var UiScene = kotlin_de_fabmax_kool_kool_core.$_$.x1;
@@ -7228,40 +7242,31 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var KProperty0 = kotlin_kotlin.$_$.na;
   var getLocalDelegateReference = kotlin_kotlin.$_$.t8;
   var MutableVec2f = kotlin_de_fabmax_kool_kool_core.$_$.b;
-  var AlignmentY_Bottom_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.q3;
-  var FitContent_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.f5;
-  var width = kotlin_de_fabmax_kool_kool_core.$_$.o2;
+  var AlignmentY_Bottom_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.p3;
+  var width = kotlin_de_fabmax_kool_kool_core.$_$.n2;
   var height = kotlin_de_fabmax_kool_kool_core.$_$.a2;
   var margin$default = kotlin_de_fabmax_kool_kool_core.$_$.j4;
-  var RowNode = kotlin_de_fabmax_kool_kool_core.$_$.u1;
-  var Companion_getInstance_1 = kotlin_de_fabmax_kool_kool_core.$_$.i5;
-  var size = kotlin_de_fabmax_kool_kool_core.$_$.j2;
-  var RowLayout_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.h5;
-  var layout = kotlin_de_fabmax_kool_kool_core.$_$.c2;
-  var Companion_getInstance_2 = kotlin_de_fabmax_kool_kool_core.$_$.g5;
+  var Companion_getInstance_4 = kotlin_de_fabmax_kool_kool_core.$_$.g5;
   var ColumnNode = kotlin_de_fabmax_kool_kool_core.$_$.r1;
-  var Companion_getInstance_3 = kotlin_de_fabmax_kool_kool_core.$_$.e5;
+  var Companion_getInstance_5 = kotlin_de_fabmax_kool_kool_core.$_$.e5;
   var ColumnLayout_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.d5;
-  var AlignmentX_Start_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.p3;
   var ButtonNode = kotlin_de_fabmax_kool_kool_core.$_$.q1;
-  var Companion_getInstance_4 = kotlin_de_fabmax_kool_kool_core.$_$.b5;
-  var text = kotlin_de_fabmax_kool_kool_core.$_$.l2;
+  var Companion_getInstance_6 = kotlin_de_fabmax_kool_kool_core.$_$.b5;
   var colors$default = kotlin_de_fabmax_kool_kool_core.$_$.i4;
-  var AlignmentX_Center_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.n3;
-  var AlignmentY_Center_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.r3;
-  var textAlign = kotlin_de_fabmax_kool_kool_core.$_$.k2;
-  var padding = kotlin_de_fabmax_kool_kool_core.$_$.i2;
-  var onClick = kotlin_de_fabmax_kool_kool_core.$_$.g2;
+  var AlignmentX_Center_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.m3;
+  var AlignmentY_Center_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.q3;
+  var textAlign = kotlin_de_fabmax_kool_kool_core.$_$.j2;
+  var padding = kotlin_de_fabmax_kool_kool_core.$_$.h2;
+  var onClick = kotlin_de_fabmax_kool_kool_core.$_$.f2;
   var hoverListener = kotlin_de_fabmax_kool_kool_core.$_$.b2;
-  var Companion_getInstance_5 = kotlin_de_fabmax_kool_kool_core.$_$.o5;
+  var Companion_getInstance_7 = kotlin_de_fabmax_kool_kool_core.$_$.p5;
   var Dp = kotlin_de_fabmax_kool_kool_core.$_$.s1;
-  var Panel$default = kotlin_de_fabmax_kool_kool_core.$_$.f4;
   var KMutableProperty1 = kotlin_kotlin.$_$.ma;
   var getPropertyCallableRef = kotlin_kotlin.$_$.v8;
   var TexFormat_RGBA_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.z3;
   var AddressMode_CLAMP_TO_EDGE_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.s3;
   var FilterMethod_NEAREST_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.y3;
-  var TextureProps = kotlin_de_fabmax_kool_kool_core.$_$.v2;
+  var TextureProps = kotlin_de_fabmax_kool_kool_core.$_$.u2;
   var TexFormat_R_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.a4;
   var FilterMethod_LINEAR_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.x3;
   var SuspendFunction2 = kotlin_kotlin.$_$.c8;
@@ -7274,24 +7279,24 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var typeParametersSerializers = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.h1;
   var GeneratedSerializer = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.i1;
   var throwMissingFieldException = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_core.$_$.n1;
-  var IllegalStateException_init_$Create$_0 = kotlin_kotlin.$_$.u1;
+  var IllegalStateException_init_$Create$ = kotlin_kotlin.$_$.u1;
   var noWhenBranchMatchedException = kotlin_kotlin.$_$.pd;
   var NotImplementedError_init_$Create$ = kotlin_kotlin.$_$.q;
   var JsonNull_getInstance = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_json.$_$.b;
   var equals = kotlin_kotlin.$_$.r8;
   var JsonPrimitive = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_json.$_$.e;
   var get_jsonObject = kotlin_org_jetbrains_kotlinx_kotlinx_serialization_json.$_$.g;
-  var BufferedTextureLoader = kotlin_de_fabmax_kool_kool_core.$_$.p2;
-  var Texture3d = kotlin_de_fabmax_kool_kool_core.$_$.t2;
-  var padStart = kotlin_kotlin.$_$.nb;
+  var BufferedTextureLoader = kotlin_de_fabmax_kool_kool_core.$_$.o2;
+  var Texture3d = kotlin_de_fabmax_kool_kool_core.$_$.s2;
+  var copyToArray = kotlin_kotlin.$_$.e5;
+  var mutableSetOf = kotlin_kotlin.$_$.f6;
   var IntCompanionObject_getInstance = kotlin_kotlin.$_$.z2;
-  var Companion_getInstance_6 = kotlin_de_fabmax_kool_kool_core.$_$.a5;
+  var Companion_getInstance_8 = kotlin_de_fabmax_kool_kool_core.$_$.a5;
   var MutableVec2i_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.p4;
   var MutableVec2i_init_$Create$_0 = kotlin_de_fabmax_kool_kool_core.$_$.o4;
   var KProperty1 = kotlin_kotlin.$_$.oa;
   var Long = kotlin_kotlin.$_$.qc;
   var delay = kotlin_org_jetbrains_kotlinx_kotlinx_coroutines_core.$_$.a;
-  var mutableStateListOf = kotlin_de_fabmax_kool_kool_core.$_$.d2;
   var async$default = kotlin_org_jetbrains_kotlinx_kotlinx_coroutines_core.$_$.e;
   var throwUninitializedPropertyAccessException = kotlin_kotlin.$_$.rd;
   var NoSuchElementException_init_$Create$ = kotlin_kotlin.$_$.z1;
@@ -7314,10 +7319,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var toList = kotlin_kotlin.$_$.b7;
   var Cartesian2DModelOptions_init_$Create$ = kotlin_org_mifek_wfc_WFC_Kotlin.$_$.a;
   var getStringHashCode = kotlin_kotlin.$_$.w8;
-  var createUint8Buffer = kotlin_de_fabmax_kool_kool_core.$_$.k3;
+  var hashCode = kotlin_kotlin.$_$.x8;
+  var createUint8Buffer = kotlin_de_fabmax_kool_kool_core.$_$.j3;
   var charSequenceGet = kotlin_kotlin.$_$.m8;
   var charSequenceLength = kotlin_kotlin.$_$.n8;
-  var TextureData2d = kotlin_de_fabmax_kool_kool_core.$_$.u2;
+  var TextureData2d = kotlin_de_fabmax_kool_kool_core.$_$.t2;
   var sequenceOf = kotlin_kotlin.$_$.cb;
   var asSequence = kotlin_kotlin.$_$.m4;
   var chunked = kotlin_kotlin.$_$.ua;
@@ -7329,38 +7335,34 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var TimedValue = kotlin_kotlin.$_$.ec;
   var Duration = kotlin_kotlin.$_$.dc;
   var Pair = kotlin_kotlin.$_$.uc;
+  var padStart = kotlin_kotlin.$_$.nb;
   var filter = kotlin_kotlin.$_$.wa;
   var last = kotlin_kotlin.$_$.x5;
-  var Scene = kotlin_de_fabmax_kool_kool_core.$_$.h3;
-  var Companion_getInstance_7 = kotlin_de_fabmax_kool_kool_core.$_$.n5;
-  var InterpolatedFloat = kotlin_de_fabmax_kool_kool_core.$_$.x2;
-  var InverseSquareAnimator = kotlin_de_fabmax_kool_kool_core.$_$.z2;
-  var CosAnimator = kotlin_de_fabmax_kool_kool_core.$_$.w2;
+  var Scene = kotlin_de_fabmax_kool_kool_core.$_$.g3;
+  var Companion_getInstance_9 = kotlin_de_fabmax_kool_kool_core.$_$.o5;
+  var InterpolatedFloat = kotlin_de_fabmax_kool_kool_core.$_$.w2;
+  var InverseSquareAnimator = kotlin_de_fabmax_kool_kool_core.$_$.y2;
+  var CosAnimator = kotlin_de_fabmax_kool_kool_core.$_$.v2;
   var NotImplementedError = kotlin_kotlin.$_$.sc;
   var Grow_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.v4;
-  var AlignmentX_End_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.o3;
-  var alignX = kotlin_de_fabmax_kool_kool_core.$_$.y1;
-  var alignY = kotlin_de_fabmax_kool_kool_core.$_$.z1;
-  var TextNode = kotlin_de_fabmax_kool_kool_core.$_$.w1;
-  var Companion_getInstance_8 = kotlin_de_fabmax_kool_kool_core.$_$.k5;
-  var toggle = kotlin_de_fabmax_kool_kool_core.$_$.n2;
+  var AlignmentX_End_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.n3;
+  var toggle = kotlin_de_fabmax_kool_kool_core.$_$.m2;
   var align$default = kotlin_de_fabmax_kool_kool_core.$_$.h4;
-  var onClick_0 = kotlin_de_fabmax_kool_kool_core.$_$.f2;
+  var onClick_0 = kotlin_de_fabmax_kool_kool_core.$_$.e2;
   var SwitchNode = kotlin_de_fabmax_kool_kool_core.$_$.v1;
-  var Companion_getInstance_9 = kotlin_de_fabmax_kool_kool_core.$_$.j5;
-  var toggleState = kotlin_de_fabmax_kool_kool_core.$_$.m2;
-  var onToggle = kotlin_de_fabmax_kool_kool_core.$_$.h2;
-  var FullscreenShaderUtil_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.m5;
-  var RectProps = kotlin_de_fabmax_kool_kool_core.$_$.c3;
+  var Companion_getInstance_10 = kotlin_de_fabmax_kool_kool_core.$_$.k5;
+  var toggleState = kotlin_de_fabmax_kool_kool_core.$_$.l2;
+  var onToggle = kotlin_de_fabmax_kool_kool_core.$_$.g2;
+  var FullscreenShaderUtil_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.n5;
+  var RectProps = kotlin_de_fabmax_kool_kool_core.$_$.b3;
   var textureMesh$default = kotlin_de_fabmax_kool_kool_core.$_$.m4;
-  var LinearAnimator = kotlin_de_fabmax_kool_kool_core.$_$.a3;
-  var ConfigBuilder = kotlin_de_fabmax_kool_kool_core.$_$.q2;
-  var Config = kotlin_de_fabmax_kool_kool_core.$_$.r2;
-  var OffscreenRenderPass2d = kotlin_de_fabmax_kool_kool_core.$_$.s2;
+  var LinearAnimator = kotlin_de_fabmax_kool_kool_core.$_$.z2;
+  var ConfigBuilder = kotlin_de_fabmax_kool_kool_core.$_$.p2;
+  var Config = kotlin_de_fabmax_kool_kool_core.$_$.q2;
+  var OffscreenRenderPass2d = kotlin_de_fabmax_kool_kool_core.$_$.r2;
   var ProjCorrectionMode_OFFSCREEN_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.c4;
-  var Group = kotlin_de_fabmax_kool_kool_core.$_$.d3;
+  var Group = kotlin_de_fabmax_kool_kool_core.$_$.c3;
   var group$default = kotlin_de_fabmax_kool_kool_core.$_$.l4;
-  var hashCode = kotlin_kotlin.$_$.x8;
   var getNumberHashCode = kotlin_kotlin.$_$.u8;
   var padEnd = kotlin_kotlin.$_$.mb;
   var toFloat1 = kotlin_de_fabmax_kool_kool_core.$_$.e1;
@@ -7377,7 +7379,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var KslProgram = kotlin_de_fabmax_kool_kool_core.$_$.l;
   var KslShader = kotlin_de_fabmax_kool_kool_core.$_$.n1;
   var mvpMatrix = kotlin_de_fabmax_kool_kool_core.$_$.k;
-  var Companion_getInstance_10 = kotlin_de_fabmax_kool_kool_core.$_$.l5;
+  var Companion_getInstance_11 = kotlin_de_fabmax_kool_kool_core.$_$.m5;
   var times_1 = kotlin_de_fabmax_kool_kool_core.$_$.d1;
   var fragmentColorBlock$default = kotlin_de_fabmax_kool_kool_core.$_$.e4;
   var float4Port = kotlin_de_fabmax_kool_kool_core.$_$.r;
@@ -7407,21 +7409,21 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var isObject = kotlin_kotlin.$_$.k9;
   var ReadWriteProperty = kotlin_kotlin.$_$.ca;
   var Vec3f = kotlin_de_fabmax_kool_kool_core.$_$.g;
-  var InterpolatedValue = kotlin_de_fabmax_kool_kool_core.$_$.y2;
+  var InterpolatedValue = kotlin_de_fabmax_kool_kool_core.$_$.x2;
   var MutableVec3f_init_$Create$_0 = kotlin_de_fabmax_kool_kool_core.$_$.r4;
   var BoundingBox = kotlin_de_fabmax_kool_kool_core.$_$.a;
-  var Node = kotlin_de_fabmax_kool_kool_core.$_$.f3;
+  var Node = kotlin_de_fabmax_kool_kool_core.$_$.e3;
   var Node_init_$Init$ = kotlin_de_fabmax_kool_kool_core.$_$.z4;
   var Texture2d_init_$Create$_0 = kotlin_de_fabmax_kool_kool_core.$_$.x4;
   var Vec2f = kotlin_de_fabmax_kool_kool_core.$_$.e;
   var Group_init_$Init$ = kotlin_de_fabmax_kool_kool_core.$_$.y4;
-  var IndexedVertexList = kotlin_de_fabmax_kool_kool_core.$_$.b3;
-  var Mesh = kotlin_de_fabmax_kool_kool_core.$_$.e3;
+  var IndexedVertexList = kotlin_de_fabmax_kool_kool_core.$_$.a3;
+  var Mesh = kotlin_de_fabmax_kool_kool_core.$_$.d3;
   var UniversalKeyCode_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.u4;
   var float3 = kotlin_de_fabmax_kool_kool_core.$_$.q;
   var gt = kotlin_de_fabmax_kool_kool_core.$_$.t;
   var BlendMode_BLEND_ADDITIVE_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.t3;
-  var group = kotlin_de_fabmax_kool_kool_core.$_$.i3;
+  var group = kotlin_de_fabmax_kool_kool_core.$_$.h3;
   var LoadingState_LOADED_getInstance = kotlin_de_fabmax_kool_kool_core.$_$.b4;
   var MutableVec2i = kotlin_de_fabmax_kool_kool_core.$_$.c;
   var toFloat3 = kotlin_de_fabmax_kool_kool_core.$_$.g1;
@@ -7430,7 +7432,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var Char__minus_impl_a2frrh = kotlin_kotlin.$_$.g2;
   var KslUnlitShader_init_$Create$ = kotlin_de_fabmax_kool_kool_core.$_$.s4;
   var colorMesh$default = kotlin_de_fabmax_kool_kool_core.$_$.k4;
-  var createDefaultContext = kotlin_de_fabmax_kool_kool_core.$_$.m3;
+  var createDefaultContext = kotlin_de_fabmax_kool_kool_core.$_$.l3;
   //endregion
   //region block: pre-declaration
   $loadAnimationsCOROUTINE$0.prototype = Object.create(CoroutineImpl.prototype);
@@ -7439,14 +7441,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   $loadAndPrepareAnimsCOROUTINE$1.prototype.constructor = $loadAndPrepareAnimsCOROUTINE$1;
   GameSpeed.prototype = Object.create(Enum.prototype);
   GameSpeed.prototype.constructor = GameSpeed;
-  MainMenuState.prototype = Object.create(State.prototype);
+  AppState.prototype = Object.create(Enum.prototype);
+  AppState.prototype.constructor = AppState;
+  MainMenuState.prototype = Object.create(StackedState.prototype);
   MainMenuState.prototype.constructor = MainMenuState;
   LocalActions.prototype = Object.create(Enum.prototype);
   LocalActions.prototype.constructor = LocalActions;
-  RunGameState.prototype = Object.create(State.prototype);
+  RunGameState.prototype = Object.create(StackedState.prototype);
   RunGameState.prototype.constructor = RunGameState;
-  Exit.prototype = Object.create(State.prototype);
-  Exit.prototype.constructor = Exit;
+  ExitState.prototype = Object.create(StackedState.prototype);
+  ExitState.prototype.constructor = ExitState;
+  DebugState.prototype = Object.create(StackedState.prototype);
+  DebugState.prototype.constructor = DebugState;
   App$Companion$bg$slambda.prototype = Object.create(CoroutineImpl.prototype);
   App$Companion$bg$slambda.prototype.constructor = App$Companion$bg$slambda;
   GameCamera.prototype = Object.create(OrthographicCamera.prototype);
@@ -7537,8 +7543,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   DigRight.prototype.constructor = DigRight;
   Runner.prototype = Object.create(Actor.prototype);
   Runner.prototype.constructor = Runner;
-  State_0.prototype = Object.create(Enum.prototype);
-  State_0.prototype.constructor = State_0;
+  State.prototype = Object.create(Enum.prototype);
+  State.prototype.constructor = State;
   AsyncScene$checkState$slambda.prototype = Object.create(CoroutineImpl.prototype);
   AsyncScene$checkState$slambda.prototype.constructor = AsyncScene$checkState$slambda;
   AsyncScene.prototype = Object.create(Scene.prototype);
@@ -7884,165 +7890,169 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return imul(this.f6s_1.g23(), this.e6s_1.g23());
   };
   ViewSpec.$metadata$ = classMeta('ViewSpec');
-  function State() {
+  var AppState_MAINMENU_instance;
+  var AppState_RUNGAME_instance;
+  var AppState_EXIT_instance;
+  var AppState_SCORES_instance;
+  var AppState_DEBUG_instance;
+  var AppState_entriesInitialized;
+  function AppState_initEntries() {
+    if (AppState_entriesInitialized)
+      return Unit_getInstance();
+    AppState_entriesInitialized = true;
+    AppState_MAINMENU_instance = new AppState('MAINMENU', 0);
+    AppState_RUNGAME_instance = new AppState('RUNGAME', 1);
+    AppState_EXIT_instance = new AppState('EXIT', 2);
+    AppState_SCORES_instance = new AppState('SCORES', 3);
+    AppState_DEBUG_instance = new AppState('DEBUG', 4);
   }
-  State.prototype.k6s = function (obj) {
-  };
-  State.prototype.l6s = function (obj) {
-  };
-  State.$metadata$ = classMeta('State');
-  function MainMenuState$exitState$lambda($tmp0_safe_receiver, $app) {
+  function AppState(name, ordinal) {
+    Enum.call(this, name, ordinal);
+  }
+  AppState.$metadata$ = classMeta('AppState', undefined, undefined, undefined, undefined, Enum.prototype);
+  function MainMenuState$lambda(this$0) {
     return function (it) {
-      $tmp0_safe_receiver.l4p($app.n6s_1);
+      var game = new Game(this$0.w6s_1.p6s_1);
+      var tmp = this$0;
+      var tmp$ret$0;
+      {
+        var tmp0_also = new MainMenuScene(this$0.w6s_1.p6s_1, game, this$0.w6s_1.k6s_1.s2d());
+        {
+        }
+        {
+          var tmp0_this = this$0.w6s_1.k6s_1;
+          {
+            var tmp0_plusAssign = tmp0_this.d2c_1;
+            tmp0_plusAssign.a(tmp0_also);
+          }
+        }
+        tmp$ret$0 = tmp0_also;
+      }
+      tmp.y6s_1 = tmp$ret$0;
+      var tmp0_safe_receiver = this$0.z6s_1;
+      if (tmp0_safe_receiver == null)
+        null;
+      else {
+        var tmp$ret$1;
+        {
+          {
+          }
+          var tmp0_this_0 = this$0.w6s_1.k6s_1;
+          var tmp0_plusAssign_0 = tmp0_this_0.d2c_1;
+          tmp0_plusAssign_0.a(tmp0_safe_receiver);
+          tmp$ret$1 = Unit_getInstance();
+        }
+      }
+      var tmp1_this = this$0.w6s_1.k6s_1;
+      var tmp1_plusAssign = tmp1_this.d2c_1;
+      var tmp2_plusAssign = touchControls(game.c6t_1);
+      tmp1_plusAssign.a(tmp2_plusAssign);
+      game.r4v();
       return Unit_getInstance();
     };
   }
-  function MainMenuState$exitState$lambda_0($tmp1_safe_receiver, $app) {
+  function MainMenuState$lambda$lambda($tmp0_safe_receiver, this$0) {
     return function (it) {
-      $tmp1_safe_receiver.l4p($app.n6s_1);
+      $tmp0_safe_receiver.l4p(this$0.w6s_1.k6s_1);
       return Unit_getInstance();
     };
   }
-  function MainMenuState() {
-    MainMenuState_instance = this;
-    State.call(this);
-    this.v6s_1 = false;
-    this.w6s_1 = false;
+  function MainMenuState$lambda$lambda_0($tmp1_safe_receiver, this$0) {
+    return function (it) {
+      $tmp1_safe_receiver.l4p(this$0.w6s_1.k6s_1);
+      return Unit_getInstance();
+    };
+  }
+  function MainMenuState$lambda_0(this$0) {
+    return function (it) {
+      var tmp0_safe_receiver = this$0.z6s_1;
+      if (tmp0_safe_receiver == null)
+        null;
+      else {
+        var tmp$ret$0;
+        {
+          {
+          }
+          var tmp0_this = this$0.w6s_1.k6s_1;
+          {
+            var tmp0_minusAssign = tmp0_this.d2c_1;
+            tmp0_minusAssign.c4(tmp0_safe_receiver);
+          }
+          tmp$ret$0 = this$0.w6s_1.k6s_1.k2f(1, MainMenuState$lambda$lambda(tmp0_safe_receiver, this$0));
+        }
+      }
+      this$0.z6s_1 = null;
+      var tmp1_safe_receiver = this$0.y6s_1;
+      if (tmp1_safe_receiver == null)
+        null;
+      else {
+        var tmp$ret$1;
+        {
+          {
+          }
+          var tmp0_this_0 = this$0.w6s_1.k6s_1;
+          {
+            var tmp0_minusAssign_0 = tmp0_this_0.d2c_1;
+            tmp0_minusAssign_0.c4(tmp1_safe_receiver);
+          }
+          tmp$ret$1 = this$0.w6s_1.k6s_1.k2f(1, MainMenuState$lambda$lambda_0(tmp1_safe_receiver, this$0));
+        }
+      }
+      this$0.y6s_1 = null;
+      this$0.w6s_1.k6s_1.d2c_1.t7();
+      return Unit_getInstance();
+    };
+  }
+  function MainMenuState$lambda_1(this$0) {
+    return function ($this$onUpdate) {
+      var tmp0_safe_receiver = this$0.y6s_1;
+      if (tmp0_safe_receiver == null)
+        null;
+      else {
+        var tmp$ret$1;
+        {
+          {
+          }
+          var tmp;
+          if (tmp0_safe_receiver.h6w_1 ? true : tmp0_safe_receiver.i6w_1) {
+            if (tmp0_safe_receiver.h6w_1 ? true : $this$onUpdate.p6s_1.t6w_1.v3s_1 <= 0) {
+              var tmp$ret$0;
+              {
+                var tmp0_with = $this$onUpdate.p6s_1;
+                {
+                }
+                tmp0_with.p6w_1.m1e(tmp0_safe_receiver.w6v_1.v6w_1.v3s_1);
+                tmp0_with.o6w_1.m1e(tmp0_safe_receiver.w6v_1.u6w_1.v3s_1);
+                tmp0_with.t6w_1.m1e(get_START_HEALTH());
+                tmp$ret$0 = tmp0_with.m6w_1.m1e(0);
+              }
+            }
+            tmp0_safe_receiver.h6w_1 = false;
+            tmp0_safe_receiver.i6w_1 = false;
+            return AppState_RUNGAME_getInstance();
+          }
+          tmp$ret$1 = tmp;
+        }
+      }
+      var tmp_0;
+      if (this$0.x6s_1) {
+        this$0.x6s_1 = false;
+        return AppState_EXIT_getInstance();
+      }
+      return null;
+    };
+  }
+  function MainMenuState(app) {
+    StackedState.call(this, AppState_MAINMENU_getInstance());
+    this.w6s_1 = app;
     this.x6s_1 = false;
     this.y6s_1 = null;
     this.z6s_1 = null;
+    this.b6x(MainMenuState$lambda(this));
+    this.c6x(MainMenuState$lambda_0(this));
+    this.d6x(MainMenuState$lambda_1(this));
   }
-  MainMenuState.prototype.a6t = function () {
-    var tmp = this.y6s_1;
-    var tmp0_safe_receiver = tmp instanceof MainMenuScene ? tmp : null;
-    var tmp1_elvis_lhs = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.i6v_1;
-    var tmp_0;
-    if (tmp1_elvis_lhs == null) {
-      throw IllegalStateException_init_$Create$();
-    } else {
-      tmp_0 = tmp1_elvis_lhs;
-    }
-    return tmp_0;
-  };
-  MainMenuState.prototype.v6v = function (app) {
-    State.prototype.k6s.call(this, app);
-    var game = new Game(app.s6s_1);
-    var tmp = this;
-    var tmp$ret$0;
-    {
-      var tmp0_also = new MainMenuScene(app.s6s_1, game, app.n6s_1.s2d());
-      {
-      }
-      {
-        var tmp0_this = app.n6s_1;
-        {
-          var tmp0_plusAssign = tmp0_this.d2c_1;
-          tmp0_plusAssign.a(tmp0_also);
-        }
-      }
-      tmp$ret$0 = tmp0_also;
-    }
-    tmp.y6s_1 = tmp$ret$0;
-    var tmp0_safe_receiver = this.z6s_1;
-    if (tmp0_safe_receiver == null)
-      null;
-    else {
-      var tmp$ret$1;
-      {
-        {
-        }
-        var tmp0_this_0 = app.n6s_1;
-        var tmp0_plusAssign_0 = tmp0_this_0.d2c_1;
-        tmp0_plusAssign_0.a(tmp0_safe_receiver);
-        tmp$ret$1 = Unit_getInstance();
-      }
-    }
-    var tmp1_this = app.n6s_1;
-    {
-      var tmp1_plusAssign = tmp1_this.d2c_1;
-      var tmp2_plusAssign = touchControls(game.y6v_1);
-      tmp1_plusAssign.a(tmp2_plusAssign);
-    }
-    game.r4v();
-  };
-  MainMenuState.prototype.k6s = function (obj) {
-    return this.v6v(obj instanceof App ? obj : THROW_CCE());
-  };
-  MainMenuState.prototype.l6w = function (app) {
-    State.prototype.l6s.call(this, app);
-    var tmp0_safe_receiver = this.z6s_1;
-    if (tmp0_safe_receiver == null)
-      null;
-    else {
-      var tmp$ret$0;
-      {
-        {
-        }
-        var tmp0_this = app.n6s_1;
-        {
-          var tmp0_minusAssign = tmp0_this.d2c_1;
-          tmp0_minusAssign.c4(tmp0_safe_receiver);
-        }
-        tmp$ret$0 = app.n6s_1.k2f(1, MainMenuState$exitState$lambda(tmp0_safe_receiver, app));
-      }
-    }
-    this.z6s_1 = null;
-    var tmp1_safe_receiver = this.y6s_1;
-    if (tmp1_safe_receiver == null)
-      null;
-    else {
-      var tmp$ret$1;
-      {
-        {
-        }
-        var tmp0_this_0 = app.n6s_1;
-        {
-          var tmp0_minusAssign_0 = tmp0_this_0.d2c_1;
-          tmp0_minusAssign_0.c4(tmp1_safe_receiver);
-        }
-        tmp$ret$1 = app.n6s_1.k2f(1, MainMenuState$exitState$lambda_0(tmp1_safe_receiver, app));
-      }
-    }
-    this.y6s_1 = null;
-    app.n6s_1.d2c_1.t7();
-  };
-  MainMenuState.prototype.l6s = function (obj) {
-    return this.l6w(obj instanceof App ? obj : THROW_CCE());
-  };
-  MainMenuState.prototype.m6w = function (obj) {
-    if (this.w6s_1 ? true : this.v6s_1) {
-      if (this.w6s_1 ? true : obj.s6s_1.v6w_1.v3s_1 <= 0) {
-        var tmp$ret$0;
-        {
-          var tmp0_with = obj.s6s_1;
-          {
-          }
-          tmp0_with.r6w_1.m1e(MainMenuState_getInstance().a6t().x6w_1.v3s_1);
-          tmp0_with.q6w_1.m1e(MainMenuState_getInstance().a6t().w6w_1.v3s_1);
-          tmp0_with.v6w_1.m1e(get_START_HEALTH());
-          tmp$ret$0 = tmp0_with.o6w_1.m1e(0);
-        }
-      }
-      this.w6s_1 = false;
-      this.v6s_1 = false;
-      return RunGameState_getInstance();
-    }
-    if (this.x6s_1) {
-      this.x6s_1 = false;
-      return Exit_getInstance();
-    }
-    return null;
-  };
-  MainMenuState.prototype.m6s = function (obj) {
-    return this.m6w(obj instanceof App ? obj : THROW_CCE());
-  };
-  MainMenuState.$metadata$ = objectMeta('MainMenuState', undefined, undefined, undefined, undefined, State.prototype);
-  var MainMenuState_instance;
-  function MainMenuState_getInstance() {
-    if (MainMenuState_instance == null)
-      new MainMenuState();
-    return MainMenuState_instance;
-  }
+  MainMenuState.$metadata$ = classMeta('MainMenuState', undefined, undefined, undefined, undefined, StackedState.prototype);
   function LocalActions_init_$Init$(name, ordinal, keyCode, onPress, onRelease, $mask0, $marker, $this) {
     if (!(($mask0 & 8) === 0)) {
       onPress = RunGameState$LocalActions$_init_$lambda_u547rr();
@@ -8073,22 +8083,22 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function RunGameState$LocalActions$lambda() {
     return function ($this$null, it) {
-      var tmp0_subject = RunGameState_getInstance().a6x_1;
+      var tmp0_subject = $this$null.u6x_1;
       var tmp;
       if (tmp0_subject == null) {
         tmp = Unit_getInstance();
       } else {
         var tmp_0;
-        if (contains($this$null.n6s_1.d2c_1, RunGameState_getInstance().a6x_1)) {
-          var tmp1_this = $this$null.n6s_1;
+        if (contains($this$null.r6x_1.k6s_1.d2c_1, $this$null.u6x_1)) {
+          var tmp1_this = $this$null.r6x_1.k6s_1;
           var tmp0_minusAssign = tmp1_this.d2c_1;
-          var tmp1_minusAssign = ensureNotNull(RunGameState_getInstance().a6x_1);
+          var tmp1_minusAssign = ensureNotNull($this$null.u6x_1);
           tmp0_minusAssign.c4(tmp1_minusAssign);
           tmp_0 = Unit_getInstance();
         } else {
-          var tmp2_this = $this$null.n6s_1;
+          var tmp2_this = $this$null.r6x_1.k6s_1;
           var tmp2_plusAssign = tmp2_this.d2c_1;
-          var tmp3_plusAssign = ensureNotNull(RunGameState_getInstance().a6x_1);
+          var tmp3_plusAssign = ensureNotNull($this$null.u6x_1);
           tmp2_plusAssign.a(tmp3_plusAssign);
           tmp_0 = Unit_getInstance();
         }
@@ -8099,7 +8109,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function RunGameState$LocalActions$lambda_0() {
     return function ($this$null, it) {
-      RunGameState_getInstance().c6x_1 = true;
+      $this$null.w6x_1 = true;
       return Unit_getInstance();
     };
   }
@@ -8117,70 +8127,188 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function LocalActions(name, ordinal, keyCode, onPress, onRelease) {
     Enum.call(this, name, ordinal);
-    this.f6x_1 = keyCode;
-    this.g6x_1 = onPress;
-    this.h6x_1 = onRelease;
+    this.z6x_1 = keyCode;
+    this.a6y_1 = onPress;
+    this.b6y_1 = onRelease;
   }
-  LocalActions.prototype.i6x = function () {
-    return this.f6x_1;
+  LocalActions.prototype.c6y = function () {
+    return this.z6x_1;
   };
-  LocalActions.prototype.j6x = function () {
-    return this.g6x_1;
+  LocalActions.prototype.d6y = function () {
+    return this.a6y_1;
   };
-  LocalActions.prototype.k6x = function () {
-    return this.h6x_1;
+  LocalActions.prototype.e6y = function () {
+    return this.b6y_1;
   };
   LocalActions.$metadata$ = classMeta('LocalActions', [KeyAction], undefined, undefined, undefined, Enum.prototype);
-  function RunGameState$enterState$lambda() {
+  function RunGameState$lambda$lambda(this$0) {
     return function ($this$UiScene) {
-      var tmp0_safe_receiver = RunGameState_getInstance().y6w_1;
+      var tmp0_safe_receiver = this$0.s6x_1;
       var tmp;
       if (tmp0_safe_receiver == null) {
         tmp = null;
       } else {
-        tmp0_safe_receiver.x6z($this$UiScene);
+        tmp0_safe_receiver.r70($this$UiScene);
         tmp = Unit_getInstance();
       }
       ensureNotNull(tmp);
       return Unit_getInstance();
     };
   }
-  function RunGameState$enterState$lambda$lambda() {
+  function RunGameState$lambda$lambda$lambda(this$0) {
     return function (it) {
-      RunGameState_getInstance().c6x_1 = true;
+      this$0.w6x_1 = true;
       return Unit_getInstance();
     };
   }
-  function RunGameState$enterState$lambda_0($app) {
+  function RunGameState$lambda$lambda_0(this$0) {
     return function ($this$null) {
-      var tmp0_subject = $this$null.y6z_1;
+      var tmp0_subject = $this$null.w6w_1;
       var tmp0 = tmp0_subject.y1();
       var tmp;
       if (tmp0 === 8) {
-        var tmp_0 = numberToInt($app.n6s_1.c2c_1 * 7);
-        tmp = $app.n6s_1.k2f(tmp_0, RunGameState$enterState$lambda$lambda());
+        var tmp_0 = numberToInt(this$0.r6x_1.k6s_1.c2c_1 * 7);
+        tmp = this$0.r6x_1.k6s_1.k2f(tmp_0, RunGameState$lambda$lambda$lambda(this$0));
       } else {
         tmp = Unit_getInstance();
       }
       return Unit_getInstance();
     };
   }
-  function RunGameState$exitState$lambda($tmp0_safe_receiver, $tmp0_with) {
+  function RunGameState$lambda(this$0) {
+    return function (it) {
+      this$0.w6x_1 = false;
+      var game = new Game(this$0.r6x_1.p6s_1);
+      var tmp = this$0;
+      var tmp$ret$0;
+      {
+        var tmp0_apply = GameLevelScene_init_$Create$(game, this$0.r6x_1.k6s_1, null, this$0.r6x_1.p6s_1, 'level', 4, null);
+        {
+        }
+        {
+          tmp0_apply.v4v(new GameControls(game, this$0.r6x_1.k6s_1.t2d()));
+        }
+        tmp$ret$0 = tmp0_apply;
+      }
+      tmp.s6x_1 = tmp$ret$0;
+      var tmp_0 = this$0;
+      var tmp_1 = this$0.r6x_1.k6s_1.s2d();
+      tmp_0.t6x_1 = GameUI_init_$Create$(game, tmp_1, this$0.r6x_1.p6s_1, null, 8, null);
+      var tmp0_this = this$0.r6x_1.k6s_1;
+      var tmp1_plusAssign = tmp0_this.d2c_1;
+      var tmp2_plusAssign = ensureNotNull(this$0.s6x_1);
+      tmp1_plusAssign.a(tmp2_plusAssign);
+      var tmp1_this = this$0.r6x_1.k6s_1;
+      var tmp3_plusAssign = tmp1_this.d2c_1;
+      var tmp4_plusAssign = ensureNotNull(this$0.t6x_1);
+      tmp3_plusAssign.a(tmp4_plusAssign);
+      var tmp_2 = this$0;
+      tmp_2.u6x_1 = UiScene$default(null, false, RunGameState$lambda$lambda(this$0), 3, null);
+      this$0.v6x_1.o1(registerActions(this$0.r6x_1.k6s_1.t2d(), this$0, asIterable(values_0())));
+      var tmp2_this = game;
+      var tmp5_plusAssign = tmp2_this.n6t_1;
+      tmp5_plusAssign.a(RunGameState$lambda$lambda_0(this$0));
+      var tmp3_this = this$0.r6x_1.k6s_1;
+      var tmp6_plusAssign = tmp3_this.d2c_1;
+      var tmp7_plusAssign = touchControls(game.c6t_1);
+      tmp6_plusAssign.a(tmp7_plusAssign);
+      return Unit_getInstance();
+    };
+  }
+  function RunGameState$lambda$lambda_1($tmp0_safe_receiver, $tmp0_with) {
     return function (it) {
       $tmp0_safe_receiver.l4p($tmp0_with);
       return Unit_getInstance();
     };
   }
-  function RunGameState$exitState$lambda_0($tmp1_safe_receiver, $tmp0_with) {
+  function RunGameState$lambda$lambda_2($tmp1_safe_receiver, $tmp0_with) {
     return function (it) {
       $tmp1_safe_receiver.l4p($tmp0_with);
       return Unit_getInstance();
     };
   }
-  function RunGameState$exitState$lambda_1($tmp2_safe_receiver, $tmp0_with) {
+  function RunGameState$lambda$lambda_3($tmp2_safe_receiver, $tmp0_with) {
     return function (it) {
       $tmp2_safe_receiver.l4p($tmp0_with);
       return Unit_getInstance();
+    };
+  }
+  function RunGameState$lambda_0(this$0) {
+    return function (it) {
+      var tmp$ret$3;
+      {
+        var tmp0_with = this$0.r6x_1.k6s_1;
+        {
+        }
+        {
+          var tmp0_forEach = this$0.v6x_1;
+          var tmp0_iterator = tmp0_forEach.h();
+          while (tmp0_iterator.n()) {
+            var element = tmp0_iterator.o();
+            {
+              tmp0_with.t2d().c2b(element);
+            }
+          }
+        }
+        var tmp0_safe_receiver = this$0.s6x_1;
+        if (tmp0_safe_receiver == null)
+          null;
+        else {
+          var tmp$ret$0;
+          {
+            {
+            }
+            var tmp0_this = tmp0_with;
+            {
+              var tmp0_minusAssign = tmp0_this.d2c_1;
+              tmp0_minusAssign.c4(tmp0_safe_receiver);
+            }
+            tmp$ret$0 = tmp0_with.k2f(1, RunGameState$lambda$lambda_1(tmp0_safe_receiver, tmp0_with));
+          }
+        }
+        this$0.s6x_1 = null;
+        var tmp1_safe_receiver = this$0.t6x_1;
+        if (tmp1_safe_receiver == null)
+          null;
+        else {
+          var tmp$ret$1;
+          {
+            {
+            }
+            var tmp0_this_0 = tmp0_with;
+            {
+              var tmp0_minusAssign_0 = tmp0_this_0.d2c_1;
+              tmp0_minusAssign_0.c4(tmp1_safe_receiver);
+            }
+            tmp$ret$1 = tmp0_with.k2f(1, RunGameState$lambda$lambda_2(tmp1_safe_receiver, tmp0_with));
+          }
+        }
+        this$0.t6x_1 = null;
+        var tmp2_safe_receiver = this$0.u6x_1;
+        if (tmp2_safe_receiver == null)
+          null;
+        else {
+          var tmp$ret$2;
+          {
+            {
+            }
+            var tmp0_this_1 = this$0.r6x_1.k6s_1;
+            {
+              var tmp0_minusAssign_1 = tmp0_this_1.d2c_1;
+              tmp0_minusAssign_1.c4(tmp2_safe_receiver);
+            }
+            tmp$ret$2 = tmp0_with.k2f(1, RunGameState$lambda$lambda_3(tmp2_safe_receiver, tmp0_with));
+          }
+        }
+        this$0.u6x_1 = null;
+        tmp$ret$3 = this$0.r6x_1.k6s_1.d2c_1.t7();
+      }
+      return Unit_getInstance();
+    };
+  }
+  function RunGameState$lambda_1(this$0) {
+    return function ($this$onUpdate) {
+      return this$0.w6x_1 ? AppState_MAINMENU_getInstance() : null;
     };
   }
   function LocalActions_DEBUGTOGGLE_getInstance() {
@@ -8191,181 +8319,138 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     LocalActions_initEntries();
     return LocalActions_EXIT_instance;
   }
-  function RunGameState() {
-    RunGameState_instance = this;
-    State.call(this);
-    this.y6w_1 = null;
-    this.z6w_1 = null;
-    this.a6x_1 = null;
+  function RunGameState(app) {
+    StackedState.call(this, AppState_RUNGAME_getInstance());
+    this.r6x_1 = app;
+    this.s6x_1 = null;
+    this.t6x_1 = null;
+    this.u6x_1 = null;
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp.b6x_1 = tmp$ret$0;
-    this.c6x_1 = false;
+    tmp.v6x_1 = tmp$ret$0;
+    this.w6x_1 = false;
+    this.b6x(RunGameState$lambda(this));
+    this.c6x(RunGameState$lambda_0(this));
+    this.d6x(RunGameState$lambda_1(this));
   }
-  RunGameState.prototype.v6v = function (app) {
-    State.prototype.k6s.call(this, app);
-    this.c6x_1 = false;
-    var game = new Game(app.s6s_1);
-    var tmp = this;
-    var tmp$ret$0;
-    {
-      var tmp0_apply = GameLevelScene_init_$Create$(game, app.n6s_1, null, app.s6s_1, 'level', 4, null);
+  RunGameState.$metadata$ = classMeta('RunGameState', undefined, undefined, undefined, undefined, StackedState.prototype);
+  function ExitState$lambda(this$0) {
+    return function (it) {
+      this$0.x70_1.k6s_1.g2f();
+      return Unit_getInstance();
+    };
+  }
+  function ExitState(app) {
+    StackedState.call(this, AppState_EXIT_getInstance());
+    this.x70_1 = app;
+    this.b6x(ExitState$lambda(this));
+  }
+  ExitState.$metadata$ = classMeta('ExitState', undefined, undefined, undefined, undefined, StackedState.prototype);
+  function DebugState$lambda$lambda$lambda(this$0) {
+    return function ($this$Panel) {
+      alignX(alignY($this$Panel.m3u(), AlignmentY_Top_getInstance()), AlignmentX_Start_getInstance());
+      var tmp$ret$2;
       {
-      }
-      {
-        tmp0_apply.v4v(new GameControls(game, app.n6s_1.t2d()));
-      }
-      tmp$ret$0 = tmp0_apply;
-    }
-    tmp.y6w_1 = tmp$ret$0;
-    var tmp_0 = this;
-    var tmp_1 = app.n6s_1.s2d();
-    tmp_0.z6w_1 = GameUI_init_$Create$(game, tmp_1, app.s6s_1, null, 8, null);
-    var tmp0_this = app.n6s_1;
-    {
-      var tmp1_plusAssign = tmp0_this.d2c_1;
-      var tmp2_plusAssign = ensureNotNull(this.y6w_1);
-      tmp1_plusAssign.a(tmp2_plusAssign);
-    }
-    var tmp1_this = app.n6s_1;
-    {
-      var tmp3_plusAssign = tmp1_this.d2c_1;
-      var tmp4_plusAssign = ensureNotNull(this.z6w_1);
-      tmp3_plusAssign.a(tmp4_plusAssign);
-    }
-    var tmp_2 = this;
-    tmp_2.a6x_1 = UiScene$default(null, false, RunGameState$enterState$lambda(), 3, null);
-    this.b6x_1.o1(registerActions(app.n6s_1.t2d(), app, asIterable(values_0())));
-    var tmp2_this = game;
-    {
-      var tmp5_plusAssign = tmp2_this.j6w_1;
-      tmp5_plusAssign.a(RunGameState$enterState$lambda_0(app));
-    }
-    var tmp3_this = app.n6s_1;
-    {
-      var tmp6_plusAssign = tmp3_this.d2c_1;
-      var tmp7_plusAssign = touchControls(game.y6v_1);
-      tmp6_plusAssign.a(tmp7_plusAssign);
-    }
-  };
-  RunGameState.prototype.k6s = function (obj) {
-    return this.v6v(obj instanceof App ? obj : THROW_CCE());
-  };
-  RunGameState.prototype.l6w = function (app) {
-    State.prototype.l6s.call(this, app);
-    var tmp$ret$3;
-    {
-      var tmp0_with = app.n6s_1;
-      {
-      }
-      {
-        var tmp0_forEach = RunGameState_getInstance().b6x_1;
-        var tmp0_iterator = tmp0_forEach.h();
-        while (tmp0_iterator.n()) {
-          var element = tmp0_iterator.o();
-          {
-            tmp0_with.t2d().c2b(element);
-          }
-        }
-      }
-      var tmp0_safe_receiver = RunGameState_getInstance().y6w_1;
-      if (tmp0_safe_receiver == null)
-        null;
-      else {
-        var tmp$ret$0;
+        var tmp0_Row = FitContent_getInstance();
+        var tmp1_Row = FitContent_getInstance();
+        var row = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_0().g3t_1);
+        layout(size(row.m3u(), tmp0_Row, tmp1_Row), RowLayout_getInstance());
         {
+          var tmp$ret$1;
           {
+            var tmp0_Text = row.e3t(this$0.e71_1);
+            var textNd = row.f3t().v3t(getKClass(TextNode), Companion_getInstance_1().s4e_1);
+            text(textNd.m3u(), tmp0_Text);
+            var tmp$ret$0;
+            {
+              tmp$ret$0 = Unit_getInstance();
+            }
+            tmp$ret$1 = textNd;
           }
-          var tmp0_this = tmp0_with;
-          {
-            var tmp0_minusAssign = tmp0_this.d2c_1;
-            tmp0_minusAssign.c4(tmp0_safe_receiver);
-          }
-          tmp$ret$0 = tmp0_with.k2f(1, RunGameState$exitState$lambda(tmp0_safe_receiver, tmp0_with));
         }
+        tmp$ret$2 = row;
       }
-      RunGameState_getInstance().y6w_1 = null;
-      var tmp1_safe_receiver = RunGameState_getInstance().z6w_1;
-      if (tmp1_safe_receiver == null)
-        null;
-      else {
+      return tmp$ret$2;
+    };
+  }
+  function DebugState$lambda$lambda(this$0) {
+    return function ($this$UiScene) {
+      var tmp = Companion_getInstance_2().i4e_1;
+      $this$UiScene.v4v(Panel$default(null, tmp, null, DebugState$lambda$lambda$lambda(this$0), 5, null));
+      return Unit_getInstance();
+    };
+  }
+  function DebugState$lambda(this$0) {
+    return function (it) {
+      var tmp0_this = this$0.d71_1.k6s_1;
+      var tmp0_plusAssign = tmp0_this.d2c_1;
+      var tmp1_plusAssign = UiScene$default(null, false, DebugState$lambda$lambda(this$0), 3, null);
+      tmp0_plusAssign.a(tmp1_plusAssign);
+      return Unit_getInstance();
+    };
+  }
+  function DebugState$lambda$lambda_0() {
+    return function (it) {
+      return format('id: %d\t valid: %s\t %5.5f x %5.5f mask=%d', [it.w1z_1, it.h20_1, it.x1z_1, it.y1z_1, it.f20_1]);
+    };
+  }
+  function DebugState$lambda_0(this$0) {
+    return function ($this$onUpdate) {
+      var tmp$ret$2;
+      {
+        var tmp0_filter = $this$onUpdate.k6s_1.t2d().y2a_1.u22_1;
         var tmp$ret$1;
         {
-          {
+          var tmp0_filterTo = ArrayList_init_$Create$_0();
+          var indexedObject = tmp0_filter;
+          var inductionVariable = 0;
+          var last = indexedObject.length;
+          while (inductionVariable < last) {
+            var element = indexedObject[inductionVariable];
+            inductionVariable = inductionVariable + 1 | 0;
+            var tmp$ret$0;
+            {
+              var tmp;
+              var tmp_0;
+              if (element.h20_1) {
+                tmp_0 = !element.q24(0, 1, null);
+              } else {
+                tmp_0 = false;
+              }
+              if (tmp_0) {
+                tmp = element.y23();
+              } else {
+                tmp = false;
+              }
+              tmp$ret$0 = tmp;
+            }
+            if (tmp$ret$0) {
+              tmp0_filterTo.a(element);
+            }
           }
-          var tmp0_this_0 = tmp0_with;
-          {
-            var tmp0_minusAssign_0 = tmp0_this_0.d2c_1;
-            tmp0_minusAssign_0.c4(tmp1_safe_receiver);
-          }
-          tmp$ret$1 = tmp0_with.k2f(1, RunGameState$exitState$lambda_0(tmp1_safe_receiver, tmp0_with));
+          tmp$ret$1 = tmp0_filterTo;
         }
+        tmp$ret$2 = tmp$ret$1;
       }
-      RunGameState_getInstance().z6w_1 = null;
-      var tmp2_safe_receiver = RunGameState_getInstance().a6x_1;
-      if (tmp2_safe_receiver == null)
-        null;
-      else {
-        var tmp$ret$2;
-        {
-          {
-          }
-          var tmp0_this_1 = app.n6s_1;
-          {
-            var tmp0_minusAssign_1 = tmp0_this_1.d2c_1;
-            tmp0_minusAssign_1.c4(tmp2_safe_receiver);
-          }
-          tmp$ret$2 = tmp0_with.k2f(1, RunGameState$exitState$lambda_1(tmp2_safe_receiver, tmp0_with));
-        }
-      }
-      RunGameState_getInstance().a6x_1 = null;
-      tmp$ret$3 = app.n6s_1.d2c_1.t7();
-    }
-  };
-  RunGameState.prototype.l6s = function (obj) {
-    return this.l6w(obj instanceof App ? obj : THROW_CCE());
-  };
-  RunGameState.prototype.m6w = function (app) {
-    if (this.c6x_1)
-      return MainMenuState_getInstance();
-    return null;
-  };
-  RunGameState.prototype.m6s = function (obj) {
-    return this.m6w(obj instanceof App ? obj : THROW_CCE());
-  };
-  RunGameState.$metadata$ = objectMeta('RunGameState', undefined, undefined, undefined, undefined, State.prototype);
-  var RunGameState_instance;
-  function RunGameState_getInstance() {
-    if (RunGameState_instance == null)
-      new RunGameState();
-    return RunGameState_instance;
+      var tmp_1 = tmp$ret$2;
+      this$0.e71_1.m1e(joinToString$default(tmp_1, '\n', null, null, 0, null, DebugState$lambda$lambda_0(), 30, null));
+      return Unit_getInstance();
+    };
   }
-  function Exit() {
-    Exit_instance = this;
-    State.call(this);
+  function DebugState(app) {
+    StackedState.call(this, AppState_DEBUG_getInstance());
+    this.d71_1 = app;
+    this.e71_1 = mutableStateOf('');
+    this.b6x(DebugState$lambda(this));
+    this.d6x(DebugState$lambda_0(this));
   }
-  Exit.prototype.v6v = function (obj) {
-    return obj.n6s_1.g2f();
+  DebugState.prototype.f71 = function () {
+    return this.e71_1;
   };
-  Exit.prototype.k6s = function (obj) {
-    return this.v6v(obj instanceof App ? obj : THROW_CCE());
-  };
-  Exit.prototype.m6w = function (obj) {
-    return null;
-  };
-  Exit.prototype.m6s = function (obj) {
-    return this.m6w(obj instanceof App ? obj : THROW_CCE());
-  };
-  Exit.$metadata$ = objectMeta('Exit', undefined, undefined, undefined, undefined, State.prototype);
-  var Exit_instance;
-  function Exit_getInstance() {
-    if (Exit_instance == null)
-      new Exit();
-    return Exit_instance;
-  }
+  DebugState.$metadata$ = classMeta('DebugState', undefined, undefined, undefined, undefined, StackedState.prototype);
   function GameSettings$speed$delegate$lambda() {
     return function (s) {
       var tmp$ret$0;
@@ -8394,151 +8479,151 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     };
   }
   function GameSettings(settings) {
-    this.d70_1 = settings;
+    this.g71_1 = settings;
     var tmp = this;
-    tmp.e70_1 = int$default(this.d70_1, null, 0, 1, null);
+    tmp.h71_1 = int$default(this.g71_1, null, 0, 1, null);
     var tmp_0 = this;
-    tmp_0.f70_1 = int$default(this.d70_1, null, 0, 1, null);
+    tmp_0.i71_1 = int$default(this.g71_1, null, 0, 1, null);
     var tmp_1 = this;
-    tmp_1.g70_1 = int$default(this.d70_1, null, get_START_HEALTH(), 1, null);
+    tmp_1.j71_1 = int$default(this.g71_1, null, get_START_HEALTH(), 1, null);
     var tmp_2 = this;
     var tmp$ret$0;
     {
-      var tmp0_enumDelegate = this.d70_1;
+      var tmp0_enumDelegate = this.g71_1;
       var tmp1_enumDelegate = GameSpeed_SPEED_SLOW_getInstance();
       tmp$ret$0 = new EnumDelegate(tmp0_enumDelegate, null, tmp1_enumDelegate, GameSettings$speed$delegate$lambda());
     }
-    tmp_2.h70_1 = tmp$ret$0;
+    tmp_2.k71_1 = tmp$ret$0;
     var tmp_3 = this;
     var tmp$ret$1;
     {
-      var tmp0_enumDelegate_0 = this.d70_1;
+      var tmp0_enumDelegate_0 = this.g71_1;
       var tmp1_enumDelegate_0 = TileSet_SPRITES_APPLE2_getInstance();
       tmp$ret$1 = new EnumDelegate(tmp0_enumDelegate_0, null, tmp1_enumDelegate_0, GameSettings$spriteMode$delegate$lambda());
     }
-    tmp_3.i70_1 = tmp$ret$1;
+    tmp_3.l71_1 = tmp$ret$1;
     var tmp_4 = this;
     var tmp$ret$2;
     {
-      var tmp0_enumDelegate_1 = this.d70_1;
+      var tmp0_enumDelegate_1 = this.g71_1;
       var tmp1_enumDelegate_1 = LevelSet_CLASSIC_getInstance();
       tmp$ret$2 = new EnumDelegate(tmp0_enumDelegate_1, null, tmp1_enumDelegate_1, GameSettings$version$delegate$lambda());
     }
-    tmp_4.j70_1 = tmp$ret$2;
+    tmp_4.m71_1 = tmp$ret$2;
     var tmp_5 = this;
-    tmp_5.k70_1 = float$default(this.d70_1, null, 60.0, 1, null);
+    tmp_5.n71_1 = float$default(this.g71_1, null, 60.0, 1, null);
     var tmp_6 = this;
-    tmp_6.l70_1 = boolean$default(this.d70_1, null, false, 3, null);
+    tmp_6.o71_1 = boolean$default(this.g71_1, null, false, 3, null);
     var tmp_7 = this;
-    tmp_7.m70_1 = boolean$default(this.d70_1, null, true, 1, null);
+    tmp_7.p71_1 = boolean$default(this.g71_1, null, true, 1, null);
     var tmp_8 = this;
-    tmp_8.n70_1 = boolean$default(this.d70_1, null, false, 1, null);
-    this.o70_1 = 4;
-    this.p70_1 = 4;
+    tmp_8.q71_1 = boolean$default(this.g71_1, null, false, 1, null);
+    this.r71_1 = 4;
+    this.s71_1 = 4;
   }
-  GameSettings.prototype.q70 = function (_set____db54di) {
-    return this.e70_1.s8(this, curScore$factory(), _set____db54di);
+  GameSettings.prototype.t71 = function (_set____db54di) {
+    return this.h71_1.s8(this, curScore$factory(), _set____db54di);
   };
-  GameSettings.prototype.r70 = function () {
-    return this.e70_1.r8(this, curScore$factory_0());
+  GameSettings.prototype.u71 = function () {
+    return this.h71_1.r8(this, curScore$factory_0());
   };
-  GameSettings.prototype.s70 = function (_set____db54di) {
-    return this.f70_1.s8(this, currentLevel$factory(), _set____db54di);
+  GameSettings.prototype.v71 = function (_set____db54di) {
+    return this.i71_1.s8(this, currentLevel$factory(), _set____db54di);
   };
-  GameSettings.prototype.t70 = function () {
-    return this.f70_1.r8(this, currentLevel$factory_0());
+  GameSettings.prototype.w71 = function () {
+    return this.i71_1.r8(this, currentLevel$factory_0());
   };
-  GameSettings.prototype.u70 = function (_set____db54di) {
-    return this.g70_1.s8(this, runnerLifes$factory(), _set____db54di);
+  GameSettings.prototype.x71 = function (_set____db54di) {
+    return this.j71_1.s8(this, runnerLifes$factory(), _set____db54di);
   };
-  GameSettings.prototype.v70 = function () {
-    return this.g70_1.r8(this, runnerLifes$factory_0());
+  GameSettings.prototype.y71 = function () {
+    return this.j71_1.r8(this, runnerLifes$factory_0());
   };
-  GameSettings.prototype.w70 = function (_set____db54di) {
-    return this.h70_1.b71(this, speed$factory(), _set____db54di);
+  GameSettings.prototype.z71 = function (_set____db54di) {
+    return this.k71_1.e72(this, speed$factory(), _set____db54di);
   };
   GameSettings.prototype.x5l = function () {
-    return this.h70_1.x2u(this, speed$factory_0());
+    return this.k71_1.x2u(this, speed$factory_0());
   };
-  GameSettings.prototype.c71 = function (_set____db54di) {
-    return this.i70_1.b71(this, spriteMode$factory(), _set____db54di);
+  GameSettings.prototype.f72 = function (_set____db54di) {
+    return this.l71_1.e72(this, spriteMode$factory(), _set____db54di);
   };
-  GameSettings.prototype.d71 = function () {
-    return this.i70_1.x2u(this, spriteMode$factory_0());
+  GameSettings.prototype.g72 = function () {
+    return this.l71_1.x2u(this, spriteMode$factory_0());
   };
-  GameSettings.prototype.e71 = function (_set____db54di) {
-    return this.j70_1.b71(this, version$factory(), _set____db54di);
+  GameSettings.prototype.h72 = function (_set____db54di) {
+    return this.m71_1.e72(this, version$factory(), _set____db54di);
   };
-  GameSettings.prototype.f71 = function () {
-    return this.j70_1.x2u(this, version$factory_0());
+  GameSettings.prototype.i72 = function () {
+    return this.m71_1.x2u(this, version$factory_0());
   };
-  GameSettings.prototype.g71 = function (_set____db54di) {
-    return this.m70_1.s8(this, immortal$factory(), _set____db54di);
+  GameSettings.prototype.j72 = function (_set____db54di) {
+    return this.p71_1.s8(this, immortal$factory(), _set____db54di);
   };
-  GameSettings.prototype.h71 = function () {
-    return this.m70_1.r8(this, immortal$factory_0());
+  GameSettings.prototype.k72 = function () {
+    return this.p71_1.r8(this, immortal$factory_0());
   };
-  GameSettings.prototype.i71 = function (_set____db54di) {
-    return this.n70_1.s8(this, stopGuards$factory(), _set____db54di);
+  GameSettings.prototype.l72 = function (_set____db54di) {
+    return this.q71_1.s8(this, stopGuards$factory(), _set____db54di);
   };
-  GameSettings.prototype.j71 = function () {
-    return this.n70_1.r8(this, stopGuards$factory_0());
+  GameSettings.prototype.m72 = function () {
+    return this.q71_1.r8(this, stopGuards$factory_0());
   };
   GameSettings.$metadata$ = classMeta('GameSettings');
   function AppContext$score$lambda(this$0) {
     return function (it) {
-      this$0.n6w_1.q70(it);
+      this$0.l6w_1.t71(it);
       return Unit_getInstance();
     };
   }
   function AppContext$spriteMode$lambda(this$0) {
     return function (it) {
-      this$0.n6w_1.c71(it);
+      this$0.l6w_1.f72(it);
       return Unit_getInstance();
     };
   }
   function AppContext$levelSet$lambda(this$0) {
     return function (it) {
-      this$0.n6w_1.e71(it);
+      this$0.l6w_1.h72(it);
       return Unit_getInstance();
     };
   }
   function AppContext$currentLevel$lambda(this$0) {
     return function (it) {
-      this$0.n6w_1.s70(it);
+      this$0.l6w_1.v71(it);
       return Unit_getInstance();
     };
   }
   function AppContext$speed$lambda(this$0) {
     return function (it) {
-      this$0.n6w_1.w70(it);
+      this$0.l6w_1.z71(it);
       return Unit_getInstance();
     };
   }
   function AppContext$stopGuards$lambda(this$0) {
     return function (v) {
-      this$0.n6w_1.i71(v);
+      this$0.l6w_1.l72(v);
       return Unit_getInstance();
     };
   }
   function AppContext$immortal$lambda(this$0) {
     return function (v) {
-      this$0.n6w_1.g71(v);
+      this$0.l6w_1.j72(v);
       return Unit_getInstance();
     };
   }
   function AppContext$runnerLifes$lambda(this$0) {
     return function (v) {
-      this$0.n6w_1.u70(v);
+      this$0.l6w_1.x71(v);
       return Unit_getInstance();
     };
   }
   function AppContext(gameSettings) {
-    this.n6w_1 = gameSettings;
+    this.l6w_1 = gameSettings;
     var tmp = this;
     var tmp$ret$0;
     {
-      var tmp0_also = mutableStateOf(this.n6w_1.r70());
+      var tmp0_also = mutableStateOf(this.l6w_1.u71());
       {
       }
       {
@@ -8546,11 +8631,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$0 = tmp0_also;
     }
-    tmp.o6w_1 = tmp$ret$0;
+    tmp.m6w_1 = tmp$ret$0;
     var tmp_0 = this;
     var tmp$ret$1;
     {
-      var tmp0_also_0 = mutableStateOf(this.n6w_1.d71());
+      var tmp0_also_0 = mutableStateOf(this.l6w_1.g72());
       {
       }
       {
@@ -8558,11 +8643,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$1 = tmp0_also_0;
     }
-    tmp_0.p6w_1 = tmp$ret$1;
+    tmp_0.n6w_1 = tmp$ret$1;
     var tmp_1 = this;
     var tmp$ret$2;
     {
-      var tmp0_also_1 = mutableStateOf(this.n6w_1.f71());
+      var tmp0_also_1 = mutableStateOf(this.l6w_1.i72());
       {
       }
       {
@@ -8570,11 +8655,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$2 = tmp0_also_1;
     }
-    tmp_1.q6w_1 = tmp$ret$2;
+    tmp_1.o6w_1 = tmp$ret$2;
     var tmp_2 = this;
     var tmp$ret$3;
     {
-      var tmp0_also_2 = mutableStateOf(this.n6w_1.t70());
+      var tmp0_also_2 = mutableStateOf(this.l6w_1.w71());
       {
       }
       {
@@ -8582,11 +8667,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$3 = tmp0_also_2;
     }
-    tmp_2.r6w_1 = tmp$ret$3;
+    tmp_2.p6w_1 = tmp$ret$3;
     var tmp_3 = this;
     var tmp$ret$4;
     {
-      var tmp0_also_3 = mutableStateOf(this.n6w_1.x5l());
+      var tmp0_also_3 = mutableStateOf(this.l6w_1.x5l());
       {
       }
       {
@@ -8594,11 +8679,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$4 = tmp0_also_3;
     }
-    tmp_3.s6w_1 = tmp$ret$4;
+    tmp_3.q6w_1 = tmp$ret$4;
     var tmp_4 = this;
     var tmp$ret$5;
     {
-      var tmp0_also_4 = new MutableStateValue(this.n6w_1.j71());
+      var tmp0_also_4 = new MutableStateValue(this.l6w_1.m72());
       {
       }
       {
@@ -8606,11 +8691,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$5 = tmp0_also_4;
     }
-    tmp_4.t6w_1 = tmp$ret$5;
+    tmp_4.r6w_1 = tmp$ret$5;
     var tmp_5 = this;
     var tmp$ret$6;
     {
-      var tmp0_also_5 = new MutableStateValue(this.n6w_1.h71());
+      var tmp0_also_5 = new MutableStateValue(this.l6w_1.k72());
       {
       }
       {
@@ -8618,11 +8703,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$6 = tmp0_also_5;
     }
-    tmp_5.u6w_1 = tmp$ret$6;
+    tmp_5.s6w_1 = tmp$ret$6;
     var tmp_6 = this;
     var tmp$ret$7;
     {
-      var tmp0_also_6 = new MutableStateValue(this.n6w_1.v70());
+      var tmp0_also_6 = new MutableStateValue(this.l6w_1.y71());
       {
       }
       {
@@ -8630,16 +8715,16 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$7 = tmp0_also_6;
     }
-    tmp_6.v6w_1 = tmp$ret$7;
+    tmp_6.t6w_1 = tmp$ret$7;
   }
-  AppContext.prototype.k71 = function () {
-    return this.n6w_1;
+  AppContext.prototype.n72 = function () {
+    return this.l6w_1;
   };
-  AppContext.prototype.j71 = function () {
-    return this.t6w_1;
+  AppContext.prototype.m72 = function () {
+    return this.r6w_1;
   };
-  AppContext.prototype.h71 = function () {
-    return this.u6w_1;
+  AppContext.prototype.k72 = function () {
+    return this.s6w_1;
   };
   AppContext.$metadata$ = classMeta('AppContext');
   function App$Companion$bg$slambda(resultContinuation) {
@@ -8664,7 +8749,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 2;
             this.k7_1 = 1;
-            suspendResult = this.u71_1.q1y('images/cover.jpg', get_simpleTextureProps().m59_1, this);
+            suspendResult = this.x72_1.q1y('images/cover.jpg', get_simpleTextureProps().m59_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -8687,8 +8772,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   App$Companion$bg$slambda.prototype.h5a = function ($this$$receiver, it, completion) {
     var i = new App$Companion$bg$slambda(completion);
-    i.t71_1 = $this$$receiver;
-    i.u71_1 = it;
+    i.w72_1 = $this$$receiver;
+    i.x72_1 = it;
     return i;
   };
   App$Companion$bg$slambda.$metadata$ = classMeta('App$Companion$bg$slambda', undefined, undefined, undefined, [2], CoroutineImpl.prototype);
@@ -8733,8 +8818,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   var AppActions_EXIT_instance;
   var AppActions_DEBUG_instance;
+  var AppActions_DEBUGMODE_instance;
   function values_1() {
-    return [AppActions_EXIT_getInstance(), AppActions_DEBUG_getInstance()];
+    return [AppActions_EXIT_getInstance(), AppActions_DEBUG_getInstance(), AppActions_DEBUGMODE_getInstance()];
   }
   function App$AppActions$_init_$lambda_klx9qs() {
     return function ($this$null, it) {
@@ -8743,8 +8829,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function App$AppActions$lambda() {
     return function ($this$null, it) {
-      $this$null.u6s_1.z71();
-      changeState($this$null, MainMenuState_getInstance());
+      $this$null.q6s_1.c73();
+      $this$null.q6s_1.d73(AppState_MAINMENU_getInstance());
       return Unit_getInstance();
     };
   }
@@ -8763,7 +8849,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp;
       var tmp$ret$0;
       $l$block_0: {
-        var tmp0_any = $this$null.n6s_1.d2c_1;
+        var tmp0_any = $this$null.k6s_1.d2c_1;
         var tmp_0;
         if (isInterface(tmp0_any, Collection)) {
           tmp_0 = tmp0_any.q();
@@ -8789,15 +8875,21 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         tmp$ret$0 = false;
       }
       if (tmp$ret$0) {
-        removeAll($this$null.n6s_1.d2c_1, App$AppActions$lambda$lambda());
+        removeAll($this$null.k6s_1.d2c_1, App$AppActions$lambda$lambda());
         tmp = Unit_getInstance();
       } else {
-        var tmp0_this = $this$null.n6s_1;
+        var tmp0_this = $this$null.k6s_1;
         var tmp1_plusAssign = tmp0_this.d2c_1;
         var tmp2_plusAssign = debugOverlay$default(null, 1, null);
         tmp1_plusAssign.a(tmp2_plusAssign);
         tmp = Unit_getInstance();
       }
+      return Unit_getInstance();
+    };
+  }
+  function App$AppActions$lambda_2() {
+    return function ($this$null, it) {
+      $this$null.q6s_1.e73(AppState_DEBUG_getInstance());
       return Unit_getInstance();
     };
   }
@@ -8813,12 +8905,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     Companion_getInstance();
     var tmp_2 = toInputSpec_0(tmp_1, new Int32Array([2]));
     AppActions_DEBUG_instance = AppActions_init_$Create$('DEBUG', 1, tmp_2, null, App$AppActions$lambda_1(), 8, null);
+    var tmp_3 = toInputSpec(Companion_getInstance().f2a_1, new Int32Array([]));
+    AppActions_DEBUGMODE_instance = AppActions_init_$Create$('DEBUGMODE', 2, tmp_3, null, App$AppActions$lambda_2(), 8, null);
   }
   function GameCamera(originalWidth, originalHeight) {
     OrthographicCamera.call(this, 'plain');
-    this.u73_1 = originalWidth;
-    this.v73_1 = originalHeight;
-    println('created camera ' + this.u73_1 + ' x ' + this.v73_1);
+    this.z74_1 = originalWidth;
+    this.a75_1 = originalHeight;
+    println('created camera ' + this.z74_1 + ' x ' + this.a75_1);
   }
   GameCamera.prototype.k58 = function (renderPass, ctx) {
     OrthographicCamera.prototype.k58.call(this, renderPass, ctx);
@@ -8827,7 +8921,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Companion() {
     Companion_instance = this;
   }
-  Companion.prototype.w73 = function (width, height) {
+  Companion.prototype.b75 = function (width, height) {
     var tmp$ret$0;
     {
       var tmp0_apply = new GameCamera(width, height);
@@ -8849,7 +8943,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return tmp$ret$0;
   };
-  Companion.prototype.x73 = function (_this__u8e3s4) {
+  Companion.prototype.c75 = function (_this__u8e3s4) {
     var tmp$ret$0;
     {
       var tmp = get_simpleTextureProps();
@@ -8858,10 +8952,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
       }
       {
-        tmp0_apply.x74_1 = true;
+        tmp0_apply.c76_1 = true;
         var tmp0_this = tmp0_apply;
         {
-          var tmp0_plusAssign = tmp0_this.b75_1;
+          var tmp0_plusAssign = tmp0_this.g76_1;
           tmp0_plusAssign.a(App$Companion$bg$lambda(_this__u8e3s4));
         }
       }
@@ -8871,25 +8965,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion.$metadata$ = objectMeta('Companion');
   var Companion_instance;
-  function Companion_getInstance_11() {
+  function Companion_getInstance_12() {
     if (Companion_instance == null)
       new Companion();
     return Companion_instance;
-  }
-  function changeState($this, newState) {
-    var tmp0_safe_receiver = $this.t6s_1;
-    if (tmp0_safe_receiver == null)
-      null;
-    else {
-      tmp0_safe_receiver.l6s($this);
-    }
-    $this.t6s_1 = newState;
-    var tmp1_safe_receiver = $this.t6s_1;
-    if (tmp1_safe_receiver == null)
-      null;
-    else {
-      tmp1_safe_receiver.k6s($this);
-    }
   }
   function expect($this, cond, msg) {
     if (!cond)
@@ -8903,87 +8982,37 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function AppActions(name, ordinal, keyCode, onPress, onRelease) {
     Enum.call(this, name, ordinal);
-    this.e75_1 = keyCode;
-    this.f75_1 = onPress;
-    this.g75_1 = onRelease;
+    this.j76_1 = keyCode;
+    this.k76_1 = onPress;
+    this.l76_1 = onRelease;
   }
-  AppActions.prototype.i6x = function () {
-    return this.e75_1;
+  AppActions.prototype.c6y = function () {
+    return this.j76_1;
   };
-  AppActions.prototype.j6x = function () {
-    return this.f75_1;
+  AppActions.prototype.d6y = function () {
+    return this.k76_1;
   };
-  AppActions.prototype.k6x = function () {
-    return this.g75_1;
+  AppActions.prototype.e6y = function () {
+    return this.l76_1;
   };
   AppActions.$metadata$ = classMeta('AppActions', [KeyAction], undefined, undefined, undefined, Enum.prototype);
-  function App$fsm$lambda$lambda$lambda() {
-    return function (it) {
-      return Unit_getInstance();
-    };
-  }
-  function App$fsm$lambda$lambda$lambda_0() {
-    return function (it) {
-      return Unit_getInstance();
-    };
-  }
-  function App$fsm$lambda$lambda$lambda_1() {
-    return function ($this$edge) {
-      return Unit_getInstance();
-    };
-  }
-  function App$fsm$lambda$lambda() {
-    return function ($this$state) {
-      $this$state.h75(App$fsm$lambda$lambda$lambda());
-      $this$state.i75(App$fsm$lambda$lambda$lambda_0());
-      $this$state.j75('play game', false, 0, App$fsm$lambda$lambda$lambda_1(), 6, null);
-      return Unit_getInstance();
-    };
-  }
-  function App$fsm$lambda$lambda$lambda_2() {
-    return function (it) {
-      return Unit_getInstance();
-    };
-  }
-  function App$fsm$lambda$lambda$lambda_3() {
-    return function (it) {
-      return Unit_getInstance();
-    };
-  }
-  function App$fsm$lambda$lambda_0() {
-    return function ($this$state) {
-      $this$state.h75(App$fsm$lambda$lambda$lambda_2());
-      $this$state.i75(App$fsm$lambda$lambda$lambda_3());
-      return Unit_getInstance();
-    };
-  }
-  function App$fsm$lambda() {
+  function App$fsm$lambda(this$0) {
     return function ($this$buildStateMachine) {
-      $this$buildStateMachine.k75('mainmenu', App$fsm$lambda$lambda());
-      $this$buildStateMachine.k75('play game', App$fsm$lambda$lambda_0());
+      $this$buildStateMachine.m76(new MainMenuState(this$0));
+      $this$buildStateMachine.m76(new RunGameState(this$0));
+      $this$buildStateMachine.m76(new ExitState(this$0));
+      $this$buildStateMachine.m76(new DebugState(this$0));
       return Unit_getInstance();
     };
   }
   function App$lambda(this$0) {
     return function (it) {
-      var tmp0_safe_receiver = this$0.t6s_1;
-      var newState = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.m6s(this$0);
-      var tmp1_safe_receiver = newState;
-      if (tmp1_safe_receiver == null)
-        null;
-      else {
-        var tmp$ret$0;
-        {
-          {
-          }
-          tmp$ret$0 = changeState(this$0, tmp1_safe_receiver);
-        }
-      }
+      this$0.q6s_1.n76(this$0, false, 2, null);
       return Unit_getInstance();
     };
   }
   function App$slambda(this$0, resultContinuation) {
-    this.t75_1 = this$0;
+    this.w76_1 = this$0;
     CoroutineImpl.call(this, resultContinuation);
   }
   App$slambda.prototype.d1v = function ($this$launch, $cont) {
@@ -9004,7 +9033,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 2;
             this.k7_1 = 1;
-            suspendResult = this.t75_1.v75(this);
+            suspendResult = this.w76_1.y76(this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -9026,8 +9055,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
      while (true);
   };
   App$slambda.prototype.e1v = function ($this$launch, completion) {
-    var i = new App$slambda(this.t75_1, completion);
-    i.u75_1 = $this$launch;
+    var i = new App$slambda(this.w76_1, completion);
+    i.x76_1 = $this$launch;
     return i;
   };
   App$slambda.$metadata$ = classMeta('App$slambda', undefined, undefined, undefined, [1], CoroutineImpl.prototype);
@@ -9062,9 +9091,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     AppActions_initEntries();
     return AppActions_DEBUG_instance;
   }
+  function AppActions_DEBUGMODE_getInstance() {
+    AppActions_initEntries();
+    return AppActions_DEBUGMODE_instance;
+  }
   function $test4COROUTINE$2(_this__u8e3s4, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.e76_1 = _this__u8e3s4;
+    this.h77_1 = _this__u8e3s4;
   }
   $test4COROUTINE$2.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -9074,27 +9107,27 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         switch (tmp) {
           case 0:
             this.l7_1 = 4;
-            this.f76_1 = new LevelsRep(this.e76_1.n6s_1.s2d(), this.e76_1.p6s_1);
-            this.g76_1 = arrayIterator(values_3());
+            this.i77_1 = new LevelsRep(this.h77_1.k6s_1.s2d(), this.h77_1.m6s_1);
+            this.j77_1 = arrayIterator(values_3());
             this.k7_1 = 1;
             continue $sm;
           case 1:
-            if (!this.g76_1.n()) {
+            if (!this.j77_1.n()) {
               this.k7_1 = 3;
               continue $sm;
             }
 
-            this.h76_1 = this.g76_1.o();
+            this.k77_1 = this.j77_1.o();
             this.k7_1 = 2;
-            suspendResult = this.f76_1.m76(this.h76_1, this);
+            suspendResult = this.i77_1.p77(this.k77_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
 
             continue $sm;
           case 2:
-            println(this.h76_1.d6s() + ' has ' + this.f76_1.k76_1.m() + ' levels:');
-            var tmp0_forEachIndexed = this.f76_1.k76_1;
+            println(this.k77_1.d6s() + ' has ' + this.i77_1.n77_1.m() + ' levels:');
+            var tmp0_forEachIndexed = this.i77_1.n77_1;
             var index = 0;
             var tmp0_iterator = tmp0_forEachIndexed.h();
             while (tmp0_iterator.n()) {
@@ -9102,7 +9135,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               var tmp1 = index;
               index = tmp1 + 1 | 0;
               var tmp1__anonymous__uwfjfc = checkIndexOverflow(tmp1);
-              println('level #' + (tmp1__anonymous__uwfjfc + 1 | 0) + ': ' + first(item).length + 'x' + item.m());
+              println('#' + (tmp1__anonymous__uwfjfc + 1 | 0) + ': ' + first(item).length + 'x' + item.m());
             }
 
             println_0();
@@ -9125,43 +9158,43 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   $test4COROUTINE$2.$metadata$ = classMeta('$test4COROUTINE$2', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function App(ctx) {
-    Companion_getInstance_11();
-    this.n6s_1 = ctx;
+    Companion_getInstance_12();
+    this.k6s_1 = ctx;
     var tmp = this;
-    tmp.o6s_1 = Job$default(null, 1, null);
-    this.p6s_1 = CoroutineScope_0(this.o6s_1);
-    this.q6s_1 = Settings();
-    this.r6s_1 = new GameSettings(this.q6s_1);
-    this.s6s_1 = new AppContext(this.r6s_1);
-    this.t6s_1 = null;
+    tmp.l6s_1 = Job$default(null, 1, null);
+    this.m6s_1 = CoroutineScope_0(this.l6s_1);
+    this.n6s_1 = Settings();
+    this.o6s_1 = new GameSettings(this.n6s_1);
+    this.p6s_1 = new AppContext(this.o6s_1);
     var tmp_0 = this;
-    tmp_0.u6s_1 = buildStateMachine('mainmenu', App$fsm$lambda());
-    this.q76();
-    this.r76(null, 1, null);
-    registerActions(this.n6s_1.t2d(), this, asIterable(values_1()));
-    changeState(this, MainMenuState_getInstance());
-    var tmp0_this = this.n6s_1;
+    var tmp_1 = AppState_MAINMENU_getInstance();
+    tmp_0.q6s_1 = buildStateMachine(tmp_1, App$fsm$lambda(this));
+    this.t77();
+    this.u77(null, 1, null);
+    registerActions(this.k6s_1.t2d(), this, asIterable(values_1()));
+    var tmp0_this = this.k6s_1;
     {
       var tmp0_plusAssign = tmp0_this.b2c_1;
       tmp0_plusAssign.a(App$lambda(this));
     }
-    launch$default(this.p6s_1, null, null, App$slambda_0(this, null), 3, null);
-    this.n6s_1.m1c();
-    this.o6s_1.v18(null, 1, null);
-    this.s76();
+    this.q6s_1.v77(false);
+    launch$default(this.m6s_1, null, null, App$slambda_0(this, null), 3, null);
+    this.k6s_1.m1c();
+    this.l6s_1.v18(null, 1, null);
+    this.w77();
   }
   App.prototype.d58 = function () {
-    return this.n6s_1;
+    return this.k6s_1;
   };
-  App.prototype.s76 = function () {
-    var tmp = (new ViewCell(false, 0)).v76() === get_b(0);
+  App.prototype.w77 = function () {
+    var tmp = (new ViewCell(false, 0)).z77() === get_b(0);
     expect$default(this, tmp, null, 4, null);
-    var tmp_0 = (new ViewCell(false, 16)).v76() === get_b(16);
+    var tmp_0 = (new ViewCell(false, 16)).z77() === get_b(16);
     expect$default(this, tmp_0, null, 4, null);
-    var tmp_1 = (new ViewCell(false, 127)).v76() === get_b(127);
+    var tmp_1 = (new ViewCell(false, 127)).z77() === get_b(127);
     expect$default(this, tmp_1, null, 4, null);
   };
-  App.prototype.w76 = function (choices) {
+  App.prototype.a78 = function (choices) {
     var steps = 10000;
     var eps = 100.0 / steps;
     var r = Random(0);
@@ -9274,12 +9307,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
     }
   };
-  App.prototype.r76 = function (choices, $mask0, $handler) {
+  App.prototype.u77 = function (choices, $mask0, $handler) {
     if (!(($mask0 & 1) === 0))
       choices = listOf([100, 200, 50, 1000]);
-    return this.w76(choices);
+    return this.a78(choices);
   };
-  App.prototype.q76 = function () {
+  App.prototype.t77 = function () {
     var tmp$ret$2;
     {
       var tmp0_arrayOf = [Tile_LADDER_getInstance(), Tile_BRICK_getInstance()];
@@ -9329,7 +9362,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     var tmp_1 = !(contentHashCode(b) === contentHashCode(c));
     expect$default(this, tmp_1, null, 4, null);
   };
-  App.prototype.v75 = function ($cont) {
+  App.prototype.y76 = function ($cont) {
     var tmp = new $test4COROUTINE$2(this, $cont);
     tmp.m7_1 = Unit_getInstance();
     tmp.n7_1 = null;
@@ -9342,12 +9375,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     var deadZone = 0.2;
     var vjcTex$delegate = lazy(touchControls$lambda_1());
     var handleTex$delegate = lazy(touchControls$lambda_2());
-    var tmp = Companion_getInstance_0();
+    var tmp = Companion_getInstance_3();
     var tmp_0 = new Color(0.0, 0.0, 0.0, 0.25);
     var colors = tmp.o4c(null, null, null, null, tmp_0, null, null, null, null, false, 1007, null);
     var tmp_1 = MutableVec3f_init_$Create$();
     var ray = new Ray();
-    return UiScene('virtual joystick', false, touchControls$lambda_3(vjcTex$delegate, currentAnalog, controllable, ray, tmp_1, deadZone, handleTex$delegate));
+    return UiScene('virtual joystick', false, touchControls$lambda_3(vjcTex$delegate, currentAnalog, ray, tmp_1, controllable, deadZone, handleTex$delegate));
   }
   function KeyAction() {
   }
@@ -9364,7 +9397,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           var item = tmp0_iterator.o();
           var tmp$ret$0;
           {
-            var tmp = item.i6x().x76_1;
+            var tmp = item.c6y().b78_1;
             var tmp_0 = item.il();
             var tmp_1 = registerActions$lambda(item);
             tmp$ret$0 = _this__u8e3s4.b2b(tmp, tmp_0, tmp_1, registerActions$lambda_0(item, root));
@@ -9412,10 +9445,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return tmp$ret$0;
   }
   function touchControls$currentAnalog$1() {
-    this.z76_1 = new MutableVec2f(0.0, 0.0);
+    this.d78_1 = new MutableVec2f(0.0, 0.0);
   }
-  touchControls$currentAnalog$1.prototype.a77 = function () {
-    return this.z76_1;
+  touchControls$currentAnalog$1.prototype.e78 = function () {
+    return this.d78_1;
   };
   touchControls$currentAnalog$1.$metadata$ = classMeta();
   function touchControls$lambda$slambda(resultContinuation) {
@@ -9440,7 +9473,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 2;
             this.k7_1 = 1;
-            suspendResult = this.k77_1.q1y('images/JoystickSplitted.png', get_bluredTextureProps().m59_1, this);
+            suspendResult = this.o78_1.q1y('images/JoystickSplitted.png', get_bluredTextureProps().m59_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -9463,8 +9496,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   touchControls$lambda$slambda.prototype.h5a = function ($this$$receiver, it, completion) {
     var i = new touchControls$lambda$slambda(completion);
-    i.j77_1 = $this$$receiver;
-    i.k77_1 = it;
+    i.n78_1 = $this$$receiver;
+    i.o78_1 = it;
     return i;
   };
   touchControls$lambda$slambda.$metadata$ = classMeta('touchControls$lambda$slambda', undefined, undefined, undefined, [2], CoroutineImpl.prototype);
@@ -9504,7 +9537,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 2;
             this.k7_1 = 1;
-            suspendResult = this.u77_1.q1y('images/SmallHandleFilledGrey.png', get_bluredTextureProps().m59_1, this);
+            suspendResult = this.y78_1.q1y('images/SmallHandleFilledGrey.png', get_bluredTextureProps().m59_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -9527,8 +9560,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   touchControls$lambda$slambda_1.prototype.h5a = function ($this$$receiver, it, completion) {
     var i = new touchControls$lambda$slambda_1(completion);
-    i.t77_1 = $this$$receiver;
-    i.u77_1 = it;
+    i.x78_1 = $this$$receiver;
+    i.y78_1 = it;
     return i;
   };
   touchControls$lambda$slambda_1.$metadata$ = classMeta('touchControls$lambda$slambda', undefined, undefined, undefined, [2], CoroutineImpl.prototype);
@@ -9546,14 +9579,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       return Texture2d_init_$Create$(tmp, null, touchControls$lambda$slambda_2(null), 2, null);
     };
   }
-  function touchControls$lambda$lambda($tmp0_apply, $currentAnalog, $controllable, $this_UiScene, $ray, $tmp, $deadZone, $handleTex$delegate, $vjcTex$delegate) {
+  function touchControls$lambda$lambda($tmp0_apply, $currentAnalog, $this_UiScene, $ray, $tmp, $controllable, $deadZone, $handleTex$delegate, $vjcTex$delegate) {
     return function (ev) {
       $tmp0_apply.p2g();
       $tmp0_apply.n2d(ev.p54().a4t_1 - get_width_0($tmp0_apply.j4p()) / 2.0, (-ev.p54().m46() | 0) + get_height_0($tmp0_apply.j4p()) / 2.0, 0.0);
-      $currentAnalog.z76_1.d2j(0.0);
-      $currentAnalog.z76_1.e2j(0.0);
-      $controllable.a77().p2j(0);
-      $controllable.a77().q2j(0);
+      $currentAnalog.d78_1.d2j(0.0);
+      $currentAnalog.d78_1.e2j(0.0);
       var tmp;
       if (!(touchControls$lambda_0($handleTex$delegate).p5a() == null) ? !(touchControls$lambda($vjcTex$delegate).p5a() == null) : false) {
         var tmp$ret$2;
@@ -9603,6 +9634,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               break $l$block;
             }
             $ray.r2i_1.n2k(0.0);
+            println('' + $tmp0_apply.j4p() + ' ' + $ray.r2i_1 + ' ' + $tmp0_apply.j4p().i2n($ray.r2i_1));
             if ($tmp0_apply.j4p().i2n($ray.r2i_1)) {
               var tmp0_safe_receiver = touchControls$lambda_0($handleTex$delegate).p5a();
               if (tmp0_safe_receiver == null)
@@ -9618,28 +9650,27 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                   tmp0_this.d2j(tmp0_this.e23() / ((ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).k46() - ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).k46() | 0) / 2.0));
                   var tmp1_this = $tmp;
                   tmp1_this.e2j(tmp1_this.g23() / ((ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).m46() - ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).m46() | 0) / 2.0));
-                  $controllable.a77().p2j($tmp.e23() < -$deadZone ? -1 : $tmp.e23() > $deadZone ? 1 : 0);
-                  $controllable.a77().q2j(-($tmp.g23() < -$deadZone ? -1 : $tmp.g23() > $deadZone ? 1 : 0) | 0);
+                  $controllable.e78().p2j($tmp.e23() < -$deadZone ? -1 : $tmp.e23() > $deadZone ? 1 : 0);
+                  $controllable.e78().q2j(-($tmp.g23() < -$deadZone ? -1 : $tmp.g23() > $deadZone ? 1 : 0) | 0);
                   var tmp$ret$4;
                   {
                     var tmp0_clamp = $tmp.e23();
                     tmp$ret$4 = tmp0_clamp < -1.0 ? -1.0 : tmp0_clamp > 1.0 ? 1.0 : tmp0_clamp;
                   }
-                  $currentAnalog.z76_1.d2j(tmp$ret$4);
+                  $currentAnalog.d78_1.d2j(tmp$ret$4);
                   var tmp$ret$5;
                   {
                     var tmp1_clamp = $tmp.g23();
                     tmp$ret$5 = tmp1_clamp < -1.0 ? -1.0 : tmp1_clamp > 1.0 ? 1.0 : tmp1_clamp;
                   }
-                  $currentAnalog.z76_1.e2j(tmp$ret$5);
-                  var l = $currentAnalog.z76_1.m2j();
+                  $currentAnalog.d78_1.e2j(tmp$ret$5);
+                  var l = $currentAnalog.d78_1.m2j();
                   if (l > 1) {
-                    var tmp2_this = $currentAnalog.z76_1;
+                    var tmp2_this = $currentAnalog.d78_1;
                     tmp2_this.d2j(tmp2_this.e23() / l);
-                    var tmp3_this = $currentAnalog.z76_1;
+                    var tmp3_this = $currentAnalog.d78_1;
                     tmp3_this.e2j(tmp3_this.g23() / l);
                   }
-                  println($currentAnalog.z76_1);
                   tmp$ret$6 = element_0.o24(0, 1, null);
                 }
               }
@@ -9658,7 +9689,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         $tmp1_also.p2g();
         var tmp$ret$0;
         {
-          var tmp0_clamp = $currentAnalog.z76_1.e23() * (ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).k46() - ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).k46() | 0) / 2.0;
+          var tmp0_clamp = $currentAnalog.d78_1.e23() * (ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).k46() - ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).k46() | 0) / 2.0;
           var tmp1_clamp = (-ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).k46() | 0) + ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).k46() / 2.0;
           var tmp2_clamp = ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).k46() - ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).k46() / 2.0;
           tmp$ret$0 = tmp0_clamp < tmp1_clamp ? tmp1_clamp : tmp0_clamp > tmp2_clamp ? tmp2_clamp : tmp0_clamp;
@@ -9666,7 +9697,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         var tmp_0 = tmp$ret$0;
         var tmp$ret$1;
         {
-          var tmp3_clamp = $currentAnalog.z76_1.g23() * (ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).m46() - ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).m46() | 0) / 2.0;
+          var tmp3_clamp = $currentAnalog.d78_1.g23() * (ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).m46() - ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).m46() | 0) / 2.0;
           var tmp4_clamp = (-ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).m46() | 0) + ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).m46() / 2.0;
           var tmp5_clamp = ensureNotNull(touchControls$lambda($vjcTex$delegate).p5a()).m46() - ensureNotNull(touchControls$lambda_0($handleTex$delegate).p5a()).m46() / 2.0;
           tmp$ret$1 = tmp3_clamp < tmp4_clamp ? tmp4_clamp : tmp3_clamp > tmp5_clamp ? tmp5_clamp : tmp3_clamp;
@@ -9679,13 +9710,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function touchControls$lambda$lambda$lambda($controllable) {
     return function (it) {
-      $controllable.v77(true);
+      $controllable.z78(true);
       return Unit_getInstance();
     };
   }
   function touchControls$lambda$lambda$lambda_0($controllable) {
     return function (it) {
-      $controllable.w77(true);
+      $controllable.a79(true);
       return Unit_getInstance();
     };
   }
@@ -9712,34 +9743,34 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
         var tmp1_Row = FitContent_getInstance();
         var tmp2_Row = FitContent_getInstance();
-        var row = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_1().g3t_1);
+        var row = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_0().g3t_1);
         layout(size(row.m3u(), tmp1_Row, tmp2_Row), RowLayout_getInstance());
         {
           var tmp$ret$8;
           {
-            var tmp0_Column = Companion_getInstance_2().b4d_1;
+            var tmp0_Column = Companion_getInstance_4().b4d_1;
             var tmp1_Column = FitContent_getInstance();
-            var column = row.f3t().v3t(getKClass(ColumnNode), Companion_getInstance_3().n3u_1);
+            var column = row.f3t().v3t(getKClass(ColumnNode), Companion_getInstance_5().n3u_1);
             layout(size(column.m3u(), tmp0_Column, tmp1_Column), ColumnLayout_getInstance());
             {
               column.m3u().l47(AlignmentX_Start_getInstance());
               var tmp$ret$7;
               {
-                var tmp0_Row = Companion_getInstance_2().b4d_1;
+                var tmp0_Row = Companion_getInstance_4().b4d_1;
                 var tmp1_Row_0 = FitContent_getInstance();
-                var row_0 = column.f3t().v3t(getKClass(RowNode), Companion_getInstance_1().g3t_1);
+                var row_0 = column.f3t().v3t(getKClass(RowNode), Companion_getInstance_0().g3t_1);
                 layout(size(row_0.m3u(), tmp0_Row, tmp1_Row_0), RowLayout_getInstance());
                 {
                   var tmp$ret$3;
                   {
-                    var tmp0_Column_0 = Companion_getInstance_2().b4d_1;
+                    var tmp0_Column_0 = Companion_getInstance_4().b4d_1;
                     var tmp1_Column_0 = FitContent_getInstance();
-                    var column_0 = row_0.f3t().v3t(getKClass(ColumnNode), Companion_getInstance_3().n3u_1);
+                    var column_0 = row_0.f3t().v3t(getKClass(ColumnNode), Companion_getInstance_5().n3u_1);
                     layout(size(column_0.m3u(), tmp0_Column_0, tmp1_Column_0), ColumnLayout_getInstance());
                     {
                       var tmp$ret$2;
                       {
-                        var button = column_0.f3t().v3t(getKClass(ButtonNode), Companion_getInstance_4().n3x_1);
+                        var button = column_0.f3t().v3t(getKClass(ButtonNode), Companion_getInstance_6().n3x_1);
                         var tmp_1 = text(button.h3y_1, 'dig left');
                         var tmp_2 = column_0.h3x().s3y_1;
                         var tmp0_$receiver = textAlign(colors$default(tmp_1, null, tmp_2, null, null, 13, null), AlignmentX_Center_getInstance(), AlignmentY_Center_getInstance());
@@ -9754,7 +9785,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                             }
                             {
                               tmp0_apply_0.f44(false);
-                              tmp0_apply_0.x45(Companion_getInstance_5().x34_1);
+                              tmp0_apply_0.x45(Companion_getInstance_7().x34_1);
                               tmp0_apply_0.v43(new Color(0.5, 0.5, 0.5, 0.25));
                               width(tmp0_apply_0, new Dp(button.k3x(45.0)));
                               height(tmp0_apply_0, new Dp(button.k3x(45.0)));
@@ -9777,14 +9808,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                   }
                   var tmp$ret$6;
                   {
-                    var tmp2_Column = Companion_getInstance_2().b4d_1;
+                    var tmp2_Column = Companion_getInstance_4().b4d_1;
                     var tmp3_Column = FitContent_getInstance();
-                    var column_1 = row_0.f3t().v3t(getKClass(ColumnNode), Companion_getInstance_3().n3u_1);
+                    var column_1 = row_0.f3t().v3t(getKClass(ColumnNode), Companion_getInstance_5().n3u_1);
                     layout(size(column_1.m3u(), tmp2_Column, tmp3_Column), ColumnLayout_getInstance());
                     {
                       var tmp$ret$5;
                       {
-                        var button_0 = column_1.f3t().v3t(getKClass(ButtonNode), Companion_getInstance_4().n3x_1);
+                        var button_0 = column_1.f3t().v3t(getKClass(ButtonNode), Companion_getInstance_6().n3x_1);
                         var tmp_5 = text(button_0.h3y_1, 'dig right');
                         var tmp_6 = column_1.h3x().s3y_1;
                         var tmp0_$receiver_0 = textAlign(colors$default(tmp_5, null, tmp_6, null, null, 13, null), AlignmentX_Center_getInstance(), AlignmentY_Center_getInstance());
@@ -9799,7 +9830,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                             }
                             {
                               tmp0_apply_1.f44(false);
-                              tmp0_apply_1.x45(Companion_getInstance_5().x34_1);
+                              tmp0_apply_1.x45(Companion_getInstance_7().x34_1);
                               tmp0_apply_1.v43(new Color(0.5, 0.5, 0.5, 0.25));
                               width(tmp0_apply_1, new Dp(button_0.k3x(45.0)));
                               height(tmp0_apply_1, new Dp(button_0.k3x(45.0)));
@@ -9832,7 +9863,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       return tmp$ret$9;
     };
   }
-  function touchControls$lambda_3($vjcTex$delegate, $currentAnalog, $controllable, $ray, $tmp, $deadZone, $handleTex$delegate) {
+  function touchControls$lambda_3($vjcTex$delegate, $currentAnalog, $ray, $tmp, $controllable, $deadZone, $handleTex$delegate) {
     return function ($this$UiScene) {
       var tmp$ret$1;
       {
@@ -9844,7 +9875,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           var tmp0_this = tmp0_apply;
           {
             var tmp0_plusAssign = tmp0_this.n4p();
-            tmp0_plusAssign.a(touchControls$lambda$lambda(tmp0_apply, $currentAnalog, $controllable, $this$UiScene, $ray, $tmp, $deadZone, $handleTex$delegate, $vjcTex$delegate));
+            tmp0_plusAssign.a(touchControls$lambda$lambda(tmp0_apply, $currentAnalog, $this$UiScene, $ray, $tmp, $controllable, $deadZone, $handleTex$delegate, $vjcTex$delegate));
           }
           var tmp$ret$0;
           {
@@ -9866,7 +9897,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         tmp$ret$1 = tmp0_apply;
       }
       $this$UiScene.v4v(tmp$ret$1);
-      var tmp_1 = Companion_getInstance_0();
+      var tmp_1 = Companion_getInstance_3();
       var tmp_2 = new Color(0.0, 0.0, 0.0, 0.5);
       var tmp_3 = tmp_1.o4c(null, null, null, null, tmp_2, null, null, null, null, false, 1007, null);
       $this$UiScene.v4v(Panel$default(tmp_3, null, null, touchControls$lambda$lambda_1($controllable), 6, null));
@@ -9875,15 +9906,15 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function registerActions$lambda($item) {
     return function (ev) {
-      return ($item.i6x().y76_1 ^ ev.m26_1) === 0;
+      return ($item.c6y().c78_1 ^ ev.m26_1) === 0;
     };
   }
   function registerActions$lambda_0($item, $root) {
     return function (ev) {
       if (ev.r26())
-        $item.k6x()($root, ev);
+        $item.e6y()($root, ev);
       else if (ev.q26())
-        $item.j6x()($root, ev);
+        $item.d6y()($root, ev);
       return Unit_getInstance();
     };
   }
@@ -9907,116 +9938,132 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     GameSpeed_initEntries();
     return GameSpeed_SPEED_VERY_FAST_instance;
   }
+  function AppState_MAINMENU_getInstance() {
+    AppState_initEntries();
+    return AppState_MAINMENU_instance;
+  }
+  function AppState_RUNGAME_getInstance() {
+    AppState_initEntries();
+    return AppState_RUNGAME_instance;
+  }
+  function AppState_EXIT_getInstance() {
+    AppState_initEntries();
+    return AppState_EXIT_instance;
+  }
+  function AppState_DEBUG_getInstance() {
+    AppState_initEntries();
+    return AppState_DEBUG_instance;
+  }
   function curScore$factory() {
     return getPropertyCallableRef('curScore', 1, KMutableProperty1, function (receiver) {
-      return receiver.r70();
+      return receiver.u71();
     }, function (receiver, value) {
-      return receiver.q70(value);
+      return receiver.t71(value);
     });
   }
   function curScore$factory_0() {
     return getPropertyCallableRef('curScore', 1, KMutableProperty1, function (receiver) {
-      return receiver.r70();
+      return receiver.u71();
     }, function (receiver, value) {
-      return receiver.q70(value);
+      return receiver.t71(value);
     });
   }
   function currentLevel$factory() {
     return getPropertyCallableRef('currentLevel', 1, KMutableProperty1, function (receiver) {
-      return receiver.t70();
+      return receiver.w71();
     }, function (receiver, value) {
-      return receiver.s70(value);
+      return receiver.v71(value);
     });
   }
   function currentLevel$factory_0() {
     return getPropertyCallableRef('currentLevel', 1, KMutableProperty1, function (receiver) {
-      return receiver.t70();
+      return receiver.w71();
     }, function (receiver, value) {
-      return receiver.s70(value);
+      return receiver.v71(value);
     });
   }
   function runnerLifes$factory() {
     return getPropertyCallableRef('runnerLifes', 1, KMutableProperty1, function (receiver) {
-      return receiver.v70();
+      return receiver.y71();
     }, function (receiver, value) {
-      return receiver.u70(value);
+      return receiver.x71(value);
     });
   }
   function runnerLifes$factory_0() {
     return getPropertyCallableRef('runnerLifes', 1, KMutableProperty1, function (receiver) {
-      return receiver.v70();
+      return receiver.y71();
     }, function (receiver, value) {
-      return receiver.u70(value);
+      return receiver.x71(value);
     });
   }
   function speed$factory() {
     return getPropertyCallableRef('speed', 1, KMutableProperty1, function (receiver) {
       return receiver.x5l();
     }, function (receiver, value) {
-      return receiver.w70(value);
+      return receiver.z71(value);
     });
   }
   function speed$factory_0() {
     return getPropertyCallableRef('speed', 1, KMutableProperty1, function (receiver) {
       return receiver.x5l();
     }, function (receiver, value) {
-      return receiver.w70(value);
+      return receiver.z71(value);
     });
   }
   function spriteMode$factory() {
     return getPropertyCallableRef('spriteMode', 1, KMutableProperty1, function (receiver) {
-      return receiver.d71();
+      return receiver.g72();
     }, function (receiver, value) {
-      return receiver.c71(value);
+      return receiver.f72(value);
     });
   }
   function spriteMode$factory_0() {
     return getPropertyCallableRef('spriteMode', 1, KMutableProperty1, function (receiver) {
-      return receiver.d71();
+      return receiver.g72();
     }, function (receiver, value) {
-      return receiver.c71(value);
+      return receiver.f72(value);
     });
   }
   function version$factory() {
     return getPropertyCallableRef('version', 1, KMutableProperty1, function (receiver) {
-      return receiver.f71();
+      return receiver.i72();
     }, function (receiver, value) {
-      return receiver.e71(value);
+      return receiver.h72(value);
     });
   }
   function version$factory_0() {
     return getPropertyCallableRef('version', 1, KMutableProperty1, function (receiver) {
-      return receiver.f71();
+      return receiver.i72();
     }, function (receiver, value) {
-      return receiver.e71(value);
+      return receiver.h72(value);
     });
   }
   function immortal$factory() {
     return getPropertyCallableRef('immortal', 1, KMutableProperty1, function (receiver) {
-      return receiver.h71();
+      return receiver.k72();
     }, function (receiver, value) {
-      return receiver.g71(value);
+      return receiver.j72(value);
     });
   }
   function immortal$factory_0() {
     return getPropertyCallableRef('immortal', 1, KMutableProperty1, function (receiver) {
-      return receiver.h71();
+      return receiver.k72();
     }, function (receiver, value) {
-      return receiver.g71(value);
+      return receiver.j72(value);
     });
   }
   function stopGuards$factory() {
     return getPropertyCallableRef('stopGuards', 1, KMutableProperty1, function (receiver) {
-      return receiver.j71();
+      return receiver.m72();
     }, function (receiver, value) {
-      return receiver.i71(value);
+      return receiver.l72(value);
     });
   }
   function stopGuards$factory_0() {
     return getPropertyCallableRef('stopGuards', 1, KMutableProperty1, function (receiver) {
-      return receiver.j71();
+      return receiver.m72();
     }, function (receiver, value) {
-      return receiver.i71(value);
+      return receiver.l72(value);
     });
   }
   var properties_initialized_App_kt_kalemn;
@@ -10098,7 +10145,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Companion_0() {
     Companion_instance_0 = this;
   }
-  Companion_0.prototype.x77 = function (e) {
+  Companion_0.prototype.b79 = function (e) {
     var tmp$ret$1;
     {
       var tmp$ret$0;
@@ -10108,14 +10155,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$1 = tmp$ret$0;
     }
-    return this.y77(tmp$ret$1, e);
+    return this.c79(tmp$ret$1, e);
   };
-  Companion_0.prototype.y77 = function (serializer, e) {
+  Companion_0.prototype.c79 = function (serializer, e) {
     return Default_getInstance().xn(serializer, toString(e));
   };
   Companion_0.$metadata$ = objectMeta('Companion');
   var Companion_instance_0;
-  function Companion_getInstance_12() {
+  function Companion_getInstance_13() {
     if (Companion_instance_0 == null)
       new Companion_0();
     return Companion_instance_0;
@@ -10125,10 +10172,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     var tmp0_serialDesc = new PluginGeneratedSerialDescriptor('AtlasGeometry', this, 2);
     tmp0_serialDesc.wu('cols', false);
     tmp0_serialDesc.wu('rows', false);
-    this.z77_1 = tmp0_serialDesc;
+    this.d79_1 = tmp0_serialDesc;
   }
   $serializer.prototype.hn = function () {
-    return this.z77_1;
+    return this.d79_1;
   };
   $serializer.prototype.tu = function () {
     var tmp$ret$2;
@@ -10147,7 +10194,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return tmp$ret$2;
   };
   $serializer.prototype.in = function (decoder) {
-    var tmp0_desc = this.z77_1;
+    var tmp0_desc = this.d79_1;
     var tmp1_flag = true;
     var tmp2_index = 0;
     var tmp3_bitMask0 = 0;
@@ -10190,25 +10237,25 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function AtlasGeometry_init_$Init$(seen1, cols, rows, serializationConstructorMarker, $this) {
     if (!(3 === (3 & seen1)))
-      throwMissingFieldException(seen1, 3, $serializer_getInstance().z77_1);
-    $this.a78_1 = cols;
-    $this.b78_1 = rows;
+      throwMissingFieldException(seen1, 3, $serializer_getInstance().d79_1);
+    $this.e79_1 = cols;
+    $this.f79_1 = rows;
     return $this;
   }
   function AtlasGeometry_init_$Create$(seen1, cols, rows, serializationConstructorMarker) {
     return AtlasGeometry_init_$Init$(seen1, cols, rows, serializationConstructorMarker, Object.create(AtlasGeometry.prototype));
   }
   function AtlasGeometry(cols, rows) {
-    Companion_getInstance_12();
-    this.a78_1 = cols;
-    this.b78_1 = rows;
+    Companion_getInstance_13();
+    this.e79_1 = cols;
+    this.f79_1 = rows;
   }
   AtlasGeometry.prototype.toString = function () {
-    return 'AtlasGeometry(cols=' + this.a78_1 + ', rows=' + this.b78_1 + ')';
+    return 'AtlasGeometry(cols=' + this.e79_1 + ', rows=' + this.f79_1 + ')';
   };
   AtlasGeometry.prototype.hashCode = function () {
-    var result = this.a78_1;
-    result = imul(result, 31) + this.b78_1 | 0;
+    var result = this.e79_1;
+    result = imul(result, 31) + this.f79_1 | 0;
     return result;
   };
   AtlasGeometry.prototype.equals = function (other) {
@@ -10217,9 +10264,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (!(other instanceof AtlasGeometry))
       return false;
     var tmp0_other_with_cast = other instanceof AtlasGeometry ? other : THROW_CCE();
-    if (!(this.a78_1 === tmp0_other_with_cast.a78_1))
+    if (!(this.e79_1 === tmp0_other_with_cast.e79_1))
       return false;
-    if (!(this.b78_1 === tmp0_other_with_cast.b78_1))
+    if (!(this.f79_1 === tmp0_other_with_cast.f79_1))
       return false;
     return true;
   };
@@ -10240,19 +10287,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return GapsSpec_init_$Init$(top, right, bottom, left, $mask0, $marker, Object.create(GapsSpec.prototype));
   }
   function GapsSpec(top, right, bottom, left) {
-    this.c78_1 = top;
-    this.d78_1 = right;
-    this.e78_1 = bottom;
-    this.f78_1 = left;
+    this.g79_1 = top;
+    this.h79_1 = right;
+    this.i79_1 = bottom;
+    this.j79_1 = left;
   }
   GapsSpec.prototype.toString = function () {
-    return 'GapsSpec(top=' + this.c78_1 + ', right=' + this.d78_1 + ', bottom=' + this.e78_1 + ', left=' + this.f78_1 + ')';
+    return 'GapsSpec(top=' + this.g79_1 + ', right=' + this.h79_1 + ', bottom=' + this.i79_1 + ', left=' + this.j79_1 + ')';
   };
   GapsSpec.prototype.hashCode = function () {
-    var result = this.c78_1;
-    result = imul(result, 31) + this.d78_1 | 0;
-    result = imul(result, 31) + this.e78_1 | 0;
-    result = imul(result, 31) + this.f78_1 | 0;
+    var result = this.g79_1;
+    result = imul(result, 31) + this.h79_1 | 0;
+    result = imul(result, 31) + this.i79_1 | 0;
+    result = imul(result, 31) + this.j79_1 | 0;
     return result;
   };
   GapsSpec.prototype.equals = function (other) {
@@ -10261,13 +10308,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (!(other instanceof GapsSpec))
       return false;
     var tmp0_other_with_cast = other instanceof GapsSpec ? other : THROW_CCE();
-    if (!(this.c78_1 === tmp0_other_with_cast.c78_1))
+    if (!(this.g79_1 === tmp0_other_with_cast.g79_1))
       return false;
-    if (!(this.d78_1 === tmp0_other_with_cast.d78_1))
+    if (!(this.h79_1 === tmp0_other_with_cast.h79_1))
       return false;
-    if (!(this.e78_1 === tmp0_other_with_cast.e78_1))
+    if (!(this.i79_1 === tmp0_other_with_cast.i79_1))
       return false;
-    if (!(this.f78_1 === tmp0_other_with_cast.f78_1))
+    if (!(this.j79_1 === tmp0_other_with_cast.j79_1))
       return false;
     return true;
   };
@@ -10294,10 +10341,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.w6r_1 = tileHeight;
     this.x6r_1 = gap;
   }
-  ImageAtlasSpec.prototype.g78 = function () {
+  ImageAtlasSpec.prototype.k79 = function () {
     return this.v6r_1;
   };
-  ImageAtlasSpec.prototype.h78 = function () {
+  ImageAtlasSpec.prototype.l79 = function () {
     return this.w6r_1;
   };
   ImageAtlasSpec.prototype.toString = function () {
@@ -10330,7 +10377,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Companion_1() {
     Companion_instance_1 = this;
   }
-  Companion_1.prototype.x77 = function (e) {
+  Companion_1.prototype.b79 = function (e) {
     var tmp$ret$1;
     {
       var tmp$ret$0;
@@ -10340,14 +10387,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$1 = tmp$ret$0;
     }
-    return this.i78(tmp$ret$1, e);
+    return this.m79(tmp$ret$1, e);
   };
-  Companion_1.prototype.i78 = function (serializer, e) {
+  Companion_1.prototype.m79 = function (serializer, e) {
     return Default_getInstance().xn(serializer, toString(e));
   };
   Companion_1.$metadata$ = objectMeta('Companion');
   var Companion_instance_1;
-  function Companion_getInstance_13() {
+  function Companion_getInstance_14() {
     if (Companion_instance_1 == null)
       new Companion_1();
     return Companion_instance_1;
@@ -10359,10 +10406,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     tmp0_serialDesc.wu('y', false);
     tmp0_serialDesc.wu('w', false);
     tmp0_serialDesc.wu('h', false);
-    this.j78_1 = tmp0_serialDesc;
+    this.n79_1 = tmp0_serialDesc;
   }
   $serializer_0.prototype.hn = function () {
-    return this.j78_1;
+    return this.n79_1;
   };
   $serializer_0.prototype.tu = function () {
     var tmp$ret$2;
@@ -10381,7 +10428,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return tmp$ret$2;
   };
   $serializer_0.prototype.in = function (decoder) {
-    var tmp0_desc = this.j78_1;
+    var tmp0_desc = this.n79_1;
     var tmp1_flag = true;
     var tmp2_index = 0;
     var tmp3_bitMask0 = 0;
@@ -10438,34 +10485,34 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Frame_init_$Init$(seen1, x, y, w, h, serializationConstructorMarker, $this) {
     if (!(15 === (15 & seen1)))
-      throwMissingFieldException(seen1, 15, $serializer_getInstance_0().j78_1);
-    $this.k78_1 = x;
-    $this.l78_1 = y;
-    $this.m78_1 = w;
-    $this.n78_1 = h;
+      throwMissingFieldException(seen1, 15, $serializer_getInstance_0().n79_1);
+    $this.o79_1 = x;
+    $this.p79_1 = y;
+    $this.q79_1 = w;
+    $this.r79_1 = h;
     return $this;
   }
   function Frame_init_$Create$(seen1, x, y, w, h, serializationConstructorMarker) {
     return Frame_init_$Init$(seen1, x, y, w, h, serializationConstructorMarker, Object.create(Frame.prototype));
   }
   function Frame(x, y, w, h) {
-    Companion_getInstance_13();
-    this.k78_1 = x;
-    this.l78_1 = y;
-    this.m78_1 = w;
-    this.n78_1 = h;
+    Companion_getInstance_14();
+    this.o79_1 = x;
+    this.p79_1 = y;
+    this.q79_1 = w;
+    this.r79_1 = h;
   }
-  Frame.prototype.o78 = function (geometry) {
-    return (this.k78_1 / this.m78_1 | 0) + imul(this.l78_1 / this.n78_1 | 0, geometry.a78_1) | 0;
+  Frame.prototype.s79 = function (geometry) {
+    return (this.o79_1 / this.q79_1 | 0) + imul(this.p79_1 / this.r79_1 | 0, geometry.e79_1) | 0;
   };
   Frame.prototype.toString = function () {
-    return 'Frame(x=' + this.k78_1 + ', y=' + this.l78_1 + ', w=' + this.m78_1 + ', h=' + this.n78_1 + ')';
+    return 'Frame(x=' + this.o79_1 + ', y=' + this.p79_1 + ', w=' + this.q79_1 + ', h=' + this.r79_1 + ')';
   };
   Frame.prototype.hashCode = function () {
-    var result = this.k78_1;
-    result = imul(result, 31) + this.l78_1 | 0;
-    result = imul(result, 31) + this.m78_1 | 0;
-    result = imul(result, 31) + this.n78_1 | 0;
+    var result = this.o79_1;
+    result = imul(result, 31) + this.p79_1 | 0;
+    result = imul(result, 31) + this.q79_1 | 0;
+    result = imul(result, 31) + this.r79_1 | 0;
     return result;
   };
   Frame.prototype.equals = function (other) {
@@ -10474,13 +10521,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (!(other instanceof Frame))
       return false;
     var tmp0_other_with_cast = other instanceof Frame ? other : THROW_CCE();
-    if (!(this.k78_1 === tmp0_other_with_cast.k78_1))
+    if (!(this.o79_1 === tmp0_other_with_cast.o79_1))
       return false;
-    if (!(this.l78_1 === tmp0_other_with_cast.l78_1))
+    if (!(this.p79_1 === tmp0_other_with_cast.p79_1))
       return false;
-    if (!(this.m78_1 === tmp0_other_with_cast.m78_1))
+    if (!(this.q79_1 === tmp0_other_with_cast.q79_1))
       return false;
-    if (!(this.n78_1 === tmp0_other_with_cast.n78_1))
+    if (!(this.r79_1 === tmp0_other_with_cast.r79_1))
       return false;
     return true;
   };
@@ -10514,9 +10561,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function $loadCOROUTINE$3(_this__u8e3s4, tileset, assets, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.w79_1 = _this__u8e3s4;
-    this.x79_1 = tileset;
-    this.y79_1 = assets;
+    this.a7b_1 = _this__u8e3s4;
+    this.b7b_1 = tileset;
+    this.c7b_1 = assets;
   }
   $loadCOROUTINE$3.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -10527,7 +10574,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 3;
             this.k7_1 = 1;
-            suspendResult = loadGeom(this.y79_1, this.w79_1, this.x79_1, this);
+            suspendResult = loadGeom(this.c7b_1, this.a7b_1, this.b7b_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -10535,7 +10582,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 1:
             this.k7_1 = 2;
-            suspendResult = loadAtlas(this.y79_1, this.w79_1, this.x79_1, ensureNotNull(this.w79_1.c7a_1), this);
+            suspendResult = loadAtlas(this.c7b_1, this.a7b_1, this.b7b_1, ensureNotNull(this.a7b_1.g7b_1), this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -10543,7 +10590,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 2:
             var newTex = suspendResult;
-            this.w79_1.b7a_1.m1e(newTex);
+            this.a7b_1.f7b_1.m1e(newTex);
             return Unit_getInstance();
           case 3:
             throw this.n7_1;
@@ -10561,9 +10608,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   $loadCOROUTINE$3.$metadata$ = classMeta('$loadCOROUTINE$3', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function $loadGeomCOROUTINE$4(_this__u8e3s4, _this__u8e3s4_0, tileset, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.x78_1 = _this__u8e3s4;
-    this.y78_1 = _this__u8e3s4_0;
-    this.z78_1 = tileset;
+    this.b7a_1 = _this__u8e3s4;
+    this.c7a_1 = _this__u8e3s4_0;
+    this.d7a_1 = tileset;
   }
   $loadGeomCOROUTINE$4.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -10573,9 +10620,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         switch (tmp) {
           case 0:
             this.l7_1 = 2;
-            this.a79_1 = 'sprites/' + this.z78_1.r6r_1 + '/' + this.x78_1.z79_1 + '.json';
+            this.e7a_1 = 'sprites/' + this.d7a_1.r6r_1 + '/' + this.b7a_1.d7b_1 + '.json';
             this.k7_1 = 1;
-            suspendResult = this.y78_1.p1y(this.a79_1, this);
+            suspendResult = this.c7a_1.p1y(this.e7a_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -10591,9 +10638,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             var tmp0_cast = serializer(tmp1_serializer, createKType(getKClass(JsonObject), arrayOf([]), false));
             var jsonObj = tmp0_decodeFromString.xn(isInterface(tmp0_cast, KSerializer) ? tmp0_cast : THROW_CCE(), content);
             if (!jsonObj.o10('geom'))
-              throw IllegalStateException_init_$Create$_0('no geom for atlas ' + this.z78_1.d6s() + ' ' + this.x78_1.z79_1);
-            this.x78_1.c7a_1 = Companion_getInstance_12().x77(ensureNotNull(jsonObj.p10('geom')));
-            this.x78_1.d7a_1.t7();
+              throw IllegalStateException_init_$Create$('no geom for atlas ' + this.d7a_1.d6s() + ' ' + this.b7a_1.d7b_1);
+            this.b7a_1.g7b_1 = Companion_getInstance_13().b79(ensureNotNull(jsonObj.p10('geom')));
+            this.b7a_1.h7b_1.t7();
             var tmp_0 = jsonObj.p10('frames');
             var tmp0_safe_receiver = tmp_0 instanceof JsonObject ? tmp_0 : null;
             if (tmp0_safe_receiver == null)
@@ -10605,7 +10652,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                 var tmp0_subject = element.n2();
                 var tmp_1;
                 if (tmp0_subject instanceof JsonObject) {
-                  tmp_1 = Companion_getInstance_13().x77(ensureNotNull(get_jsonObject(element.n2()).p10('frame'))).o78(ensureNotNull(this.x78_1.c7a_1));
+                  tmp_1 = Companion_getInstance_14().b79(ensureNotNull(get_jsonObject(element.n2()).p10('frame'))).s79(ensureNotNull(this.b7a_1.g7b_1));
                 } else {
                   if (tmp0_subject instanceof JsonPrimitive) {
                     var tmp_2 = element.n2();
@@ -10623,14 +10670,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                   }
                 }
                 var ord = tmp_1;
-                var tmp0_set = this.x78_1.d7a_1;
+                var tmp0_set = this.b7a_1.h7b_1;
                 var tmp1_set = element.l2();
                 tmp0_set.b(tmp1_set, ord);
               }
             }
 
             ;
-            println('NAMES=' + this.x78_1.d7a_1);
+            println('NAMES=' + this.b7a_1.h7b_1);
             return Unit_getInstance();
           case 2:
             throw this.n7_1;
@@ -10648,10 +10695,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   $loadGeomCOROUTINE$4.$metadata$ = classMeta('$loadGeomCOROUTINE$4', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function $loadAtlasCOROUTINE$5(_this__u8e3s4, _this__u8e3s4_0, tileset, geometry, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.j79_1 = _this__u8e3s4;
-    this.k79_1 = _this__u8e3s4_0;
-    this.l79_1 = tileset;
-    this.m79_1 = geometry;
+    this.n7a_1 = _this__u8e3s4;
+    this.o7a_1 = _this__u8e3s4_0;
+    this.p7a_1 = tileset;
+    this.q7a_1 = geometry;
   }
   $loadAtlasCOROUTINE$5.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -10661,9 +10708,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         switch (tmp) {
           case 0:
             this.l7_1 = 2;
-            this.n79_1 = 'sprites/' + this.l79_1.r6r_1 + '/' + this.j79_1.z79_1 + '.png';
+            this.r7a_1 = 'sprites/' + this.p7a_1.r6r_1 + '/' + this.n7a_1.d7b_1 + '.png';
             this.k7_1 = 1;
-            suspendResult = this.k79_1.s1y(this.n79_1, this.m79_1.a78_1, this.m79_1.b78_1, get_simpleTextureProps().m59_1, this);
+            suspendResult = this.o7a_1.s1y(this.r7a_1, this.q7a_1.e79_1, this.q7a_1.f79_1, get_simpleTextureProps().m59_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -10671,7 +10718,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 1:
             var data = suspendResult;
-            return new Texture3d(get_simpleTextureProps(), this.j79_1.z79_1, new BufferedTextureLoader(data));
+            return new Texture3d(get_simpleTextureProps(), this.n7a_1.d7b_1, new BufferedTextureLoader(data));
           case 2:
             throw this.n7_1;
         }
@@ -10687,40 +10734,40 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   $loadAtlasCOROUTINE$5.$metadata$ = classMeta('$loadAtlasCOROUTINE$5', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function ImageAtlas(name, whenLoaded) {
-    this.z79_1 = name;
+    this.d7b_1 = name;
     var tmp = this;
-    tmp.a7a_1 = Job$default(null, 1, null);
-    this.b7a_1 = mutableStateOf(null);
-    this.c7a_1 = null;
+    tmp.e7b_1 = Job$default(null, 1, null);
+    this.f7b_1 = mutableStateOf(null);
+    this.g7b_1 = null;
     var tmp_0 = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = LinkedHashMap_init_$Create$_0();
     }
-    tmp_0.d7a_1 = tmp$ret$0;
+    tmp_0.h7b_1 = tmp$ret$0;
   }
-  ImageAtlas.prototype.e7a = function () {
-    return this.b7a_1;
+  ImageAtlas.prototype.i7b = function () {
+    return this.f7b_1;
   };
-  ImageAtlas.prototype.g78 = function () {
-    var tmp0_safe_receiver = this.b7a_1.v3s_1;
+  ImageAtlas.prototype.k79 = function () {
+    var tmp0_safe_receiver = this.f7b_1.v3s_1;
     var tmp1_safe_receiver = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.p5a();
     var tmp2_elvis_lhs = tmp1_safe_receiver == null ? null : tmp1_safe_receiver.k46();
     return tmp2_elvis_lhs == null ? 0 : tmp2_elvis_lhs;
   };
-  ImageAtlas.prototype.h78 = function () {
-    var tmp0_safe_receiver = this.b7a_1.v3s_1;
+  ImageAtlas.prototype.l79 = function () {
+    var tmp0_safe_receiver = this.f7b_1.v3s_1;
     var tmp1_safe_receiver = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.p5a();
     var tmp2_elvis_lhs = tmp1_safe_receiver == null ? null : tmp1_safe_receiver.m46();
     return tmp2_elvis_lhs == null ? 0 : tmp2_elvis_lhs;
   };
-  ImageAtlas.prototype.f7a = function () {
-    return this.d7a_1;
+  ImageAtlas.prototype.j7b = function () {
+    return this.h7b_1;
   };
-  ImageAtlas.prototype.g7a = function () {
-    return new Vec2i(this.g78(), this.h78());
+  ImageAtlas.prototype.k7b = function () {
+    return new Vec2i(this.k79(), this.l79());
   };
-  ImageAtlas.prototype.h7a = function (tileset, assets, $cont) {
+  ImageAtlas.prototype.l7b = function (tileset, assets, $cont) {
     var tmp = new $loadCOROUTINE$3(this, tileset, assets, $cont);
     tmp.m7_1 = Unit_getInstance();
     tmp.n7_1 = null;
@@ -10760,9 +10807,17 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   var LevelSet_FANBOOK_instance;
   var LevelSet_PROFESSIONAL_instance;
   var LevelSet_REVENGE_instance;
-  var LevelSet_CUSTOM_instance;
+  var LevelSet_DMG_instance;
+  var LevelSet_FCSLR1_instance;
+  var LevelSet_FCSLR2_instance;
+  var LevelSet_HIRRCNT_instance;
+  var LevelSet_HISSHO2_instance;
+  var LevelSet_LRPRO68K_instance;
+  var LevelSet_MISC_instance;
+  var LevelSet_MSX_instance;
+  var LevelSet_PC100_instance;
   function values_3() {
-    return [LevelSet_CLASSIC_getInstance(), LevelSet_CHAMPIONSHIP_getInstance(), LevelSet_FANBOOK_getInstance(), LevelSet_PROFESSIONAL_getInstance(), LevelSet_REVENGE_getInstance(), LevelSet_CUSTOM_getInstance()];
+    return [LevelSet_CLASSIC_getInstance(), LevelSet_CHAMPIONSHIP_getInstance(), LevelSet_FANBOOK_getInstance(), LevelSet_PROFESSIONAL_getInstance(), LevelSet_REVENGE_getInstance(), LevelSet_DMG_getInstance(), LevelSet_FCSLR1_getInstance(), LevelSet_FCSLR2_getInstance(), LevelSet_HIRRCNT_getInstance(), LevelSet_HISSHO2_getInstance(), LevelSet_LRPRO68K_getInstance(), LevelSet_MISC_getInstance(), LevelSet_MSX_getInstance(), LevelSet_PC100_getInstance()];
   }
   function valueOf_1(value) {
     switch (value) {
@@ -10776,8 +10831,24 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         return LevelSet_PROFESSIONAL_getInstance();
       case 'REVENGE':
         return LevelSet_REVENGE_getInstance();
-      case 'CUSTOM':
-        return LevelSet_CUSTOM_getInstance();
+      case 'DMG':
+        return LevelSet_DMG_getInstance();
+      case 'FCSLR1':
+        return LevelSet_FCSLR1_getInstance();
+      case 'FCSLR2':
+        return LevelSet_FCSLR2_getInstance();
+      case 'HIRRCNT':
+        return LevelSet_HIRRCNT_getInstance();
+      case 'HISSHO2':
+        return LevelSet_HISSHO2_getInstance();
+      case 'LRPRO68K':
+        return LevelSet_LRPRO68K_getInstance();
+      case 'MISC':
+        return LevelSet_MISC_getInstance();
+      case 'MSX':
+        return LevelSet_MSX_getInstance();
+      case 'PC100':
+        return LevelSet_PC100_getInstance();
       default:
         LevelSet_initEntries();
         THROW_ISE();
@@ -10794,11 +10865,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     LevelSet_FANBOOK_instance = new LevelSet('FANBOOK', 2, 'fanbook');
     LevelSet_PROFESSIONAL_instance = new LevelSet('PROFESSIONAL', 3, 'professional');
     LevelSet_REVENGE_instance = new LevelSet('REVENGE', 4, 'revenge');
-    LevelSet_CUSTOM_instance = new LevelSet('CUSTOM', 5, 'custom');
+    LevelSet_DMG_instance = new LevelSet('DMG', 5, 'dmg');
+    LevelSet_FCSLR1_instance = new LevelSet('FCSLR1', 6, 'fc_slr1');
+    LevelSet_FCSLR2_instance = new LevelSet('FCSLR2', 7, 'fc_slr2');
+    LevelSet_HIRRCNT_instance = new LevelSet('HIRRCNT', 8, 'hir_rcnt');
+    LevelSet_HISSHO2_instance = new LevelSet('HISSHO2', 9, 'hissho2');
+    LevelSet_LRPRO68K_instance = new LevelSet('LRPRO68K', 10, 'lrpro68k');
+    LevelSet_MISC_instance = new LevelSet('MISC', 11, 'misc');
+    LevelSet_MSX_instance = new LevelSet('MSX', 12, 'msx');
+    LevelSet_PC100_instance = new LevelSet('PC100', 13, 'pc100');
   }
   function LevelSet(name, ordinal, path) {
     Enum.call(this, name, ordinal);
-    this.p76_1 = path;
+    this.s77_1 = path;
   }
   LevelSet.prototype.d6s = function () {
     var tmp = this.y1() + 1 | 0;
@@ -10849,19 +10928,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$4 = tmp$ret$3;
     }
-    tmp.i7a_1 = tmp$ret$4;
+    tmp.m7b_1 = tmp$ret$4;
   }
   Companion_2.$metadata$ = objectMeta('Companion');
   var Companion_instance_2;
-  function Companion_getInstance_14() {
+  function Companion_getInstance_15() {
     if (Companion_instance_2 == null)
       new Companion_2();
     return Companion_instance_2;
   }
   function $loadCOROUTINE$6(_this__u8e3s4, levelSet, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.r7a_1 = _this__u8e3s4;
-    this.s7a_1 = levelSet;
+    this.v7b_1 = _this__u8e3s4;
+    this.w7b_1 = levelSet;
   }
   $loadCOROUTINE$6.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -10872,7 +10951,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 2;
             this.k7_1 = 1;
-            suspendResult = this.r7a_1.i76_1.p1y('maps/' + this.s7a_1.p76_1 + '.json', this);
+            suspendResult = this.v7b_1.l77_1.p1y('maps/' + this.w7b_1.s77_1 + '.json', this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -10889,27 +10968,32 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             var obj = tmp0_decodeFromString.xn(isInterface(tmp0_cast, KSerializer) ? tmp0_cast : THROW_CCE(), json);
             var tmp_0 = obj.p10('levels');
             var tmp1_with = tmp_0 instanceof JsonObject ? tmp_0 : THROW_CCE();
-            var tmp_1 = tmp1_with.p10('total');
-            var total = tmp_1 instanceof JsonPrimitive ? tmp_1 : THROW_CCE();
-            this.r7a_1.k76_1.t7();
-            var inductionVariable = 1;
-            var last = get_int(total);
-            if (inductionVariable <= last)
-              do {
-                var i = inductionVariable;
-                inductionVariable = inductionVariable + 1 | 0;
-                var tmp_2 = tmp1_with.p10('level-' + padStart(i.toString(), 3, _Char___init__impl__6a9atx(48)));
-                var rows = tmp_2 instanceof JsonArray ? tmp_2 : THROW_CCE();
-                var tmp0_mapTo = ArrayList_init_$Create$(collectionSizeOrDefault(rows, 10));
-                var tmp0_iterator = rows.h();
-                while (tmp0_iterator.n()) {
-                  var item = tmp0_iterator.o();
-                  tmp0_mapTo.a(get_jsonPrimitive(item).q10());
-                }
-                var map = tmp0_mapTo;
-                this.r7a_1.k76_1.a(map);
+            var tmp0_toTypedArray = tmp1_with.c3();
+            var levelKeys = mutableSetOf(copyToArray(tmp0_toTypedArray).slice());
+            levelKeys.c4('total');
+            ;
+            levelKeys.c4('name');
+            ;
+            levelKeys.c4('desc');
+            ;
+            levelKeys.c4('levelsDesc');
+            ;
+            this.v7b_1.n77_1.t7();
+            var tmp0_iterator = levelKeys.h();
+            while (tmp0_iterator.n()) {
+              var levelName = tmp0_iterator.o();
+              var tmp_1 = tmp1_with.p10(levelName);
+              var rows = tmp_1 instanceof JsonArray ? tmp_1 : THROW_CCE();
+              var tmp0_mapTo = ArrayList_init_$Create$(collectionSizeOrDefault(rows, 10));
+              var tmp0_iterator_0 = rows.h();
+              while (tmp0_iterator_0.n()) {
+                var item = tmp0_iterator_0.o();
+                tmp0_mapTo.a(get_jsonPrimitive(item).q10());
               }
-               while (!(i === last));
+              var map = tmp0_mapTo;
+              this.v7b_1.n77_1.a(map);
+            }
+
             return Unit_getInstance();
           case 2:
             throw this.n7_1;
@@ -10926,45 +11010,45 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   $loadCOROUTINE$6.$metadata$ = classMeta('$loadCOROUTINE$6', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function LevelsRep(assets, scope) {
-    Companion_getInstance_14();
-    this.i76_1 = assets;
-    this.j76_1 = scope;
+    Companion_getInstance_15();
+    this.l77_1 = assets;
+    this.m77_1 = scope;
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp.k76_1 = tmp$ret$0;
+    tmp.n77_1 = tmp$ret$0;
     var tmp_0 = this;
     var tmp$ret$1;
     {
       tmp$ret$1 = LinkedHashMap_init_$Create$_0();
     }
-    tmp_0.l76_1 = tmp$ret$1;
+    tmp_0.o77_1 = tmp$ret$1;
   }
-  LevelsRep.prototype.t7a = function () {
-    return this.j76_1;
+  LevelsRep.prototype.x7b = function () {
+    return this.m77_1;
   };
-  LevelsRep.prototype.u7a = function () {
-    return this.k76_1;
+  LevelsRep.prototype.y7b = function () {
+    return this.n77_1;
   };
-  LevelsRep.prototype.m76 = function (levelSet, $cont) {
+  LevelsRep.prototype.p77 = function (levelSet, $cont) {
     var tmp = new $loadCOROUTINE$6(this, levelSet, $cont);
     tmp.m7_1 = Unit_getInstance();
     tmp.n7_1 = null;
     return tmp.r7();
   };
-  LevelsRep.prototype.v7a = function (id, tileSet, generated) {
+  LevelsRep.prototype.z7b = function (id, tileSet, generated) {
     var tmp$ret$0;
     {
-      var tmp0_mod = this.k76_1.m();
+      var tmp0_mod = this.n77_1.m();
       var r = id % tmp0_mod | 0;
       tmp$ret$0 = r + (tmp0_mod & ((r ^ tmp0_mod) & (r | (-r | 0))) >> 31) | 0;
     }
     var lid = tmp$ret$0;
     var tmp$ret$2;
     {
-      var tmp1_getOrPut = this.l76_1;
+      var tmp1_getOrPut = this.o77_1;
       var value = tmp1_getOrPut.b3(lid);
       var tmp;
       if (value == null) {
@@ -10972,12 +11056,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         {
           var tmp_0;
           if (generated) {
-            var fromMap = this.k76_1.r(lid);
+            var fromMap = this.n77_1.r(lid);
             var tmp_1 = 24 + first(fromMap).length | 0;
             var tmp_2 = 12 + fromMap.m() | 0;
-            tmp_0 = generateGameLevel$default(lid, fromMap, 0, 0, tmp_1, tmp_2, 0, 0, null, tileSet.d7a_1, this.j76_1, 460, null);
+            tmp_0 = generateGameLevel$default(lid, fromMap, 0, 0, tmp_1, tmp_2, 0, 0, null, tileSet.h7b_1, this.m77_1, 460, null);
           } else {
-            tmp_0 = loadGameLevel(lid, this.k76_1.r(lid), tileSet.d7a_1);
+            tmp_0 = loadGameLevel(lid, this.n77_1.r(lid), tileSet.h7b_1);
           }
           tmp$ret$1 = tmp_0;
         }
@@ -11012,13 +11096,45 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     LevelSet_initEntries();
     return LevelSet_REVENGE_instance;
   }
-  function LevelSet_CUSTOM_getInstance() {
+  function LevelSet_DMG_getInstance() {
     LevelSet_initEntries();
-    return LevelSet_CUSTOM_instance;
+    return LevelSet_DMG_instance;
+  }
+  function LevelSet_FCSLR1_getInstance() {
+    LevelSet_initEntries();
+    return LevelSet_FCSLR1_instance;
+  }
+  function LevelSet_FCSLR2_getInstance() {
+    LevelSet_initEntries();
+    return LevelSet_FCSLR2_instance;
+  }
+  function LevelSet_HIRRCNT_getInstance() {
+    LevelSet_initEntries();
+    return LevelSet_HIRRCNT_instance;
+  }
+  function LevelSet_HISSHO2_getInstance() {
+    LevelSet_initEntries();
+    return LevelSet_HISSHO2_instance;
+  }
+  function LevelSet_LRPRO68K_getInstance() {
+    LevelSet_initEntries();
+    return LevelSet_LRPRO68K_instance;
+  }
+  function LevelSet_MISC_getInstance() {
+    LevelSet_initEntries();
+    return LevelSet_MISC_instance;
+  }
+  function LevelSet_MSX_getInstance() {
+    LevelSet_initEntries();
+    return LevelSet_MSX_instance;
+  }
+  function LevelSet_PC100_getInstance() {
+    LevelSet_initEntries();
+    return LevelSet_PC100_instance;
   }
   function $loadSoundsCOROUTINE$7(_this__u8e3s4, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.e7b_1 = _this__u8e3s4;
+    this.i7c_1 = _this__u8e3s4;
   }
   $loadSoundsCOROUTINE$7.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -11028,53 +11144,53 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         switch (tmp) {
           case 0:
             this.l7_1 = 5;
-            this.f7b_1 = 'sounds/ap2';
-            this.g7b_1 = this.f7b_1 + '/sounds.json';
+            this.j7c_1 = 'sounds/ap2';
+            this.k7c_1 = this.j7c_1 + '/sounds.json';
             this.k7_1 = 1;
-            suspendResult = this.e7b_1.w7b_1.p1y(this.g7b_1, this);
+            suspendResult = this.i7c_1.a7d_1.p1y(this.k7c_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
 
             continue $sm;
           case 1:
-            this.h7b_1 = suspendResult;
-            this.i7b_1 = ensureNotNull(this.h7b_1);
-            this.j7b_1 = this.i7b_1.e6();
-            this.k7b_1 = decodeToString(this.j7b_1);
+            this.l7c_1 = suspendResult;
+            this.m7c_1 = ensureNotNull(this.l7c_1);
+            this.n7c_1 = this.m7c_1.e6();
+            this.o7c_1 = decodeToString(this.n7c_1);
             var tmp_0 = this;
             var tmp_1 = this;
-            tmp_1.l7b_1 = Default_getInstance();
+            tmp_1.p7c_1 = Default_getInstance();
             var tmp_2 = this;
-            tmp_2.m7b_1 = this.l7b_1.yn();
+            tmp_2.q7c_1 = this.p7c_1.yn();
             var tmp_3 = this;
-            tmp_3.n7b_1 = serializer(this.m7b_1, createKType(getKClass(JsonObject), arrayOf([]), false));
-            var tmp_4 = this.n7b_1;
-            tmp_0.o7b_1 = this.l7b_1.xn(isInterface(tmp_4, KSerializer) ? tmp_4 : THROW_CCE(), this.k7b_1);
-            this.p7b_1 = this.e7b_1.x7b_1;
+            tmp_3.r7c_1 = serializer(this.q7c_1, createKType(getKClass(JsonObject), arrayOf([]), false));
+            var tmp_4 = this.r7c_1;
+            tmp_0.s7c_1 = this.p7c_1.xn(isInterface(tmp_4, KSerializer) ? tmp_4 : THROW_CCE(), this.o7c_1);
+            this.t7c_1 = this.i7c_1.b7d_1;
             var tmp_5 = this;
-            var tmp_6 = this.o7b_1.p10('clips');
-            tmp_5.q7b_1 = tmp_6 instanceof JsonObject ? tmp_6 : THROW_CCE();
+            var tmp_6 = this.s7c_1.p10('clips');
+            tmp_5.u7c_1 = tmp_6 instanceof JsonObject ? tmp_6 : THROW_CCE();
             var tmp_7 = this;
-            tmp_7.r7b_1 = ArrayList_init_$Create$(this.q7b_1.m());
+            tmp_7.v7c_1 = ArrayList_init_$Create$(this.u7c_1.m());
             var tmp_8 = this;
-            tmp_8.s7b_1 = this.q7b_1.a1().h();
+            tmp_8.w7c_1 = this.u7c_1.a1().h();
             this.k7_1 = 2;
             continue $sm;
           case 2:
-            if (!this.s7b_1.n()) {
+            if (!this.w7c_1.n()) {
               this.k7_1 = 4;
               continue $sm;
             }
 
-            this.t7b_1 = this.s7b_1.o();
-            this.u7b_1 = this.t7b_1.l2();
+            this.x7c_1 = this.w7c_1.o();
+            this.y7c_1 = this.x7c_1.l2();
             var tmp_9 = this;
-            var tmp_10 = this.t7b_1.n2();
+            var tmp_10 = this.x7c_1.n2();
             var tmp_11 = (tmp_10 instanceof JsonObject ? tmp_10 : THROW_CCE()).p10('type');
-            tmp_9.v7b_1 = (tmp_11 instanceof JsonPrimitive ? tmp_11 : THROW_CCE()).q10();
+            tmp_9.z7c_1 = (tmp_11 instanceof JsonPrimitive ? tmp_11 : THROW_CCE()).q10();
             this.k7_1 = 3;
-            suspendResult = this.e7b_1.w7b_1.u1y(this.f7b_1 + '/' + this.u7b_1 + '.' + this.v7b_1, this);
+            suspendResult = this.i7c_1.a7d_1.u1y(this.j7c_1 + '/' + this.y7c_1 + '.' + this.z7c_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -11084,15 +11200,15 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             var tmp0_also = suspendResult;
             tmp0_also.v5z(0.2);
             var ARGUMENT = tmp0_also;
-            var ARGUMENT_0 = to(this.u7b_1, ARGUMENT);
-            this.r7b_1.a(ARGUMENT_0);
+            var ARGUMENT_0 = to(this.y7c_1, ARGUMENT);
+            this.v7c_1.a(ARGUMENT_0);
             ;
             this.k7_1 = 2;
             continue $sm;
           case 4:
-            var ARGUMENT_1 = this.r7b_1;
+            var ARGUMENT_1 = this.v7c_1;
             var ARGUMENT_2 = toMap(ARGUMENT_1);
-            this.p7b_1.b4(ARGUMENT_2);
+            this.t7c_1.b4(ARGUMENT_2);
             return Unit_getInstance();
           case 5:
             throw this.n7_1;
@@ -11109,22 +11225,22 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   $loadSoundsCOROUTINE$7.$metadata$ = classMeta('$loadSoundsCOROUTINE$7', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function SoundPlayer(assets) {
-    this.w7b_1 = assets;
+    this.a7d_1 = assets;
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = LinkedHashMap_init_$Create$_0();
     }
-    tmp.x7b_1 = tmp$ret$0;
+    tmp.b7d_1 = tmp$ret$0;
   }
-  SoundPlayer.prototype.y7b = function ($cont) {
+  SoundPlayer.prototype.c7d = function ($cont) {
     var tmp = new $loadSoundsCOROUTINE$7(this, $cont);
     tmp.m7_1 = Unit_getInstance();
     tmp.n7_1 = null;
     return tmp.r7();
   };
-  SoundPlayer.prototype.z7b = function (s, looped, playSingle) {
-    var tmp0_safe_receiver = this.x7b_1.b3(s);
+  SoundPlayer.prototype.d7d = function (s, looped, playSingle) {
+    var tmp0_safe_receiver = this.b7d_1.b3(s);
     if (tmp0_safe_receiver == null)
       null;
     else {
@@ -11140,15 +11256,15 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
     }
   };
-  SoundPlayer.prototype.a7c = function (s, looped, playSingle, $mask0, $handler) {
+  SoundPlayer.prototype.e7d = function (s, looped, playSingle, $mask0, $handler) {
     if (!(($mask0 & 2) === 0))
       looped = false;
     if (!(($mask0 & 4) === 0))
       playSingle = true;
-    return this.z7b(s, looped, playSingle);
+    return this.d7d(s, looped, playSingle);
   };
-  SoundPlayer.prototype.b7c = function (s, delay) {
-    var tmp0_safe_receiver = this.x7b_1.b3(s);
+  SoundPlayer.prototype.f7d = function (s, delay) {
+    var tmp0_safe_receiver = this.b7d_1.b3(s);
     var tmp;
     if (tmp0_safe_receiver == null) {
       tmp = null;
@@ -11158,10 +11274,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return tmp;
   };
-  SoundPlayer.prototype.c7c = function (s, delay, $mask0, $handler) {
+  SoundPlayer.prototype.g7d = function (s, delay, $mask0, $handler) {
     if (!(($mask0 & 2) === 0))
       delay = 0.0;
-    return this.b7c(s, delay);
+    return this.f7d(s, delay);
   };
   SoundPlayer.$metadata$ = classMeta('SoundPlayer');
   function get_Version() {
@@ -11238,10 +11354,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function ActorSequence(name, ordinal, id) {
     Enum.call(this, name, ordinal);
-    this.f7c_1 = id;
+    this.j7d_1 = id;
   }
   ActorSequence.prototype.b23 = function () {
-    return this.f7c_1;
+    return this.j7d_1;
   };
   ActorSequence.$metadata$ = classMeta('ActorSequence', undefined, undefined, undefined, undefined, Enum.prototype);
   function Controllable() {
@@ -11249,24 +11365,24 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   Controllable.$metadata$ = interfaceMeta('Controllable');
   function Actor$ActorState$ControllableState$lambda$lambda() {
     return function ($this$validWhen) {
-      return !$this$validWhen.x7c();
+      return !$this$validWhen.b7e();
     };
   }
   function Actor$ActorState$ControllableState$lambda$lambda_0() {
     return function ($this$validWhen) {
       var tmp;
-      if ($this$validWhen.a77().g23() > 0 ? $this$validWhen.o5u().q7d($this$validWhen.e23(), $this$validWhen.g23() + 1 | 0) : false) {
+      if ($this$validWhen.e78().g23() > 0 ? $this$validWhen.o5u().v7e($this$validWhen.e23(), $this$validWhen.g23() + 1 | 0) : false) {
         var tmp_0;
         var tmp_1 = $this$validWhen.o5u();
         var tmp_2 = $this$validWhen.e23();
         var tmp_3 = $this$validWhen.g23();
-        if (tmp_1.p7d(tmp_2, tmp_3, false, 4, null)) {
+        if (tmp_1.u7e(tmp_2, tmp_3, false, 4, null)) {
           tmp_0 = true;
         } else {
           var tmp_4 = $this$validWhen.o5u();
           var tmp_5 = $this$validWhen.e23();
           var tmp_6 = $this$validWhen.g23() + 1 | 0;
-          tmp_0 = tmp_4.p7d(tmp_5, tmp_6, false, 4, null);
+          tmp_0 = tmp_4.u7e(tmp_5, tmp_6, false, 4, null);
         }
         tmp = !tmp_0;
       } else {
@@ -11277,16 +11393,16 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$ControllableState$lambda$lambda_1($actor, this$0) {
     return function ($this$action) {
-      $actor.r7d(ActorSequence_FallLeft_getInstance());
+      $actor.w7e(ActorSequence_FallLeft_getInstance());
       var tmp0_subject = this$0;
       var tmp;
       if (tmp0_subject instanceof MoveRight) {
-        $actor.r7d(ActorSequence_FallRight_getInstance());
-        $actor.t7c_1 = Action_ACT_RIGHT_getInstance();
+        $actor.w7e(ActorSequence_FallRight_getInstance());
+        $actor.x7d_1 = Action_ACT_RIGHT_getInstance();
         tmp = Unit_getInstance();
       } else {
         if (tmp0_subject instanceof MoveLeft) {
-          $actor.t7c_1 = Action_ACT_LEFT_getInstance();
+          $actor.x7d_1 = Action_ACT_LEFT_getInstance();
           tmp = Unit_getInstance();
         } else {
           tmp = Unit_getInstance();
@@ -11297,75 +11413,75 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$ControllableState$lambda($actor, this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda());
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_0());
-      $this$edge.y7d(Actor$ActorState$ControllableState$lambda$lambda_1($actor, this$0));
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda());
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_0());
+      $this$edge.d7f(Actor$ActorState$ControllableState$lambda$lambda_1($actor, this$0));
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$ControllableState$lambda$lambda_2() {
     return function ($this$validWhen) {
-      return $this$validWhen.a77().g23() < 0 ? $this$validWhen.z7d() : false;
+      return $this$validWhen.e78().g23() < 0 ? $this$validWhen.e7f() : false;
     };
   }
   function Actor$ActorState$ControllableState$lambda_0() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_2());
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_2());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$ControllableState$lambda$lambda_3() {
     return function ($this$validWhen) {
-      return $this$validWhen.a77().g23() > 0 ? $this$validWhen.a7e() : false;
+      return $this$validWhen.e78().g23() > 0 ? $this$validWhen.f7f() : false;
     };
   }
   function Actor$ActorState$ControllableState$lambda_1() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_3());
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_3());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$ControllableState$lambda$lambda_4() {
     return function ($this$validWhen) {
-      return ($this$validWhen.a77().e23() < 0 ? ($this$validWhen.d7e() > 0 ? $this$validWhen.o5u().c7e($this$validWhen.e23(), $this$validWhen.g23()) : false) ? true : $this$validWhen.d7e() <= 0 ? $this$validWhen.o5u().c7e($this$validWhen.e23() - 1 | 0, $this$validWhen.g23()) : false : false) ? $this$validWhen.b7e() > 0 : false;
+      return ($this$validWhen.e78().e23() < 0 ? ($this$validWhen.i7f() > 0 ? $this$validWhen.o5u().h7f($this$validWhen.e23(), $this$validWhen.g23()) : false) ? true : $this$validWhen.i7f() <= 0 ? $this$validWhen.o5u().h7f($this$validWhen.e23() - 1 | 0, $this$validWhen.g23()) : false : false) ? $this$validWhen.g7f() > 0 : false;
     };
   }
   function Actor$ActorState$ControllableState$lambda_2() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_4());
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_4());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$ControllableState$lambda$lambda_5() {
     return function ($this$validWhen) {
-      return ($this$validWhen.a77().e23() > 0 ? ($this$validWhen.d7e() < 0 ? $this$validWhen.o5u().c7e($this$validWhen.e23(), $this$validWhen.g23()) : false) ? true : $this$validWhen.d7e() >= 0 ? $this$validWhen.o5u().c7e($this$validWhen.e23() + 1 | 0, $this$validWhen.g23()) : false : false) ? $this$validWhen.e7e() > 0 : false;
+      return ($this$validWhen.e78().e23() > 0 ? ($this$validWhen.i7f() < 0 ? $this$validWhen.o5u().h7f($this$validWhen.e23(), $this$validWhen.g23()) : false) ? true : $this$validWhen.i7f() >= 0 ? $this$validWhen.o5u().h7f($this$validWhen.e23() + 1 | 0, $this$validWhen.g23()) : false : false) ? $this$validWhen.j7f() > 0 : false;
     };
   }
   function Actor$ActorState$ControllableState$lambda_3() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_5());
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_5());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$ControllableState$lambda$lambda_6() {
     return function ($this$validWhen) {
-      return ($this$validWhen.a77().e23() < 0 ? $this$validWhen.b7e() > 0 : false) ? !$this$validWhen.o5u().c7e($this$validWhen.d7e() > 0 ? $this$validWhen.e23() : $this$validWhen.e23() - 1 | 0, $this$validWhen.g23()) : false;
+      return ($this$validWhen.e78().e23() < 0 ? $this$validWhen.g7f() > 0 : false) ? !$this$validWhen.o5u().h7f($this$validWhen.i7f() > 0 ? $this$validWhen.e23() : $this$validWhen.e23() - 1 | 0, $this$validWhen.g23()) : false;
     };
   }
   function Actor$ActorState$ControllableState$lambda_4() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_6());
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_6());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$ControllableState$lambda$lambda_7() {
     return function ($this$validWhen) {
-      return ($this$validWhen.a77().e23() > 0 ? $this$validWhen.e7e() > 0 : false) ? !$this$validWhen.o5u().c7e($this$validWhen.d7e() >= 0 ? $this$validWhen.e23() + 1 | 0 : $this$validWhen.e23(), $this$validWhen.g23()) : false;
+      return ($this$validWhen.e78().e23() > 0 ? $this$validWhen.j7f() > 0 : false) ? !$this$validWhen.o5u().h7f($this$validWhen.i7f() >= 0 ? $this$validWhen.e23() + 1 | 0 : $this$validWhen.e23(), $this$validWhen.g23()) : false;
     };
   }
   function Actor$ActorState$ControllableState$lambda_5() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_7());
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_7());
       return Unit_getInstance();
     };
   }
@@ -11374,12 +11490,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp;
       var tmp_0;
       if ($this$validWhen instanceof Runner) {
-        tmp_0 = $this$validWhen.h7c();
+        tmp_0 = $this$validWhen.l7d();
       } else {
         tmp_0 = false;
       }
       if (tmp_0) {
-        tmp = $this$validWhen.y7e($this$validWhen.e23() + 1 | 0);
+        tmp = $this$validWhen.d7g($this$validWhen.e23() + 1 | 0);
       } else {
         tmp = false;
       }
@@ -11388,7 +11504,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$ControllableState$lambda_6() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_8());
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_8());
       return Unit_getInstance();
     };
   }
@@ -11397,12 +11513,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp;
       var tmp_0;
       if ($this$validWhen instanceof Runner) {
-        tmp_0 = $this$validWhen.g7c();
+        tmp_0 = $this$validWhen.k7d();
       } else {
         tmp_0 = false;
       }
       if (tmp_0) {
-        tmp = $this$validWhen.y7e($this$validWhen.e23() - 1 | 0);
+        tmp = $this$validWhen.d7g($this$validWhen.e23() - 1 | 0);
       } else {
         tmp = false;
       }
@@ -11411,14 +11527,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$ControllableState$lambda_7() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_9());
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_9());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$ControllableState$lambda$lambda_10(this$0) {
     return function ($this$validWhen) {
       var tmp;
-      if (!this$0.g7f_1 ? !get_anyKeyPressed($this$validWhen) : false) {
+      if (!this$0.l7g_1 ? !get_anyKeyPressed($this$validWhen) : false) {
         tmp = !(this$0 instanceof StopState);
       } else {
         tmp = false;
@@ -11428,26 +11544,26 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$ControllableState$lambda_8(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$ControllableState$lambda$lambda_10(this$0));
+      $this$edge.c7f(Actor$ActorState$ControllableState$lambda$lambda_10(this$0));
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$ControllableState$lambda_9($actor) {
     return function (it) {
-      $actor.t7c_1 = Action_ACT_NONE_getInstance();
+      $actor.x7d_1 = Action_ACT_NONE_getInstance();
       return Unit_getInstance();
     };
   }
   function Companion_3() {
     Companion_instance_3 = this;
-    this.h7f_1 = 'stop';
+    this.m7g_1 = 'stop';
   }
   Companion_3.prototype.il = function () {
-    return this.h7f_1;
+    return this.m7g_1;
   };
   Companion_3.$metadata$ = objectMeta('Companion');
   var Companion_instance_3;
-  function Companion_getInstance_15() {
+  function Companion_getInstance_16() {
     if (Companion_instance_3 == null)
       new Companion_3();
     return Companion_instance_3;
@@ -11455,26 +11571,26 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Actor$ActorState$StopState$lambda($actor) {
     return function ($this$onUpdate) {
       var tmp;
-      if ($this$onUpdate.a77().e23() < 0) {
-        tmp = $actor.r7d(ActorSequence_RunLeft_getInstance());
+      if ($this$onUpdate.e78().e23() < 0) {
+        tmp = $actor.w7e(ActorSequence_RunLeft_getInstance());
       }
       var tmp_0;
-      if ($this$onUpdate.a77().e23() > 0) {
-        tmp_0 = $actor.r7d(ActorSequence_RunRight_getInstance());
+      if ($this$onUpdate.e78().e23() > 0) {
+        tmp_0 = $actor.w7e(ActorSequence_RunRight_getInstance());
       }
       return Unit_getInstance();
     };
   }
   function Companion_4() {
     Companion_instance_4 = this;
-    this.i7f_1 = 'fall';
+    this.n7g_1 = 'fall';
   }
   Companion_4.prototype.il = function () {
-    return this.i7f_1;
+    return this.n7g_1;
   };
   Companion_4.$metadata$ = objectMeta('Companion');
   var Companion_instance_4;
-  function Companion_getInstance_16() {
+  function Companion_getInstance_17() {
     if (Companion_instance_4 == null)
       new Companion_4();
     return Companion_instance_4;
@@ -11490,7 +11606,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           var tmp_0 = Sound_FALL_getInstance();
           var tmp_1 = $actor.e23();
           var tmp_2 = $actor.g23();
-          tmp = $actor.i7c_1.j7f(tmp_0, tmp_1, tmp_2, false, 8, null);
+          tmp = $actor.m7d_1.o7g(tmp_0, tmp_1, tmp_2, false, 8, null);
         }
         tmp$ret$0 = tmp;
       }
@@ -11505,7 +11621,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         }
         var tmp;
         if ($actor instanceof Runner) {
-          $actor.i7c_1.k7f(Sound_FALL_getInstance());
+          $actor.m7d_1.p7g(Sound_FALL_getInstance());
           tmp = Unit_getInstance();
         }
         tmp$ret$0 = tmp;
@@ -11515,7 +11631,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$FallState$lambda$lambda($actor) {
     return function ($this$action) {
-      var tmp0_safe_receiver = $actor.l7f();
+      var tmp0_safe_receiver = $actor.q7g();
       if (tmp0_safe_receiver == null)
         null;
       else
@@ -11525,34 +11641,34 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$FallState$lambda$lambda_0() {
     return function ($this$validWhen) {
-      return $this$validWhen.x7c();
+      return $this$validWhen.b7e();
     };
   }
   function Actor$ActorState$FallState$lambda_1($actor) {
     return function ($this$edge) {
-      $this$edge.y7d(Actor$ActorState$FallState$lambda$lambda($actor));
-      $this$edge.x7d(Actor$ActorState$FallState$lambda$lambda_0());
+      $this$edge.d7f(Actor$ActorState$FallState$lambda$lambda($actor));
+      $this$edge.c7f(Actor$ActorState$FallState$lambda$lambda_0());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$FallState$lambda_2($actor) {
     return function ($this$onUpdate) {
       var tmp;
-      if ($this$onUpdate.a77().e23() < 0 ? true : $this$onUpdate.g7c()) {
-        if (!$this$onUpdate.p7c_1.equals(ActorSequence_FallLeft_getInstance()))
-          $this$onUpdate.r7d(ActorSequence_FallLeft_getInstance());
-        $actor.t7c_1 = $this$onUpdate.g7c() ? Action_ACT_DIG_getInstance() : Action_ACT_LEFT_getInstance();
+      if ($this$onUpdate.e78().e23() < 0 ? true : $this$onUpdate.k7d()) {
+        if (!$this$onUpdate.t7d_1.equals(ActorSequence_FallLeft_getInstance()))
+          $this$onUpdate.w7e(ActorSequence_FallLeft_getInstance());
+        $actor.x7d_1 = $this$onUpdate.k7d() ? Action_ACT_DIG_getInstance() : Action_ACT_LEFT_getInstance();
         tmp = Unit_getInstance();
-      } else if ($this$onUpdate.a77().e23() > 0 ? true : $this$onUpdate.h7c()) {
-        if (!$this$onUpdate.p7c_1.equals(ActorSequence_FallRight_getInstance()))
-          $this$onUpdate.r7d(ActorSequence_FallRight_getInstance());
-        $actor.t7c_1 = $this$onUpdate.h7c() ? Action_ACT_DIG_getInstance() : Action_ACT_RIGHT_getInstance();
+      } else if ($this$onUpdate.e78().e23() > 0 ? true : $this$onUpdate.l7d()) {
+        if (!$this$onUpdate.t7d_1.equals(ActorSequence_FallRight_getInstance()))
+          $this$onUpdate.w7e(ActorSequence_FallRight_getInstance());
+        $actor.x7d_1 = $this$onUpdate.l7d() ? Action_ACT_DIG_getInstance() : Action_ACT_RIGHT_getInstance();
         tmp = Unit_getInstance();
-      } else if ($this$onUpdate.a77().g23() > 0) {
-        $actor.t7c_1 = Action_ACT_DOWN_getInstance();
+      } else if ($this$onUpdate.e78().g23() > 0) {
+        $actor.x7d_1 = Action_ACT_DOWN_getInstance();
         tmp = Unit_getInstance();
       } else if (get_anyKeyPressed($this$onUpdate)) {
-        $actor.t7c_1 = Action_ACT_NONE_getInstance();
+        $actor.x7d_1 = Action_ACT_NONE_getInstance();
         tmp = Unit_getInstance();
       }
       return null;
@@ -11560,33 +11676,33 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$FallState$lambda_3($actor) {
     return function ($this$BehaviorMoveDown) {
-      var isBar = $this$BehaviorMoveDown.o5u().c7e($this$BehaviorMoveDown.e23(), $this$BehaviorMoveDown.g23());
+      var isBar = $this$BehaviorMoveDown.o5u().h7f($this$BehaviorMoveDown.e23(), $this$BehaviorMoveDown.g23());
       var tmp;
       var tmp_0;
       var tmp_1 = $this$BehaviorMoveDown.o5u();
       var tmp_2 = $this$BehaviorMoveDown.e23();
       var tmp_3 = $this$BehaviorMoveDown.g23() + 1 | 0;
-      if (tmp_1.m7f(tmp_2, tmp_3, false, false, 12, null)) {
+      if (tmp_1.r7g(tmp_2, tmp_3, false, false, 12, null)) {
         tmp_0 = true;
       } else {
         tmp_0 = isBar;
       }
       if (tmp_0) {
-        $this$BehaviorMoveDown.o7c_1.q2j(0);
-        var tmp0_subject = $actor.t7c_1;
+        $this$BehaviorMoveDown.s7d_1.q2j(0);
+        var tmp0_subject = $actor.x7d_1;
         var tmp0 = tmp0_subject.y1();
         var tmp_4;
         switch (tmp0) {
           case 3:
-            tmp_4 = isBar ? ActorSequence_BarLeft_getInstance().f7c_1 : ActorSequence_RunLeft_getInstance().f7c_1;
+            tmp_4 = isBar ? ActorSequence_BarLeft_getInstance().j7d_1 : ActorSequence_RunLeft_getInstance().j7d_1;
             break;
           case 4:
-            tmp_4 = isBar ? ActorSequence_BarRight_getInstance().f7c_1 : ActorSequence_RunRight_getInstance().f7c_1;
+            tmp_4 = isBar ? ActorSequence_BarRight_getInstance().j7d_1 : ActorSequence_RunRight_getInstance().j7d_1;
             break;
           default:
             if (isBar)
-              $this$BehaviorMoveDown.r7d(ActorSequence_BarLeft_getInstance());
-            Companion_getInstance_15();
+              $this$BehaviorMoveDown.w7e(ActorSequence_BarLeft_getInstance());
+            Companion_getInstance_16();
             tmp_4 = 'stop';
             break;
         }
@@ -11599,36 +11715,36 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function MovementState_init_$Init$(actor, animName, name, $mask0, $marker, $this) {
     if (!(($mask0 & 4) === 0))
-      name = ensureNotNull(animName).f7c_1;
+      name = ensureNotNull(animName).j7d_1;
     MovementState.call($this, actor, animName, name);
     return $this;
   }
   function Actor$ActorState$MovementState$lambda$lambda() {
     return function ($this$validWhen) {
-      return $this$validWhen.a77().g23() > 0;
+      return $this$validWhen.e78().g23() > 0;
     };
   }
   function Actor$ActorState$MovementState$lambda$lambda_0() {
     return function ($this$validWhen) {
-      return $this$validWhen.a77().g23() < 0;
+      return $this$validWhen.e78().g23() < 0;
     };
   }
   function Actor$ActorState$MovementState$lambda$lambda_1() {
     return function ($this$validWhen) {
-      return $this$validWhen.g7c();
+      return $this$validWhen.k7d();
     };
   }
   function Actor$ActorState$MovementState$lambda$lambda_2() {
     return function ($this$validWhen) {
-      return $this$validWhen.h7c();
+      return $this$validWhen.l7d();
     };
   }
   function Actor$ActorState$MovementState$lambda() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$MovementState$lambda$lambda());
-      $this$edge.x7d(Actor$ActorState$MovementState$lambda$lambda_0());
-      $this$edge.x7d(Actor$ActorState$MovementState$lambda$lambda_1());
-      $this$edge.x7d(Actor$ActorState$MovementState$lambda$lambda_2());
+      $this$edge.c7f(Actor$ActorState$MovementState$lambda$lambda());
+      $this$edge.c7f(Actor$ActorState$MovementState$lambda$lambda_0());
+      $this$edge.c7f(Actor$ActorState$MovementState$lambda$lambda_1());
+      $this$edge.c7f(Actor$ActorState$MovementState$lambda$lambda_2());
       return Unit_getInstance();
     };
   }
@@ -11637,13 +11753,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp;
       if (this$0 instanceof RunDown) {
         var tmp0_this = $this$onUpdate;
-        var tmp1 = tmp0_this.q7c_1;
-        tmp0_this.q7c_1 = tmp1 - 1 | 0;
+        var tmp1 = tmp0_this.u7d_1;
+        tmp0_this.u7d_1 = tmp1 - 1 | 0;
         tmp = Unit_getInstance();
       } else {
         var tmp2_this = $this$onUpdate;
-        var tmp3 = tmp2_this.q7c_1;
-        tmp2_this.q7c_1 = tmp3 + 1 | 0;
+        var tmp3 = tmp2_this.u7d_1;
+        tmp2_this.u7d_1 = tmp3 + 1 | 0;
         tmp = Unit_getInstance();
       }
       return null;
@@ -11651,72 +11767,72 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$MoveLeft$BarLeft$lambda$lambda() {
     return function ($this$validWhen) {
-      return !$this$validWhen.o5u().c7e($this$validWhen.e23(), $this$validWhen.g23());
+      return !$this$validWhen.o5u().h7f($this$validWhen.e23(), $this$validWhen.g23());
     };
   }
   function Actor$ActorState$MoveLeft$BarLeft$lambda() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$MoveLeft$BarLeft$lambda$lambda());
+      $this$edge.c7f(Actor$ActorState$MoveLeft$BarLeft$lambda$lambda());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$MoveLeft$BarLeft$lambda_0($actor) {
     return function (it) {
-      $actor.o7c_1.q2j(0);
+      $actor.s7d_1.q2j(0);
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$MoveLeft$RunLeft$lambda$lambda() {
     return function ($this$validWhen) {
-      return $this$validWhen.o5u().c7e($this$validWhen.e23(), $this$validWhen.g23());
+      return $this$validWhen.o5u().h7f($this$validWhen.e23(), $this$validWhen.g23());
     };
   }
   function Actor$ActorState$MoveLeft$RunLeft$lambda() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$MoveLeft$RunLeft$lambda$lambda());
+      $this$edge.c7f(Actor$ActorState$MoveLeft$RunLeft$lambda$lambda());
       return Unit_getInstance();
     };
   }
   function BarLeft(actor) {
     MoveLeft.call(this, actor, ActorSequence_BarLeft_getInstance());
-    var tmp = ActorSequence_RunLeft_getInstance().f7c_1;
-    this.j75(tmp, false, 0, Actor$ActorState$MoveLeft$BarLeft$lambda(), 6, null);
-    this.h75(Actor$ActorState$MoveLeft$BarLeft$lambda_0(actor));
+    var tmp = ActorSequence_RunLeft_getInstance().j7d_1;
+    this.h6x(tmp, false, 0, Actor$ActorState$MoveLeft$BarLeft$lambda(), 6, null);
+    this.b6x(Actor$ActorState$MoveLeft$BarLeft$lambda_0(actor));
   }
   BarLeft.$metadata$ = classMeta('BarLeft', undefined, undefined, undefined, undefined, MoveLeft.prototype);
   function RunLeft(actor) {
     MoveLeft.call(this, actor, ActorSequence_RunLeft_getInstance());
-    var tmp = ActorSequence_BarLeft_getInstance().f7c_1;
-    this.j75(tmp, false, 0, Actor$ActorState$MoveLeft$RunLeft$lambda(), 6, null);
+    var tmp = ActorSequence_BarLeft_getInstance().j7d_1;
+    this.h6x(tmp, false, 0, Actor$ActorState$MoveLeft$RunLeft$lambda(), 6, null);
   }
   RunLeft.$metadata$ = classMeta('RunLeft', undefined, undefined, undefined, undefined, MoveLeft.prototype);
   function Actor$ActorState$MoveLeft$lambda(this$0) {
     return function ($this$onUpdate) {
-      var delta = $this$onUpdate.b7e();
-      var tmp0_this = $this$onUpdate.o7c_1;
+      var delta = $this$onUpdate.g7f();
+      var tmp0_this = $this$onUpdate.s7d_1;
       tmp0_this.p2j(tmp0_this.e23() - delta | 0);
-      this$0.v7f($this$onUpdate, delta / $this$onUpdate.l7c_1);
+      this$0.a7h($this$onUpdate, delta / $this$onUpdate.p7d_1);
       var tmp;
       if (delta === 0) {
-        Companion_getInstance_15();
+        Companion_getInstance_16();
         return 'stop';
       }
       var tmp_0;
-      if ($this$onUpdate.d7e() < -10) {
-        var tmp1_this = $this$onUpdate.n7c_1;
+      if ($this$onUpdate.i7f() < -10) {
+        var tmp1_this = $this$onUpdate.r7d_1;
         var tmp2 = tmp1_this.e23();
         tmp1_this.p2j(tmp2 - 1 | 0);
-        var tmp3_this = $this$onUpdate.o7c_1;
+        var tmp3_this = $this$onUpdate.s7d_1;
         tmp3_this.p2j(tmp3_this.e23() + 20 | 0);
         var tmp_1;
         var tmp_2;
         if ($this$onUpdate instanceof Guard) {
-          tmp_2 = $this$onUpdate.v7g_1;
+          tmp_2 = $this$onUpdate.s7h_1;
         } else {
           tmp_2 = false;
         }
         if (tmp_2) {
-          $this$onUpdate.v7g_1 = false;
+          $this$onUpdate.s7h_1 = false;
           tmp_1 = Unit_getInstance();
         }
         tmp_0 = tmp_1;
@@ -11726,31 +11842,31 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$MoveRight$lambda(this$0) {
     return function ($this$onUpdate) {
-      var delta = $this$onUpdate.e7e();
-      var tmp0_this = $this$onUpdate.o7c_1;
+      var delta = $this$onUpdate.j7f();
+      var tmp0_this = $this$onUpdate.s7d_1;
       tmp0_this.p2j(tmp0_this.e23() + delta | 0);
-      this$0.v7f($this$onUpdate, delta / $this$onUpdate.k7c_1);
+      this$0.a7h($this$onUpdate, delta / $this$onUpdate.o7d_1);
       var tmp;
       if (delta === 0) {
-        Companion_getInstance_15();
+        Companion_getInstance_16();
         return 'stop';
       }
       var tmp_0;
-      if ($this$onUpdate.d7e() > 10) {
-        var tmp1_this = $this$onUpdate.n7c_1;
+      if ($this$onUpdate.i7f() > 10) {
+        var tmp1_this = $this$onUpdate.r7d_1;
         var tmp2 = tmp1_this.e23();
         tmp1_this.p2j(tmp2 + 1 | 0);
-        var tmp3_this = $this$onUpdate.o7c_1;
+        var tmp3_this = $this$onUpdate.s7d_1;
         tmp3_this.p2j(tmp3_this.e23() - 20 | 0);
         var tmp_1;
         var tmp_2;
         if ($this$onUpdate instanceof Guard) {
-          tmp_2 = $this$onUpdate.v7g_1;
+          tmp_2 = $this$onUpdate.s7h_1;
         } else {
           tmp_2 = false;
         }
         if (tmp_2) {
-          $this$onUpdate.v7g_1 = false;
+          $this$onUpdate.s7h_1 = false;
           tmp_1 = Unit_getInstance();
         }
         tmp_0 = tmp_1;
@@ -11760,63 +11876,63 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$RunRight$lambda$lambda() {
     return function ($this$validWhen) {
-      return $this$validWhen.d7e() >= 0 ? $this$validWhen.o5u().c7e($this$validWhen.e23() + 1 | 0, $this$validWhen.g23()) : false;
+      return $this$validWhen.i7f() >= 0 ? $this$validWhen.o5u().h7f($this$validWhen.e23() + 1 | 0, $this$validWhen.g23()) : false;
     };
   }
   function Actor$ActorState$RunRight$lambda() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$RunRight$lambda$lambda());
+      $this$edge.c7f(Actor$ActorState$RunRight$lambda$lambda());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$BarRight$lambda$lambda() {
     return function ($this$validWhen) {
-      return ($this$validWhen.d7e() >= 0 ? !$this$validWhen.o5u().x7g($this$validWhen.e23() + 1 | 0, $this$validWhen.g23()) : false) ? !$this$validWhen.o5u().c7e($this$validWhen.e23() + 1 | 0, $this$validWhen.g23()) : false;
+      return ($this$validWhen.i7f() >= 0 ? !$this$validWhen.o5u().u7h($this$validWhen.e23() + 1 | 0, $this$validWhen.g23()) : false) ? !$this$validWhen.o5u().h7f($this$validWhen.e23() + 1 | 0, $this$validWhen.g23()) : false;
     };
   }
   function Actor$ActorState$BarRight$lambda() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$BarRight$lambda$lambda());
+      $this$edge.c7f(Actor$ActorState$BarRight$lambda$lambda());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$BarRight$lambda_0($actor) {
     return function (it) {
-      $actor.o7c_1.q2j(0);
+      $actor.s7d_1.q2j(0);
       return Unit_getInstance();
     };
   }
   function Companion_5() {
     Companion_instance_5 = this;
-    this.y7g_1 = 'runDown';
+    this.v7h_1 = 'runDown';
   }
   Companion_5.$metadata$ = objectMeta('Companion');
   var Companion_instance_5;
-  function Companion_getInstance_17() {
+  function Companion_getInstance_18() {
     if (Companion_instance_5 == null)
       new Companion_5();
     return Companion_instance_5;
   }
   function Actor$ActorState$RunDown$lambda$lambda() {
     return function ($this$validWhen) {
-      return !$this$validWhen.a7e();
+      return !$this$validWhen.f7f();
     };
   }
   function Actor$ActorState$RunDown$lambda() {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$RunDown$lambda$lambda());
+      $this$edge.c7f(Actor$ActorState$RunDown$lambda$lambda());
       return Unit_getInstance();
     };
   }
   function Actor$ActorState$RunDown$lambda_0() {
     return function ($this$BehaviorMoveDown) {
       var tmp;
-      if (!$this$BehaviorMoveDown.a7e()) {
-        var tmp_0 = $this$BehaviorMoveDown.o7c_1;
+      if (!$this$BehaviorMoveDown.f7f()) {
+        var tmp_0 = $this$BehaviorMoveDown.s7d_1;
         var tmp0_subject = $this$BehaviorMoveDown;
         var tmp_1;
         if (tmp0_subject instanceof Guard) {
-          tmp_1 = ($this$BehaviorMoveDown.o5u().b7h($this$BehaviorMoveDown.e23(), $this$BehaviorMoveDown.g23() + 1 | 0) ? $this$BehaviorMoveDown.a7h() < $this$BehaviorMoveDown.i7c_1.z7g($this$BehaviorMoveDown.e23(), $this$BehaviorMoveDown.g23() + 1 | 0).a7h() : false) ? $this$BehaviorMoveDown.i7c_1.z7g($this$BehaviorMoveDown.e23(), $this$BehaviorMoveDown.g23() + 1 | 0).a7h() : 0;
+          tmp_1 = ($this$BehaviorMoveDown.o5u().y7h($this$BehaviorMoveDown.e23(), $this$BehaviorMoveDown.g23() + 1 | 0) ? $this$BehaviorMoveDown.x7h() < $this$BehaviorMoveDown.m7d_1.w7h($this$BehaviorMoveDown.e23(), $this$BehaviorMoveDown.g23() + 1 | 0).x7h() : false) ? $this$BehaviorMoveDown.m7d_1.w7h($this$BehaviorMoveDown.e23(), $this$BehaviorMoveDown.g23() + 1 | 0).x7h() : 0;
         } else {
           tmp_1 = 0;
         }
@@ -11827,34 +11943,34 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$MoveUp$lambda(this$0) {
     return function ($this$onUpdate) {
-      var pos = $this$onUpdate.a7h() > 0;
-      var delta = $this$onUpdate.c7h();
-      var tmp0_this = $this$onUpdate.o7c_1;
+      var pos = $this$onUpdate.x7h() > 0;
+      var delta = $this$onUpdate.z7h();
+      var tmp0_this = $this$onUpdate.s7d_1;
       tmp0_this.q2j(tmp0_this.g23() - delta | 0);
-      this$0.u7f($this$onUpdate, delta / $this$onUpdate.l7c_1);
+      this$0.z7g($this$onUpdate, delta / $this$onUpdate.p7d_1);
       var tmp;
       if (delta === 0) {
-        Companion_getInstance_15();
+        Companion_getInstance_16();
         return 'stop';
       }
       var tmp_0;
       var tmp_1;
-      if (pos ? $this$onUpdate.a7h() <= 0 : false) {
-        var tmp1_safe_receiver = this$0.l7h_1;
+      if (pos ? $this$onUpdate.x7h() <= 0 : false) {
+        var tmp1_safe_receiver = this$0.i7i_1;
         tmp_1 = (tmp1_safe_receiver == null ? null : tmp1_safe_receiver($this$onUpdate)) === true;
       } else {
         tmp_1 = false;
       }
       if (tmp_1) {
-        $this$onUpdate.o7c_1.q2j(0);
+        $this$onUpdate.s7d_1.q2j(0);
         tmp_0 = Unit_getInstance();
       }
       var tmp_2;
-      if ($this$onUpdate.a7h() < -11) {
-        var tmp2_this = $this$onUpdate.n7c_1;
+      if ($this$onUpdate.x7h() < -11) {
+        var tmp2_this = $this$onUpdate.r7d_1;
         var tmp3 = tmp2_this.g23();
         tmp2_this.q2j(tmp3 - 1 | 0);
-        var tmp4_this = $this$onUpdate.o7c_1;
+        var tmp4_this = $this$onUpdate.s7d_1;
         tmp_2 = tmp4_this.q2j(tmp4_this.g23() + 22 | 0);
       }
       return null;
@@ -11862,23 +11978,23 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Companion_6() {
     Companion_instance_6 = this;
-    this.m7h_1 = 'runUp';
+    this.j7i_1 = 'runUp';
   }
   Companion_6.$metadata$ = objectMeta('Companion');
   var Companion_instance_6;
-  function Companion_getInstance_18() {
+  function Companion_getInstance_19() {
     if (Companion_instance_6 == null)
       new Companion_6();
     return Companion_instance_6;
   }
   function Actor$ActorState$RunUp$_init_$lambda_bf4iwu() {
     return function ($this$null) {
-      return !$this$null.z7d();
+      return !$this$null.e7f();
     };
   }
   function Actor$ActorState$RunUp$lambda$lambda(this$0) {
     return function ($this$validWhen) {
-      var tmp0_safe_receiver = this$0.n7h();
+      var tmp0_safe_receiver = this$0.k7i();
       var tmp;
       if (tmp0_safe_receiver == null) {
         tmp = null;
@@ -11900,117 +12016,117 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$RunUp$lambda(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Actor$ActorState$RunUp$lambda$lambda(this$0));
+      $this$edge.c7f(Actor$ActorState$RunUp$lambda$lambda(this$0));
       return Unit_getInstance();
     };
   }
   function ControllableState(actor, animName, name) {
     ActorState.call(this, actor, animName, name);
-    this.g7f_1 = true;
-    Companion_getInstance_16();
-    this.j75('fall', false, 0, Actor$ActorState$ControllableState$lambda(actor, this), 6, null);
-    Companion_getInstance_18();
-    this.j75('runUp', false, 0, Actor$ActorState$ControllableState$lambda_0(), 6, null);
+    this.l7g_1 = true;
     Companion_getInstance_17();
-    this.j75('runDown', false, 0, Actor$ActorState$ControllableState$lambda_1(), 6, null);
-    var tmp = ActorSequence_BarLeft_getInstance().f7c_1;
-    this.j75(tmp, false, 0, Actor$ActorState$ControllableState$lambda_2(), 6, null);
-    var tmp_0 = ActorSequence_BarRight_getInstance().f7c_1;
-    this.j75(tmp_0, false, 0, Actor$ActorState$ControllableState$lambda_3(), 6, null);
-    var tmp_1 = ActorSequence_RunLeft_getInstance().f7c_1;
-    this.j75(tmp_1, false, 0, Actor$ActorState$ControllableState$lambda_4(), 6, null);
-    var tmp_2 = ActorSequence_RunRight_getInstance().f7c_1;
-    this.j75(tmp_2, false, 0, Actor$ActorState$ControllableState$lambda_5(), 6, null);
-    var tmp_3 = ActorSequence_DigRight_getInstance().f7c_1;
-    this.j75(tmp_3, false, 0, Actor$ActorState$ControllableState$lambda_6(), 6, null);
-    var tmp_4 = ActorSequence_DigLeft_getInstance().f7c_1;
-    this.j75(tmp_4, false, 0, Actor$ActorState$ControllableState$lambda_7(), 6, null);
-    Companion_getInstance_15();
+    this.h6x('fall', false, 0, Actor$ActorState$ControllableState$lambda(actor, this), 6, null);
+    Companion_getInstance_19();
+    this.h6x('runUp', false, 0, Actor$ActorState$ControllableState$lambda_0(), 6, null);
+    Companion_getInstance_18();
+    this.h6x('runDown', false, 0, Actor$ActorState$ControllableState$lambda_1(), 6, null);
+    var tmp = ActorSequence_BarLeft_getInstance().j7d_1;
+    this.h6x(tmp, false, 0, Actor$ActorState$ControllableState$lambda_2(), 6, null);
+    var tmp_0 = ActorSequence_BarRight_getInstance().j7d_1;
+    this.h6x(tmp_0, false, 0, Actor$ActorState$ControllableState$lambda_3(), 6, null);
+    var tmp_1 = ActorSequence_RunLeft_getInstance().j7d_1;
+    this.h6x(tmp_1, false, 0, Actor$ActorState$ControllableState$lambda_4(), 6, null);
+    var tmp_2 = ActorSequence_RunRight_getInstance().j7d_1;
+    this.h6x(tmp_2, false, 0, Actor$ActorState$ControllableState$lambda_5(), 6, null);
+    var tmp_3 = ActorSequence_DigRight_getInstance().j7d_1;
+    this.h6x(tmp_3, false, 0, Actor$ActorState$ControllableState$lambda_6(), 6, null);
+    var tmp_4 = ActorSequence_DigLeft_getInstance().j7d_1;
+    this.h6x(tmp_4, false, 0, Actor$ActorState$ControllableState$lambda_7(), 6, null);
+    Companion_getInstance_16();
     var tmp_5 = IntCompanionObject_getInstance().d1_1;
-    this.j75('stop', false, tmp_5, Actor$ActorState$ControllableState$lambda_8(this), 2, null);
-    this.h75(Actor$ActorState$ControllableState$lambda_9(actor));
+    this.h6x('stop', false, tmp_5, Actor$ActorState$ControllableState$lambda_8(this), 2, null);
+    this.b6x(Actor$ActorState$ControllableState$lambda_9(actor));
   }
   ControllableState.$metadata$ = classMeta('ControllableState', undefined, undefined, undefined, undefined, ActorState.prototype);
   function StopState(actor) {
-    Companion_getInstance_15();
-    Companion_getInstance_15();
+    Companion_getInstance_16();
+    Companion_getInstance_16();
     ControllableState.call(this, actor, null, 'stop');
-    this.w7f(Actor$ActorState$StopState$lambda(actor));
+    this.d6x(Actor$ActorState$StopState$lambda(actor));
   }
   StopState.$metadata$ = classMeta('StopState', undefined, undefined, undefined, undefined, ControllableState.prototype);
   function FallState(actor) {
-    Companion_getInstance_16();
-    Companion_getInstance_16();
+    Companion_getInstance_17();
+    Companion_getInstance_17();
     ActorState.call(this, actor, null, 'fall');
-    this.h75(Actor$ActorState$FallState$lambda(actor));
-    this.i75(Actor$ActorState$FallState$lambda_0(actor));
-    Companion_getInstance_15();
-    this.j75('stop', false, 0, Actor$ActorState$FallState$lambda_1(actor), 6, null);
-    this.w7f(Actor$ActorState$FallState$lambda_2(actor));
-    this.o7h(this, Actor$ActorState$FallState$lambda_3(actor));
+    this.b6x(Actor$ActorState$FallState$lambda(actor));
+    this.c6x(Actor$ActorState$FallState$lambda_0(actor));
+    Companion_getInstance_16();
+    this.h6x('stop', false, 0, Actor$ActorState$FallState$lambda_1(actor), 6, null);
+    this.d6x(Actor$ActorState$FallState$lambda_2(actor));
+    this.l7i(this, Actor$ActorState$FallState$lambda_3(actor));
   }
   FallState.$metadata$ = classMeta('FallState', undefined, undefined, undefined, undefined, ActorState.prototype);
   function MovementState(actor, animName, name) {
     ControllableState.call(this, actor, animName, name);
-    Companion_getInstance_15();
+    Companion_getInstance_16();
     var tmp = IntCompanionObject_getInstance().d1_1;
-    this.j75('stop', false, tmp, Actor$ActorState$MovementState$lambda(), 2, null);
-    this.w7f(Actor$ActorState$MovementState$lambda_0(this));
+    this.h6x('stop', false, tmp, Actor$ActorState$MovementState$lambda(), 2, null);
+    this.d6x(Actor$ActorState$MovementState$lambda_0(this));
   }
   MovementState.$metadata$ = classMeta('MovementState', undefined, undefined, undefined, undefined, ControllableState.prototype);
   function MoveLeft(actor, animName) {
     MovementState_init_$Init$(actor, animName, null, 4, null, this);
-    this.w7f(Actor$ActorState$MoveLeft$lambda(this));
+    this.d6x(Actor$ActorState$MoveLeft$lambda(this));
   }
   MoveLeft.$metadata$ = classMeta('MoveLeft', undefined, undefined, undefined, undefined, MovementState.prototype);
   function MoveRight(actor, animName) {
     MovementState_init_$Init$(actor, animName, null, 4, null, this);
-    this.w7f(Actor$ActorState$MoveRight$lambda(this));
+    this.d6x(Actor$ActorState$MoveRight$lambda(this));
   }
   MoveRight.$metadata$ = classMeta('MoveRight', undefined, undefined, undefined, undefined, MovementState.prototype);
   function RunRight(actor) {
     MoveRight.call(this, actor, ActorSequence_RunRight_getInstance());
-    var tmp = ActorSequence_BarRight_getInstance().f7c_1;
-    this.j75(tmp, false, 0, Actor$ActorState$RunRight$lambda(), 6, null);
+    var tmp = ActorSequence_BarRight_getInstance().j7d_1;
+    this.h6x(tmp, false, 0, Actor$ActorState$RunRight$lambda(), 6, null);
   }
   RunRight.$metadata$ = classMeta('RunRight', undefined, undefined, undefined, undefined, MoveRight.prototype);
   function BarRight(actor) {
     MoveRight.call(this, actor, ActorSequence_BarRight_getInstance());
-    var tmp = ActorSequence_RunRight_getInstance().f7c_1;
-    this.j75(tmp, false, 0, Actor$ActorState$BarRight$lambda(), 6, null);
-    this.h75(Actor$ActorState$BarRight$lambda_0(actor));
+    var tmp = ActorSequence_RunRight_getInstance().j7d_1;
+    this.h6x(tmp, false, 0, Actor$ActorState$BarRight$lambda(), 6, null);
+    this.b6x(Actor$ActorState$BarRight$lambda_0(actor));
   }
   BarRight.$metadata$ = classMeta('BarRight', undefined, undefined, undefined, undefined, MoveRight.prototype);
   function RunDown(actor) {
-    Companion_getInstance_17();
+    Companion_getInstance_18();
     var tmp = ActorSequence_RunUpDown_getInstance();
-    Companion_getInstance_17();
+    Companion_getInstance_18();
     MovementState.call(this, actor, tmp, 'runDown');
-    Companion_getInstance_15();
-    this.j75('stop', false, 0, Actor$ActorState$RunDown$lambda(), 6, null);
-    this.o7h(this, Actor$ActorState$RunDown$lambda_0());
+    Companion_getInstance_16();
+    this.h6x('stop', false, 0, Actor$ActorState$RunDown$lambda(), 6, null);
+    this.l7i(this, Actor$ActorState$RunDown$lambda_0());
   }
   RunDown.$metadata$ = classMeta('RunDown', undefined, undefined, undefined, undefined, MovementState.prototype);
   function MoveUp(actor, name, onCenter) {
     MovementState.call(this, actor, ActorSequence_RunUpDown_getInstance(), name);
-    this.l7h_1 = onCenter;
-    this.w7f(Actor$ActorState$MoveUp$lambda(this));
+    this.i7i_1 = onCenter;
+    this.d6x(Actor$ActorState$MoveUp$lambda(this));
   }
-  MoveUp.prototype.n7h = function () {
-    return this.l7h_1;
+  MoveUp.prototype.k7i = function () {
+    return this.i7i_1;
   };
   MoveUp.$metadata$ = classMeta('MoveUp', undefined, undefined, undefined, undefined, MovementState.prototype);
   function RunUp(actor) {
-    Companion_getInstance_18();
-    Companion_getInstance_18();
+    Companion_getInstance_19();
+    Companion_getInstance_19();
     MoveUp.call(this, actor, 'runUp', Actor$ActorState$RunUp$_init_$lambda_bf4iwu());
-    Companion_getInstance_15();
-    this.j75('stop', false, 0, Actor$ActorState$RunUp$lambda(this), 6, null);
+    Companion_getInstance_16();
+    this.h6x('stop', false, 0, Actor$ActorState$RunUp$lambda(this), 6, null);
   }
   RunUp.$metadata$ = classMeta('RunUp', undefined, undefined, undefined, undefined, MoveUp.prototype);
   function Actor$ActorState$lambda(this$0) {
     return function (it) {
-      var tmp0_safe_receiver = this$0.t7f_1;
+      var tmp0_safe_receiver = this$0.y7g_1;
       if (tmp0_safe_receiver == null)
         null;
       else {
@@ -12018,7 +12134,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         {
           {
           }
-          tmp$ret$0 = this$0.s7f_1.r7d(tmp0_safe_receiver);
+          tmp$ret$0 = this$0.x7g_1.w7e(tmp0_safe_receiver);
         }
       }
       return Unit_getInstance();
@@ -12026,18 +12142,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$ActorState$BehaviorMoveDown$lambda($this_BehaviorMoveDown, $onCenter) {
     return function ($this$onUpdate) {
-      var delta = $this$onUpdate.p7h();
-      var tmp0_this = $this$onUpdate.o7c_1;
+      var delta = $this$onUpdate.m7i();
+      var tmp0_this = $this$onUpdate.s7d_1;
       tmp0_this.q2j(tmp0_this.g23() + delta | 0);
-      $this_BehaviorMoveDown.u7f($this$onUpdate, delta / $this$onUpdate.l7c_1);
+      $this_BehaviorMoveDown.z7g($this$onUpdate, delta / $this$onUpdate.p7d_1);
       var tmp;
       if (delta === 0) {
-        Companion_getInstance_15();
+        Companion_getInstance_16();
         return 'stop';
       }
       var tmp_0;
-      var containsUpper = $this$onUpdate.l7c_1;
-      var containsArg = $this$onUpdate.a7h();
+      var containsUpper = $this$onUpdate.p7d_1;
+      var containsArg = $this$onUpdate.x7h();
       if (0 <= containsArg ? containsArg < containsUpper : false) {
         var tmp1_safe_receiver = $onCenter;
         var tmp2_safe_receiver = tmp1_safe_receiver == null ? null : tmp1_safe_receiver($this$onUpdate);
@@ -12054,64 +12170,64 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         tmp_0 = Unit_getInstance();
       }
       var tmp_1;
-      if ($this$onUpdate.a7h() > 11) {
-        var tmp3_this = $this$onUpdate.n7c_1;
+      if ($this$onUpdate.x7h() > 11) {
+        var tmp3_this = $this$onUpdate.r7d_1;
         var tmp4 = tmp3_this.g23();
         tmp3_this.q2j(tmp4 + 1 | 0);
-        var tmp5_this = $this$onUpdate.o7c_1;
+        var tmp5_this = $this$onUpdate.s7d_1;
         tmp_1 = tmp5_this.q2j(tmp5_this.g23() - 22 | 0);
       }
       return null;
     };
   }
   function checkGold($this) {
-    if (((($this.o5u().s7h($this.e23(), $this.g23()) ? $this.d7e() > (-$this.k7c_1 | 0) : false) ? $this.d7e() < $this.k7c_1 : false) ? $this.a7h() > (-$this.l7c_1 | 0) : false) ? $this.a7h() < $this.l7c_1 : false) {
-      if ($this.r7h()) {
-        $this.o5u().q7h($this.e23(), $this.g23());
+    if (((($this.o5u().p7i($this.e23(), $this.g23()) ? $this.i7f() > (-$this.o7d_1 | 0) : false) ? $this.i7f() < $this.o7d_1 : false) ? $this.x7h() > (-$this.p7d_1 | 0) : false) ? $this.x7h() < $this.p7d_1 : false) {
+      if ($this.o7i()) {
+        $this.o5u().n7i($this.e23(), $this.g23());
       }
     }
   }
   function ActorState(actor, animName, name) {
     StackedState.call(this, name);
-    this.s7f_1 = actor;
-    this.t7f_1 = animName;
-    this.h75(Actor$ActorState$lambda(this));
+    this.x7g_1 = actor;
+    this.y7g_1 = animName;
+    this.b6x(Actor$ActorState$lambda(this));
   }
-  ActorState.prototype.u7f = function (_this__u8e3s4, delta) {
-    var dx = numberToInt(_this__u8e3s4.k7c_1 * delta);
-    if (_this__u8e3s4.d7e() > 0) {
-      var tmp0_this = _this__u8e3s4.o7c_1;
+  ActorState.prototype.z7g = function (_this__u8e3s4, delta) {
+    var dx = numberToInt(_this__u8e3s4.o7d_1 * delta);
+    if (_this__u8e3s4.i7f() > 0) {
+      var tmp0_this = _this__u8e3s4.s7d_1;
       tmp0_this.p2j(tmp0_this.e23() - dx | 0);
-      if (_this__u8e3s4.o7c_1.e23() < 0)
-        _this__u8e3s4.o7c_1.p2j(0);
-    } else if (_this__u8e3s4.d7e() < 0) {
-      var tmp1_this = _this__u8e3s4.o7c_1;
+      if (_this__u8e3s4.s7d_1.e23() < 0)
+        _this__u8e3s4.s7d_1.p2j(0);
+    } else if (_this__u8e3s4.i7f() < 0) {
+      var tmp1_this = _this__u8e3s4.s7d_1;
       tmp1_this.p2j(tmp1_this.e23() + dx | 0);
-      if (_this__u8e3s4.o7c_1.e23() > 0)
-        _this__u8e3s4.o7c_1.p2j(0);
+      if (_this__u8e3s4.s7d_1.e23() > 0)
+        _this__u8e3s4.s7d_1.p2j(0);
     }
   };
-  ActorState.prototype.v7f = function (_this__u8e3s4, delta) {
-    var dy = numberToInt(_this__u8e3s4.l7c_1 * delta);
-    if (_this__u8e3s4.a7h() > 0) {
-      var tmp0_this = _this__u8e3s4.o7c_1;
+  ActorState.prototype.a7h = function (_this__u8e3s4, delta) {
+    var dy = numberToInt(_this__u8e3s4.p7d_1 * delta);
+    if (_this__u8e3s4.x7h() > 0) {
+      var tmp0_this = _this__u8e3s4.s7d_1;
       tmp0_this.q2j(tmp0_this.g23() - dy | 0);
-      if (_this__u8e3s4.a7h() < 0)
-        _this__u8e3s4.o7c_1.q2j(0);
-    } else if (_this__u8e3s4.a7h() < 0) {
-      var tmp1_this = _this__u8e3s4.o7c_1;
+      if (_this__u8e3s4.x7h() < 0)
+        _this__u8e3s4.s7d_1.q2j(0);
+    } else if (_this__u8e3s4.x7h() < 0) {
+      var tmp1_this = _this__u8e3s4.s7d_1;
       tmp1_this.q2j(tmp1_this.g23() + dy | 0);
-      if (_this__u8e3s4.a7h() > 0)
-        _this__u8e3s4.o7c_1.q2j(0);
+      if (_this__u8e3s4.x7h() > 0)
+        _this__u8e3s4.s7d_1.q2j(0);
     }
   };
-  ActorState.prototype.o7h = function (_this__u8e3s4, onCenter) {
+  ActorState.prototype.l7i = function (_this__u8e3s4, onCenter) {
     var tmp$ret$0;
     {
       {
       }
       {
-        _this__u8e3s4.w7f(Actor$ActorState$BehaviorMoveDown$lambda(_this__u8e3s4, onCenter));
+        _this__u8e3s4.d6x(Actor$ActorState$BehaviorMoveDown$lambda(_this__u8e3s4, onCenter));
       }
       tmp$ret$0 = _this__u8e3s4;
     }
@@ -12120,14 +12236,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   ActorState.$metadata$ = classMeta('ActorState', undefined, undefined, undefined, undefined, StackedState.prototype);
   function Actor$fsm$delegate$lambda$lambda($stopState, this$0) {
     return function ($this$buildStateMachine) {
-      $this$buildStateMachine.t7h($stopState);
-      $this$buildStateMachine.t7h(new RunLeft(this$0));
-      $this$buildStateMachine.t7h(new BarLeft(this$0));
-      $this$buildStateMachine.t7h(new RunRight(this$0));
-      $this$buildStateMachine.t7h(new RunUp(this$0));
-      $this$buildStateMachine.t7h(new RunDown(this$0));
-      $this$buildStateMachine.t7h(new BarRight(this$0));
-      $this$buildStateMachine.t7h(new FallState(this$0));
+      $this$buildStateMachine.m76($stopState);
+      $this$buildStateMachine.m76(new RunLeft(this$0));
+      $this$buildStateMachine.m76(new BarLeft(this$0));
+      $this$buildStateMachine.m76(new RunRight(this$0));
+      $this$buildStateMachine.m76(new RunUp(this$0));
+      $this$buildStateMachine.m76(new RunDown(this$0));
+      $this$buildStateMachine.m76(new BarRight(this$0));
+      $this$buildStateMachine.m76(new FallState(this$0));
       return Unit_getInstance();
     };
   }
@@ -12140,148 +12256,148 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Actor$lambda(this$0) {
     return function (it) {
-      this$0.m7c_1 = true;
+      this$0.q7d_1 = true;
       this$0.u5z();
-      this$0.q7c_1 = 0;
-      this$0.r7d(ActorSequence_RunRight_getInstance());
-      this$0.o7c_1.p2j(0);
-      this$0.o7c_1.q2j(0);
+      this$0.u7d_1 = 0;
+      this$0.w7e(ActorSequence_RunRight_getInstance());
+      this$0.s7d_1.p2j(0);
+      this$0.s7d_1.q2j(0);
       return Unit_getInstance();
     };
   }
   function Actor(game) {
-    this.i7c_1 = game;
+    this.m7d_1 = game;
     var tmp = this;
-    tmp.j7c_1 = lazy(Actor$fsm$delegate$lambda(this));
-    this.k7c_1 = this.i7c_1.w6v_1.n6w_1.o70_1;
-    this.l7c_1 = this.i7c_1.w6v_1.n6w_1.p70_1;
-    this.m7c_1 = true;
-    this.n7c_1 = MutableVec2i_init_$Create$(Companion_getInstance_6().u2i_1);
-    this.o7c_1 = MutableVec2i_init_$Create$(Companion_getInstance_6().u2i_1);
-    this.p7c_1 = ActorSequence_RunRight_getInstance();
-    this.q7c_1 = 0;
-    this.r7c_1 = 0;
-    var tmp0_this = this.i7c_1;
+    tmp.n7d_1 = lazy(Actor$fsm$delegate$lambda(this));
+    this.o7d_1 = this.m7d_1.a6t_1.l6w_1.r71_1;
+    this.p7d_1 = this.m7d_1.a6t_1.l6w_1.s71_1;
+    this.q7d_1 = true;
+    this.r7d_1 = MutableVec2i_init_$Create$(Companion_getInstance_8().u2i_1);
+    this.s7d_1 = MutableVec2i_init_$Create$(Companion_getInstance_8().u2i_1);
+    this.t7d_1 = ActorSequence_RunRight_getInstance();
+    this.u7d_1 = 0;
+    this.v7d_1 = 0;
+    var tmp0_this = this.m7d_1;
     {
-      var tmp0_plusAssign = tmp0_this.x6v_1;
+      var tmp0_plusAssign = tmp0_this.b6t_1;
       tmp0_plusAssign.a(Actor$lambda(this));
     }
-    this.s7c_1 = MutableVec2i_init_$Create$_0();
-    this.t7c_1 = Action_ACT_NONE_getInstance();
-    this.u7c_1 = false;
-    this.v7c_1 = false;
-    this.w7c_1 = null;
+    this.w7d_1 = MutableVec2i_init_$Create$_0();
+    this.x7d_1 = Action_ACT_NONE_getInstance();
+    this.y7d_1 = false;
+    this.z7d_1 = false;
+    this.a7e_1 = null;
   }
-  Actor.prototype.u7h = function () {
-    return this.i7c_1;
+  Actor.prototype.q7i = function () {
+    return this.m7d_1;
   };
-  Actor.prototype.v7h = function () {
+  Actor.prototype.r7i = function () {
     var tmp$ret$0;
     {
       var tmp0_getValue = fsm$factory();
-      tmp$ret$0 = this.j7c_1.n2();
+      tmp$ret$0 = this.n7d_1.n2();
     }
     return tmp$ret$0;
   };
-  Actor.prototype.w7h = function () {
-    return this.k7c_1;
+  Actor.prototype.s7i = function () {
+    return this.o7d_1;
   };
-  Actor.prototype.x7h = function () {
-    return this.l7c_1;
+  Actor.prototype.t7i = function () {
+    return this.p7d_1;
   };
-  Actor.prototype.y7h = function (_set____db54di) {
-    this.m7c_1 = _set____db54di;
+  Actor.prototype.u7i = function (_set____db54di) {
+    this.q7d_1 = _set____db54di;
   };
-  Actor.prototype.z7h = function () {
-    return this.m7c_1;
+  Actor.prototype.v7i = function () {
+    return this.q7d_1;
   };
-  Actor.prototype.a7i = function () {
-    return this.n7c_1;
+  Actor.prototype.w7i = function () {
+    return this.r7d_1;
   };
-  Actor.prototype.b7i = function () {
-    return this.o7c_1;
+  Actor.prototype.x7i = function () {
+    return this.s7d_1;
   };
   Actor.prototype.o5u = function () {
-    return ensureNotNull(this.i7c_1.f6w_1);
+    return ensureNotNull(this.m7d_1.j6t_1);
   };
-  Actor.prototype.c7i = function () {
-    return imul(this.n7c_1.e23(), 20) + this.o7c_1.e23() | 0;
+  Actor.prototype.y7i = function () {
+    return imul(this.r7d_1.e23(), 20) + this.s7d_1.e23() | 0;
   };
-  Actor.prototype.d7i = function () {
-    return imul(this.n7c_1.g23(), 22) + this.o7c_1.g23() | 0;
+  Actor.prototype.z7i = function () {
+    return imul(this.r7d_1.g23(), 22) + this.s7d_1.g23() | 0;
   };
   Actor.prototype.e23 = function () {
-    return this.n7c_1.e23();
+    return this.r7d_1.e23();
   };
   Actor.prototype.g23 = function () {
-    return this.n7c_1.g23();
+    return this.r7d_1.g23();
   };
-  Actor.prototype.d7e = function () {
-    return this.o7c_1.e23();
+  Actor.prototype.i7f = function () {
+    return this.s7d_1.e23();
   };
-  Actor.prototype.a7h = function () {
-    return this.o7c_1.g23();
+  Actor.prototype.x7h = function () {
+    return this.s7d_1.g23();
   };
-  Actor.prototype.r7d = function (v) {
-    if (!this.p7c_1.equals(v)) {
-      this.p7c_1 = v;
-      this.q7c_1 = 0;
-      this.r7c_1 = 0;
+  Actor.prototype.w7e = function (v) {
+    if (!this.t7d_1.equals(v)) {
+      this.t7d_1 = v;
+      this.u7d_1 = 0;
+      this.v7d_1 = 0;
     }
   };
-  Actor.prototype.e7i = function () {
-    return this.p7c_1;
+  Actor.prototype.a7j = function () {
+    return this.t7d_1;
   };
-  Actor.prototype.f7i = function (_set____db54di) {
-    this.q7c_1 = _set____db54di;
+  Actor.prototype.b7j = function (_set____db54di) {
+    this.u7d_1 = _set____db54di;
   };
-  Actor.prototype.g7i = function () {
-    return this.q7c_1;
+  Actor.prototype.c7j = function () {
+    return this.u7d_1;
   };
-  Actor.prototype.h7i = function () {
-    return this.r7c_1;
+  Actor.prototype.d7j = function () {
+    return this.v7d_1;
   };
-  Actor.prototype.a77 = function () {
-    return this.s7c_1;
+  Actor.prototype.e78 = function () {
+    return this.w7d_1;
   };
-  Actor.prototype.v77 = function (_set____db54di) {
-    this.u7c_1 = _set____db54di;
+  Actor.prototype.z78 = function (_set____db54di) {
+    this.y7d_1 = _set____db54di;
   };
-  Actor.prototype.g7c = function () {
-    return this.u7c_1;
+  Actor.prototype.k7d = function () {
+    return this.y7d_1;
   };
-  Actor.prototype.w77 = function (_set____db54di) {
-    this.v7c_1 = _set____db54di;
+  Actor.prototype.a79 = function (_set____db54di) {
+    this.z7d_1 = _set____db54di;
   };
-  Actor.prototype.h7c = function () {
-    return this.v7c_1;
+  Actor.prototype.l7d = function () {
+    return this.z7d_1;
   };
-  Actor.prototype.i7i = function () {
-    var tmp = this.v7h();
-    tmp.j7i(this, false, 2, null);
+  Actor.prototype.e7j = function () {
+    var tmp = this.r7i();
+    tmp.n76(this, false, 2, null);
     checkGold(this);
   };
-  Actor.prototype.x7c = function () {
+  Actor.prototype.b7e = function () {
     var tmp;
     var tmp_0;
     var tmp_1;
     var tmp_2 = this.o5u();
     var tmp_3 = this.e23();
     var tmp_4 = this.g23();
-    if (tmp_2.p7d(tmp_3, tmp_4, false, 4, null)) {
+    if (tmp_2.u7e(tmp_3, tmp_4, false, 4, null)) {
       tmp_1 = true;
     } else {
-      tmp_1 = this.a7h() === 0 ? this.o5u().c7e(this.e23(), this.g23()) : false;
+      tmp_1 = this.x7h() === 0 ? this.o5u().h7f(this.e23(), this.g23()) : false;
     }
     if (tmp_1) {
       tmp_0 = true;
     } else {
       var tmp_5;
-      if (this.a7h() >= 0) {
+      if (this.x7h() >= 0) {
         var tmp_6 = this.o5u();
         var tmp_7 = this.e23();
         var tmp_8 = this.g23() + 1 | 0;
-        tmp_5 = tmp_6.m7f(tmp_7, tmp_8, false, false, 12, null);
+        tmp_5 = tmp_6.r7g(tmp_7, tmp_8, false, false, 12, null);
       } else {
         tmp_5 = false;
       }
@@ -12290,39 +12406,39 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (tmp_0) {
       tmp = true;
     } else {
-      tmp = this.o5u().b7h(this.e23(), this.g23() + 1 | 0) ? this.a7h() >= this.i7c_1.z7g(this.e23(), this.g23() + 1 | 0).b7i().g23() : false;
+      tmp = this.o5u().y7h(this.e23(), this.g23() + 1 | 0) ? this.x7h() >= this.m7d_1.w7h(this.e23(), this.g23() + 1 | 0).x7i().g23() : false;
     }
     return tmp;
   };
-  Actor.prototype.l7f = function () {
-    return this.w7c_1;
+  Actor.prototype.q7g = function () {
+    return this.a7e_1;
   };
-  Actor.prototype.p7h = function () {
-    return !this.o5u().q7d(this.e23(), this.g23()) ? 0 : this.a7h() <= (-this.l7c_1 | 0) ? this.l7c_1 : this.o5u().q7d(this.e23(), this.g23() + 1 | 0) ? this.l7c_1 : -this.a7h() | 0;
+  Actor.prototype.m7i = function () {
+    return !this.o5u().v7e(this.e23(), this.g23()) ? 0 : this.x7h() <= (-this.p7d_1 | 0) ? this.p7d_1 : this.o5u().v7e(this.e23(), this.g23() + 1 | 0) ? this.p7d_1 : -this.x7h() | 0;
   };
-  Actor.prototype.c7h = function () {
-    return this.o5u().x7g(this.e23(), this.g23()) ? 0 : this.a7h() >= this.l7c_1 ? this.l7c_1 : !this.o5u().x7g(this.e23(), this.g23() - 1 | 0) ? this.l7c_1 : -this.a7h() | 0;
+  Actor.prototype.z7h = function () {
+    return this.o5u().u7h(this.e23(), this.g23()) ? 0 : this.x7h() >= this.p7d_1 ? this.p7d_1 : !this.o5u().u7h(this.e23(), this.g23() - 1 | 0) ? this.p7d_1 : -this.x7h() | 0;
   };
-  Actor.prototype.e7e = function () {
-    return this.d7e() <= (-this.k7c_1 | 0) ? this.k7c_1 : !this.o5u().x7g(this.e23() + 1 | 0, this.g23()) ? this.k7c_1 : -this.d7e() | 0;
+  Actor.prototype.j7f = function () {
+    return this.i7f() <= (-this.o7d_1 | 0) ? this.o7d_1 : !this.o5u().u7h(this.e23() + 1 | 0, this.g23()) ? this.o7d_1 : -this.i7f() | 0;
   };
-  Actor.prototype.b7e = function () {
-    return this.d7e() >= this.k7c_1 ? this.k7c_1 : !this.o5u().x7g(this.e23() - 1 | 0, this.g23()) ? this.k7c_1 : -this.d7e() | 0;
+  Actor.prototype.g7f = function () {
+    return this.i7f() >= this.o7d_1 ? this.o7d_1 : !this.o5u().u7h(this.e23() - 1 | 0, this.g23()) ? this.o7d_1 : -this.i7f() | 0;
   };
-  Actor.prototype.z7d = function () {
+  Actor.prototype.e7f = function () {
     var tmp;
     var tmp_0;
     var tmp_1;
-    if (this.a7h() <= 0) {
+    if (this.x7h() <= 0) {
       var tmp_2 = this.o5u();
       var tmp_3 = this.e23();
       var tmp_4 = this.g23();
-      tmp_1 = tmp_2.p7d(tmp_3, tmp_4, false, 4, null);
+      tmp_1 = tmp_2.u7e(tmp_3, tmp_4, false, 4, null);
     } else {
       tmp_1 = false;
     }
     if (tmp_1) {
-      tmp_0 = !this.o5u().x7g(this.e23(), this.g23() - 1 | 0);
+      tmp_0 = !this.o5u().u7h(this.e23(), this.g23() - 1 | 0);
     } else {
       tmp_0 = false;
     }
@@ -12330,11 +12446,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       tmp = true;
     } else {
       var tmp_5;
-      if (this.a7h() > 0) {
+      if (this.x7h() > 0) {
         var tmp_6 = this.o5u();
         var tmp_7 = this.e23();
         var tmp_8 = this.g23() + 1 | 0;
-        tmp_5 = tmp_6.p7d(tmp_7, tmp_8, false, 4, null);
+        tmp_5 = tmp_6.u7e(tmp_7, tmp_8, false, 4, null);
       } else {
         tmp_5 = false;
       }
@@ -12342,27 +12458,27 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return tmp;
   };
-  Actor.prototype.a7e = function () {
+  Actor.prototype.f7f = function () {
     var tmp;
     var tmp_0;
     var tmp_1 = this.o5u();
     var tmp_2 = this.e23();
     var tmp_3 = this.g23();
-    if (tmp_1.p7d(tmp_2, tmp_3, false, 4, null)) {
-      tmp_0 = this.a7h() < 0;
+    if (tmp_1.u7e(tmp_2, tmp_3, false, 4, null)) {
+      tmp_0 = this.x7h() < 0;
     } else {
       tmp_0 = false;
     }
     if (tmp_0) {
       tmp = true;
     } else {
-      tmp = this.o5u().q7d(this.e23(), this.g23() + 1 | 0);
+      tmp = this.o5u().v7e(this.e23(), this.g23() + 1 | 0);
     }
     return tmp;
   };
   Actor.prototype.u5z = function () {
-    var tmp = this.v7h();
-    return tmp.k7i(false, 1, null);
+    var tmp = this.r7i();
+    return tmp.f7j(false, 1, null);
   };
   Actor.$metadata$ = classMeta('Actor', [Controllable]);
   function Action_ACT_NONE_getInstance() {
@@ -12439,7 +12555,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function fsm$factory() {
     return getPropertyCallableRef('fsm', 1, KProperty1, function (receiver) {
-      return receiver.v7h();
+      return receiver.r7i();
     }, null);
   }
   var GameState_GAME_START_instance;
@@ -12517,14 +12633,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Sound(name, ordinal, fileNameO, fileNameCall) {
     Enum.call(this, name, ordinal);
-    this.n7i_1 = fileNameO;
-    this.o7i_1 = fileNameCall;
+    this.i7j_1 = fileNameO;
+    this.j7j_1 = fileNameCall;
   }
-  Sound.prototype.p7i = function () {
-    var tmp1_elvis_lhs = this.n7i_1;
+  Sound.prototype.k7j = function () {
+    var tmp1_elvis_lhs = this.i7j_1;
     var tmp;
     if (tmp1_elvis_lhs == null) {
-      var tmp0_safe_receiver = this.o7i_1;
+      var tmp0_safe_receiver = this.j7j_1;
       tmp = tmp0_safe_receiver == null ? null : tmp0_safe_receiver();
     } else {
       tmp = tmp1_elvis_lhs;
@@ -12552,12 +12668,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     var tmp$ret$0;
     {
       var tmp0_getValue = fsm$factory_0();
-      tmp$ret$0 = $this.h6w_1.n2();
+      tmp$ret$0 = $this.l6t_1.n2();
     }
     return tmp$ret$0;
   }
   function playGame($this, ev) {
-    var tmp0_safe_receiver = $this.f6w_1;
+    var tmp0_safe_receiver = $this.j6t_1;
     var tmp;
     if (tmp0_safe_receiver == null) {
       tmp = null;
@@ -12568,19 +12684,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         }
         var tmp$ret$0;
         {
-          $this.y6v_1.i7i();
-          if (!$this.w6v_1.t6w_1.v3s_1)
+          $this.c6t_1.e7j();
+          if (!$this.a6t_1.r6w_1.v3s_1)
             guardsUpdate($this);
-          if (!$this.c6w_1.v3s_1) {
-            var tmp0_safe_receiver_0 = $this.f6w_1;
+          if (!$this.g6t_1.v3s_1) {
+            var tmp0_safe_receiver_0 = $this.j6t_1;
             if (tmp0_safe_receiver_0 == null)
               null;
             else {
-              tmp0_safe_receiver_0.q7i($this.y6v_1);
+              tmp0_safe_receiver_0.l7j($this.c6t_1);
             }
           }
           {
-            var tmp0_forEach = $this.k6w_1;
+            var tmp0_forEach = $this.o6t_1;
             var tmp0_iterator = tmp0_forEach.h();
             while (tmp0_iterator.n()) {
               var element = tmp0_iterator.o();
@@ -12589,7 +12705,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               }
             }
           }
-          tmp$ret$0 = tmp0_safe_receiver.r7i();
+          tmp$ret$0 = tmp0_safe_receiver.m7j();
         }
         tmp$ret$1 = tmp$ret$0;
       }
@@ -12604,37 +12720,37 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return playGame($this, ev);
   }
   function guardsUpdate($this) {
-    if ($this.z6v_1.q())
+    if ($this.d6t_1.q())
       return Unit_getInstance();
-    if ($this.b6w_1 === 2) {
-      $this.b6w_1 = 0;
+    if ($this.f6t_1 === 2) {
+      $this.f6t_1 = 0;
     } else {
       var tmp0_this = $this;
-      var tmp1 = tmp0_this.b6w_1;
-      tmp0_this.b6w_1 = tmp1 + 1 | 0;
+      var tmp1 = tmp0_this.f6t_1;
+      tmp0_this.f6t_1 = tmp1 + 1 | 0;
     }
     var tmp;
-    var tmp2_safe_receiver = $this.f6w_1;
-    if (equals(tmp2_safe_receiver == null ? null : tmp2_safe_receiver.i7d_1, Status_LEVEL_STARTUP_getInstance())) {
-      tmp = $this.z6v_1.m();
+    var tmp2_safe_receiver = $this.j6t_1;
+    if (equals(tmp2_safe_receiver == null ? null : tmp2_safe_receiver.n7e_1, Status_LEVEL_STARTUP_getInstance())) {
+      tmp = $this.d6t_1.m();
     } else {
-      tmp = Companion_getInstance_20().s7i_1[$this.z6v_1.m()][$this.b6w_1];
+      tmp = Companion_getInstance_21().n7j_1[$this.d6t_1.m()][$this.f6t_1];
     }
     var movesCount = tmp;
     while (movesCount > 0) {
-      if ($this.a6w_1 >= ($this.z6v_1.m() - 1 | 0)) {
-        $this.a6w_1 = 0;
+      if ($this.e6t_1 >= ($this.d6t_1.m() - 1 | 0)) {
+        $this.e6t_1 = 0;
       } else {
         var tmp3_this = $this;
-        var tmp4 = tmp3_this.a6w_1;
-        tmp3_this.a6w_1 = tmp4 + 1 | 0;
+        var tmp4 = tmp3_this.e6t_1;
+        tmp3_this.e6t_1 = tmp4 + 1 | 0;
       }
       var tmp$ret$0;
       {
-        var tmp0_with = $this.z6v_1.r($this.a6w_1);
+        var tmp0_with = $this.d6t_1.r($this.e6t_1);
         {
         }
-        tmp$ret$0 = tmp0_with.u7i($this.y6v_1);
+        tmp$ret$0 = tmp0_with.p7j($this.c6t_1);
       }
       var tmp5 = movesCount;
       movesCount = tmp5 - 1 | 0;
@@ -12642,25 +12758,25 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda(this$0) {
     return function ($this$validWhen) {
-      return get_anyKeyPressed(this$0.y6v_1);
+      return get_anyKeyPressed(this$0.c6t_1);
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda(this$0));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_0(this$0) {
     return function (it) {
-      this$0.d6w_1 = false;
-      ensureNotNull(this$0.f6w_1).r4v();
-      var tmp0_forEach = this$0.x6v_1;
+      this$0.h6t_1 = false;
+      ensureNotNull(this$0.j6t_1).r4v();
+      var tmp0_forEach = this$0.b6t_1;
       var tmp0_iterator = tmp0_forEach.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
         {
-          element(ensureNotNull(this$0.f6w_1));
+          element(ensureNotNull(this$0.j6t_1));
         }
       }
       return Unit_getInstance();
@@ -12669,41 +12785,41 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Game$fsm$delegate$lambda$lambda$lambda(this$0) {
     return function ($this$state) {
       var tmp = GameState_GAME_RUNNING_getInstance();
-      $this$state.j75(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda(this$0), 6, null);
-      $this$state.h75(Game$fsm$delegate$lambda$lambda$lambda$lambda_0(this$0));
+      $this$state.h6x(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda(this$0), 6, null);
+      $this$state.b6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_0(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_0(this$0) {
     return function ($this$validWhen) {
-      return this$0.y6v_1.v7i();
+      return this$0.c6t_1.q7j();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_1(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_0(this$0));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_0(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_1(this$0) {
     return function ($this$validWhen) {
-      return !this$0.y6v_1.z7h() ? this$0.y6v_1.u7e_1 > 1 : false;
+      return !this$0.c6t_1.v7i() ? this$0.c6t_1.z7f_1 > 1 : false;
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_2(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_1(this$0));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_1(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_2(this$0) {
     return function ($this$validWhen) {
-      return !this$0.y6v_1.z7h() ? this$0.y6v_1.u7e_1 <= 1 : false;
+      return !this$0.c6t_1.v7i() ? this$0.c6t_1.z7f_1 <= 1 : false;
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_3(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_2(this$0));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_2(this$0));
       return Unit_getInstance();
     };
   }
@@ -12712,189 +12828,189 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp;
       var tmp_0;
       if (playGame$default(this$0, null, 2, null)) {
-        var tmp0_safe_receiver = this$0.f6w_1;
-        tmp_0 = equals(tmp0_safe_receiver == null ? null : tmp0_safe_receiver.i7d_1, Status_LEVEL_PLAYING_getInstance());
+        var tmp0_safe_receiver = this$0.j6t_1;
+        tmp_0 = equals(tmp0_safe_receiver == null ? null : tmp0_safe_receiver.n7e_1, Status_LEVEL_PLAYING_getInstance());
       } else {
         tmp_0 = false;
       }
       if (tmp_0) {
-        var tmp1_safe_receiver = this$0.f6w_1;
+        var tmp1_safe_receiver = this$0.j6t_1;
         if (tmp1_safe_receiver == null)
           null;
         else {
-          tmp1_safe_receiver.w7i();
+          tmp1_safe_receiver.r7j();
         }
         var tmp_1 = Sound_FINISH_getInstance();
-        var tmp_2 = this$0.y6v_1.e23();
-        var tmp_3 = this$0.y6v_1.g23();
-        tmp = this$0.j7f(tmp_1, tmp_2, tmp_3, false, 8, null);
+        var tmp_2 = this$0.c6t_1.e23();
+        var tmp_3 = this$0.c6t_1.g23();
+        tmp = this$0.o7g(tmp_1, tmp_2, tmp_3, false, 8, null);
       }
       return null;
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_5(this$0) {
     return function (it) {
-      this$0.e6w_1 = false;
-      this$0.k7f(Sound_FALL_getInstance());
+      this$0.i6t_1 = false;
+      this$0.p7g(Sound_FALL_getInstance());
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda_0(this$0) {
     return function ($this$state) {
       var tmp = GameState_GAME_FINISH_getInstance();
-      $this$state.j75(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_1(this$0), 6, null);
+      $this$state.h6x(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_1(this$0), 6, null);
       var tmp_0 = GameState_GAME_RUNNER_DEAD_getInstance();
-      $this$state.j75(tmp_0, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_2(this$0), 6, null);
+      $this$state.h6x(tmp_0, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_2(this$0), 6, null);
       var tmp_1 = GameState_GAME_OVER_ANIMATION_getInstance();
-      $this$state.j75(tmp_1, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_3(this$0), 6, null);
-      $this$state.w7f(Game$fsm$delegate$lambda$lambda$lambda$lambda_4(this$0));
-      $this$state.i75(Game$fsm$delegate$lambda$lambda$lambda$lambda_5(this$0));
+      $this$state.h6x(tmp_1, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_3(this$0), 6, null);
+      $this$state.d6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_4(this$0));
+      $this$state.c6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_5(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_6(this$0) {
     return function (it) {
       var tmp = Sound_DEAD_getInstance();
-      var tmp_0 = this$0.y6v_1.e23();
-      var tmp_1 = this$0.y6v_1.g23();
-      this$0.j7f(tmp, tmp_0, tmp_1, false, 8, null);
-      var tmp0_this = this$0.y6v_1;
-      var tmp1 = tmp0_this.u7e_1;
-      tmp0_this.x7i(tmp1 - 1 | 0);
-      this$0.d6w_1 = false;
+      var tmp_0 = this$0.c6t_1.e23();
+      var tmp_1 = this$0.c6t_1.g23();
+      this$0.o7g(tmp, tmp_0, tmp_1, false, 8, null);
+      var tmp0_this = this$0.c6t_1;
+      var tmp1 = tmp0_this.z7f_1;
+      tmp0_this.s7j(tmp1 - 1 | 0);
+      this$0.h6t_1 = false;
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_3(this$0) {
     return function ($this$validWhen) {
-      return this$0.w6v_1.v6w_1.v3s_1 <= 0;
+      return this$0.a6t_1.t6w_1.v3s_1 <= 0;
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_7(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_3(this$0));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_3(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_4(this$0) {
     return function ($this$validWhen) {
-      return this$0.d6w_1 ? true : this$0.e6w_1;
+      return this$0.h6t_1 ? true : this$0.i6t_1;
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_8(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_4(this$0));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_4(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda_1(this$0) {
     return function ($this$state) {
-      $this$state.h75(Game$fsm$delegate$lambda$lambda$lambda$lambda_6(this$0));
+      $this$state.b6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_6(this$0));
       var tmp = GameState_GAME_OVER_ANIMATION_getInstance();
-      $this$state.j75(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_7(this$0), 6, null);
+      $this$state.h6x(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_7(this$0), 6, null);
       var tmp_0 = GameState_GAME_NEW_LEVEL_getInstance();
-      $this$state.j75(tmp_0, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_8(this$0), 6, null);
+      $this$state.h6x(tmp_0, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_8(this$0), 6, null);
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_9(this$0, $finalScore) {
     return function (it) {
       var tmp = Sound_PASS_getInstance();
-      var tmp_0 = this$0.y6v_1.e23();
-      var tmp_1 = this$0.y6v_1.g23();
-      this$0.j7f(tmp, tmp_0, tmp_1, false, 8, null);
-      $finalScore._v = this$0.y6v_1.v7e_1 + get_SCORE_COMPLETE() | 0;
+      var tmp_0 = this$0.c6t_1.e23();
+      var tmp_1 = this$0.c6t_1.g23();
+      this$0.o7g(tmp, tmp_0, tmp_1, false, 8, null);
+      $finalScore._v = this$0.c6t_1.a7g_1 + get_SCORE_COMPLETE() | 0;
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_5(this$0, $finalScore) {
     return function ($this$validWhen) {
-      return this$0.y6v_1.v7e_1 >= $finalScore._v;
+      return this$0.c6t_1.a7g_1 >= $finalScore._v;
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_10(this$0, $finalScore) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_5(this$0, $finalScore));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_5(this$0, $finalScore));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_11(this$0) {
     return function ($this$onUpdate) {
-      this$0.y6v_1.y7i(get_SCORE_COMPLETE_INC());
+      this$0.c6t_1.t7j(get_SCORE_COMPLETE_INC());
       return null;
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda_2(this$0) {
     return function ($this$state) {
       var finalScore = {_v: 0};
-      $this$state.h75(Game$fsm$delegate$lambda$lambda$lambda$lambda_9(this$0, finalScore));
+      $this$state.b6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_9(this$0, finalScore));
       var tmp = GameState_GAME_NEXT_LEVEL_getInstance();
-      $this$state.j75(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_10(this$0, finalScore), 6, null);
-      $this$state.w7f(Game$fsm$delegate$lambda$lambda$lambda$lambda_11(this$0));
+      $this$state.h6x(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_10(this$0, finalScore), 6, null);
+      $this$state.d6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_11(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_12(this$0) {
     return function (it) {
-      this$0.d6w_1 = false;
+      this$0.h6t_1 = false;
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_6(this$0) {
     return function ($this$validWhen) {
-      return this$0.d6w_1 ? true : this$0.e6w_1;
+      return this$0.h6t_1 ? true : this$0.i6t_1;
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_13(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_6(this$0));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_6(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda_3(this$0) {
     return function ($this$state) {
-      $this$state.h75(Game$fsm$delegate$lambda$lambda$lambda$lambda_12(this$0));
+      $this$state.b6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_12(this$0));
       var tmp = GameState_GAME_NEW_LEVEL_getInstance();
-      $this$state.j75(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_13(this$0), 6, null);
+      $this$state.h6x(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_13(this$0), 6, null);
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_14(this$0) {
     return function (it) {
-      this$0.d6w_1 = false;
-      var tmp0_this = this$0.y6v_1;
-      tmp0_this.x7i(tmp0_this.u7e_1 + 1 | 0);
+      this$0.h6t_1 = false;
+      var tmp0_this = this$0.c6t_1;
+      tmp0_this.s7j(tmp0_this.z7f_1 + 1 | 0);
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_7(this$0) {
     return function ($this$validWhen) {
-      return this$0.d6w_1 ? true : this$0.e6w_1;
+      return this$0.h6t_1 ? true : this$0.i6t_1;
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_15(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_7(this$0));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_7(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda_4(this$0) {
     return function ($this$state) {
-      $this$state.h75(Game$fsm$delegate$lambda$lambda$lambda$lambda_14(this$0));
+      $this$state.b6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_14(this$0));
       var tmp = GameState_GAME_NEW_LEVEL_getInstance();
-      $this$state.j75(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_15(this$0), 6, null);
+      $this$state.h6x(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_15(this$0), 6, null);
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_8(this$0) {
     return function ($this$validWhen) {
-      var tmp0_safe_receiver = this$0.f6w_1;
-      return equals(tmp0_safe_receiver == null ? null : tmp0_safe_receiver.i7d_1, Status_LEVEL_PLAYING_getInstance());
+      var tmp0_safe_receiver = this$0.j6t_1;
+      return equals(tmp0_safe_receiver == null ? null : tmp0_safe_receiver.n7e_1, Status_LEVEL_PLAYING_getInstance());
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_16(this$0) {
     return function ($this$edge) {
-      $this$edge.x7d(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_8(this$0));
+      $this$edge.c7f(Game$fsm$delegate$lambda$lambda$lambda$lambda$lambda_8(this$0));
       return Unit_getInstance();
     };
   }
@@ -12906,25 +13022,25 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Game$fsm$delegate$lambda$lambda$lambda_5(this$0) {
     return function ($this$state) {
       var tmp = GameState_GAME_START_getInstance();
-      $this$state.j75(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_16(this$0), 6, null);
-      $this$state.i75(Game$fsm$delegate$lambda$lambda$lambda$lambda_17());
+      $this$state.h6x(tmp, false, 0, Game$fsm$delegate$lambda$lambda$lambda$lambda_16(this$0), 6, null);
+      $this$state.c6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_17());
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda$lambda_18(this$0) {
     return function (it) {
-      this$0.y6v_1.x7i(0);
+      this$0.c6t_1.s7j(0);
       var tmp = Sound_DEAD_getInstance();
-      var tmp_0 = this$0.y6v_1.e23();
-      var tmp_1 = this$0.y6v_1.g23();
-      this$0.j7f(tmp, tmp_0, tmp_1, false, 8, null);
-      this$0.d6w_1 = false;
-      var tmp0_safe_receiver = this$0.f6w_1;
+      var tmp_0 = this$0.c6t_1.e23();
+      var tmp_1 = this$0.c6t_1.g23();
+      this$0.o7g(tmp, tmp_0, tmp_1, false, 8, null);
+      this$0.h6t_1 = false;
+      var tmp0_safe_receiver = this$0.j6t_1;
       var tmp_2;
       if (tmp0_safe_receiver == null) {
         tmp_2 = Unit_getInstance();
       } else {
-        tmp0_safe_receiver.i7d_1 = Status_LEVEL_PAUSED_getInstance();
+        tmp0_safe_receiver.n7e_1 = Status_LEVEL_PAUSED_getInstance();
         tmp_2 = Unit_getInstance();
       }
       return Unit_getInstance();
@@ -12932,13 +13048,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Game$fsm$delegate$lambda$lambda$lambda_6(this$0) {
     return function ($this$state) {
-      $this$state.h75(Game$fsm$delegate$lambda$lambda$lambda$lambda_18(this$0));
+      $this$state.b6x(Game$fsm$delegate$lambda$lambda$lambda$lambda_18(this$0));
       return Unit_getInstance();
     };
   }
   function Game$fsm$delegate$lambda$lambda$lambda_7(this$0) {
     return function ($this$null) {
-      var tmp0_forEach = this$0.j6w_1;
+      var tmp0_forEach = this$0.n6t_1;
       var tmp0_iterator = tmp0_forEach.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
@@ -12952,23 +13068,23 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Game$fsm$delegate$lambda$lambda(this$0) {
     return function ($this$buildStateMachine) {
       var tmp = GameState_GAME_START_getInstance();
-      $this$buildStateMachine.k75(tmp, Game$fsm$delegate$lambda$lambda$lambda(this$0));
+      $this$buildStateMachine.u7j(tmp, Game$fsm$delegate$lambda$lambda$lambda(this$0));
       var tmp_0 = GameState_GAME_RUNNING_getInstance();
-      $this$buildStateMachine.k75(tmp_0, Game$fsm$delegate$lambda$lambda$lambda_0(this$0));
+      $this$buildStateMachine.u7j(tmp_0, Game$fsm$delegate$lambda$lambda$lambda_0(this$0));
       var tmp_1 = GameState_GAME_RUNNER_DEAD_getInstance();
-      $this$buildStateMachine.k75(tmp_1, Game$fsm$delegate$lambda$lambda$lambda_1(this$0));
+      $this$buildStateMachine.u7j(tmp_1, Game$fsm$delegate$lambda$lambda$lambda_1(this$0));
       var tmp_2 = GameState_GAME_FINISH_getInstance();
-      $this$buildStateMachine.k75(tmp_2, Game$fsm$delegate$lambda$lambda$lambda_2(this$0));
+      $this$buildStateMachine.u7j(tmp_2, Game$fsm$delegate$lambda$lambda$lambda_2(this$0));
       var tmp_3 = GameState_GAME_PREV_LEVEL_getInstance();
-      $this$buildStateMachine.k75(tmp_3, Game$fsm$delegate$lambda$lambda$lambda_3(this$0));
+      $this$buildStateMachine.u7j(tmp_3, Game$fsm$delegate$lambda$lambda$lambda_3(this$0));
       var tmp_4 = GameState_GAME_NEXT_LEVEL_getInstance();
-      $this$buildStateMachine.k75(tmp_4, Game$fsm$delegate$lambda$lambda$lambda_4(this$0));
+      $this$buildStateMachine.u7j(tmp_4, Game$fsm$delegate$lambda$lambda$lambda_4(this$0));
       var tmp_5 = GameState_GAME_NEW_LEVEL_getInstance();
-      $this$buildStateMachine.k75(tmp_5, Game$fsm$delegate$lambda$lambda$lambda_5(this$0));
+      $this$buildStateMachine.u7j(tmp_5, Game$fsm$delegate$lambda$lambda$lambda_5(this$0));
       var tmp_6 = GameState_GAME_OVER_ANIMATION_getInstance();
-      $this$buildStateMachine.k75(tmp_6, Game$fsm$delegate$lambda$lambda$lambda_6(this$0));
+      $this$buildStateMachine.u7j(tmp_6, Game$fsm$delegate$lambda$lambda$lambda_6(this$0));
       var tmp0_this = $this$buildStateMachine;
-      var tmp0_plusAssign = tmp0_this.x71_1;
+      var tmp0_plusAssign = tmp0_this.a73_1;
       tmp0_plusAssign.a(Game$fsm$delegate$lambda$lambda$lambda_7(this$0));
       return Unit_getInstance();
     };
@@ -13023,7 +13139,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Game$slambda.prototype.e1v = function ($this$async, completion) {
     var i = new Game$slambda(completion);
-    i.h7j_1 = $this$async;
+    i.d7k_1 = $this$async;
     return i;
   };
   Game$slambda.$metadata$ = classMeta('Game$slambda', undefined, undefined, undefined, [1], CoroutineImpl.prototype);
@@ -13036,62 +13152,67 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return l;
   }
   function Game(state) {
-    this.w6v_1 = state;
+    this.a6t_1 = state;
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp.x6v_1 = tmp$ret$0;
-    this.y6v_1 = new Runner(this);
-    this.z6v_1 = mutableStateListOf([]);
-    this.a6w_1 = 0;
-    this.b6w_1 = 0;
-    this.c6w_1 = new MutableStateValue(false);
-    this.d6w_1 = false;
-    this.e6w_1 = false;
-    this.f6w_1 = null;
+    tmp.b6t_1 = tmp$ret$0;
+    this.c6t_1 = new Runner(this);
     var tmp_0 = this;
-    tmp_0.h6w_1 = lazy(Game$fsm$delegate$lambda(this));
-    var tmp_1 = this;
-    tmp_1.i6w_1 = Job$default(null, 1, null);
-    async$default(this, null, null, Game$slambda_0(null), 3, null);
-    var tmp_2 = this;
     var tmp$ret$1;
     {
       tmp$ret$1 = ArrayList_init_$Create$_0();
     }
-    tmp_2.j6w_1 = tmp$ret$1;
+    tmp_0.d6t_1 = tmp$ret$1;
+    this.e6t_1 = 0;
+    this.f6t_1 = 0;
+    this.g6t_1 = new MutableStateValue(false);
+    this.h6t_1 = false;
+    this.i6t_1 = false;
+    this.j6t_1 = null;
+    var tmp_1 = this;
+    tmp_1.l6t_1 = lazy(Game$fsm$delegate$lambda(this));
+    var tmp_2 = this;
+    tmp_2.m6t_1 = Job$default(null, 1, null);
+    async$default(this, null, null, Game$slambda_0(null), 3, null);
     var tmp_3 = this;
     var tmp$ret$2;
     {
       tmp$ret$2 = ArrayList_init_$Create$_0();
     }
-    tmp_3.k6w_1 = tmp$ret$2;
+    tmp_3.n6t_1 = tmp$ret$2;
+    var tmp_4 = this;
+    var tmp$ret$3;
+    {
+      tmp$ret$3 = ArrayList_init_$Create$_0();
+    }
+    tmp_4.o6t_1 = tmp$ret$3;
   }
   Game.prototype.i18 = function () {
-    return this.w6v_1;
+    return this.a6t_1;
   };
-  Game.prototype.i7j = function () {
-    return this.y6v_1;
+  Game.prototype.e7k = function () {
+    return this.c6t_1;
   };
-  Game.prototype.j7j = function () {
-    return this.z6v_1;
+  Game.prototype.f7k = function () {
+    return this.d6t_1;
   };
-  Game.prototype.k7j = function () {
-    return this.c6w_1;
+  Game.prototype.g7k = function () {
+    return this.g6t_1;
   };
-  Game.prototype.l7j = function (_set____db54di) {
-    this.d6w_1 = _set____db54di;
+  Game.prototype.h7k = function (_set____db54di) {
+    this.h6t_1 = _set____db54di;
   };
-  Game.prototype.m7j = function () {
-    return this.d6w_1;
+  Game.prototype.i7k = function () {
+    return this.h6t_1;
   };
-  Game.prototype.n7j = function () {
-    return _get_fsm__e68kep(this).o7j().equals(GameState_GAME_RUNNING_getInstance());
+  Game.prototype.j7k = function () {
+    return _get_fsm__e68kep(this).k7k().equals(GameState_GAME_RUNNING_getInstance());
   };
-  Game.prototype.p7j = function (v) {
-    this.f6w_1 = v;
+  Game.prototype.l7k = function (v) {
+    this.j6t_1 = v;
     var tmp0_safe_receiver = v;
     if (tmp0_safe_receiver == null)
       null;
@@ -13100,21 +13221,21 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
         {
         }
-        this.z6v_1.t7();
+        this.d6t_1.t7();
         {
-          var tmp0_forEach = ensureNotNull(this.f6w_1).g7d_1;
+          var tmp0_forEach = ensureNotNull(this.j6t_1).l7e_1;
           var tmp0_iterator = tmp0_forEach.h();
           while (tmp0_iterator.n()) {
             var element = tmp0_iterator.o();
             {
               var g = Guard_init_$Create$(this, null, 2, null);
-              g.a7i().r2j(element);
-              this.z6v_1.z4d(g);
+              g.w7i().r2j(element);
+              this.d6t_1.a(g);
             }
           }
         }
         {
-          var tmp1_forEach = this.x6v_1;
+          var tmp1_forEach = this.b6t_1;
           var tmp0_iterator_0 = tmp1_forEach.h();
           while (tmp0_iterator_0.n()) {
             var element_0 = tmp0_iterator_0.o();
@@ -13123,79 +13244,79 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             }
           }
         }
-        tmp0_safe_receiver.n7d_1 = true;
-        tmp0_safe_receiver.i7d_1 = Status_LEVEL_PLAYING_getInstance();
+        tmp0_safe_receiver.s7e_1 = true;
+        tmp0_safe_receiver.n7e_1 = Status_LEVEL_PLAYING_getInstance();
         tmp$ret$0 = Unit_getInstance();
       }
     }
   };
   Game.prototype.o5u = function () {
-    return this.f6w_1;
+    return this.j6t_1;
   };
-  Game.prototype.q7j = function () {
-    var tmp = this.g6w_1;
+  Game.prototype.m7k = function () {
+    var tmp = this.k6t_1;
     if (!(tmp == null))
       return tmp;
     else {
       throwUninitializedPropertyAccessException('soundPlayer');
     }
   };
-  Game.prototype.r7j = function (sound, x, y, force) {
-    return this.q7j().z7b(sound.p7i(), false, force);
+  Game.prototype.n7k = function (sound, x, y, force) {
+    return this.m7k().d7d(sound.k7j(), false, force);
   };
-  Game.prototype.j7f = function (sound, x, y, force, $mask0, $handler) {
+  Game.prototype.o7g = function (sound, x, y, force, $mask0, $handler) {
     if (!(($mask0 & 8) === 0))
       force = false;
-    return this.r7j(sound, x, y, force);
+    return this.n7k(sound, x, y, force);
   };
-  Game.prototype.k7f = function (sound) {
-    var tmp = this.q7j();
-    var tmp_0 = sound.p7i();
-    return tmp.c7c(tmp_0, 0.0, 2, null);
+  Game.prototype.p7g = function (sound) {
+    var tmp = this.m7k();
+    var tmp_0 = sound.k7j();
+    return tmp.g7d(tmp_0, 0.0, 2, null);
   };
-  Game.prototype.s7j = function () {
-    _get_fsm__e68kep(this).t7j(true);
+  Game.prototype.o7k = function () {
+    _get_fsm__e68kep(this).v77(true);
   };
-  Game.prototype.u7j = function () {
-    _get_fsm__e68kep(this).v7j(GameState_GAME_START_getInstance());
+  Game.prototype.p7k = function () {
+    _get_fsm__e68kep(this).d73(GameState_GAME_START_getInstance());
   };
-  Game.prototype.w7j = function () {
-    return _get_fsm__e68kep(this).v7j(GameState_GAME_FINISH_getInstance());
+  Game.prototype.q7k = function () {
+    return _get_fsm__e68kep(this).d73(GameState_GAME_FINISH_getInstance());
   };
-  Game.prototype.x7j = function () {
-    return _get_fsm__e68kep(this).v7j(GameState_GAME_PREV_LEVEL_getInstance());
+  Game.prototype.r7k = function () {
+    return _get_fsm__e68kep(this).d73(GameState_GAME_PREV_LEVEL_getInstance());
   };
-  Game.prototype.y7j = function () {
-    return _get_fsm__e68kep(this).v7j(GameState_GAME_NEXT_LEVEL_getInstance());
+  Game.prototype.s7k = function () {
+    return _get_fsm__e68kep(this).d73(GameState_GAME_NEXT_LEVEL_getInstance());
   };
-  Game.prototype.z7j = function () {
-    return _get_fsm__e68kep(this).v7j(GameState_GAME_OVER_ANIMATION_getInstance());
+  Game.prototype.t7k = function () {
+    return _get_fsm__e68kep(this).d73(GameState_GAME_OVER_ANIMATION_getInstance());
   };
   Game.prototype.r4v = function () {
-    this.a6w_1 = 0;
-    this.b6w_1 = 0;
-    _get_fsm__e68kep(this).t7j(true);
+    this.e6t_1 = 0;
+    this.f6t_1 = 0;
+    _get_fsm__e68kep(this).v77(true);
   };
-  Game.prototype.a7k = function (ev) {
+  Game.prototype.u7k = function (ev) {
     var tmp = _get_fsm__e68kep(this);
-    tmp.j7i(this, false, 2, null);
+    tmp.n76(this, false, 2, null);
   };
   Game.prototype.o17 = function () {
-    return this.i6w_1;
+    return this.m6t_1;
   };
-  Game.prototype.b7k = function () {
-    return this.k6w_1;
+  Game.prototype.v7k = function () {
+    return this.o6t_1;
   };
-  Game.prototype.z7g = function (x, y) {
+  Game.prototype.w7h = function (x, y) {
     var tmp$ret$1;
     $l$block: {
-      var tmp0_first = this.z6v_1;
+      var tmp0_first = this.d6t_1;
       var tmp0_iterator = tmp0_first.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
         var tmp$ret$0;
         {
-          tmp$ret$0 = element.a7i().e23() === x ? element.a7i().g23() === y : false;
+          tmp$ret$0 = element.w7i().e23() === x ? element.w7i().g23() === y : false;
         }
         if (tmp$ret$0) {
           tmp$ret$1 = element;
@@ -13208,21 +13329,21 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Game.$metadata$ = classMeta('Game', [CoroutineScope]);
   function InputSpec(code, modificatorBitMask) {
-    this.x76_1 = code;
-    this.y76_1 = modificatorBitMask;
+    this.b78_1 = code;
+    this.c78_1 = modificatorBitMask;
   }
   InputSpec.prototype.n2b = function () {
-    return this.x76_1;
+    return this.b78_1;
   };
-  InputSpec.prototype.c7k = function () {
-    return this.y76_1;
+  InputSpec.prototype.w7k = function () {
+    return this.c78_1;
   };
   InputSpec.prototype.toString = function () {
-    return 'InputSpec(code=' + this.x76_1 + ', modificatorBitMask=' + this.y76_1 + ')';
+    return 'InputSpec(code=' + this.b78_1 + ', modificatorBitMask=' + this.c78_1 + ')';
   };
   InputSpec.prototype.hashCode = function () {
-    var result = this.x76_1.hashCode();
-    result = imul(result, 31) + this.y76_1 | 0;
+    var result = this.b78_1.hashCode();
+    result = imul(result, 31) + this.c78_1 | 0;
     return result;
   };
   InputSpec.prototype.equals = function (other) {
@@ -13231,9 +13352,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (!(other instanceof InputSpec))
       return false;
     var tmp0_other_with_cast = other instanceof InputSpec ? other : THROW_CCE();
-    if (!this.x76_1.equals(tmp0_other_with_cast.x76_1))
+    if (!this.b78_1.equals(tmp0_other_with_cast.b78_1))
       return false;
-    if (!(this.y76_1 === tmp0_other_with_cast.y76_1))
+    if (!(this.c78_1 === tmp0_other_with_cast.c78_1))
       return false;
     return true;
   };
@@ -13319,14 +13440,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Companion_7() {
     Companion_instance_7 = this;
-    this.d7k_1 = 'inhole';
+    this.x7k_1 = 'inhole';
   }
   Companion_7.prototype.il = function () {
-    return this.d7k_1;
+    return this.x7k_1;
   };
   Companion_7.$metadata$ = objectMeta('Companion');
   var Companion_instance_7;
-  function Companion_getInstance_19() {
+  function Companion_getInstance_20() {
     if (Companion_instance_7 == null)
       new Companion_7();
     return Companion_instance_7;
@@ -13338,16 +13459,16 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         {
         }
         var tmp;
-        if ($actor.u7g_1 > 0) {
+        if ($actor.r7h_1 > 0) {
           var tmp_0;
-          if ($actor.o5u().f7k($actor.e23(), $actor.g23() - 1 | 0)) {
-            $actor.o5u().e7k($actor.e23(), $actor.g23() - 1 | 0);
-            $actor.u7g_1 = 0;
+          if ($actor.o5u().z7k($actor.e23(), $actor.g23() - 1 | 0)) {
+            $actor.o5u().y7k($actor.e23(), $actor.g23() - 1 | 0);
+            $actor.r7h_1 = 0;
             tmp_0 = Unit_getInstance();
           } else {
             var tmp0_this = $actor.o5u();
-            var tmp1 = tmp0_this.h7d_1;
-            tmp0_this.h7d_1 = tmp1 - 1 | 0;
+            var tmp1 = tmp0_this.m7e_1;
+            tmp0_this.m7e_1 = tmp1 - 1 | 0;
             tmp_0 = Unit_getInstance();
           }
           tmp = tmp_0;
@@ -13359,36 +13480,36 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Guard$InHole$lambda_0() {
     return function ($this$BehaviorMoveDown) {
-      $this$BehaviorMoveDown.o7c_1.q2j(0);
+      $this$BehaviorMoveDown.s7d_1.q2j(0);
       var tmp = Sound_TRAP_getInstance();
       var tmp_0 = $this$BehaviorMoveDown.e23();
       var tmp_1 = $this$BehaviorMoveDown.g23();
-      $this$BehaviorMoveDown.i7c_1.j7f(tmp, tmp_0, tmp_1, false, 8, null);
-      $this$BehaviorMoveDown.i7c_1.y6v_1.y7i(get_SCORE_FALL());
-      var tmp0_subject = $this$BehaviorMoveDown.p7c_1;
+      $this$BehaviorMoveDown.m7d_1.o7g(tmp, tmp_0, tmp_1, false, 8, null);
+      $this$BehaviorMoveDown.m7d_1.c6t_1.t7j(get_SCORE_FALL());
+      var tmp0_subject = $this$BehaviorMoveDown.t7d_1;
       var tmp0 = tmp0_subject.y1();
-      return (tmp0 === 5 ? ActorSequence_ShakeRight_getInstance() : ActorSequence_ShakeLeft_getInstance()).f7c_1;
+      return (tmp0 === 5 ? ActorSequence_ShakeRight_getInstance() : ActorSequence_ShakeLeft_getInstance()).j7d_1;
     };
   }
   function Guard$Shake$lambda($actor) {
     return function (it) {
-      $actor.v7g_1 = true;
+      $actor.s7h_1 = true;
       return Unit_getInstance();
     };
   }
   function Guard$Shake$lambda_0() {
     return function ($this$onUpdate) {
       var tmp;
-      if ($this$onUpdate.q7c_1 < $this$onUpdate.r7c_1) {
+      if ($this$onUpdate.u7d_1 < $this$onUpdate.v7d_1) {
         tmp = Unit_getInstance();
       } else {
         println('done in shake');
-        Companion_getInstance_18();
+        Companion_getInstance_19();
         return 'runUp';
       }
       var tmp0_this = $this$onUpdate;
-      var tmp1 = tmp0_this.q7c_1;
-      tmp0_this.q7c_1 = tmp1 + 1 | 0;
+      var tmp1 = tmp0_this.u7d_1;
+      tmp0_this.u7d_1 = tmp1 + 1 | 0;
       return null;
     };
   }
@@ -13412,7 +13533,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function randomRangeGenerator$default($this, min, max, random, $mask0, $handler) {
     if (!(($mask0 & 8) === 0))
-      random = $this.t7g_1;
+      random = $this.q7h_1;
     return randomRangeGenerator($this, min, max, random);
   }
   function Companion_8() {
@@ -13521,100 +13642,100 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$23 = tmp$ret$22;
     }
-    tmp.s7i_1 = tmp$ret$23;
-    this.t7i_1 = 0;
+    tmp.n7j_1 = tmp$ret$23;
+    this.o7j_1 = 0;
   }
   Companion_8.$metadata$ = objectMeta('Companion');
   var Companion_instance_8;
-  function Companion_getInstance_20() {
+  function Companion_getInstance_21() {
     if (Companion_instance_8 == null)
       new Companion_8();
     return Companion_instance_8;
   }
   function InHole(actor) {
-    Companion_getInstance_19();
-    Companion_getInstance_19();
+    Companion_getInstance_20();
+    Companion_getInstance_20();
     ActorState.call(this, actor, null, 'inhole');
-    this.h75(Guard$InHole$lambda(actor));
-    this.o7h(this, Guard$InHole$lambda_0());
+    this.b6x(Guard$InHole$lambda(actor));
+    this.l7i(this, Guard$InHole$lambda_0());
   }
   InHole.$metadata$ = classMeta('InHole', undefined, undefined, undefined, undefined, ActorState.prototype);
   function Shake(actor, animName) {
-    ActorState.call(this, actor, animName, animName.f7c_1);
-    this.h75(Guard$Shake$lambda(actor));
-    this.w7f(Guard$Shake$lambda_0());
+    ActorState.call(this, actor, animName, animName.j7d_1);
+    this.b6x(Guard$Shake$lambda(actor));
+    this.d6x(Guard$Shake$lambda_0());
   }
   Shake.$metadata$ = classMeta('Shake', undefined, undefined, undefined, undefined, ActorState.prototype);
   function dropGold($this) {
-    if ($this.u7g_1 > 1) {
+    if ($this.r7h_1 > 1) {
       var tmp0_this = $this;
-      var tmp1 = tmp0_this.u7g_1;
-      tmp0_this.u7g_1 = tmp1 - 1 | 0;
-    } else if ($this.u7g_1 === 1) {
+      var tmp1 = tmp0_this.r7h_1;
+      tmp0_this.r7h_1 = tmp1 - 1 | 0;
+    } else if ($this.r7h_1 === 1) {
       var tmp;
-      if ($this.o5u().f7k($this.e23(), $this.g23()) ? $this.o5u().k7d_1[$this.e23()][$this.g23()].equals(TileLogicType_EMPTY_getInstance()) : false) {
+      if ($this.o5u().z7k($this.e23(), $this.g23()) ? $this.o5u().p7e_1[$this.e23()][$this.g23()].equals(TileLogicType_EMPTY_getInstance()) : false) {
         var tmp_0 = $this.o5u();
         var tmp_1 = $this.e23();
         var tmp_2 = $this.g23() + 1 | 0;
-        tmp = tmp_0.m7f(tmp_1, tmp_2, false, false, 4, null);
+        tmp = tmp_0.r7g(tmp_1, tmp_2, false, false, 4, null);
       } else {
         tmp = false;
       }
       if (tmp) {
-        $this.o5u().e7k($this.e23(), $this.g23());
-        $this.u7g_1 = -1;
+        $this.o5u().y7k($this.e23(), $this.g23());
+        $this.r7h_1 = -1;
         return true;
       }
-    } else if ($this.u7g_1 < 0) {
+    } else if ($this.r7h_1 < 0) {
       var tmp2_this = $this;
-      var tmp3 = tmp2_this.u7g_1;
-      tmp2_this.u7g_1 = tmp3 + 1 | 0;
+      var tmp3 = tmp2_this.r7h_1;
+      tmp2_this.r7h_1 = tmp3 + 1 | 0;
     }
     return false;
   }
   function bestMove($this, runner) {
-    if ($this.v7g_1) {
-      if ($this.o5u().g7k($this.e23(), $this.g23())) {
+    if ($this.s7h_1) {
+      if ($this.o5u().a7l($this.e23(), $this.g23())) {
         return Action_ACT_UP_getInstance();
       }
     }
-    var maxTileY = $this.o5u().d7d_1 - 1 | 0;
-    var x = $this.a7i().e23();
-    var y = $this.a7i().g23();
-    if (y === runner.n7c_1.g23() ? true : runner.n7c_1.g23() === maxTileY ? y === (maxTileY - 1 | 0) : false) {
-      $l$loop: while (!(x === runner.n7c_1.e23())) {
+    var maxTileY = $this.o5u().h7e_1 - 1 | 0;
+    var x = $this.w7i().e23();
+    var y = $this.w7i().g23();
+    if (y === runner.r7d_1.g23() ? true : runner.r7d_1.g23() === maxTileY ? y === (maxTileY - 1 | 0) : false) {
+      $l$loop: while (!(x === runner.r7d_1.e23())) {
         var tmp;
         var tmp_0;
         var tmp_1;
         var tmp_2;
-        if ($this.o5u().h7k(x, y, false)) {
+        if ($this.o5u().b7l(x, y, false)) {
           tmp_2 = true;
         } else {
           var tmp_3 = $this.o5u();
           var tmp_4 = x;
           var tmp_5 = y + 1 | 0;
-          tmp_2 = tmp_3.m7f(tmp_4, tmp_5, true, false, 8, null);
+          tmp_2 = tmp_3.r7g(tmp_4, tmp_5, true, false, 8, null);
         }
         if (tmp_2) {
           tmp_1 = true;
         } else {
-          tmp_1 = $this.o5u().c7e(x, y);
+          tmp_1 = $this.o5u().h7f(x, y);
         }
         if (tmp_1) {
           tmp_0 = true;
         } else {
-          tmp_0 = $this.o5u().c7e(x, y + 1 | 0);
+          tmp_0 = $this.o5u().h7f(x, y + 1 | 0);
         }
         if (tmp_0) {
           tmp = true;
         } else {
-          tmp = $this.o5u().s7h(x, y + 1 | 0);
+          tmp = $this.o5u().p7i(x, y + 1 | 0);
         }
         if (tmp) {
-          if (x < runner.n7c_1.e23()) {
+          if (x < runner.r7d_1.e23()) {
             var tmp0 = x;
             x = tmp0 + 1 | 0;
-          } else if (x > runner.n7c_1.e23()) {
+          } else if (x > runner.r7d_1.e23()) {
             var tmp1 = x;
             x = tmp1 - 1 | 0;
           }
@@ -13622,15 +13743,15 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           break $l$loop;
         }
       }
-      if (x === runner.n7c_1.e23()) {
+      if (x === runner.r7d_1.e23()) {
         var tmp_6;
-        if ($this.a7i().e23() < runner.n7c_1.e23()) {
+        if ($this.w7i().e23() < runner.r7d_1.e23()) {
           tmp_6 = Action_ACT_RIGHT_getInstance();
-        } else if ($this.a7i().e23() > runner.n7c_1.e23()) {
+        } else if ($this.w7i().e23() > runner.r7d_1.e23()) {
           tmp_6 = Action_ACT_LEFT_getInstance();
         } else {
           var tmp_7;
-          if ($this.b7i().e23() < runner.o7c_1.e23()) {
+          if ($this.x7i().e23() < runner.s7d_1.e23()) {
             tmp_7 = Action_ACT_RIGHT_getInstance();
           } else {
             tmp_7 = Action_ACT_LEFT_getInstance();
@@ -13644,80 +13765,80 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return scanFloor($this, runner);
   }
   function GuardAiContext() {
-    this.i7k_1 = 255;
-    this.j7k_1 = Action_ACT_NONE_getInstance();
-    this.k7k_1 = -1;
-    this.l7k_1 = -1;
+    this.c7l_1 = 255;
+    this.d7l_1 = Action_ACT_NONE_getInstance();
+    this.e7l_1 = -1;
+    this.f7l_1 = -1;
   }
   GuardAiContext.$metadata$ = classMeta('GuardAiContext');
   function scanFloor($this, runner) {
-    var x = $this.a7i().e23();
-    var y = $this.a7i().g23();
-    var maxTileX = $this.o5u().c7d_1 - 1 | 0;
-    var maxTileY = $this.o5u().d7d_1 - 1 | 0;
+    var x = $this.w7i().e23();
+    var y = $this.w7i().g23();
+    var maxTileX = $this.o5u().g7e_1 - 1 | 0;
+    var maxTileY = $this.o5u().h7e_1 - 1 | 0;
     var guardAi = new GuardAiContext();
-    guardAi.k7k_1 = $this.a7i().e23();
-    $l$loop_0: while (guardAi.k7k_1 > 0) {
-      var curTile = new Vec2i(guardAi.k7k_1 - 1 | 0, y);
-      if ($this.o5u().m7k(curTile).equals(TileLogicType_BLOCK_getInstance()) ? true : $this.o5u().m7k(curTile).equals(TileLogicType_SOLID_getInstance())) {
+    guardAi.e7l_1 = $this.w7i().e23();
+    $l$loop_0: while (guardAi.e7l_1 > 0) {
+      var curTile = new Vec2i(guardAi.e7l_1 - 1 | 0, y);
+      if ($this.o5u().g7l(curTile).equals(TileLogicType_BLOCK_getInstance()) ? true : $this.o5u().g7l(curTile).equals(TileLogicType_SOLID_getInstance())) {
         break $l$loop_0;
       }
-      var downTile = new Vec2i(guardAi.k7k_1 - 1 | 0, y + 1 | 0);
-      if ((($this.o5u().p7k(curTile, false) ? true : $this.o5u().o7k(curTile)) ? true : y >= maxTileY) ? true : y < maxTileY ? $this.o5u().n7k(downTile, true, false) : false) {
+      var downTile = new Vec2i(guardAi.e7l_1 - 1 | 0, y + 1 | 0);
+      if ((($this.o5u().j7l(curTile, false) ? true : $this.o5u().i7l(curTile)) ? true : y >= maxTileY) ? true : y < maxTileY ? $this.o5u().h7l(downTile, true, false) : false) {
         var tmp0_this = guardAi;
-        var tmp1 = tmp0_this.k7k_1;
-        tmp0_this.k7k_1 = tmp1 - 1 | 0;
+        var tmp1 = tmp0_this.e7l_1;
+        tmp0_this.e7l_1 = tmp1 - 1 | 0;
       } else {
         var tmp2_this = guardAi;
-        var tmp3 = tmp2_this.k7k_1;
-        tmp2_this.k7k_1 = tmp3 - 1 | 0;
+        var tmp3 = tmp2_this.e7l_1;
+        tmp2_this.e7l_1 = tmp3 - 1 | 0;
         break $l$loop_0;
       }
     }
-    guardAi.l7k_1 = $this.a7i().e23();
-    $l$loop_2: while (guardAi.l7k_1 < maxTileX) {
-      var curTile_0 = new Vec2i(guardAi.l7k_1 + 1 | 0, y);
-      var curAct = $this.o5u().m7k(curTile_0);
+    guardAi.f7l_1 = $this.w7i().e23();
+    $l$loop_2: while (guardAi.f7l_1 < maxTileX) {
+      var curTile_0 = new Vec2i(guardAi.f7l_1 + 1 | 0, y);
+      var curAct = $this.o5u().g7l(curTile_0);
       if (curAct.equals(TileLogicType_BLOCK_getInstance()) ? true : curAct.equals(TileLogicType_SOLID_getInstance())) {
         break $l$loop_2;
       }
-      var downTile_0 = new Vec2i(guardAi.l7k_1 + 1 | 0, y + 1 | 0);
-      if ((($this.o5u().p7k(curTile_0, false) ? true : $this.o5u().o7k(curTile_0)) ? true : y >= maxTileY) ? true : y < maxTileY ? $this.o5u().n7k(downTile_0, true, false) : false) {
+      var downTile_0 = new Vec2i(guardAi.f7l_1 + 1 | 0, y + 1 | 0);
+      if ((($this.o5u().j7l(curTile_0, false) ? true : $this.o5u().i7l(curTile_0)) ? true : y >= maxTileY) ? true : y < maxTileY ? $this.o5u().h7l(downTile_0, true, false) : false) {
         var tmp4_this = guardAi;
-        var tmp5 = tmp4_this.l7k_1;
-        tmp4_this.l7k_1 = tmp5 + 1 | 0;
+        var tmp5 = tmp4_this.f7l_1;
+        tmp4_this.f7l_1 = tmp5 + 1 | 0;
       } else {
         var tmp6_this = guardAi;
-        var tmp7 = tmp6_this.l7k_1;
-        tmp6_this.l7k_1 = tmp7 + 1 | 0;
+        var tmp7 = tmp6_this.f7l_1;
+        tmp6_this.f7l_1 = tmp7 + 1 | 0;
         break $l$loop_2;
       }
     }
-    var downTileBase = $this.o5u().k7d_1[x][y + 1 | 0];
+    var downTileBase = $this.o5u().p7e_1[x][y + 1 | 0];
     if ((y < maxTileY ? !downTileBase.equals(TileLogicType_BLOCK_getInstance()) : false) ? !downTileBase.equals(TileLogicType_SOLID_getInstance()) : false) {
       scanDown($this, x, Action_ACT_DOWN_getInstance(), guardAi, runner);
     }
-    if ($this.o5u().k7d_1[x][y].equals(TileLogicType_LADDR_getInstance())) {
+    if ($this.o5u().p7e_1[x][y].equals(TileLogicType_LADDR_getInstance())) {
       scanUp($this, x, Action_ACT_UP_getInstance(), guardAi, runner);
     }
     var curPath = Action_ACT_LEFT_getInstance();
-    x = guardAi.k7k_1;
+    x = guardAi.e7l_1;
     $l$loop_3: while (true) {
-      if (x === $this.a7i().e23()) {
-        if (curPath.equals(Action_ACT_LEFT_getInstance()) ? !(guardAi.l7k_1 === $this.a7i().e23()) : false) {
+      if (x === $this.w7i().e23()) {
+        if (curPath.equals(Action_ACT_LEFT_getInstance()) ? !(guardAi.f7l_1 === $this.w7i().e23()) : false) {
           curPath = Action_ACT_RIGHT_getInstance();
-          x = guardAi.l7k_1;
+          x = guardAi.f7l_1;
         } else {
           break $l$loop_3;
         }
       }
       if (y < maxTileY) {
-        var downTile_1 = $this.o5u().k7d_1[x][y + 1 | 0];
+        var downTile_1 = $this.o5u().p7e_1[x][y + 1 | 0];
         if (!downTile_1.equals(TileLogicType_BLOCK_getInstance()) ? !downTile_1.equals(TileLogicType_SOLID_getInstance()) : false) {
           scanDown($this, x, curPath, guardAi, runner);
         }
       }
-      if ($this.o5u().k7d_1[x][y].equals(TileLogicType_LADDR_getInstance())) {
+      if ($this.o5u().p7e_1[x][y].equals(TileLogicType_LADDR_getInstance())) {
         scanUp($this, x, curPath, guardAi, runner);
       }
       if (curPath.equals(Action_ACT_LEFT_getInstance())) {
@@ -13728,18 +13849,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         x = tmp9 - 1 | 0;
       }
     }
-    return guardAi.j7k_1;
+    return guardAi.d7l_1;
   }
   function scanDown($this, x, curPath, guardAi, runner) {
-    var maxTileX = $this.o5u().c7d_1 - 1 | 0;
-    var maxTileY = $this.o5u().d7d_1 - 1 | 0;
-    var y = $this.a7i().g23();
-    $l$loop_0: while ((y < maxTileY ? !$this.o5u().k7d_1[x][y + 1 | 0].equals(TileLogicType_BLOCK_getInstance()) : false) ? !$this.o5u().k7d_1[x][y + 1 | 0].equals(TileLogicType_SOLID_getInstance()) : false) {
-      if (!$this.o5u().k7d_1[x][y].equals(TileLogicType_EMPTY_getInstance()) ? !$this.o5u().k7d_1[x][y].equals(TileLogicType_HLADR_getInstance()) : false) {
+    var maxTileX = $this.o5u().g7e_1 - 1 | 0;
+    var maxTileY = $this.o5u().h7e_1 - 1 | 0;
+    var y = $this.w7i().g23();
+    $l$loop_0: while ((y < maxTileY ? !$this.o5u().p7e_1[x][y + 1 | 0].equals(TileLogicType_BLOCK_getInstance()) : false) ? !$this.o5u().p7e_1[x][y + 1 | 0].equals(TileLogicType_SOLID_getInstance()) : false) {
+      if (!$this.o5u().p7e_1[x][y].equals(TileLogicType_EMPTY_getInstance()) ? !$this.o5u().p7e_1[x][y].equals(TileLogicType_HLADR_getInstance()) : false) {
         if (x > 0) {
           var downTile = new Vec2i(x - 1 | 0, y + 1 | 0);
-          if ($this.o5u().n7k(downTile, true, false) ? true : $this.o5u().k7d_1[x - 1 | 0][y].equals(TileLogicType_BAR_getInstance())) {
-            if (y >= runner.n7c_1.g23()) {
+          if ($this.o5u().h7l(downTile, true, false) ? true : $this.o5u().p7e_1[x - 1 | 0][y].equals(TileLogicType_BAR_getInstance())) {
+            if (y >= runner.r7d_1.g23()) {
               break $l$loop_0;
             }
           }
@@ -13748,13 +13869,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           var downTile_0 = new Vec2i(x + 1 | 0, y + 1 | 0);
           var tmp;
           var tmp_0 = $this.o5u();
-          if (tmp_0.q7k(downTile_0, false, false, 6, null)) {
+          if (tmp_0.k7l(downTile_0, false, false, 6, null)) {
             tmp = true;
           } else {
-            tmp = $this.o5u().k7d_1[x + 1 | 0][y].equals(TileLogicType_BAR_getInstance());
+            tmp = $this.o5u().p7e_1[x + 1 | 0][y].equals(TileLogicType_BAR_getInstance());
           }
           if (tmp) {
-            if (y >= runner.n7c_1.g23()) {
+            if (y >= runner.r7d_1.g23()) {
               break $l$loop_0;
             }
           }
@@ -13764,53 +13885,53 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       y = tmp0 + 1 | 0;
     }
     var tmp_1;
-    if (y === runner.n7c_1.g23()) {
-      tmp_1 = abs(runner.n7c_1.e23() - x | 0);
-    } else if (y > runner.n7c_1.g23()) {
-      tmp_1 = (y - runner.n7c_1.g23() | 0) + 200 | 0;
+    if (y === runner.r7d_1.g23()) {
+      tmp_1 = abs(runner.r7d_1.e23() - x | 0);
+    } else if (y > runner.r7d_1.g23()) {
+      tmp_1 = (y - runner.r7d_1.g23() | 0) + 200 | 0;
     } else {
-      tmp_1 = (runner.n7c_1.g23() - y | 0) + 100 | 0;
+      tmp_1 = (runner.r7d_1.g23() - y | 0) + 100 | 0;
     }
     var curRating = tmp_1;
-    if (curRating < guardAi.i7k_1) {
-      guardAi.i7k_1 = curRating;
-      guardAi.j7k_1 = curPath;
+    if (curRating < guardAi.c7l_1) {
+      guardAi.c7l_1 = curRating;
+      guardAi.d7l_1 = curPath;
     }
   }
   function scanUp($this, x, curPath, guardAi, runner) {
-    var y = $this.a7i().g23();
-    $l$loop_0: while (y > 0 ? $this.o5u().k7d_1[x][y].equals(TileLogicType_LADDR_getInstance()) : false) {
+    var y = $this.w7i().g23();
+    $l$loop_0: while (y > 0 ? $this.o5u().p7e_1[x][y].equals(TileLogicType_LADDR_getInstance()) : false) {
       var tmp0 = y;
       y = tmp0 - 1 | 0;
       if (x > 0) {
         var downTile = new Vec2i(x - 1 | 0, y + 1 | 0);
-        if ($this.o5u().n7k(downTile, true, false) ? true : $this.o5u().k7d_1[x - 1 | 0][y].equals(TileLogicType_BAR_getInstance())) {
-          if (y <= runner.n7c_1.g23()) {
+        if ($this.o5u().h7l(downTile, true, false) ? true : $this.o5u().p7e_1[x - 1 | 0][y].equals(TileLogicType_BAR_getInstance())) {
+          if (y <= runner.r7d_1.g23()) {
             break $l$loop_0;
           }
         }
       }
-      if (x < ($this.o5u().c7d_1 - 1 | 0)) {
+      if (x < ($this.o5u().g7e_1 - 1 | 0)) {
         var downTile_0 = new Vec2i(x + 1 | 0, y + 1 | 0);
-        if ($this.o5u().n7k(downTile_0, true, false) ? true : $this.o5u().k7d_1[x + 1 | 0][y].equals(TileLogicType_BAR_getInstance())) {
-          if (y <= runner.n7c_1.g23()) {
+        if ($this.o5u().h7l(downTile_0, true, false) ? true : $this.o5u().p7e_1[x + 1 | 0][y].equals(TileLogicType_BAR_getInstance())) {
+          if (y <= runner.r7d_1.g23()) {
             break $l$loop_0;
           }
         }
       }
     }
     var tmp;
-    if (y === runner.n7c_1.g23()) {
-      tmp = abs($this.a7i().e23() - x | 0);
-    } else if (y > runner.n7c_1.g23()) {
-      tmp = (y - runner.n7c_1.g23() | 0) + 200 | 0;
+    if (y === runner.r7d_1.g23()) {
+      tmp = abs($this.w7i().e23() - x | 0);
+    } else if (y > runner.r7d_1.g23()) {
+      tmp = (y - runner.r7d_1.g23() | 0) + 200 | 0;
     } else {
-      tmp = (runner.n7c_1.g23() - y | 0) + 100 | 0;
+      tmp = (runner.r7d_1.g23() - y | 0) + 100 | 0;
     }
     var curRating = tmp;
-    if (curRating < guardAi.i7k_1) {
-      guardAi.i7k_1 = curRating;
-      guardAi.j7k_1 = curPath;
+    if (curRating < guardAi.c7l_1) {
+      guardAi.c7l_1 = curRating;
+      guardAi.d7l_1 = curPath;
     }
   }
   function Guard$randomRangeGenerator$lambda($current, $i, $min, $max, $random) {
@@ -13828,27 +13949,27 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Guard$lambda(this$0) {
     return function (it) {
-      this$0.r7d(ActorSequence_RunLeft_getInstance());
+      this$0.w7e(ActorSequence_RunLeft_getInstance());
       return Unit_getInstance();
     };
   }
   function Guard$fsm$delegate$lambda$lambda$lambda(this$0, $game) {
     return function (it) {
-      var tmp = this$0.o5u().c7d_1;
+      var tmp = this$0.o5u().g7e_1;
       var gen = randomRangeGenerator$default(this$0, 0, tmp, null, 8, null).h();
       var inductionVariable = 1;
-      var last = this$0.o5u().d7d_1;
+      var last = this$0.o5u().h7e_1;
       var tmp_0;
       if (inductionVariable < last) {
         $l$loop: do {
           var bornY = inductionVariable;
           inductionVariable = inductionVariable + 1 | 0;
           var bornX = gen.o();
-          if (this$0.o5u().f7k(bornX, bornY)) {
-            this$0.a7i().p2j(bornX);
-            this$0.a7i().q2j(bornY);
-            this$0.r7d(ActorSequence_Reborn_getInstance());
-            $game.y6v_1.y7i(get_SCORE_DIES());
+          if (this$0.o5u().z7k(bornX, bornY)) {
+            this$0.w7i().p2j(bornX);
+            this$0.w7i().q2j(bornY);
+            this$0.w7e(ActorSequence_Reborn_getInstance());
+            $game.c6t_1.t7j(get_SCORE_DIES());
             break $l$loop;
           }
         }
@@ -13860,20 +13981,20 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Guard$fsm$delegate$lambda$lambda$lambda$lambda() {
     return function ($this$validWhen) {
-      return !($this$validWhen.r7c_1 === 0) ? $this$validWhen.q7c_1 >= $this$validWhen.r7c_1 : false;
+      return !($this$validWhen.v7d_1 === 0) ? $this$validWhen.u7d_1 >= $this$validWhen.v7d_1 : false;
     };
   }
   function Guard$fsm$delegate$lambda$lambda$lambda_0() {
     return function ($this$edge) {
-      $this$edge.x7d(Guard$fsm$delegate$lambda$lambda$lambda$lambda());
+      $this$edge.c7f(Guard$fsm$delegate$lambda$lambda$lambda$lambda());
       return Unit_getInstance();
     };
   }
   function Guard$fsm$delegate$lambda$lambda$lambda_1() {
     return function ($this$onUpdate) {
       var tmp0_this = $this$onUpdate;
-      var tmp1 = tmp0_this.q7c_1;
-      tmp0_this.q7c_1 = tmp1 + 1 | 0;
+      var tmp1 = tmp0_this.u7d_1;
+      tmp0_this.u7d_1 = tmp1 + 1 | 0;
       return null;
     };
   }
@@ -13882,28 +14003,28 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp = Sound_BORN_getInstance();
       var tmp_0 = this$0.e23();
       var tmp_1 = this$0.g23();
-      $game.j7f(tmp, tmp_0, tmp_1, false, 8, null);
+      $game.o7g(tmp, tmp_0, tmp_1, false, 8, null);
       return Unit_getInstance();
     };
   }
   function Guard$fsm$delegate$lambda$lambda(this$0, $game) {
     return function ($this$state) {
-      $this$state.h75(Guard$fsm$delegate$lambda$lambda$lambda(this$0, $game));
-      Companion_getInstance_15();
-      $this$state.j75('stop', false, 0, Guard$fsm$delegate$lambda$lambda$lambda_0(), 6, null);
-      $this$state.w7f(Guard$fsm$delegate$lambda$lambda$lambda_1());
-      $this$state.i75(Guard$fsm$delegate$lambda$lambda$lambda_2($game, this$0));
+      $this$state.b6x(Guard$fsm$delegate$lambda$lambda$lambda(this$0, $game));
+      Companion_getInstance_16();
+      $this$state.h6x('stop', false, 0, Guard$fsm$delegate$lambda$lambda$lambda_0(), 6, null);
+      $this$state.d6x(Guard$fsm$delegate$lambda$lambda$lambda_1());
+      $this$state.c6x(Guard$fsm$delegate$lambda$lambda$lambda_2($game, this$0));
       return Unit_getInstance();
     };
   }
   function Guard$fsm$delegate$lambda$lambda$lambda_3() {
     return function ($this$validWhen) {
-      return $this$validWhen.a7h() < 0 ? $this$validWhen.o5u().g7k($this$validWhen.e23(), $this$validWhen.g23()) : false;
+      return $this$validWhen.x7h() < 0 ? $this$validWhen.o5u().a7l($this$validWhen.e23(), $this$validWhen.g23()) : false;
     };
   }
   function Guard$fsm$delegate$lambda$lambda_0() {
     return function ($this$edge) {
-      $this$edge.x7d(Guard$fsm$delegate$lambda$lambda$lambda_3());
+      $this$edge.c7f(Guard$fsm$delegate$lambda$lambda$lambda_3());
       return Unit_getInstance();
     };
   }
@@ -13911,24 +14032,24 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function () {
       var tmp$ret$1;
       {
-        var tmp0_apply = Actor.prototype.v7h.call(this$0);
+        var tmp0_apply = Actor.prototype.r7i.call(this$0);
         {
         }
         {
-          tmp0_apply.t7h(new InHole(this$0));
-          tmp0_apply.t7h(new Shake(this$0, ActorSequence_ShakeLeft_getInstance()));
-          tmp0_apply.t7h(new Shake(this$0, ActorSequence_ShakeRight_getInstance()));
-          var tmp = ActorSequence_Reborn_getInstance().f7c_1;
-          tmp0_apply.k75(tmp, Guard$fsm$delegate$lambda$lambda(this$0, $game));
+          tmp0_apply.m76(new InHole(this$0));
+          tmp0_apply.m76(new Shake(this$0, ActorSequence_ShakeLeft_getInstance()));
+          tmp0_apply.m76(new Shake(this$0, ActorSequence_ShakeRight_getInstance()));
+          var tmp = ActorSequence_Reborn_getInstance().j7d_1;
+          tmp0_apply.u7j(tmp, Guard$fsm$delegate$lambda$lambda(this$0, $game));
           var tmp$ret$0;
           {
-            Companion_getInstance_16();
-            var tmp0_apply_0 = tmp0_apply.r7k('fall');
+            Companion_getInstance_17();
+            var tmp0_apply_0 = tmp0_apply.l7l('fall');
             {
             }
             {
-              Companion_getInstance_19();
-              tmp0_apply_0.j75('inhole', false, 0, Guard$fsm$delegate$lambda$lambda_0(), 6, null);
+              Companion_getInstance_20();
+              tmp0_apply_0.h6x('inhole', false, 0, Guard$fsm$delegate$lambda$lambda_0(), 6, null);
             }
             tmp$ret$0 = tmp0_apply_0;
           }
@@ -13939,121 +14060,121 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     };
   }
   function Guard(game, random) {
-    Companion_getInstance_20();
+    Companion_getInstance_21();
     Actor.call(this, game);
-    this.t7g_1 = random;
-    this.u7g_1 = 0;
-    this.v7g_1 = false;
+    this.q7h_1 = random;
+    this.r7h_1 = 0;
+    this.s7h_1 = false;
     var tmp0_this = game;
     {
-      var tmp0_plusAssign = tmp0_this.x6v_1;
+      var tmp0_plusAssign = tmp0_this.b6t_1;
       tmp0_plusAssign.a(Guard$lambda(this));
     }
     var tmp = this;
-    tmp.w7g_1 = lazy(Guard$fsm$delegate$lambda(this, game));
+    tmp.t7h_1 = lazy(Guard$fsm$delegate$lambda(this, game));
   }
-  Guard.prototype.s7k = function () {
-    return this.u7g_1;
+  Guard.prototype.m7l = function () {
+    return this.r7h_1;
   };
-  Guard.prototype.r7h = function () {
+  Guard.prototype.o7i = function () {
     var tmp;
-    if (this.u7g_1 === 0) {
-      this.u7g_1 = randomI(0, 26) + 12 | 0;
+    if (this.r7h_1 === 0) {
+      this.r7h_1 = randomI(0, 26) + 12 | 0;
       tmp = true;
     } else {
       tmp = false;
     }
     return tmp;
   };
-  Guard.prototype.x7c = function () {
-    return Actor.prototype.x7c.call(this) ? true : this.v7g_1;
-  };
-  Guard.prototype.e7e = function () {
-    if (this.o5u().b7h(this.e23() + 1 | 0, this.g23())) {
-      var tmp$ret$0;
-      {
-        var tmp0_clamp = this.u7h().z7g(this.e23() + 1 | 0, this.g23()).d7e() - this.d7e() | 0;
-        var tmp1_clamp = this.w7h();
-        tmp$ret$0 = tmp0_clamp < 0 ? 0 : tmp0_clamp > tmp1_clamp ? tmp1_clamp : tmp0_clamp;
-      }
-      return tmp$ret$0;
-    }
-    if (this.o5u().b7h(this.e23() + 1 | 0, this.g23() + 1 | 0)) {
-      var g = this.u7h().z7g(this.e23() + 1 | 0, this.g23() + 1 | 0);
-      if (g.a7h() < 0) {
-        var tmp$ret$1;
-        {
-          var tmp2_clamp = g.d7e() - this.d7e() | 0;
-          var tmp3_clamp = this.w7h();
-          tmp$ret$1 = tmp2_clamp < 0 ? 0 : tmp2_clamp > tmp3_clamp ? tmp3_clamp : tmp2_clamp;
-        }
-        return tmp$ret$1;
-      }
-    }
-    if (this.o5u().b7h(this.e23() + 1 | 0, this.g23() - 1 | 0)) {
-      var g_0 = this.u7h().z7g(this.e23() + 1 | 0, this.g23() - 1 | 0);
-      if (g_0.a7h() > 0) {
-        var tmp$ret$2;
-        {
-          var tmp4_clamp = this.d7e() - g_0.d7e() | 0;
-          var tmp5_clamp = this.w7h();
-          tmp$ret$2 = tmp4_clamp < 0 ? 0 : tmp4_clamp > tmp5_clamp ? tmp5_clamp : tmp4_clamp;
-        }
-        return tmp$ret$2;
-      }
-    }
-    return Actor.prototype.e7e.call(this);
-  };
   Guard.prototype.b7e = function () {
-    if (this.o5u().b7h(this.e23() - 1 | 0, this.g23())) {
+    return Actor.prototype.b7e.call(this) ? true : this.s7h_1;
+  };
+  Guard.prototype.j7f = function () {
+    if (this.o5u().y7h(this.e23() + 1 | 0, this.g23())) {
       var tmp$ret$0;
       {
-        var tmp0_clamp = this.d7e() - this.u7h().z7g(this.e23() - 1 | 0, this.g23()).d7e() | 0;
-        var tmp1_clamp = this.w7h();
+        var tmp0_clamp = this.q7i().w7h(this.e23() + 1 | 0, this.g23()).i7f() - this.i7f() | 0;
+        var tmp1_clamp = this.s7i();
         tmp$ret$0 = tmp0_clamp < 0 ? 0 : tmp0_clamp > tmp1_clamp ? tmp1_clamp : tmp0_clamp;
       }
       return tmp$ret$0;
     }
-    if (this.o5u().b7h(this.e23() - 1 | 0, this.g23() + 1 | 0)) {
-      var g = this.u7h().z7g(this.e23() - 1 | 0, this.g23() + 1 | 0);
-      if (g.a7h() < 0) {
+    if (this.o5u().y7h(this.e23() + 1 | 0, this.g23() + 1 | 0)) {
+      var g = this.q7i().w7h(this.e23() + 1 | 0, this.g23() + 1 | 0);
+      if (g.x7h() < 0) {
         var tmp$ret$1;
         {
-          var tmp2_clamp = g.d7e() - this.d7e() | 0;
-          var tmp3_clamp = this.w7h();
+          var tmp2_clamp = g.i7f() - this.i7f() | 0;
+          var tmp3_clamp = this.s7i();
           tmp$ret$1 = tmp2_clamp < 0 ? 0 : tmp2_clamp > tmp3_clamp ? tmp3_clamp : tmp2_clamp;
         }
         return tmp$ret$1;
       }
     }
-    if (this.o5u().b7h(this.e23() - 1 | 0, this.g23() - 1 | 0)) {
-      var g_0 = this.u7h().z7g(this.e23() - 1 | 0, this.g23() - 1 | 0);
-      if (g_0.a7h() > 0) {
+    if (this.o5u().y7h(this.e23() + 1 | 0, this.g23() - 1 | 0)) {
+      var g_0 = this.q7i().w7h(this.e23() + 1 | 0, this.g23() - 1 | 0);
+      if (g_0.x7h() > 0) {
         var tmp$ret$2;
         {
-          var tmp4_clamp = this.d7e() - g_0.d7e() | 0;
-          var tmp5_clamp = this.w7h();
+          var tmp4_clamp = this.i7f() - g_0.i7f() | 0;
+          var tmp5_clamp = this.s7i();
           tmp$ret$2 = tmp4_clamp < 0 ? 0 : tmp4_clamp > tmp5_clamp ? tmp5_clamp : tmp4_clamp;
         }
         return tmp$ret$2;
       }
     }
-    return Actor.prototype.b7e.call(this);
+    return Actor.prototype.j7f.call(this);
   };
-  Guard.prototype.z7d = function () {
-    return (Actor.prototype.z7d.call(this) ? !this.o5u().b7h(this.e23(), this.g23() - 1 | 0) ? true : this.o5u().b7h(this.e23(), this.g23() - 1 | 0) ? this.a7h() < this.u7h().z7g(this.e23(), this.g23() - 1 | 0).a7h() : false : false) ? true : this.v7g_1 ? this.o5u().g7k(this.e23(), this.g23()) : false;
+  Guard.prototype.g7f = function () {
+    if (this.o5u().y7h(this.e23() - 1 | 0, this.g23())) {
+      var tmp$ret$0;
+      {
+        var tmp0_clamp = this.i7f() - this.q7i().w7h(this.e23() - 1 | 0, this.g23()).i7f() | 0;
+        var tmp1_clamp = this.s7i();
+        tmp$ret$0 = tmp0_clamp < 0 ? 0 : tmp0_clamp > tmp1_clamp ? tmp1_clamp : tmp0_clamp;
+      }
+      return tmp$ret$0;
+    }
+    if (this.o5u().y7h(this.e23() - 1 | 0, this.g23() + 1 | 0)) {
+      var g = this.q7i().w7h(this.e23() - 1 | 0, this.g23() + 1 | 0);
+      if (g.x7h() < 0) {
+        var tmp$ret$1;
+        {
+          var tmp2_clamp = g.i7f() - this.i7f() | 0;
+          var tmp3_clamp = this.s7i();
+          tmp$ret$1 = tmp2_clamp < 0 ? 0 : tmp2_clamp > tmp3_clamp ? tmp3_clamp : tmp2_clamp;
+        }
+        return tmp$ret$1;
+      }
+    }
+    if (this.o5u().y7h(this.e23() - 1 | 0, this.g23() - 1 | 0)) {
+      var g_0 = this.q7i().w7h(this.e23() - 1 | 0, this.g23() - 1 | 0);
+      if (g_0.x7h() > 0) {
+        var tmp$ret$2;
+        {
+          var tmp4_clamp = this.i7f() - g_0.i7f() | 0;
+          var tmp5_clamp = this.s7i();
+          tmp$ret$2 = tmp4_clamp < 0 ? 0 : tmp4_clamp > tmp5_clamp ? tmp5_clamp : tmp4_clamp;
+        }
+        return tmp$ret$2;
+      }
+    }
+    return Actor.prototype.g7f.call(this);
   };
-  Guard.prototype.a7e = function () {
-    return Actor.prototype.a7e.call(this) ? !this.o5u().b7h(this.e23(), this.g23() + 1 | 0) ? true : this.o5u().b7h(this.e23(), this.g23() + 1 | 0) ? this.a7h() > this.u7h().z7g(this.e23(), this.g23() + 1 | 0).a7h() : false : false;
+  Guard.prototype.e7f = function () {
+    return (Actor.prototype.e7f.call(this) ? !this.o5u().y7h(this.e23(), this.g23() - 1 | 0) ? true : this.o5u().y7h(this.e23(), this.g23() - 1 | 0) ? this.x7h() < this.q7i().w7h(this.e23(), this.g23() - 1 | 0).x7h() : false : false) ? true : this.s7h_1 ? this.o5u().a7l(this.e23(), this.g23()) : false;
   };
-  Guard.prototype.p7h = function () {
-    return this.o5u().b7h(this.e23(), this.g23() + 1 | 0) ? min(this.u7h().z7g(this.e23(), this.g23() + 1 | 0).a7h() - this.a7h() | 0, this.x7h()) : Actor.prototype.p7h.call(this);
+  Guard.prototype.f7f = function () {
+    return Actor.prototype.f7f.call(this) ? !this.o5u().y7h(this.e23(), this.g23() + 1 | 0) ? true : this.o5u().y7h(this.e23(), this.g23() + 1 | 0) ? this.x7h() > this.q7i().w7h(this.e23(), this.g23() + 1 | 0).x7h() : false : false;
   };
-  Guard.prototype.c7h = function () {
-    return this.o5u().b7h(this.e23(), this.g23() - 1 | 0) ? min(this.a7h() - this.u7h().z7g(this.e23(), this.g23() - 1 | 0).a7h() | 0, this.x7h()) : Actor.prototype.c7h.call(this);
+  Guard.prototype.m7i = function () {
+    return this.o5u().y7h(this.e23(), this.g23() + 1 | 0) ? min(this.q7i().w7h(this.e23(), this.g23() + 1 | 0).x7h() - this.x7h() | 0, this.t7i()) : Actor.prototype.m7i.call(this);
   };
-  Guard.prototype.u7i = function (runner) {
-    var tmp = this.v7h().t7k();
+  Guard.prototype.z7h = function () {
+    return this.o5u().y7h(this.e23(), this.g23() - 1 | 0) ? min(this.x7h() - this.q7i().w7h(this.e23(), this.g23() - 1 | 0).x7h() | 0, this.t7i()) : Actor.prototype.z7h.call(this);
+  };
+  Guard.prototype.p7j = function (runner) {
+    var tmp = this.r7i().n7l();
     if (tmp instanceof ControllableState) {
       var nextAct = bestMove(this, runner);
       var tmp0_subject = nextAct;
@@ -14078,57 +14199,57 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             break;
         }
       }
-      if (!(neiGuard == null) ? !this.o5u().u7k(neiGuard) : false) {
-        var tmp_0 = this.a77();
+      if (!(neiGuard == null) ? !this.o5u().o7l(neiGuard) : false) {
+        var tmp_0 = this.e78();
         var tmp1_subject = nextAct;
         var tmp0_0 = tmp1_subject.y1();
         tmp_0.p2j(tmp0_0 === 4 ? 1 : tmp0_0 === 3 ? -1 : 0);
-        var tmp_1 = this.a77();
+        var tmp_1 = this.e78();
         var tmp2_subject = nextAct;
         var tmp0_1 = tmp2_subject.y1();
         tmp_1.q2j(tmp0_1 === 2 ? 1 : tmp0_1 === 1 ? -1 : 0);
       } else {
-        this.a77().p2j(0);
-        this.a77().q2j(0);
+        this.e78().p2j(0);
+        this.e78().q2j(0);
       }
     }
     var oldx = this.e23();
     var oldy = this.g23();
-    Actor.prototype.i7i.call(this);
-    var tmp_2 = this.v7h().t7k();
+    Actor.prototype.e7j.call(this);
+    var tmp_2 = this.r7i().n7l();
     if (tmp_2 instanceof MovementState) {
       dropGold(this);
     }
-    if (this.o5u().v7k(this.e23(), this.g23()))
-      this.v7h().v7j(ActorSequence_Reborn_getInstance().f7c_1);
+    if (this.o5u().p7l(this.e23(), this.g23()))
+      this.r7i().d73(ActorSequence_Reborn_getInstance().j7d_1);
     if (!(oldx === this.e23()) ? true : !(oldy === this.g23())) {
-      this.o5u().l7d_1[oldx][oldy] = false;
-      this.o5u().l7d_1[this.e23()][this.g23()] = true;
+      this.o5u().q7e_1[oldx][oldy] = false;
+      this.o5u().q7e_1[this.e23()][this.g23()] = true;
     }
-    var tmp_3 = this.v7h().t7k();
+    var tmp_3 = this.r7i().n7l();
     if (tmp_3 instanceof ControllableState) {
-      if ((this.v7g_1 ? !this.o5u().g7k(this.e23(), this.g23()) : false) ? !this.o5u().g7k(this.e23(), this.g23() + 1 | 0) : false)
-        this.v7g_1 = false;
+      if ((this.s7h_1 ? !this.o5u().a7l(this.e23(), this.g23()) : false) ? !this.o5u().a7l(this.e23(), this.g23() + 1 | 0) : false)
+        this.s7h_1 = false;
     }
   };
-  Guard.prototype.v7h = function () {
+  Guard.prototype.r7i = function () {
     var tmp$ret$0;
     {
       var tmp0_getValue = fsm$factory_1();
-      tmp$ret$0 = this.w7g_1.n2();
+      tmp$ret$0 = this.t7h_1.n2();
     }
     return tmp$ret$0;
   };
-  Guard.prototype.w7k = function () {
-    return this.e7i().equals(ActorSequence_Reborn_getInstance());
+  Guard.prototype.q7l = function () {
+    return this.a7j().equals(ActorSequence_Reborn_getInstance());
   };
   Guard.prototype.toString = function () {
-    return format('%s guard %d+%d x %d+%d state=%s gold=%d inhole=%s', [anyToString(this), this.e23(), this.d7e(), this.g23(), this.a7h(), this.v7h().o7j(), this.u7g_1, this.v7g_1]);
+    return format('%s guard %d+%d x %d+%d state=%s gold=%d inhole=%s', [anyToString(this), this.e23(), this.i7f(), this.g23(), this.x7h(), this.r7i().k7k(), this.r7h_1, this.s7h_1]);
   };
   Guard.$metadata$ = classMeta('Guard', undefined, undefined, undefined, undefined, Actor.prototype);
   function fsm$factory_1() {
     return getPropertyCallableRef('fsm', 1, KProperty1, function (receiver) {
-      return receiver.v7h();
+      return receiver.r7i();
     }, null);
   }
   function TileLogicType_init_$Init$(name, ordinal, collision, $mask0, $marker, $this) {
@@ -14164,7 +14285,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function TileLogicType(name, ordinal, collision) {
     Enum.call(this, name, ordinal);
-    this.z7k_1 = collision;
+    this.t7l_1 = collision;
   }
   TileLogicType.$metadata$ = classMeta('TileLogicType', undefined, undefined, undefined, undefined, Enum.prototype);
   function Tile_init_$Init$(name, ordinal, char, base, act, frameName, $mask0, $marker, $this) {
@@ -14204,7 +14325,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           inductionVariable = inductionVariable + 1 | 0;
           var tmp$ret$0;
           {
-            tmp$ret$0 = element.c7l_1;
+            tmp$ret$0 = element.w7l_1;
           }
           tmp0_associateByTo.b(new Char(tmp$ret$0), element);
         }
@@ -14212,14 +14333,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$2 = tmp$ret$1;
     }
-    tmp.g7l_1 = tmp$ret$2;
+    tmp.a7m_1 = tmp$ret$2;
   }
-  Companion_9.prototype.h7l = function () {
-    return this.g7l_1;
+  Companion_9.prototype.b7m = function () {
+    return this.a7m_1;
   };
   Companion_9.$metadata$ = objectMeta('Companion');
   var Companion_instance_9;
-  function Companion_getInstance_21() {
+  function Companion_getInstance_22() {
     Tile_initEntries();
     if (Companion_instance_9 == null)
       new Companion_9();
@@ -14285,26 +14406,26 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     Tile_GOLD_instance = Tile_init_$Create$('GOLD', 7, tmp_20, tmp_21, tmp_22, null, 32, null);
     Tile_GUARD_instance = new Tile('GUARD', 8, _Char___init__impl__6a9atx(48), TileLogicType_EMPTY_getInstance(), TileLogicType_EMPTY_getInstance(), '');
     Tile_PLAYER_instance = new Tile('PLAYER', 9, _Char___init__impl__6a9atx(38), TileLogicType_EMPTY_getInstance(), TileLogicType_EMPTY_getInstance(), '');
-    Companion_getInstance_21();
+    Companion_getInstance_22();
   }
   function Tile(name, ordinal, char, base, act, frameName) {
     Enum.call(this, name, ordinal);
-    this.c7l_1 = char;
-    this.d7l_1 = base;
-    this.e7l_1 = act;
-    this.f7l_1 = frameName;
+    this.w7l_1 = char;
+    this.x7l_1 = base;
+    this.y7l_1 = act;
+    this.z7l_1 = frameName;
   }
-  Tile.prototype.i7l = function () {
-    return this.c7l_1;
+  Tile.prototype.c7m = function () {
+    return this.w7l_1;
   };
-  Tile.prototype.j7l = function () {
-    return this.d7l_1;
+  Tile.prototype.d7m = function () {
+    return this.x7l_1;
   };
-  Tile.prototype.k7l = function () {
-    return this.e7l_1;
+  Tile.prototype.e7m = function () {
+    return this.y7l_1;
   };
-  Tile.prototype.l7l = function () {
-    var tmp0_elvis_lhs = this.f7l_1;
+  Tile.prototype.f7m = function () {
+    var tmp0_elvis_lhs = this.z7l_1;
     var tmp;
     if (tmp0_elvis_lhs == null) {
       var tmp$ret$1;
@@ -14322,7 +14443,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return tmp;
   };
-  Tile.prototype.m7l = function () {
+  Tile.prototype.g7m = function () {
     var tmp0_subject = this;
     var tmp0 = tmp0_subject.y1();
     return (((tmp0 === 9 ? true : tmp0 === 8) ? true : tmp0 === 7) ? Tile_EMPTY_getInstance() : this).y1();
@@ -14365,7 +14486,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Companion_10() {
     Companion_instance_10 = this;
   }
-  Companion_10.prototype.n7l = function (b) {
+  Companion_10.prototype.h7m = function (b) {
     var tmp$ret$2;
     {
       var tmp$ret$0;
@@ -14377,7 +14498,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       var tmp$ret$1;
       {
-        tmp$ret$1 = new ViewCell(false, unpackFrameNum(tmp0_with, Companion_getInstance_22()));
+        tmp$ret$1 = new ViewCell(false, unpackFrameNum(tmp0_with, Companion_getInstance_23()));
       }
       tmp$ret$2 = tmp$ret$1;
     }
@@ -14385,19 +14506,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   Companion_10.$metadata$ = objectMeta('Companion');
   var Companion_instance_10;
-  function Companion_getInstance_22() {
+  function Companion_getInstance_23() {
     if (Companion_instance_10 == null)
       new Companion_10();
     return Companion_instance_10;
   }
   function ViewCell(hole, frameNum) {
-    Companion_getInstance_22();
-    this.t76_1 = hole;
-    this.u76_1 = frameNum;
+    Companion_getInstance_23();
+    this.x77_1 = hole;
+    this.y77_1 = frameNum;
   }
-  ViewCell.prototype.v76 = function () {
+  ViewCell.prototype.z77 = function () {
     var b = _UInt___init__impl__l7qpdl(0);
-    b = packFrameNum(b, Companion_getInstance_22(), this.u76_1);
+    b = packFrameNum(b, Companion_getInstance_23(), this.y77_1);
     var tmp$ret$0;
     {
       var tmp0_toByte = b;
@@ -14406,11 +14527,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return tmp$ret$0;
   };
   ViewCell.prototype.toString = function () {
-    return 'ViewCell(hole=' + this.t76_1 + ', frameNum=' + this.u76_1 + ')';
+    return 'ViewCell(hole=' + this.x77_1 + ', frameNum=' + this.y77_1 + ')';
   };
   ViewCell.prototype.hashCode = function () {
-    var result = this.t76_1 | 0;
-    result = imul(result, 31) + this.u76_1 | 0;
+    var result = this.x77_1 | 0;
+    result = imul(result, 31) + this.y77_1 | 0;
     return result;
   };
   ViewCell.prototype.equals = function (other) {
@@ -14419,9 +14540,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (!(other instanceof ViewCell))
       return false;
     var tmp0_other_with_cast = other instanceof ViewCell ? other : THROW_CCE();
-    if (!(this.t76_1 === tmp0_other_with_cast.t76_1))
+    if (!(this.x77_1 === tmp0_other_with_cast.x77_1))
       return false;
-    if (!(this.u76_1 === tmp0_other_with_cast.u76_1))
+    if (!(this.y77_1 === tmp0_other_with_cast.y77_1))
       return false;
     return true;
   };
@@ -14489,36 +14610,49 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function loadGameLevel(levelId, map, tilesAtlasIndex) {
     return GameLevel_init_$Create$(levelId, map, tilesAtlasIndex, 0, 8, null);
   }
-  function Anim_init_$Init$(pos, name, currentFrame, $mask0, $marker, $this) {
+  function Anim_init_$Init$(pos, name, currentFrame, onFinish, $mask0, $marker, $this) {
     if (!(($mask0 & 4) === 0))
       currentFrame = 0;
-    Anim.call($this, pos, name, currentFrame);
+    if (!(($mask0 & 8) === 0)) {
+      onFinish = Anim$_init_$lambda_9nqnzu();
+    }
+    Anim.call($this, pos, name, currentFrame, onFinish);
     return $this;
   }
-  function Anim_init_$Create$(pos, name, currentFrame, $mask0, $marker) {
-    return Anim_init_$Init$(pos, name, currentFrame, $mask0, $marker, Object.create(Anim.prototype));
+  function Anim_init_$Create$(pos, name, currentFrame, onFinish, $mask0, $marker) {
+    return Anim_init_$Init$(pos, name, currentFrame, onFinish, $mask0, $marker, Object.create(Anim.prototype));
   }
-  function Anim(pos, name, currentFrame) {
-    this.o7l_1 = pos;
-    this.p7l_1 = name;
-    this.q7l_1 = currentFrame;
+  function Anim$_init_$lambda_9nqnzu() {
+    return function () {
+      return Unit_getInstance();
+    };
   }
+  function Anim(pos, name, currentFrame, onFinish) {
+    this.i7m_1 = pos;
+    this.j7m_1 = name;
+    this.k7m_1 = currentFrame;
+    this.l7m_1 = onFinish;
+  }
+  Anim.prototype.m7m = function () {
+    return this.i7m_1;
+  };
   Anim.prototype.z3 = function () {
-    return this.o7l_1;
+    return this.i7m_1;
   };
   Anim.prototype.a4 = function () {
-    return this.p7l_1;
+    return this.j7m_1;
   };
-  Anim.prototype.r7l = function () {
-    return this.q7l_1;
+  Anim.prototype.n7m = function () {
+    return this.k7m_1;
   };
   Anim.prototype.toString = function () {
-    return 'Anim(pos=' + this.o7l_1 + ', name=' + this.p7l_1 + ', currentFrame=' + this.q7l_1 + ')';
+    return 'Anim(pos=' + this.i7m_1 + ', name=' + this.j7m_1 + ', currentFrame=' + this.k7m_1 + ', onFinish=' + this.l7m_1 + ')';
   };
   Anim.prototype.hashCode = function () {
-    var result = this.o7l_1.hashCode();
-    result = imul(result, 31) + getStringHashCode(this.p7l_1) | 0;
-    result = imul(result, 31) + this.q7l_1 | 0;
+    var result = this.i7m_1.hashCode();
+    result = imul(result, 31) + getStringHashCode(this.j7m_1) | 0;
+    result = imul(result, 31) + this.k7m_1 | 0;
+    result = imul(result, 31) + hashCode(this.l7m_1) | 0;
     return result;
   };
   Anim.prototype.equals = function (other) {
@@ -14527,11 +14661,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (!(other instanceof Anim))
       return false;
     var tmp0_other_with_cast = other instanceof Anim ? other : THROW_CCE();
-    if (!this.o7l_1.equals(tmp0_other_with_cast.o7l_1))
+    if (!this.i7m_1.equals(tmp0_other_with_cast.i7m_1))
       return false;
-    if (!(this.p7l_1 === tmp0_other_with_cast.p7l_1))
+    if (!(this.j7m_1 === tmp0_other_with_cast.j7m_1))
       return false;
-    if (!(this.q7l_1 === tmp0_other_with_cast.q7l_1))
+    if (!(this.k7m_1 === tmp0_other_with_cast.k7m_1))
+      return false;
+    if (!equals(this.l7m_1, tmp0_other_with_cast.l7m_1))
       return false;
     return true;
   };
@@ -14564,12 +14700,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   Status.$metadata$ = classMeta('Status', undefined, undefined, undefined, undefined, Enum.prototype);
   function stopAllAnims($this) {
-    var i = $this.m7d_1.h();
+    var i = $this.r7e_1.h();
     while (i.n()) {
       var a = i.o();
-      if ((a.p7l_1 === 'fillHole' ? true : a.p7l_1 === 'digHoleLeftBase') ? true : a.p7l_1 === 'digHoleRightBase') {
-        $this.s7l(a.o7l_1, new ViewCell(false, ensureNotNull($this.a7d_1.b3(Tile_BRICK_getInstance().l7l()))));
-        $this.j7d_1[a.o7l_1.e23()][a.o7l_1.g23()] = TileLogicType_BLOCK_getInstance();
+      if ((a.j7m_1 === 'fillHole' ? true : a.j7m_1 === 'digHoleLeftBase') ? true : a.j7m_1 === 'digHoleRightBase') {
+        $this.o7m(a.i7m_1, new ViewCell(false, ensureNotNull($this.e7e_1.b3(Tile_BRICK_getInstance().f7m()))));
+        $this.o7e_1[a.i7m_1.e23()][a.i7m_1.g23()] = TileLogicType_BLOCK_getInstance();
       }
       i.e4();
     }
@@ -14591,25 +14727,26 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return Status_LEVEL_DONE_instance;
   }
   function GameLevel(levelId, map, primaryTileSet, maxGuards) {
-    this.y7c_1 = levelId;
-    this.z7c_1 = map;
-    this.a7d_1 = primaryTileSet;
-    this.b7d_1 = maxGuards;
-    this.c7d_1 = first(this.z7c_1).length;
-    this.d7d_1 = this.z7c_1.m() + 1 | 0;
-    this.e7d_1 = createUint8Buffer(imul(this.c7d_1, this.d7d_1));
-    this.f7d_1 = MutableVec2i_init_$Create$_0();
+    this.c7e_1 = levelId;
+    this.d7e_1 = map;
+    this.e7e_1 = primaryTileSet;
+    this.f7e_1 = maxGuards;
+    this.g7e_1 = first(this.d7e_1).length;
+    this.h7e_1 = this.d7e_1.m() + 1 | 0;
+    this.i7e_1 = get_nearestTwo(this.g7e_1);
+    this.j7e_1 = createUint8Buffer(imul(this.i7e_1, this.h7e_1));
+    this.k7e_1 = MutableVec2i_init_$Create$_0();
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp.g7d_1 = tmp$ret$0;
-    this.h7d_1 = 0;
-    this.i7d_1 = Status_LEVEL_STARTUP_getInstance();
+    tmp.l7e_1 = tmp$ret$0;
+    this.m7e_1 = 0;
+    this.n7e_1 = Status_LEVEL_STARTUP_getInstance();
     var tmp_0 = this;
     var tmp_1 = 0;
-    var tmp_2 = this.c7d_1;
+    var tmp_2 = this.g7e_1;
     var tmp$ret$1;
     {
       tmp$ret$1 = fillArrayVal(Array(tmp_2), null);
@@ -14620,7 +14757,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp$ret$4;
       {
         var tmp_5 = 0;
-        var tmp_6 = this.d7d_1;
+        var tmp_6 = this.h7e_1;
         var tmp$ret$2;
         {
           tmp$ret$2 = fillArrayVal(Array(tmp_6), null);
@@ -14640,10 +14777,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       tmp_3[tmp_4] = tmp$ret$4;
       tmp_1 = tmp_1 + 1 | 0;
     }
-    tmp_0.j7d_1 = tmp_3;
+    tmp_0.o7e_1 = tmp_3;
     var tmp_9 = this;
     var tmp_10 = 0;
-    var tmp_11 = this.c7d_1;
+    var tmp_11 = this.g7e_1;
     var tmp$ret$5;
     {
       tmp$ret$5 = fillArrayVal(Array(tmp_11), null);
@@ -14654,7 +14791,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp$ret$8;
       {
         var tmp_14 = 0;
-        var tmp_15 = this.d7d_1;
+        var tmp_15 = this.h7e_1;
         var tmp$ret$6;
         {
           tmp$ret$6 = fillArrayVal(Array(tmp_15), null);
@@ -14674,10 +14811,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       tmp_12[tmp_13] = tmp$ret$8;
       tmp_10 = tmp_10 + 1 | 0;
     }
-    tmp_9.k7d_1 = tmp_12;
+    tmp_9.p7e_1 = tmp_12;
     var tmp_18 = this;
     var tmp_19 = 0;
-    var tmp_20 = this.c7d_1;
+    var tmp_20 = this.g7e_1;
     var tmp$ret$9;
     {
       tmp$ret$9 = fillArrayVal(Array(tmp_20), null);
@@ -14688,7 +14825,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp$ret$12;
       {
         var tmp_23 = 0;
-        var tmp_24 = this.d7d_1;
+        var tmp_24 = this.h7e_1;
         var tmp$ret$10;
         {
           tmp$ret$10 = fillArrayVal(Array(tmp_24), null);
@@ -14708,64 +14845,65 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       tmp_21[tmp_22] = tmp$ret$12;
       tmp_19 = tmp_19 + 1 | 0;
     }
-    tmp_18.l7d_1 = tmp_21;
+    tmp_18.q7e_1 = tmp_21;
     var tmp_27 = this;
     var tmp$ret$13;
     {
       tmp$ret$13 = ArrayList_init_$Create$_0();
     }
-    tmp_27.m7d_1 = tmp$ret$13;
-    this.n7d_1 = false;
-    this.o7d_1 = null;
-    println('creating level ' + this.y7c_1 + ' ' + this.c7d_1 + ' x ' + this.d7d_1);
+    tmp_27.r7e_1 = tmp$ret$13;
+    this.s7e_1 = false;
+    this.t7e_1 = null;
+    println('creating level ' + this.c7e_1 + ' ' + this.g7e_1 + ' x ' + this.h7e_1);
     println('from map:');
-    println(joinToString$default(this.z7c_1, '\n', null, null, 0, null, null, 62, null));
+    println(joinToString$default(this.d7e_1, '\n', null, null, 0, null, null, 62, null));
+    println('texture width = ' + this.i7e_1);
     this.r4v();
   }
-  GameLevel.prototype.t7l = function () {
-    return this.b7d_1;
+  GameLevel.prototype.p7m = function () {
+    return this.f7e_1;
   };
   GameLevel.prototype.k46 = function () {
-    return this.c7d_1;
+    return this.g7e_1;
   };
   GameLevel.prototype.m46 = function () {
-    return this.d7d_1;
+    return this.h7e_1;
   };
-  GameLevel.prototype.u7l = function () {
-    return this.f7d_1;
+  GameLevel.prototype.q7m = function () {
+    return this.k7e_1;
   };
-  GameLevel.prototype.v7l = function () {
-    return this.g7d_1;
+  GameLevel.prototype.r7m = function () {
+    return this.l7e_1;
   };
-  GameLevel.prototype.w7l = function (_set____db54di) {
-    this.h7d_1 = _set____db54di;
+  GameLevel.prototype.s7m = function (_set____db54di) {
+    this.m7e_1 = _set____db54di;
   };
-  GameLevel.prototype.x7l = function () {
-    return this.h7d_1;
+  GameLevel.prototype.t7m = function () {
+    return this.m7e_1;
   };
-  GameLevel.prototype.r7i = function () {
-    return this.h7d_1 === 0;
+  GameLevel.prototype.m7j = function () {
+    return this.m7e_1 === 0;
   };
-  GameLevel.prototype.k7l = function () {
-    return this.j7d_1;
+  GameLevel.prototype.e7m = function () {
+    return this.o7e_1;
   };
-  GameLevel.prototype.j7l = function () {
-    return this.k7d_1;
+  GameLevel.prototype.d7m = function () {
+    return this.p7e_1;
   };
-  GameLevel.prototype.y7l = function () {
-    return this.l7d_1;
+  GameLevel.prototype.u7m = function () {
+    return this.q7e_1;
   };
-  GameLevel.prototype.z7l = function (_set____db54di) {
-    this.n7d_1 = _set____db54di;
+  GameLevel.prototype.v7m = function (_set____db54di) {
+    this.s7e_1 = _set____db54di;
   };
-  GameLevel.prototype.a7m = function () {
-    return this.n7d_1;
+  GameLevel.prototype.w7m = function () {
+    return this.s7e_1;
   };
-  GameLevel.prototype.b7m = function (_set____db54di) {
-    this.o7d_1 = _set____db54di;
+  GameLevel.prototype.x7m = function (_set____db54di) {
+    this.t7e_1 = _set____db54di;
   };
-  GameLevel.prototype.q7i = function (runner) {
-    var iter = this.m7d_1.h();
+  GameLevel.prototype.l7j = function (runner) {
+    var iter = this.r7e_1.h();
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
@@ -14776,11 +14914,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp0_container = entry;
       var pos = tmp0_container.z3();
       var animName = tmp0_container.a4();
-      var frame = tmp0_container.r7l();
+      var frame = tmp0_container.n7m();
       var tmp1_this = entry;
-      var tmp2 = tmp1_this.q7l_1;
-      tmp1_this.q7l_1 = tmp2 + 1 | 0;
-      var tmp3_safe_receiver = this.o7d_1;
+      var tmp2 = tmp1_this.k7m_1;
+      tmp1_this.k7m_1 = tmp2 + 1 | 0;
+      var tmp3_safe_receiver = this.t7e_1;
       var tmp4_safe_receiver = tmp3_safe_receiver == null ? null : tmp3_safe_receiver.o6r_1;
       var tmp5_elvis_lhs = tmp4_safe_receiver == null ? null : tmp4_safe_receiver.b3(animName);
       var tmp;
@@ -14795,71 +14933,72 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var y = component2(tmp6_container);
       if (frame < animArray.m()) {
         var tileIndex = animArray.r(frame);
-        if ((animName === 'digHoleLeftBase' ? true : animName === 'digHoleRightBase') ? this.l7d_1[x][y - 1 | 0] : false) {
-          this.j7d_1[x][y] = TileLogicType_BLOCK_getInstance();
-          this.c7m(x, y, new ViewCell(false, ensureNotNull(this.a7d_1.b3(Tile_BRICK_getInstance().l7l()))));
-          this.l7d_1[x][y] = false;
-          runner.u7h().k7f(Sound_DIG_getInstance());
+        if ((animName === 'digHoleLeftBase' ? true : animName === 'digHoleRightBase') ? this.q7e_1[x][y - 1 | 0] : false) {
+          this.o7e_1[x][y] = TileLogicType_BLOCK_getInstance();
+          this.y7m(x, y, new ViewCell(false, ensureNotNull(this.e7e_1.b3(Tile_BRICK_getInstance().f7m()))));
+          this.q7e_1[x][y] = false;
+          runner.q7i().p7g(Sound_DIG_getInstance());
           iter.e4();
           continue $l$loop_0;
         } else {
-          this.c7m(x, y, new ViewCell(true, tileIndex));
+          this.y7m(x, y, new ViewCell(true, tileIndex));
         }
       } else {
+        entry.l7m_1();
         if (animName === 'fillHole') {
-          this.s7l(pos, new ViewCell(false, ensureNotNull(this.a7d_1.b3(Tile_BRICK_getInstance().l7l()))));
-          this.j7d_1[x][y] = TileLogicType_BLOCK_getInstance();
+          this.o7m(pos, new ViewCell(false, ensureNotNull(this.e7e_1.b3(Tile_BRICK_getInstance().f7m()))));
+          this.o7e_1[x][y] = TileLogicType_BLOCK_getInstance();
         }
         if (animName === 'digHoleLeftBase' ? true : animName === 'digHoleRightBase') {
-          toAdd.a(Anim_init_$Create$(pos, 'fillHole', 0, 4, null));
+          toAdd.a(Anim_init_$Create$(pos, 'fillHole', 0, null, 12, null));
         }
         if (animName === 'digHoleLeft' ? true : animName === 'digHoleRight') {
-          this.s7l(pos, new ViewCell(false, ensureNotNull(this.a7d_1.b3(Tile_EMPTY_getInstance().l7l()))));
-          this.j7d_1[pos.e23()][pos.g23()] = TileLogicType_EMPTY_getInstance();
+          this.o7m(pos, new ViewCell(false, ensureNotNull(this.e7e_1.b3(Tile_EMPTY_getInstance().f7m()))));
+          this.o7e_1[pos.e23()][pos.g23()] = TileLogicType_EMPTY_getInstance();
         }
         iter.e4();
       }
     }
-    this.m7d_1.o1(toAdd);
+    this.r7e_1.o1(toAdd);
   };
   GameLevel.prototype.v2g = function (x, y) {
-    return this.d7m(x, y) ? Companion_getInstance_22().n7l(this.e7d_1.r(imul(y, this.c7d_1) + x | 0)) : null;
+    return this.z7m(x, y) ? Companion_getInstance_23().h7m(this.j7e_1.r(imul(y, this.i7e_1) + x | 0)) : null;
   };
-  GameLevel.prototype.c7m = function (x, y, v) {
-    if (this.d7m(x, y))
-      this.e7d_1.g5b(imul(y, this.c7d_1) + x | 0, v.v76());
-    this.n7d_1 = true;
+  GameLevel.prototype.y7m = function (x, y, v) {
+    if (this.z7m(x, y))
+      this.j7e_1.g5b(imul(y, this.i7e_1) + x | 0, v.z77());
+    this.s7e_1 = true;
   };
-  GameLevel.prototype.s7l = function (at, v) {
-    return this.c7m(at.e23(), at.g23(), v);
+  GameLevel.prototype.o7m = function (at, v) {
+    return this.y7m(at.e23(), at.g23(), v);
   };
-  GameLevel.prototype.e7m = function (x, y, t) {
-    if (this.d7m(x, y)) {
+  GameLevel.prototype.a7n = function (x, y, t) {
+    if (this.z7m(x, y)) {
       var tmp0_safe_receiver = this.v2g(x, y);
-      var tmp1_elvis_lhs = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.t76_1;
+      var tmp1_elvis_lhs = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.x77_1;
       var tmp = tmp1_elvis_lhs == null ? false : tmp1_elvis_lhs;
-      var tmp2_elvis_lhs = this.a7d_1.b3(t.l7l());
-      this.c7m(x, y, new ViewCell(tmp, tmp2_elvis_lhs == null ? 0 : tmp2_elvis_lhs));
+      var tmp2_elvis_lhs = this.e7e_1.b3(t.f7m());
+      this.y7m(x, y, new ViewCell(tmp, tmp2_elvis_lhs == null ? 0 : tmp2_elvis_lhs));
     }
   };
-  GameLevel.prototype.f7m = function (at) {
-    return this.g7m(at.e23(), at.g23());
+  GameLevel.prototype.b7n = function (at) {
+    return this.c7n(at.e23(), at.g23());
   };
-  GameLevel.prototype.g7m = function (x, y) {
-    return NeighborhoodNeumann2d_getInstance().i7m(x, y);
+  GameLevel.prototype.c7n = function (x, y) {
+    return NeighborhoodNeumann2d_getInstance().e7n(x, y);
   };
-  GameLevel.prototype.m7k = function (at) {
-    return this.j7d_1[at.e23()][at.g23()];
+  GameLevel.prototype.g7l = function (at) {
+    return this.o7e_1[at.e23()][at.g23()];
   };
-  GameLevel.prototype.d7m = function (x, y) {
-    return ((x >= 0 ? x < this.c7d_1 : false) ? y >= 0 : false) ? y < this.d7d_1 : false;
+  GameLevel.prototype.z7m = function (x, y) {
+    return ((x >= 0 ? x < this.g7e_1 : false) ? y >= 0 : false) ? y < this.h7e_1 : false;
   };
   GameLevel.prototype.r4v = function () {
     stopAllAnims(this);
-    this.h7d_1 = 0;
-    this.g7d_1.t7();
+    this.m7e_1 = 0;
+    this.l7e_1.t7();
     {
-      var tmp0_forEachIndexed = this.z7c_1;
+      var tmp0_forEachIndexed = this.d7e_1;
       var index = 0;
       var tmp0_iterator = tmp0_forEachIndexed.h();
       while (tmp0_iterator.n()) {
@@ -14881,61 +15020,61 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                 index_0 = tmp1_0 + 1 | 0;
                 var tmp0__anonymous__q1qw7t = tmp1_0;
                 var guard = false;
-                var tile = ensureNotNull(Companion_getInstance_21().g7l_1.b3(new Char(item_0)));
+                var tile = ensureNotNull(Companion_getInstance_22().a7m_1.b3(new Char(item_0)));
                 var tmp0_subject = tile;
                 var tmp0 = tmp0_subject.y1();
                 switch (tmp0) {
                   case 9:
-                    this.f7d_1.p2j(tmp0__anonymous__q1qw7t);
-                    this.f7d_1.q2j(tmp1__anonymous__uwfjfc);
+                    this.k7e_1.p2j(tmp0__anonymous__q1qw7t);
+                    this.k7e_1.q2j(tmp1__anonymous__uwfjfc);
                     break;
                   case 8:
-                    if (this.g7d_1.m() < this.b7d_1) {
+                    if (this.l7e_1.m() < this.f7e_1) {
                       guard = true;
-                      this.g7d_1.a(new Vec2i(tmp0__anonymous__q1qw7t, tmp1__anonymous__uwfjfc));
+                      this.l7e_1.a(new Vec2i(tmp0__anonymous__q1qw7t, tmp1__anonymous__uwfjfc));
                     }
 
                     break;
                   case 7:
                     var tmp1_this = this;
-                    var tmp2 = tmp1_this.h7d_1;
-                    tmp1_this.h7d_1 = tmp2 + 1 | 0;
+                    var tmp2 = tmp1_this.m7e_1;
+                    tmp1_this.m7e_1 = tmp2 + 1 | 0;
                     ;
                     break;
                   default:
                     ;
                     break;
                 }
-                this.j7d_1[tmp0__anonymous__q1qw7t][tmp1__anonymous__uwfjfc] = tile.e7l_1;
-                this.k7d_1[tmp0__anonymous__q1qw7t][tmp1__anonymous__uwfjfc] = tile.d7l_1;
-                this.l7d_1[tmp0__anonymous__q1qw7t][tmp1__anonymous__uwfjfc] = guard;
+                this.o7e_1[tmp0__anonymous__q1qw7t][tmp1__anonymous__uwfjfc] = tile.y7l_1;
+                this.p7e_1[tmp0__anonymous__q1qw7t][tmp1__anonymous__uwfjfc] = tile.x7l_1;
+                this.q7e_1[tmp0__anonymous__q1qw7t][tmp1__anonymous__uwfjfc] = guard;
                 var tmp;
                 var tmp_0;
-                if (tile.d7l_1.equals(TileLogicType_HLADR_getInstance())) {
+                if (tile.x7l_1.equals(TileLogicType_HLADR_getInstance())) {
                   tmp_0 = true;
                 } else {
                   var tmp$ret$0;
                   {
-                    var tmp0_isEmpty = tile.l7l();
+                    var tmp0_isEmpty = tile.f7m();
                     tmp$ret$0 = charSequenceLength(tmp0_isEmpty) === 0;
                   }
                   tmp_0 = tmp$ret$0;
                 }
                 if (tmp_0) {
-                  tmp = Tile_EMPTY_getInstance().l7l();
+                  tmp = Tile_EMPTY_getInstance().f7m();
                 } else {
-                  tmp = tile.l7l();
+                  tmp = tile.f7m();
                 }
-                this.c7m(tmp0__anonymous__q1qw7t, tmp1__anonymous__uwfjfc, new ViewCell(false, ensureNotNull(this.a7d_1.b3(tmp))));
+                this.y7m(tmp0__anonymous__q1qw7t, tmp1__anonymous__uwfjfc, new ViewCell(false, ensureNotNull(this.e7e_1.b3(tmp))));
               }
             }
           }
         }
       }
     }
-    this.j7m(this.a7d_1);
+    this.f7n(this.e7e_1);
     {
-      var tmp2_forEach = this.l7d_1;
+      var tmp2_forEach = this.q7e_1;
       var indexedObject_0 = tmp2_forEach;
       var inductionVariable_0 = 0;
       var last_0 = indexedObject_0.length;
@@ -14963,26 +15102,26 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
     }
     {
-      var tmp3_forEach = this.g7d_1;
+      var tmp3_forEach = this.l7e_1;
       var tmp0_iterator_0 = tmp3_forEach.h();
       while (tmp0_iterator_0.n()) {
         var element_0 = tmp0_iterator_0.o();
         {
-          this.l7d_1[element_0.e23()][element_0.g23()] = true;
+          this.q7e_1[element_0.e23()][element_0.g23()] = true;
         }
       }
     }
-    this.n7d_1 = true;
+    this.s7e_1 = true;
   };
-  GameLevel.prototype.j7m = function (tileSet) {
+  GameLevel.prototype.f7n = function (tileSet) {
     var inductionVariable = 0;
-    var last = this.c7d_1;
+    var last = this.g7e_1;
     if (inductionVariable < last)
       do {
         var x = inductionVariable;
         inductionVariable = inductionVariable + 1 | 0;
-        this.j7d_1[x][this.d7d_1 - 1 | 0] = TileLogicType_SOLID_getInstance();
-        this.k7d_1[x][this.d7d_1 - 1 | 0] = TileLogicType_SOLID_getInstance();
+        this.o7e_1[x][this.h7e_1 - 1 | 0] = TileLogicType_SOLID_getInstance();
+        this.p7e_1[x][this.h7e_1 - 1 | 0] = TileLogicType_SOLID_getInstance();
         var tmp1_safe_receiver = tileSet.b3('ground');
         if (tmp1_safe_receiver == null)
           null;
@@ -14991,60 +15130,60 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           {
             {
             }
-            tmp$ret$0 = this.c7m(x, this.d7d_1 - 1 | 0, new ViewCell(false, tmp1_safe_receiver));
+            tmp$ret$0 = this.y7m(x, this.h7e_1 - 1 | 0, new ViewCell(false, tmp1_safe_receiver));
           }
         }
       }
        while (inductionVariable < last);
   };
-  GameLevel.prototype.k7m = function () {
-    return new TextureData2d(this.e7d_1, this.c7d_1, this.d7d_1, TexFormat_R_getInstance());
+  GameLevel.prototype.g7n = function () {
+    return new TextureData2d(this.j7e_1, this.i7e_1, this.h7e_1, TexFormat_R_getInstance());
   };
-  GameLevel.prototype.w7i = function () {
+  GameLevel.prototype.r7j = function () {
     var inductionVariable = 0;
-    var last = this.d7d_1;
+    var last = this.h7e_1;
     if (inductionVariable < last)
       do {
         var y = inductionVariable;
         inductionVariable = inductionVariable + 1 | 0;
         var inductionVariable_0 = 0;
-        var last_0 = this.c7d_1;
+        var last_0 = this.g7e_1;
         if (inductionVariable_0 < last_0)
           do {
             var x = inductionVariable_0;
             inductionVariable_0 = inductionVariable_0 + 1 | 0;
-            if (this.k7d_1[x][y].equals(TileLogicType_HLADR_getInstance())) {
-              this.j7d_1[x][y] = TileLogicType_LADDR_getInstance();
-              this.c7m(x, y, new ViewCell(false, ensureNotNull(this.a7d_1.b3(Tile_LADDER_getInstance().l7l()))));
+            if (this.p7e_1[x][y].equals(TileLogicType_HLADR_getInstance())) {
+              this.o7e_1[x][y] = TileLogicType_LADDR_getInstance();
+              this.y7m(x, y, new ViewCell(false, ensureNotNull(this.e7e_1.b3(Tile_LADDER_getInstance().f7m()))));
             }
           }
            while (inductionVariable_0 < last_0);
       }
        while (inductionVariable < last);
-    this.i7d_1 = Status_LEVEL_DONE_getInstance();
+    this.n7e_1 = Status_LEVEL_DONE_getInstance();
   };
-  GameLevel.prototype.e7k = function (x, y) {
-    this.k7d_1[x][y] = TileLogicType_GOLD_getInstance();
-    this.e7m(x, y, Tile_GOLD_getInstance());
+  GameLevel.prototype.y7k = function (x, y) {
+    this.p7e_1[x][y] = TileLogicType_GOLD_getInstance();
+    this.a7n(x, y, Tile_GOLD_getInstance());
   };
-  GameLevel.prototype.q7h = function (x, y) {
-    this.k7d_1[x][y] = TileLogicType_EMPTY_getInstance();
-    this.e7m(x, y, Tile_EMPTY_getInstance());
+  GameLevel.prototype.n7i = function (x, y) {
+    this.p7e_1[x][y] = TileLogicType_EMPTY_getInstance();
+    this.a7n(x, y, Tile_EMPTY_getInstance());
   };
-  GameLevel.prototype.g7k = function (x, y) {
-    return (this.d7m(x, y) ? this.k7d_1[x][y].equals(TileLogicType_BLOCK_getInstance()) : false) ? this.j7d_1[x][y].equals(TileLogicType_EMPTY_getInstance()) : false;
+  GameLevel.prototype.a7l = function (x, y) {
+    return (this.z7m(x, y) ? this.p7e_1[x][y].equals(TileLogicType_BLOCK_getInstance()) : false) ? this.o7e_1[x][y].equals(TileLogicType_EMPTY_getInstance()) : false;
   };
-  GameLevel.prototype.v7k = function (x, y) {
-    return this.d7m(x, y) ? this.j7d_1[x][y].equals(TileLogicType_BLOCK_getInstance()) : false;
+  GameLevel.prototype.p7l = function (x, y) {
+    return this.z7m(x, y) ? this.o7e_1[x][y].equals(TileLogicType_BLOCK_getInstance()) : false;
   };
-  GameLevel.prototype.x7g = function (x, y) {
+  GameLevel.prototype.u7h = function (x, y) {
     var tmp;
-    if (!this.d7m(x, y)) {
+    if (!this.z7m(x, y)) {
       tmp = true;
     } else {
       var tmp$ret$1;
       {
-        var tmp0_run = this.j7d_1[x][y];
+        var tmp0_run = this.o7e_1[x][y];
         {
         }
         var tmp$ret$0;
@@ -15057,64 +15196,64 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return tmp;
   };
-  GameLevel.prototype.q7d = function (x, y) {
-    return (this.d7m(x, y) ? !this.j7d_1[x][y].equals(TileLogicType_BLOCK_getInstance()) : false) ? !this.j7d_1[x][y].equals(TileLogicType_SOLID_getInstance()) : false;
+  GameLevel.prototype.v7e = function (x, y) {
+    return (this.z7m(x, y) ? !this.o7e_1[x][y].equals(TileLogicType_BLOCK_getInstance()) : false) ? !this.o7e_1[x][y].equals(TileLogicType_SOLID_getInstance()) : false;
   };
-  GameLevel.prototype.h7k = function (x, y, hidden) {
-    return this.d7m(x, y) ? this.j7d_1[x][y].equals(TileLogicType_LADDR_getInstance()) ? true : this.k7d_1[x][y].equals(TileLogicType_HLADR_getInstance()) ? hidden : false : false;
+  GameLevel.prototype.b7l = function (x, y, hidden) {
+    return this.z7m(x, y) ? this.o7e_1[x][y].equals(TileLogicType_LADDR_getInstance()) ? true : this.p7e_1[x][y].equals(TileLogicType_HLADR_getInstance()) ? hidden : false : false;
   };
-  GameLevel.prototype.p7d = function (x, y, hidden, $mask0, $handler) {
+  GameLevel.prototype.u7e = function (x, y, hidden, $mask0, $handler) {
     if (!(($mask0 & 4) === 0))
-      hidden = this.r7i();
-    return this.h7k(x, y, hidden);
+      hidden = this.m7j();
+    return this.b7l(x, y, hidden);
   };
-  GameLevel.prototype.p7k = function (at, hidden) {
-    return this.h7k(at.e23(), at.g23(), hidden);
+  GameLevel.prototype.j7l = function (at, hidden) {
+    return this.b7l(at.e23(), at.g23(), hidden);
   };
-  GameLevel.prototype.l7m = function (x, y, useBase, useGuard) {
+  GameLevel.prototype.h7n = function (x, y, useBase, useGuard) {
     var tmp;
     if (useBase) {
-      tmp = this.k7d_1;
+      tmp = this.p7e_1;
     } else {
-      tmp = this.j7d_1;
+      tmp = this.o7e_1;
     }
     var check = tmp;
-    return (((!this.d7m(x, y) ? true : check[x][y].equals(TileLogicType_BLOCK_getInstance())) ? true : check[x][y].equals(TileLogicType_SOLID_getInstance())) ? true : check[x][y].equals(TileLogicType_LADDR_getInstance())) ? true : useGuard ? this.b7h(x, y) : false;
+    return (((!this.z7m(x, y) ? true : check[x][y].equals(TileLogicType_BLOCK_getInstance())) ? true : check[x][y].equals(TileLogicType_SOLID_getInstance())) ? true : check[x][y].equals(TileLogicType_LADDR_getInstance())) ? true : useGuard ? this.y7h(x, y) : false;
   };
-  GameLevel.prototype.m7f = function (x, y, useBase, useGuard, $mask0, $handler) {
+  GameLevel.prototype.r7g = function (x, y, useBase, useGuard, $mask0, $handler) {
     if (!(($mask0 & 4) === 0))
       useBase = false;
     if (!(($mask0 & 8) === 0))
       useGuard = true;
-    return this.l7m(x, y, useBase, useGuard);
+    return this.h7n(x, y, useBase, useGuard);
   };
-  GameLevel.prototype.n7k = function (at, useBase, useGuard) {
-    return this.l7m(at.e23(), at.g23(), useBase, useGuard);
+  GameLevel.prototype.h7l = function (at, useBase, useGuard) {
+    return this.h7n(at.e23(), at.g23(), useBase, useGuard);
   };
-  GameLevel.prototype.q7k = function (at, useBase, useGuard, $mask0, $handler) {
+  GameLevel.prototype.k7l = function (at, useBase, useGuard, $mask0, $handler) {
     if (!(($mask0 & 2) === 0))
       useBase = false;
     if (!(($mask0 & 4) === 0))
       useGuard = true;
-    return this.n7k(at, useBase, useGuard);
+    return this.h7l(at, useBase, useGuard);
   };
-  GameLevel.prototype.c7e = function (x, y) {
-    return this.d7m(x, y) ? this.k7d_1[x][y].equals(TileLogicType_BAR_getInstance()) : false;
+  GameLevel.prototype.h7f = function (x, y) {
+    return this.z7m(x, y) ? this.p7e_1[x][y].equals(TileLogicType_BAR_getInstance()) : false;
   };
-  GameLevel.prototype.o7k = function (at) {
-    return this.c7e(at.e23(), at.g23());
+  GameLevel.prototype.i7l = function (at) {
+    return this.h7f(at.e23(), at.g23());
   };
-  GameLevel.prototype.s7h = function (x, y) {
-    return this.d7m(x, y) ? this.k7d_1[x][y].equals(TileLogicType_GOLD_getInstance()) : false;
+  GameLevel.prototype.p7i = function (x, y) {
+    return this.z7m(x, y) ? this.p7e_1[x][y].equals(TileLogicType_GOLD_getInstance()) : false;
   };
-  GameLevel.prototype.f7k = function (x, y) {
-    return ((this.d7m(x, y) ? this.j7d_1[x][y].equals(TileLogicType_EMPTY_getInstance()) : false) ? !this.k7d_1[x][y].equals(TileLogicType_GOLD_getInstance()) : false) ? !this.b7h(x, y) : false;
+  GameLevel.prototype.z7k = function (x, y) {
+    return ((this.z7m(x, y) ? this.o7e_1[x][y].equals(TileLogicType_EMPTY_getInstance()) : false) ? !this.p7e_1[x][y].equals(TileLogicType_GOLD_getInstance()) : false) ? !this.y7h(x, y) : false;
   };
-  GameLevel.prototype.b7h = function (x, y) {
-    return this.d7m(x, y) ? this.l7d_1[x][y] : false;
+  GameLevel.prototype.y7h = function (x, y) {
+    return this.z7m(x, y) ? this.q7e_1[x][y] : false;
   };
-  GameLevel.prototype.u7k = function (at) {
-    return this.b7h(at.e23(), at.g23());
+  GameLevel.prototype.o7l = function (at) {
+    return this.y7h(at.e23(), at.g23());
   };
   GameLevel.$metadata$ = classMeta('GameLevel');
   function NeighbourhoodTopology$NeighborhoodNeumann2d$neighbours$lambda($x, $y) {
@@ -15148,10 +15287,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$2 = tmp$ret$1;
     }
-    tmp.h7m_1 = tmp$ret$2;
+    tmp.d7n_1 = tmp$ret$2;
   }
-  NeighborhoodNeumann2d.prototype.i7m = function (x, y) {
-    var tmp = chunked(asSequence(this.h7m_1), 2);
+  NeighborhoodNeumann2d.prototype.e7n = function (x, y) {
+    var tmp = chunked(asSequence(this.d7n_1), 2);
     return flatMap(tmp, NeighbourhoodTopology$NeighborhoodNeumann2d$neighbours$lambda(x, y));
   };
   NeighborhoodNeumann2d.$metadata$ = objectMeta('NeighborhoodNeumann2d', undefined, undefined, undefined, undefined, NeighbourhoodTopology.prototype);
@@ -15180,7 +15319,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             var tmp$ret$0;
             {
               var tmp0_subject = item;
-              tmp$ret$0 = tmp0_subject == null ? '.' : tmp0_subject === IntCompanionObject_getInstance().c1_1 ? '!' : toString_0(values_4()[item].c7l_1);
+              tmp$ret$0 = tmp0_subject == null ? '.' : tmp0_subject === IntCompanionObject_getInstance().c1_1 ? '!' : toString_0(values_4()[item].w7l_1);
             }
             tmp0_mapTo.a(tmp$ret$0);
           }
@@ -15207,7 +15346,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             inductionVariable = inductionVariable + 1 | 0;
             var tmp$ret$0;
             {
-              tmp$ret$0 = values_4()[ensureNotNull(Companion_getInstance_21().g7l_1.b3(new Char(item))).m7l()].c7l_1;
+              tmp$ret$0 = values_4()[ensureNotNull(Companion_getInstance_22().a7m_1.b3(new Char(item))).g7m()].w7l_1;
             }
             tmp0_mapTo.a(new Char(tmp$ret$0));
           }
@@ -15223,14 +15362,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function (idx) {
       var x = idx % $exampleWidth | 0;
       var y = idx / $exampleWidth | 0;
-      return ensureNotNull(Companion_getInstance_21().g7l_1.b3(new Char(charSequenceGet($exampleMap.r(y), x)))).m7l();
+      return ensureNotNull(Companion_getInstance_22().a7m_1.b3(new Char(charSequenceGet($exampleMap.r(y), x)))).g7m();
     };
   }
   function generateGameLevel$lambda_1($exampleOriginX, $tmp, $exampleOriginY, $exampleWidth, $exampleHeight, $exampleMap) {
     return function (x) {
       var exampleX = x - $exampleOriginX | 0;
       var exampleY = $tmp - $exampleOriginY | 0;
-      var tileIndex = ((0 <= exampleX ? exampleX < $exampleWidth : false) ? 0 <= exampleY ? exampleY < $exampleHeight : false : false) ? charSequenceGet($exampleMap.r(exampleY), exampleX) : values_4()[0].c7l_1;
+      var tileIndex = ((0 <= exampleX ? exampleX < $exampleWidth : false) ? 0 <= exampleY ? exampleY < $exampleHeight : false : false) ? charSequenceGet($exampleMap.r(exampleY), exampleX) : values_4()[0].w7l_1;
       return toString_0(tileIndex);
     };
   }
@@ -15252,18 +15391,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     };
   }
   function generateGameLevel$slambda($initials, $patternSize, $mapWidth, $mapHeight, $genOptions, $exampleMap, $exampleOriginX, $exampleOriginY, $exampleWidth, $exampleHeight, $tmp0_apply, $tilesAtlasIndex, resultContinuation) {
-    this.u7m_1 = $initials;
-    this.v7m_1 = $patternSize;
-    this.w7m_1 = $mapWidth;
-    this.x7m_1 = $mapHeight;
-    this.y7m_1 = $genOptions;
-    this.z7m_1 = $exampleMap;
-    this.a7n_1 = $exampleOriginX;
-    this.b7n_1 = $exampleOriginY;
-    this.c7n_1 = $exampleWidth;
-    this.d7n_1 = $exampleHeight;
-    this.e7n_1 = $tmp0_apply;
-    this.f7n_1 = $tilesAtlasIndex;
+    this.q7n_1 = $initials;
+    this.r7n_1 = $patternSize;
+    this.s7n_1 = $mapWidth;
+    this.t7n_1 = $mapHeight;
+    this.u7n_1 = $genOptions;
+    this.v7n_1 = $exampleMap;
+    this.w7n_1 = $exampleOriginX;
+    this.x7n_1 = $exampleOriginY;
+    this.y7n_1 = $exampleWidth;
+    this.z7n_1 = $exampleHeight;
+    this.a7o_1 = $tmp0_apply;
+    this.b7o_1 = $tilesAtlasIndex;
     CoroutineImpl.call(this, resultContinuation);
   }
   generateGameLevel$slambda.prototype.d1v = function ($this$launch, $cont) {
@@ -15282,9 +15421,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         var tmp = this.k7_1;
         if (tmp === 0) {
           this.l7_1 = 1;
-          var wcf = OverlappingCartesian2DModel_init_$Create$(this.u7m_1, this.v7m_1 - 1 | 0, this.w7m_1, this.x7m_1, this.y7m_1);
+          var wcf = OverlappingCartesian2DModel_init_$Create$(this.q7n_1, this.r7n_1 - 1 | 0, this.s7n_1, this.t7n_1, this.u7n_1);
           var index = 0;
-          var tmp0_iterator = this.z7m_1.h();
+          var tmp0_iterator = this.v7n_1.h();
           while (tmp0_iterator.n()) {
             var item = tmp0_iterator.o();
             var tmp1 = index;
@@ -15300,7 +15439,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               var tmp1_0 = index_0;
               index_0 = tmp1_0 + 1 | 0;
               var tmp0__anonymous__q1qw7t_0 = tmp1_0;
-              wcf.n6o(this.a7n_1 + tmp0__anonymous__q1qw7t_0 | 0, this.b7n_1 + tmp0__anonymous__q1qw7t | 0, ensureNotNull(Companion_getInstance_21().g7l_1.b3(new Char(charSequenceGet(this.z7m_1.r(tmp0__anonymous__q1qw7t), tmp0__anonymous__q1qw7t_0)))).m7l());
+              wcf.n6o(this.w7n_1 + tmp0__anonymous__q1qw7t_0 | 0, this.x7n_1 + tmp0__anonymous__q1qw7t | 0, ensureNotNull(Companion_getInstance_22().a7m_1.b3(new Char(charSequenceGet(this.v7n_1.r(tmp0__anonymous__q1qw7t), tmp0__anonymous__q1qw7t_0)))).g7m());
             }
           }
           var tmp0_measureTimedValue = Monotonic_getInstance();
@@ -15322,7 +15461,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           println('wcf run in ' + new Duration(dur) + ' with result = ' + res);
           dis(wcf, algo);
           var out = wcf.y6o(algo);
-          var tmp1_map = until(0, this.w7m_1);
+          var tmp1_map = until(0, this.s7n_1);
           var tmp0_mapTo = ArrayList_init_$Create$(collectionSizeOrDefault(tmp1_map, 10));
           var inductionVariable_0 = tmp1_map.i9();
           var last_0 = tmp1_map.k9();
@@ -15334,7 +15473,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             }
              while (!(item_1 === last_0));
           println(joinToString$default(tmp0_mapTo, '', null, null, 0, null, null, 62, null));
-          var tmp2_map = until(0, this.w7m_1);
+          var tmp2_map = until(0, this.s7n_1);
           var tmp0_mapTo_0 = ArrayList_init_$Create$(collectionSizeOrDefault(tmp2_map, 10));
           var inductionVariable_1 = tmp2_map.i9();
           var last_1 = tmp2_map.k9();
@@ -15348,7 +15487,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           println(joinToString$default(tmp0_mapTo_0, '', null, null, 0, null, null, 62, null));
           println(joinToString$default_0(out, '\n', null, null, 0, null, generateGameLevel$slambda$lambda_0(), 30, null));
           var index_1 = 0;
-          var tmp0_iterator_0 = this.z7m_1.h();
+          var tmp0_iterator_0 = this.v7n_1.h();
           while (tmp0_iterator_0.n()) {
             var item_3 = tmp0_iterator_0.o();
             var tmp1_1 = index_1;
@@ -15364,7 +15503,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               var tmp1_2 = index_2;
               index_2 = tmp1_2 + 1 | 0;
               var tmp0__anonymous__q1qw7t_1 = tmp1_2;
-              out[tmp3__anonymous__ufb84q + this.b7n_1 | 0][this.a7n_1 + tmp0__anonymous__q1qw7t_1 | 0] = ensureNotNull(Companion_getInstance_21().g7l_1.b3(new Char(charSequenceGet(this.z7m_1.r(tmp3__anonymous__ufb84q), tmp0__anonymous__q1qw7t_1)))).y1();
+              out[tmp3__anonymous__ufb84q + this.x7n_1 | 0][this.w7n_1 + tmp0__anonymous__q1qw7t_1 | 0] = ensureNotNull(Companion_getInstance_22().a7m_1.b3(new Char(charSequenceGet(this.v7n_1.r(tmp3__anonymous__ufb84q), tmp0__anonymous__q1qw7t_1)))).y1();
             }
           }
           var index_3 = 0;
@@ -15394,11 +15533,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                   break l$ret$1;
                 }
                 var tmp_1;
-                var containsUpper = this.c7n_1;
-                var containsArg = tmp0__anonymous__q1qw7t_2 - this.a7n_1 | 0;
+                var containsUpper = this.y7n_1;
+                var containsArg = tmp0__anonymous__q1qw7t_2 - this.w7n_1 | 0;
                 if (0 <= containsArg ? containsArg < containsUpper : false) {
-                  var containsUpper_0 = this.d7n_1;
-                  var containsArg_0 = tmp4__anonymous__pkmkx7 - this.b7n_1 | 0;
+                  var containsUpper_0 = this.z7n_1;
+                  var containsArg_0 = tmp4__anonymous__pkmkx7 - this.x7n_1 | 0;
                   tmp_1 = 0 <= containsArg_0 ? containsArg_0 < containsUpper_0 : false;
                 } else {
                   tmp_1 = false;
@@ -15408,22 +15547,22 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
                   break l$ret$1;
                 }
                 var tile = values_4()[item_6];
-                this.e7n_1.j7d_1[tmp0__anonymous__q1qw7t_2][tmp4__anonymous__pkmkx7] = tile.e7l_1;
-                this.e7n_1.k7d_1[tmp0__anonymous__q1qw7t_2][tmp4__anonymous__pkmkx7] = tile.d7l_1;
+                this.a7o_1.o7e_1[tmp0__anonymous__q1qw7t_2][tmp4__anonymous__pkmkx7] = tile.y7l_1;
+                this.a7o_1.p7e_1[tmp0__anonymous__q1qw7t_2][tmp4__anonymous__pkmkx7] = tile.x7l_1;
                 var tmp_2;
                 var tmp_3;
-                if (tile.d7l_1.equals(TileLogicType_HLADR_getInstance())) {
+                if (tile.x7l_1.equals(TileLogicType_HLADR_getInstance())) {
                   tmp_3 = true;
                 } else {
-                  var tmp0_isEmpty = tile.l7l();
+                  var tmp0_isEmpty = tile.f7m();
                   tmp_3 = charSequenceLength(tmp0_isEmpty) === 0;
                 }
                 if (tmp_3) {
-                  tmp_2 = Tile_EMPTY_getInstance().l7l();
+                  tmp_2 = Tile_EMPTY_getInstance().f7m();
                 } else {
-                  tmp_2 = tile.l7l();
+                  tmp_2 = tile.f7m();
                 }
-                this.e7n_1.c7m(tmp0__anonymous__q1qw7t_2, tmp4__anonymous__pkmkx7, new ViewCell(false, ensureNotNull(this.f7n_1.b3(tmp_2))));
+                this.a7o_1.y7m(tmp0__anonymous__q1qw7t_2, tmp4__anonymous__pkmkx7, new ViewCell(false, ensureNotNull(this.b7o_1.b3(tmp_2))));
               }
                while (false);
             }
@@ -15438,8 +15577,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
      while (true);
   };
   generateGameLevel$slambda.prototype.e1v = function ($this$launch, completion) {
-    var i = new generateGameLevel$slambda(this.u7m_1, this.v7m_1, this.w7m_1, this.x7m_1, this.y7m_1, this.z7m_1, this.a7n_1, this.b7n_1, this.c7n_1, this.d7n_1, this.e7n_1, this.f7n_1, completion);
-    i.g7n_1 = $this$launch;
+    var i = new generateGameLevel$slambda(this.q7n_1, this.r7n_1, this.s7n_1, this.t7n_1, this.u7n_1, this.v7n_1, this.w7n_1, this.x7n_1, this.y7n_1, this.z7n_1, this.a7o_1, this.b7o_1, completion);
+    i.c7o_1 = $this$launch;
     return i;
   };
   generateGameLevel$slambda.$metadata$ = classMeta('generateGameLevel$slambda', undefined, undefined, undefined, [1], CoroutineImpl.prototype);
@@ -15544,7 +15683,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   var SCORE_DIES;
   function get_anyKeyPressed(_this__u8e3s4) {
-    return ((_this__u8e3s4.g7c() ? true : _this__u8e3s4.h7c()) ? true : !(_this__u8e3s4.a77().e23() === 0)) ? true : !(_this__u8e3s4.a77().g23() === 0);
+    return ((_this__u8e3s4.k7d() ? true : _this__u8e3s4.l7d()) ? true : !(_this__u8e3s4.e78().e23() === 0)) ? true : !(_this__u8e3s4.e78().g23() === 0);
+  }
+  function Runner$DigState$lambda$lambda($actor, $digTileX) {
+    return function () {
+      $actor.o5u().o7e_1[$digTileX][$actor.g23() + 1 | 0] = TileLogicType_EMPTY_getInstance();
+      return Unit_getInstance();
+    };
   }
   function Runner$DigState$lambda($actor) {
     return function (it) {
@@ -15552,15 +15697,15 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
         {
         }
-        $actor.b7i().p2j(0);
-        $actor.b7i().q2j(0);
-        var tmp = $actor.u7h();
+        $actor.x7i().p2j(0);
+        $actor.x7i().q2j(0);
+        var tmp = $actor.q7i();
         var tmp_0 = Sound_DIG_getInstance();
         var tmp_1 = $actor.e23();
         var tmp_2 = $actor.g23();
-        tmp.j7f(tmp_0, tmp_1, tmp_2, false, 8, null);
+        tmp.o7g(tmp_0, tmp_1, tmp_2, false, 8, null);
         var tmp_3;
-        if ($actor.g7c()) {
+        if ($actor.k7d()) {
           tmp_3 = new Pair($actor.e23() - 1 | 0, 'digHoleLeft');
         } else {
           tmp_3 = new Pair($actor.e23() + 1 | 0, 'digHoleRight');
@@ -15568,14 +15713,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         var tmp0_container = tmp_3;
         var digTileX = tmp0_container.z3();
         var bitmap = tmp0_container.a4();
-        $actor.o5u().j7d_1[digTileX][$actor.g23() + 1 | 0] = TileLogicType_EMPTY_getInstance();
-        var tmp_4 = $actor.o5u().m7d_1;
+        var tmp_4 = $actor.o5u().r7e_1;
         var tmp_5 = new Vec2i(digTileX, $actor.g23());
-        tmp_4.a(Anim_init_$Create$(tmp_5, bitmap, 0, 4, null));
-        var tmp_6 = $actor.o5u().m7d_1;
-        var tmp_7 = new Vec2i(digTileX, $actor.g23() + 1 | 0);
-        var tmp_8 = bitmap + 'Base';
-        tmp_6.a(Anim_init_$Create$(tmp_7, tmp_8, 0, 4, null));
+        tmp_4.a(Anim_init_$Create$(tmp_5, bitmap, 0, null, 12, null));
+        var holePos = new Vec2i(digTileX, $actor.g23() + 1 | 0);
+        var tmp_6 = $actor.o5u().r7e_1;
+        var tmp_7 = bitmap + 'Base';
+        tmp_6.a(Anim_init_$Create$(holePos, tmp_7, 0, Runner$DigState$lambda$lambda($actor, digTileX), 4, null));
         tmp$ret$0 = Unit_getInstance();
       }
       return Unit_getInstance();
@@ -15584,7 +15728,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Runner$DigState$lambda_0($actor, this$0) {
     return function ($this$onUpdate) {
       var tmp;
-      if ($this$onUpdate.r7c_1 > 0 ? $this$onUpdate.q7c_1 >= $this$onUpdate.r7c_1 : false) {
+      if ($this$onUpdate.v7d_1 > 0 ? $this$onUpdate.u7d_1 >= $this$onUpdate.v7d_1 : false) {
         var tmp0_subject = this$0;
         var tmp_0;
         if (tmp0_subject instanceof DigLeft) {
@@ -15596,24 +15740,24 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             noWhenBranchMatchedException();
           }
         }
-        $actor.r7d(tmp_0);
-        Companion_getInstance_15();
+        $actor.w7e(tmp_0);
+        Companion_getInstance_16();
         return 'stop';
       }
       var tmp1_this = $this$onUpdate;
-      var tmp2 = tmp1_this.q7c_1;
-      tmp1_this.q7c_1 = tmp2 + 1 | 0;
+      var tmp2 = tmp1_this.u7d_1;
+      tmp1_this.u7d_1 = tmp2 + 1 | 0;
       return null;
     };
   }
   function _set_score__kj1i43($this, value) {
-    $this.v7e_1 = value;
-    $this.u7h().w6v_1.o6w_1.m1e(value);
+    $this.a7g_1 = value;
+    $this.q7i().a6t_1.m6w_1.m1e(value);
   }
   function DigState(actor, animName) {
-    ActorState.call(this, actor, animName, animName.f7c_1);
-    this.h75(Runner$DigState$lambda(actor));
-    this.w7f(Runner$DigState$lambda_0(actor, this));
+    ActorState.call(this, actor, animName, animName.j7d_1);
+    this.b6x(Runner$DigState$lambda(actor));
+    this.d6x(Runner$DigState$lambda_0(actor, this));
   }
   DigState.$metadata$ = classMeta('DigState', undefined, undefined, undefined, undefined, ActorState.prototype);
   function DigLeft(actor) {
@@ -15628,18 +15772,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return padStart(toString(_this__u8e3s4), 3, _Char___init__impl__6a9atx(32));
   }
   function checkCollision($this) {
-    if ($this.o5u().b7h($this.e23(), $this.g23()))
+    if ($this.o5u().y7h($this.e23(), $this.g23()))
       return true;
     var tmp$ret$1;
     $l$block: {
-      var tmp = chunked($this.o5u().f7m($this.a7i()), 2);
+      var tmp = chunked($this.o5u().b7n($this.w7i()), 2);
       var tmp0_firstOrNull = filter(tmp, Runner$checkCollision$lambda($this));
       var tmp0_iterator = tmp0_firstOrNull.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
         var tmp$ret$0;
         {
-          tmp$ret$0 = $this.o5u().b7h(first(element), last(element));
+          tmp$ret$0 = $this.o5u().y7h(first(element), last(element));
         }
         if (tmp$ret$0) {
           tmp$ret$1 = element;
@@ -15667,20 +15811,20 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           tmp$ret$3 = tmp0_container.r(1);
         }
         var y = tmp$ret$3;
-        var g = $this.u7h().z7g(x, y);
+        var g = $this.q7i().w7h(x, y);
         var tmp_0;
-        if ((!g.w7k() ? abs($this.c7i() - g.c7i() | 0) <= imul(3, get_W4()) : false) ? abs($this.d7i() - g.d7i() | 0) <= imul(3, get_H4()) : false) {
+        if ((!g.q7l() ? abs($this.y7i() - g.y7i() | 0) <= imul(3, get_W4()) : false) ? abs($this.z7i() - g.z7i() | 0) <= imul(3, get_H4()) : false) {
           return true;
         }
         tmp$ret$4 = tmp_0;
       }
     }
-    return $this.o5u().v7k($this.e23(), $this.g23());
+    return $this.o5u().p7l($this.e23(), $this.g23());
   }
   function Runner$lambda(this$0) {
     return function (it) {
-      this$0.a7i().p2j(it.f7d_1.e23());
-      this$0.a7i().q2j(it.f7d_1.g23());
+      this$0.w7i().p2j(it.k7e_1.e23());
+      this$0.w7i().q2j(it.k7e_1.g23());
       return Unit_getInstance();
     };
   }
@@ -15688,12 +15832,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function () {
       var tmp$ret$0;
       {
-        var tmp0_apply = Actor.prototype.v7h.call(this$0);
+        var tmp0_apply = Actor.prototype.r7i.call(this$0);
         {
         }
         {
-          tmp0_apply.t7h(new DigRight(this$0));
-          tmp0_apply.t7h(new DigLeft(this$0));
+          tmp0_apply.m76(new DigRight(this$0));
+          tmp0_apply.m76(new DigLeft(this$0));
         }
         tmp$ret$0 = tmp0_apply;
       }
@@ -15705,92 +15849,125 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp = Sound_DOWN_getInstance();
       var tmp_0 = this$0.e23();
       var tmp_1 = this$0.g23();
-      $game.j7f(tmp, tmp_0, tmp_1, false, 8, null);
+      $game.o7g(tmp, tmp_0, tmp_1, false, 8, null);
       return Unit_getInstance();
     };
   }
   function Runner$checkCollision$lambda(this$0) {
     return function (it) {
-      return this$0.o5u().d7m(first(it), last(it));
+      return this$0.o5u().z7m(first(it), last(it));
     };
   }
   function Runner(game) {
     Actor.call(this, game);
-    this.u7e_1 = game.w6v_1.v6w_1.v3s_1;
-    this.v7e_1 = game.w6v_1.o6w_1.v3s_1;
+    this.z7f_1 = game.a6t_1.t6w_1.v3s_1;
+    this.a7g_1 = game.a6t_1.m6w_1.v3s_1;
     var tmp0_this = game;
     {
-      var tmp0_plusAssign = tmp0_this.x6v_1;
+      var tmp0_plusAssign = tmp0_this.b6t_1;
       tmp0_plusAssign.a(Runner$lambda(this));
     }
     var tmp = this;
-    tmp.w7e_1 = lazy(Runner$fsm$delegate$lambda(this));
+    tmp.b7g_1 = lazy(Runner$fsm$delegate$lambda(this));
     var tmp_0 = this;
-    tmp_0.x7e_1 = Runner$onFallStop$lambda(game, this);
+    tmp_0.c7g_1 = Runner$onFallStop$lambda(game, this);
   }
-  Runner.prototype.x7i = function (value) {
-    this.u7e_1 = value;
-    this.u7h().w6v_1.v6w_1.m1e(value);
+  Runner.prototype.s7j = function (value) {
+    this.z7f_1 = value;
+    this.q7i().a6t_1.t6w_1.m1e(value);
   };
-  Runner.prototype.v7i = function () {
+  Runner.prototype.q7j = function () {
     var tmp;
-    if (this.g23() === 0 ? this.a7h() === 0 : false) {
-      var tmp0_safe_receiver = this.u7h().f6w_1;
-      tmp = (tmp0_safe_receiver == null ? null : tmp0_safe_receiver.r7i()) === true;
+    if (this.g23() === 0 ? this.x7h() === 0 : false) {
+      var tmp0_safe_receiver = this.q7i().j6t_1;
+      tmp = (tmp0_safe_receiver == null ? null : tmp0_safe_receiver.m7j()) === true;
     } else {
       tmp = false;
     }
     return tmp;
   };
-  Runner.prototype.v7h = function () {
+  Runner.prototype.r7i = function () {
     var tmp$ret$0;
     {
       var tmp0_getValue = fsm$factory_2();
-      tmp$ret$0 = this.w7e_1.n2();
+      tmp$ret$0 = this.b7g_1.n2();
     }
     return tmp$ret$0;
   };
-  Runner.prototype.l7f = function () {
-    return this.x7e_1;
+  Runner.prototype.q7g = function () {
+    return this.c7g_1;
   };
-  Runner.prototype.h7n = function () {
-    if (!this.u7h().w6v_1.u6w_1.v3s_1)
-      this.y7h(false);
+  Runner.prototype.d7o = function () {
+    if (!this.q7i().a6t_1.s6w_1.v3s_1)
+      this.u7i(false);
   };
-  Runner.prototype.y7e = function (nx) {
-    return this.o5u().v7k(nx, this.g23() + 1 | 0) ? this.o5u().f7k(nx, this.g23()) : false;
+  Runner.prototype.d7g = function (nx) {
+    var tmp;
+    if (this.o5u().p7l(nx, this.g23() + 1 | 0) ? this.o5u().z7k(nx, this.g23()) : false) {
+      var tmp$ret$0;
+      $l$block_0: {
+        var tmp0_any = this.o5u().r7e_1;
+        var tmp_0;
+        if (isInterface(tmp0_any, Collection)) {
+          tmp_0 = tmp0_any.q();
+        } else {
+          tmp_0 = false;
+        }
+        if (tmp_0) {
+          tmp$ret$0 = false;
+          break $l$block_0;
+        }
+        var tmp0_iterator = tmp0_any.h();
+        while (tmp0_iterator.n()) {
+          var element = tmp0_iterator.o();
+          var tmp$ret$1;
+          {
+            tmp$ret$1 = element.i7m_1.e23() === nx ? element.i7m_1.g23() === (this.g23() + 1 | 0) : false;
+          }
+          if (tmp$ret$1) {
+            tmp$ret$0 = true;
+            break $l$block_0;
+          }
+        }
+        tmp$ret$0 = false;
+      }
+      tmp = !tmp$ret$0;
+    } else {
+      tmp = false;
+    }
+    return tmp;
   };
-  Runner.prototype.y7i = function (points) {
+  Runner.prototype.t7j = function (points) {
     var tmp0_this = this;
-    _set_score__kj1i43(tmp0_this, tmp0_this.v7e_1 + points | 0);
+    _set_score__kj1i43(tmp0_this, tmp0_this.a7g_1 + points | 0);
   };
-  Runner.prototype.r7h = function () {
-    var tmp = this.u7h();
+  Runner.prototype.o7i = function () {
+    var tmp = this.q7i();
     var tmp_0 = Sound_GOLD_getInstance();
     var tmp_1 = this.e23();
     var tmp_2 = this.g23();
-    tmp.j7f(tmp_0, tmp_1, tmp_2, false, 8, null);
+    tmp.o7g(tmp_0, tmp_1, tmp_2, false, 8, null);
     var tmp0_this = this.o5u();
-    var tmp1 = tmp0_this.h7d_1;
-    tmp0_this.h7d_1 = tmp1 - 1 | 0;
-    this.y7i(250);
-    if (this.o5u().r7i()) {
-      this.o5u().w7i();
+    var tmp1 = tmp0_this.m7e_1;
+    tmp0_this.m7e_1 = tmp1 - 1 | 0;
+    this.t7j(250);
+    if (this.o5u().m7j()) {
+      this.o5u().r7j();
     }
     return true;
   };
-  Runner.prototype.i7i = function () {
-    Actor.prototype.i7i.call(this);
+  Runner.prototype.e7j = function () {
+    Actor.prototype.e7j.call(this);
     if (checkCollision(this))
-      this.h7n();
+      this.d7o();
   };
   Runner.prototype.toString = function () {
-    return 'pos: ' + _get_tabs__de2oi5(this.e23(), this) + ' ' + _get_tabs__de2oi5(this.d7e(), this) + ' x ' + _get_tabs__de2oi5(this.g23(), this) + ' ' + _get_tabs__de2oi5(this.a7h(), this) + ' = ' + _get_tabs__de2oi5(this.c7i(), this) + ' x ' + _get_tabs__de2oi5(this.d7i(), this) + '\n' + ('input: ' + this.a77() + '\nanim: ' + this.e7i() + '[ ' + this.g7i() + ' ]');
+    return 'pos: ' + _get_tabs__de2oi5(this.e23(), this) + ' ' + _get_tabs__de2oi5(this.i7f(), this) + ' x ' + _get_tabs__de2oi5(this.g23(), this) + ' ' + _get_tabs__de2oi5(this.x7h(), this) + ' = ' + _get_tabs__de2oi5(this.y7i(), this) + ' x ' + _get_tabs__de2oi5(this.z7i(), this) + '\n' + ('input: ' + this.e78() + '\nanim: ' + this.a7j() + '[ ' + this.c7j() + ' ]');
   };
   Runner.$metadata$ = classMeta('Runner', [Controllable], undefined, undefined, undefined, Actor.prototype);
   function fsm$factory_2() {
     return getPropertyCallableRef('fsm', 1, KProperty1, function (receiver) {
-      return receiver.v7h();
+      return receiver.r7i();
     }, null);
   }
   var State_NEW_instance;
@@ -15802,10 +15979,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (State_entriesInitialized)
       return Unit_getInstance();
     State_entriesInitialized = true;
-    State_NEW_instance = new State_0('NEW', 0);
-    State_LOADING_instance = new State_0('LOADING', 1);
-    State_SETUP_instance = new State_0('SETUP', 2);
-    State_RUNNING_instance = new State_0('RUNNING', 3);
+    State_NEW_instance = new State('NEW', 0);
+    State_LOADING_instance = new State('LOADING', 1);
+    State_SETUP_instance = new State('SETUP', 2);
+    State_RUNNING_instance = new State('RUNNING', 3);
   }
   function AsyncScene_init_$Init$(name, $mask0, $marker, $this) {
     if (!(($mask0 & 1) === 0))
@@ -15814,20 +15991,20 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return $this;
   }
   function checkState($this, ctx) {
-    if ($this.n7o_1.equals(State_NEW_getInstance())) {
-      $this.n7o_1 = State_LOADING_getInstance();
+    if ($this.j7p_1.equals(State_NEW_getInstance())) {
+      $this.j7p_1 = State_LOADING_getInstance();
       var tmp = ctx.s2d();
       tmp.c1t(AsyncScene$checkState$slambda_0($this, ctx, null));
     }
-    if ($this.n7o_1.equals(State_SETUP_getInstance())) {
-      $this.o7o(ctx);
-      $this.n7o_1 = State_RUNNING_getInstance();
+    if ($this.j7p_1.equals(State_SETUP_getInstance())) {
+      $this.k7p(ctx);
+      $this.j7p_1 = State_RUNNING_getInstance();
     }
   }
-  function State_0(name, ordinal) {
+  function State(name, ordinal) {
     Enum.call(this, name, ordinal);
   }
-  State_0.$metadata$ = classMeta('State', undefined, undefined, undefined, undefined, Enum.prototype);
+  State.$metadata$ = classMeta('State', undefined, undefined, undefined, undefined, Enum.prototype);
   function AsyncScene$lambda(this$0) {
     return function (it) {
       checkState(this$0, it);
@@ -15835,8 +16012,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     };
   }
   function AsyncScene$checkState$slambda(this$0, $ctx, resultContinuation) {
-    this.x7o_1 = this$0;
-    this.y7o_1 = $ctx;
+    this.t7p_1 = this$0;
+    this.u7p_1 = $ctx;
     CoroutineImpl.call(this, resultContinuation);
   }
   AsyncScene$checkState$slambda.prototype.c1u = function ($this$launch, $cont) {
@@ -15857,14 +16034,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 2;
             this.k7_1 = 1;
-            suspendResult = this.x7o_1.a7p(this.z7o_1, this.y7o_1, this);
+            suspendResult = this.t7p_1.w7p(this.v7p_1, this.u7p_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
 
             continue $sm;
           case 1:
-            this.x7o_1.n7o_1 = State_SETUP_getInstance();
+            this.t7p_1.j7p_1 = State_SETUP_getInstance();
             return Unit_getInstance();
           case 2:
             throw this.n7_1;
@@ -15880,8 +16057,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
      while (true);
   };
   AsyncScene$checkState$slambda.prototype.d1u = function ($this$launch, completion) {
-    var i = new AsyncScene$checkState$slambda(this.x7o_1, this.y7o_1, completion);
-    i.z7o_1 = $this$launch;
+    var i = new AsyncScene$checkState$slambda(this.t7p_1, this.u7p_1, completion);
+    i.v7p_1 = $this$launch;
     return i;
   };
   AsyncScene$checkState$slambda.$metadata$ = classMeta('AsyncScene$checkState$slambda', undefined, undefined, undefined, [1], CoroutineImpl.prototype);
@@ -15911,7 +16088,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function AsyncScene(name) {
     Scene.call(this, name);
-    this.n7o_1 = State_NEW_getInstance();
+    this.j7p_1 = State_NEW_getInstance();
     var tmp0_this = this;
     {
       var tmp0_plusAssign = tmp0_this.b5l();
@@ -15931,10 +16108,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return GameLevelScene_init_$Init$(game, ctx, assets, appContext, name, $mask0, $marker, Object.create(GameLevelScene.prototype));
   }
   function _get_currentLevel__t98d28($this) {
-    return $this.v6z_1.v7a($this.i7r().r6w_1.v3s_1, $this.j7r(), false);
+    return $this.p70_1.z7b($this.e7s().p6w_1.v3s_1, $this.f7s(), false);
   }
   function _get_gameOverTex__wctrjk($this) {
-    var tmp = $this.u6z_1;
+    var tmp = $this.o70_1;
     if (!(tmp == null))
       return tmp;
     else {
@@ -15944,8 +16121,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function GameLevelScene$gameOverSprite$delegate$lambda$lambda($tmp0_also, $scaleAnim, this$0, $speedAnim, $game) {
     return function (ev) {
       $tmp0_also.x4w().u2g();
-      var scale = $scaleAnim.c5m(ev.d4t_1) / this$0.k7r().e6s_1.g23();
-      var tmp = 1.0 / this$0.k7r().e6s_1.e23();
+      var scale = $scaleAnim.c5m(ev.d4t_1) / this$0.g7s().e6s_1.g23();
+      var tmp = 1.0 / this$0.g7s().e6s_1.e23();
       var tmp_0 = scale;
       var tmp$ret$0;
       {
@@ -15961,13 +16138,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       $scaleAnim.w5l(tmp_1 * tmp$ret$1);
       var tmp_2;
-      if (($scaleAnim.x5l() > 0 ? $scaleAnim.x5l() <= 1.0 : false) ? !($scaleAnim.z5l() === Companion_getInstance_7().l5l_1) : false) {
-        tmp_2 = $scaleAnim.y5l(Companion_getInstance_7().l5l_1);
+      if (($scaleAnim.x5l() > 0 ? $scaleAnim.x5l() <= 1.0 : false) ? !($scaleAnim.z5l() === Companion_getInstance_9().l5l_1) : false) {
+        tmp_2 = $scaleAnim.y5l(Companion_getInstance_9().l5l_1);
       }
       var tmp_3;
-      if (($scaleAnim.b5m() === 1.0 ? $scaleAnim.z5l() === Companion_getInstance_7().l5l_1 : false) ? !$game.d6w_1 : false) {
+      if (($scaleAnim.b5m() === 1.0 ? $scaleAnim.z5l() === Companion_getInstance_9().l5l_1 : false) ? !$game.h6t_1 : false) {
         println('game over done');
-        $game.d6w_1 = true;
+        $game.h6t_1 = true;
         tmp_3 = Unit_getInstance();
       }
       return Unit_getInstance();
@@ -16000,13 +16177,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             {
             }
             {
-              tmp1_apply.y5l(Companion_getInstance_7().n5l_1);
+              tmp1_apply.y5l(Companion_getInstance_9().n5l_1);
               tmp1_apply.w5l(startSpeed);
             }
             tmp$ret$1 = tmp1_apply;
           }
           var scaleAnim = tmp$ret$1;
-          tmp0_also.v2h(0.0, this$0.k7r().f6s_1.g23() / 2.0, 0.0);
+          tmp0_also.v2h(0.0, this$0.g7s().f6s_1.g23() / 2.0, 0.0);
           var tmp0_this = this$0;
           {
             var tmp2_plusAssign = tmp0_this.n4p();
@@ -16020,20 +16197,20 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function GameLevelScene$lambda$lambda($game, this$0, $ctx) {
     return function (it) {
-      $game.d6w_1 = false;
-      this$0.l7r($ctx);
+      $game.h6t_1 = false;
+      this$0.h7s($ctx);
       return Unit_getInstance();
     };
   }
   function GameLevelScene$lambda(this$0, $ctx, $appContext, $game) {
     return function ($this$null) {
-      println('GameScene. gameState = ' + $this$null.y6z_1);
+      println('GameScene. gameState = ' + $this$null.w6w_1);
       var tmp;
-      if (!$this$null.y6z_1.equals(GameState_GAME_OVER_ANIMATION_getInstance())) {
+      if (!$this$null.w6w_1.equals(GameState_GAME_OVER_ANIMATION_getInstance())) {
         var tmp_0;
-        var tmp0_safe_receiver = this$0.m7r();
+        var tmp0_safe_receiver = this$0.i7s();
         if (!((tmp0_safe_receiver == null ? null : tmp0_safe_receiver.e4q('gameover')) == null)) {
-          var tmp1_safe_receiver = this$0.m7r();
+          var tmp1_safe_receiver = this$0.i7s();
           if (tmp1_safe_receiver == null)
             null;
           else {
@@ -16043,7 +16220,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               }
               var tmp$ret$0;
               {
-                tmp$ret$0 = tmp1_safe_receiver.z5j(this$0.n7r());
+                tmp$ret$0 = tmp1_safe_receiver.z5j(this$0.j7s());
               }
               tmp$ret$1 = tmp$ret$0;
             }
@@ -16052,40 +16229,40 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         }
         tmp = tmp_0;
       }
-      var tmp2_subject = $this$null.y6z_1;
+      var tmp2_subject = $this$null.w6w_1;
       var tmp0 = tmp2_subject.y1();
       var tmp_1;
       switch (tmp0) {
         case 0:
-          this$0.o7r($ctx);
+          this$0.k7s($ctx);
           tmp_1 = Unit_getInstance();
           break;
         case 1:
-          this$0.p7r($ctx);
+          this$0.l7s($ctx);
           tmp_1 = Unit_getInstance();
           break;
         case 2:
-          this$0.l7r($ctx);
+          this$0.h7s($ctx);
           tmp_1 = Unit_getInstance();
           break;
         case 7:
-          this$0.l7r($ctx);
+          this$0.h7s($ctx);
           tmp_1 = Unit_getInstance();
           break;
         case 11:
-          if (this$0.q7r().x5l() === 0.0) {
-            this$0.l7r($ctx);
+          if (this$0.m7s().x5l() === 0.0) {
+            this$0.h7s($ctx);
           }
 
           var tmp$ret$2;
           {
-            var tmp0_with = $appContext.r6w_1;
+            var tmp0_with = $appContext.p6w_1;
             {
             }
             tmp0_with.m1e(tmp0_with.v3s_1 - 1 | 0);
             var tmp_2;
             if (tmp0_with.v3s_1 < 0) {
-              tmp_2 = tmp0_with.m1e(tmp0_with.v3s_1 + this$0.v6z_1.k76_1.m() | 0);
+              tmp_2 = tmp0_with.m1e(tmp0_with.v3s_1 + this$0.p70_1.n77_1.m() | 0);
             }
             tmp$ret$2 = tmp_2;
           }
@@ -16093,18 +16270,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           tmp_1 = tmp$ret$2;
           break;
         case 10:
-          if (this$0.q7r().x5l() === 0.0) {
-            this$0.l7r($ctx);
+          if (this$0.m7s().x5l() === 0.0) {
+            this$0.h7s($ctx);
           }
 
           var tmp$ret$3;
           {
-            var tmp1_with = $appContext.r6w_1;
+            var tmp1_with = $appContext.p6w_1;
             {
             }
             tmp1_with.m1e(tmp1_with.v3s_1 + 1 | 0);
             var tmp_3;
-            if (tmp1_with.v3s_1 >= this$0.v6z_1.k76_1.m()) {
+            if (tmp1_with.v3s_1 >= this$0.p70_1.n77_1.m()) {
               throw new NotImplementedError('An operation is not implemented: FINISH');
             }
             tmp$ret$3 = tmp_3;
@@ -16113,8 +16290,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           tmp_1 = tmp$ret$3;
           break;
         case 6:
-          $game.p7j(_get_currentLevel__t98d28(this$0));
-          var tmp3_safe_receiver = $game.f6w_1;
+          $game.l7k(_get_currentLevel__t98d28(this$0));
+          var tmp3_safe_receiver = $game.j6t_1;
           if (tmp3_safe_receiver == null)
             null;
           else {
@@ -16122,15 +16299,15 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             {
               {
               }
-              tmp3_safe_receiver.o7d_1 = this$0.r7r();
-              tmp$ret$4 = this$0.s7r($ctx, tmp3_safe_receiver);
+              tmp3_safe_receiver.t7e_1 = this$0.n7s();
+              tmp$ret$4 = this$0.o7s($ctx, tmp3_safe_receiver);
             }
           }
 
           tmp_1 = Unit_getInstance();
           break;
         case 8:
-          var tmp4_safe_receiver = this$0.m7r();
+          var tmp4_safe_receiver = this$0.i7s();
           if (tmp4_safe_receiver == null)
             null;
           else {
@@ -16138,7 +16315,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             {
               {
               }
-              tmp$ret$5 = tmp4_safe_receiver.v4v(this$0.n7r());
+              tmp$ret$5 = tmp4_safe_receiver.v4v(this$0.j7s());
             }
           }
 
@@ -16155,47 +16332,47 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function GameLevelScene$setupUi$lambda$lambda$lambda() {
     return function (it) {
-      return it.u7g_1.toString();
+      return it.r7h_1.toString();
     };
   }
   function GameLevelScene$setupUi$lambda$lambda(this$0, $scene) {
     return function (it) {
       var tmp$ret$2;
       {
-        var tmp0_with = this$0.u7h();
+        var tmp0_with = this$0.q7i();
         {
         }
-        var tmp = this$0.t7r();
-        var tmp0_safe_receiver = this$0.m7r();
-        var tmp1_safe_receiver = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.v7s();
+        var tmp = this$0.p7s();
+        var tmp0_safe_receiver = this$0.i7s();
+        var tmp1_safe_receiver = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.r7t();
         var tmp2_safe_receiver = tmp1_safe_receiver == null ? null : tmp1_safe_receiver.o4p();
         var tmp_0 = tmp2_safe_receiver == null ? null : tmp2_safe_receiver.e23();
-        var tmp3_safe_receiver = this$0.m7r();
-        var tmp4_safe_receiver = tmp3_safe_receiver == null ? null : tmp3_safe_receiver.v7s();
+        var tmp3_safe_receiver = this$0.i7s();
+        var tmp4_safe_receiver = tmp3_safe_receiver == null ? null : tmp3_safe_receiver.r7t();
         var tmp5_safe_receiver = tmp4_safe_receiver == null ? null : tmp4_safe_receiver.o4p();
         var tmp_1 = tmp5_safe_receiver == null ? null : tmp5_safe_receiver.g23();
-        var tmp6_safe_receiver = this$0.w7s();
+        var tmp6_safe_receiver = this$0.s7t();
         var tmp7_safe_receiver = tmp6_safe_receiver == null ? null : tmp6_safe_receiver.j54();
         var tmp8_safe_receiver = tmp7_safe_receiver == null ? null : tmp7_safe_receiver.d53_1;
         var tmp_2 = tmp8_safe_receiver == null ? null : tmp8_safe_receiver.e23();
         var tmp_3 = $scene.v2e_1.d53_1.e23();
-        var tmp9_safe_receiver = this$0.w7s();
+        var tmp9_safe_receiver = this$0.s7t();
         var tmp10_safe_receiver = tmp9_safe_receiver == null ? null : tmp9_safe_receiver.j54();
         var tmp11_safe_receiver = tmp10_safe_receiver == null ? null : tmp10_safe_receiver.d53_1;
         var tmp_4 = tmp11_safe_receiver == null ? null : tmp11_safe_receiver.g23();
         var tmp_5 = $scene.v2e_1.d53_1.g23();
-        var tmp12_safe_receiver = tmp0_with.f6w_1;
-        var tmp13_safe_receiver = tmp12_safe_receiver == null ? null : tmp12_safe_receiver.j7d_1;
-        var tmp14_safe_receiver = tmp13_safe_receiver == null ? null : tmp13_safe_receiver[tmp0_with.y6v_1.e23()];
-        var tmp15_elvis_lhs = tmp14_safe_receiver == null ? null : tmp14_safe_receiver[tmp0_with.y6v_1.g23()];
+        var tmp12_safe_receiver = tmp0_with.j6t_1;
+        var tmp13_safe_receiver = tmp12_safe_receiver == null ? null : tmp12_safe_receiver.o7e_1;
+        var tmp14_safe_receiver = tmp13_safe_receiver == null ? null : tmp13_safe_receiver[tmp0_with.c6t_1.e23()];
+        var tmp15_elvis_lhs = tmp14_safe_receiver == null ? null : tmp14_safe_receiver[tmp0_with.c6t_1.g23()];
         var tmp_6 = tmp15_elvis_lhs == null ? '<no level>' : tmp15_elvis_lhs;
-        var tmp16_safe_receiver = tmp0_with.f6w_1;
-        var tmp17_elvis_lhs = tmp16_safe_receiver == null ? null : tmp16_safe_receiver.x7g(tmp0_with.y6v_1.e23(), tmp0_with.y6v_1.g23());
+        var tmp16_safe_receiver = tmp0_with.j6t_1;
+        var tmp17_elvis_lhs = tmp16_safe_receiver == null ? null : tmp16_safe_receiver.u7h(tmp0_with.c6t_1.e23(), tmp0_with.c6t_1.g23());
         var tmp_7 = tmp17_elvis_lhs == null ? false : tmp17_elvis_lhs;
-        var tmp18_safe_receiver = tmp0_with.f6w_1;
-        var tmp19_elvis_lhs = tmp18_safe_receiver == null ? null : tmp18_safe_receiver.b7h(tmp0_with.y6v_1.e23(), tmp0_with.y6v_1.g23() + 1 | 0);
+        var tmp18_safe_receiver = tmp0_with.j6t_1;
+        var tmp19_elvis_lhs = tmp18_safe_receiver == null ? null : tmp18_safe_receiver.y7h(tmp0_with.c6t_1.e23(), tmp0_with.c6t_1.g23() + 1 | 0);
         var tmp_8 = tmp19_elvis_lhs == null ? false : tmp19_elvis_lhs;
-        var tmp20_safe_receiver = tmp0_with.f6w_1;
+        var tmp20_safe_receiver = tmp0_with.j6t_1;
         var tmp_9;
         if (tmp20_safe_receiver == null) {
           tmp_9 = null;
@@ -16206,7 +16383,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             }
             var tmp$ret$0;
             {
-              tmp$ret$0 = tmp0_with.y6v_1.a7e();
+              tmp$ret$0 = tmp0_with.c6t_1.f7f();
             }
             tmp$ret$1 = tmp$ret$0;
           }
@@ -16214,10 +16391,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         }
         var tmp21_elvis_lhs = tmp_9;
         var tmp_10 = tmp21_elvis_lhs == null ? false : tmp21_elvis_lhs;
-        var tmp_11 = joinToString$default(tmp0_with.z6v_1, ' ', null, null, 0, null, GameLevelScene$setupUi$lambda$lambda$lambda(), 30, null);
-        var tmp22_safe_receiver = tmp0_with.f6w_1;
-        var tmp23_elvis_lhs = tmp22_safe_receiver == null ? null : tmp22_safe_receiver.h7d_1;
-        tmp$ret$2 = this$0.w6z_1.m1e(format('    #speedAnim = %%s %%.3f\n    #scaleAnim = %%s %%.3f\n    shatter = %.3f\n    \nglobal runner center = %.1f x %.1f\ncamera = %.1f/%.1f x %.1f/%.1f\nact = %s\nbarrier = %b\nhas guard below = %b\ncan move down: %b\nguards: %s\nlevel.gold=%d\n\n%s', [tmp, tmp_0, tmp_1, tmp_2, tmp_3, tmp_4, tmp_5, tmp_6, tmp_7, tmp_8, tmp_10, tmp_11, tmp23_elvis_lhs == null ? 0 : tmp23_elvis_lhs, tmp0_with.y6v_1.toString()]));
+        var tmp_11 = joinToString$default(tmp0_with.d6t_1, ' ', null, null, 0, null, GameLevelScene$setupUi$lambda$lambda$lambda(), 30, null);
+        var tmp22_safe_receiver = tmp0_with.j6t_1;
+        var tmp23_elvis_lhs = tmp22_safe_receiver == null ? null : tmp22_safe_receiver.m7e_1;
+        tmp$ret$2 = this$0.q70_1.m1e(format('    #speedAnim = %%s %%.3f\n    #scaleAnim = %%s %%.3f\n    shatter = %.3f\n    \nglobal runner center = %.1f x %.1f\ncamera = %.1f/%.1f x %.1f/%.1f\nact = %s\nbarrier = %b\nhas guard below = %b\ncan move down: %b\nguards: %s\nlevel.gold=%d\n\n%s', [tmp, tmp_0, tmp_1, tmp_2, tmp_3, tmp_4, tmp_5, tmp_6, tmp_7, tmp_8, tmp_10, tmp_11, tmp23_elvis_lhs == null ? 0 : tmp23_elvis_lhs, tmp0_with.c6t_1.toString()]));
       }
       return Unit_getInstance();
     };
@@ -16232,13 +16409,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
         var tmp0_Row = FitContent_getInstance();
         var tmp1_Row = FitContent_getInstance();
-        var row = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_1().g3t_1);
+        var row = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_0().g3t_1);
         layout(size(row.m3u(), tmp0_Row, tmp1_Row), RowLayout_getInstance());
         {
           var tmp$ret$0;
           {
-            var tmp0_Text = row.e3t(this$0.w6z_1);
-            var textNd = row.f3t().v3t(getKClass(TextNode), Companion_getInstance_8().s4e_1);
+            var tmp0_Text = row.e3t(this$0.q70_1);
+            var textNd = row.f3t().v3t(getKClass(TextNode), Companion_getInstance_1().s4e_1);
             text(textNd.m3u(), tmp0_Text);
             {
               height(width(textNd.m3u(), FitContent_getInstance()), FitContent_getInstance());
@@ -16257,10 +16434,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
         var tmp2_Row = FitContent_getInstance();
         var tmp3_Row = FitContent_getInstance();
-        var row_0 = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_1().g3t_1);
+        var row_0 = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_0().g3t_1);
         layout(size(row_0.m3u(), tmp2_Row, tmp3_Row), RowLayout_getInstance());
         {
-          this$0.x7s(row_0, 'stop animations', this$0.u7h().c6w_1);
+          this$0.t7t(row_0, 'stop animations', this$0.q7i().g6t_1);
         }
         tmp$ret$2 = row_0;
       }
@@ -16268,10 +16445,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
         var tmp4_Row = FitContent_getInstance();
         var tmp5_Row = FitContent_getInstance();
-        var row_1 = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_1().g3t_1);
+        var row_1 = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_0().g3t_1);
         layout(size(row_1.m3u(), tmp4_Row, tmp5_Row), RowLayout_getInstance());
         {
-          this$0.x7s(row_1, 'stop guards', this$0.i7r().t6w_1);
+          this$0.t7t(row_1, 'stop guards', this$0.e7s().r6w_1);
         }
         tmp$ret$3 = row_1;
       }
@@ -16279,10 +16456,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
         var tmp6_Row = FitContent_getInstance();
         var tmp7_Row = FitContent_getInstance();
-        var row_2 = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_1().g3t_1);
+        var row_2 = $this$Panel.f3t().v3t(getKClass(RowNode), Companion_getInstance_0().g3t_1);
         layout(size(row_2.m3u(), tmp6_Row, tmp7_Row), RowLayout_getInstance());
         {
-          this$0.x7s(row_2, 'immortal', this$0.i7r().u6w_1);
+          this$0.t7t(row_2, 'immortal', this$0.e7s().s6w_1);
         }
         tmp$ret$4 = row_2;
       }
@@ -16303,9 +16480,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function $loadResourcesCOROUTINE$8(_this__u8e3s4, assets, ctx, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.g7t_1 = _this__u8e3s4;
-    this.h7t_1 = assets;
-    this.i7t_1 = ctx;
+    this.c7u_1 = _this__u8e3s4;
+    this.d7u_1 = assets;
+    this.e7u_1 = ctx;
   }
   $loadResourcesCOROUTINE$8.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -16316,7 +16493,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 4;
             this.k7_1 = 1;
-            suspendResult = GameScene.prototype.a7p.call(this.g7t_1, this.h7t_1, this.i7t_1, this);
+            suspendResult = GameScene.prototype.w7p.call(this.c7u_1, this.d7u_1, this.e7u_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16324,17 +16501,17 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 1:
             this.k7_1 = 2;
-            suspendResult = this.h7t_1.t1y('images/game-over.png', get_simpleTextureProps(), this);
+            suspendResult = this.d7u_1.t1y('images/game-over.png', get_simpleTextureProps(), this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
 
             continue $sm;
           case 2:
-            this.j7t_1 = suspendResult;
-            this.g7t_1.u6z_1 = this.j7t_1;
+            this.f7u_1 = suspendResult;
+            this.c7u_1.o70_1 = this.f7u_1;
             this.k7_1 = 3;
-            suspendResult = this.g7t_1.v6z_1.m76(this.g7t_1.i7r().q6w_1.v3s_1, this);
+            suspendResult = this.c7u_1.p70_1.p77(this.c7u_1.e7s().o6w_1.v3s_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16359,38 +16536,38 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function GameLevelScene(game, ctx, assets, appContext, name) {
     GameScene_init_$Init$(game, assets, appContext, null, name, 8, null, this);
     var tmp = this;
-    tmp.s6z_1 = lazy(GameLevelScene$gameOverSprite$delegate$lambda(this, game));
+    tmp.m70_1 = lazy(GameLevelScene$gameOverSprite$delegate$lambda(this, game));
     var tmp0_this = game;
     {
-      var tmp0_plusAssign = tmp0_this.j6w_1;
+      var tmp0_plusAssign = tmp0_this.n6t_1;
       tmp0_plusAssign.a(GameLevelScene$lambda(this, ctx, appContext, game));
     }
     var tmp_0 = this;
-    tmp_0.t6z_1 = Job$default(null, 1, null);
-    this.v6z_1 = new LevelsRep(assets, this);
-    this.w6z_1 = new MutableStateValue('');
+    tmp_0.n70_1 = Job$default(null, 1, null);
+    this.p70_1 = new LevelsRep(assets, this);
+    this.q70_1 = new MutableStateValue('');
   }
-  GameLevelScene.prototype.n7r = function () {
+  GameLevelScene.prototype.j7s = function () {
     var tmp$ret$0;
     {
       var tmp0_getValue = gameOverSprite$factory();
-      tmp$ret$0 = this.s6z_1.n2();
+      tmp$ret$0 = this.m70_1.n2();
     }
     return tmp$ret$0;
   };
   GameLevelScene.prototype.o17 = function () {
-    return this.t6z_1;
+    return this.n70_1;
   };
-  GameLevelScene.prototype.k7t = function () {
-    return this.w6z_1;
+  GameLevelScene.prototype.f71 = function () {
+    return this.q70_1;
   };
-  GameLevelScene.prototype.a7p = function (assets, ctx, $cont) {
+  GameLevelScene.prototype.w7p = function (assets, ctx, $cont) {
     var tmp = new $loadResourcesCOROUTINE$8(this, assets, ctx, $cont);
     tmp.m7_1 = Unit_getInstance();
     tmp.n7_1 = null;
     return tmp.r7();
   };
-  GameLevelScene.prototype.x6z = function (scene) {
+  GameLevelScene.prototype.r70 = function (scene) {
     var tmp$ret$0;
     {
       {
@@ -16399,17 +16576,17 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return tmp$ret$0;
   };
-  GameLevelScene.prototype.l7t = function (_this__u8e3s4, width_0) {
+  GameLevelScene.prototype.g7u = function (_this__u8e3s4, width_0) {
     var tmp = width(_this__u8e3s4.m3u(), width_0);
     align$default(tmp, null, AlignmentY_Center_getInstance(), 1, null);
   };
-  GameLevelScene.prototype.x7s = function (_this__u8e3s4, label, toggleState_0) {
+  GameLevelScene.prototype.t7t = function (_this__u8e3s4, label, toggleState_0) {
     var tmp$ret$0;
     {
-      var textNd = _this__u8e3s4.f3t().v3t(getKClass(TextNode), Companion_getInstance_8().s4e_1);
+      var textNd = _this__u8e3s4.f3t().v3t(getKClass(TextNode), Companion_getInstance_1().s4e_1);
       text(textNd.m3u(), label);
       {
-        this.l7t(textNd, Companion_getInstance_2().b4d_1);
+        this.g7u(textNd, Companion_getInstance_4().b4d_1);
         var tmp = textNd.m3u();
         onClick_0(tmp, GameLevelScene$LabeledSwitch$lambda(toggleState_0));
       }
@@ -16418,7 +16595,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     var tmp$ret$3;
     {
       var tmp0_Switch = _this__u8e3s4.e3t(toggleState_0);
-      var switch_0 = _this__u8e3s4.f3t().v3t(getKClass(SwitchNode), Companion_getInstance_9().d4f_1);
+      var switch_0 = _this__u8e3s4.f3t().v3t(getKClass(SwitchNode), Companion_getInstance_10().d4f_1);
       var tmp0_safe_receiver = tmp0_Switch;
       if (tmp0_safe_receiver == null)
         null;
@@ -16442,7 +16619,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
   };
   GameLevelScene.prototype.l4p = function (ctx) {
-    this.t6z_1.v18(null, 1, null);
+    this.n70_1.v18(null, 1, null);
     GameScene.prototype.l4p.call(this, ctx);
   };
   GameLevelScene.$metadata$ = classMeta('GameLevelScene', [CoroutineScope], undefined, undefined, undefined, GameScene.prototype);
@@ -16460,12 +16637,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function gameOverSprite$factory() {
     return getPropertyCallableRef('gameOverSprite', 1, KProperty1, function (receiver) {
-      return receiver.n7r();
+      return receiver.j7s();
     }, null);
   }
   function GameScene_init_$Init$(game, assets, appContext, conf, name, $mask0, $marker, $this) {
     if (!(($mask0 & 8) === 0)) {
-      var tmp = new Vec2i(game.w6v_1.p6w_1.v3s_1.s6r_1, game.w6v_1.p6w_1.v3s_1.t6r_1);
+      var tmp = new Vec2i(game.a6t_1.n6w_1.v3s_1.s6r_1, game.a6t_1.n6w_1.v3s_1.t6r_1);
       conf = ViewSpec_init_$Create$(tmp, null, 2, null);
     }
     GameScene.call($this, game, assets, appContext, conf, name);
@@ -16475,24 +16652,24 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     var tmp$ret$0;
     {
       var tmp0_getValue = bg$factory();
-      tmp$ret$0 = $this.h7r_1.n2();
+      tmp$ret$0 = $this.d7s_1.n2();
     }
     return tmp$ret$0;
   }
   function GameScene$ticker$lambda(this$0) {
     return function (ev) {
       var tmp;
-      if ((ev.e58() - this$0.u7q_1) * 1000 >= this$0.j7q_1.s6w_1.v3s_1.c6s()) {
-        this$0.h7q_1.a7k(ev);
-        this$0.u7q_1 = ev.e58();
+      if ((ev.e58() - this$0.q7r_1) * 1000 >= this$0.f7r_1.q6w_1.v3s_1.c6s()) {
+        this$0.d7r_1.u7k(ev);
+        this$0.q7r_1 = ev.e58();
         tmp = Unit_getInstance();
       }
       return Unit_getInstance();
     };
   }
   function GameScene$lambda$slambda(this$0, $it, resultContinuation) {
-    this.z7t_1 = this$0;
-    this.a7u_1 = $it;
+    this.u7u_1 = this$0;
+    this.v7u_1 = $it;
     CoroutineImpl.call(this, resultContinuation);
   }
   GameScene$lambda$slambda.prototype.d1v = function ($this$launch, $cont) {
@@ -16513,18 +16690,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 2;
             this.k7_1 = 1;
-            suspendResult = this.z7t_1.p7t(this.a7u_1, this);
+            suspendResult = this.u7u_1.k7u(this.v7u_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
 
             continue $sm;
           case 1:
-            var tmp0_safe_receiver = this.z7t_1.h7q_1.f6w_1;
+            var tmp0_safe_receiver = this.u7u_1.d7r_1.j6t_1;
             if (tmp0_safe_receiver == null)
               null;
             else {
-              tmp0_safe_receiver.n7d_1 = true;
+              tmp0_safe_receiver.s7e_1 = true;
             }
 
             ;
@@ -16543,8 +16720,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
      while (true);
   };
   GameScene$lambda$slambda.prototype.e1v = function ($this$launch, completion) {
-    var i = new GameScene$lambda$slambda(this.z7t_1, this.a7u_1, completion);
-    i.b7u_1 = $this$launch;
+    var i = new GameScene$lambda$slambda(this.u7u_1, this.v7u_1, completion);
+    i.w7u_1 = $this$launch;
     return i;
   };
   GameScene$lambda$slambda.$metadata$ = classMeta('GameScene$lambda$slambda', undefined, undefined, undefined, [1], CoroutineImpl.prototype);
@@ -16558,7 +16735,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function GameScene$lambda(this$0) {
     return function (it) {
-      launch$default(this$0.x7q_1, null, null, GameScene$lambda$slambda_0(this$0, it, null), 3, null);
+      launch$default(this$0.t7r_1, null, null, GameScene$lambda$slambda_0(this$0, it, null), 3, null);
       return Unit_getInstance();
     };
   }
@@ -16580,7 +16757,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         {
         }
         {
-          tmp0_apply.s7u(ensureNotNull(ensureNotNull(this$0.s7q_1).k55()));
+          tmp0_apply.n7v(ensureNotNull(ensureNotNull(this$0.o7r_1).k55()));
         }
         tmp$ret$0 = tmp0_apply;
       }
@@ -16590,8 +16767,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function GameScene$addLevelView$lambda_1(this$0, $tmp0_safe_receiver) {
     return function (ctx) {
-      var mapW = ensureNotNull(this$0.s7q_1).p54().a4t_1;
-      var mapH = ensureNotNull(this$0.s7q_1).p54().m46();
+      var mapW = ensureNotNull(this$0.o7r_1).p54().a4t_1;
+      var mapH = ensureNotNull(this$0.o7r_1).p54().m46();
       var tmp;
       if ((($tmp0_safe_receiver.h54() ? mapW > 0 : false) ? mapH > 0 : false) ? !(mapW === $tmp0_safe_receiver.k46()) ? true : !(mapH === $tmp0_safe_receiver.m46()) : false) {
         tmp = $tmp0_safe_receiver.r54(mapW, mapH, ctx);
@@ -16603,7 +16780,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$generate) {
       var props = new RectProps();
       {
-        props.j4z_1.j2j(this$0.m7q_1, this$0.n7q_1);
+        props.j4z_1.j2j(this$0.i7r_1, this$0.j7r_1);
         props.i4z_1.b2h(-props.k46() / 2.0, 0.0, 0.0);
         props.o4z();
       }
@@ -16613,8 +16790,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function GameScene$addLevelView$lambda$lambda$lambda$lambda(this$0) {
     return function ($this$color) {
-      var tmp0_elvis_lhs = this$0.t7q_1;
-      var tmp = (tmp0_elvis_lhs == null ? ensureNotNull(this$0.s7q_1) : tmp0_elvis_lhs).k55();
+      var tmp0_elvis_lhs = this$0.p7r_1;
+      var tmp = (tmp0_elvis_lhs == null ? ensureNotNull(this$0.o7r_1) : tmp0_elvis_lhs).k55();
       $this$color.w33(tmp, null, null, 0.0, null, 30, null);
       return Unit_getInstance();
     };
@@ -16628,15 +16805,15 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function GameScene$addLevelView$lambda$lambda$lambda_1($this_textureMesh, this$0) {
     return function (it) {
       var tmp = $this_textureMesh.t2r_1;
-      (tmp instanceof MaskShader ? tmp : THROW_CCE()).g7v(this$0.r7q_1.c5m(it.d4t_1));
+      (tmp instanceof MaskShader ? tmp : THROW_CCE()).b7w(this$0.n7r_1.c5m(it.d4t_1));
       var tmp_0;
-      if (this$0.r7q_1.b5m() >= 1.0) {
-        this$0.r7q_1.a5m(0.0);
-        this$0.h7q_1.d6w_1 = true;
+      if (this$0.n7r_1.b5m() >= 1.0) {
+        this$0.n7r_1.a5m(0.0);
+        this$0.d7r_1.h6t_1 = true;
         tmp_0 = Unit_getInstance();
-      } else if (!this$0.h7q_1.d6w_1 ? get_anyKeyPressed(this$0.h7q_1.y6v_1) : false) {
-        this$0.p7r(it.d4t_1);
-        this$0.h7q_1.e6w_1 = true;
+      } else if (!this$0.d7r_1.h6t_1 ? get_anyKeyPressed(this$0.d7r_1.c6t_1) : false) {
+        this$0.l7s(it.d4t_1);
+        this$0.d7r_1.i6t_1 = true;
         tmp_0 = Unit_getInstance();
       }
       return Unit_getInstance();
@@ -16678,13 +16855,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function GameScene$bg$delegate$lambda(this$0) {
     return function () {
-      return Companion_getInstance_11().x73(this$0);
+      return Companion_getInstance_12().c75(this$0);
     };
   }
   function $reloadCOROUTINE$10(_this__u8e3s4, newts, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.p7v_1 = _this__u8e3s4;
-    this.q7v_1 = newts;
+    this.k7w_1 = _this__u8e3s4;
+    this.l7w_1 = newts;
   }
   $reloadCOROUTINE$10.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -16695,9 +16872,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 8;
             var tmp_0 = this;
-            tmp_0.r7v_1 = ImageAtlasSpec_init_$Create$(this.q7v_1, 0, 0, null, 14, null);
+            tmp_0.m7w_1 = ImageAtlasSpec_init_$Create$(this.l7w_1, 0, 0, null, 14, null);
             this.k7_1 = 1;
-            suspendResult = this.p7v_1.z7q_1.h7a(this.q7v_1, this.p7v_1.i7q_1, this);
+            suspendResult = this.k7w_1.v7r_1.l7b(this.l7w_1, this.k7w_1.e7r_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16705,7 +16882,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 1:
             this.k7_1 = 2;
-            suspendResult = this.p7v_1.a7r_1.h7a(this.q7v_1, this.p7v_1.i7q_1, this);
+            suspendResult = this.k7w_1.w7r_1.l7b(this.l7w_1, this.k7w_1.e7r_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16713,7 +16890,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 2:
             this.k7_1 = 3;
-            suspendResult = this.p7v_1.b7r_1.h7a(this.q7v_1, this.p7v_1.i7q_1, this);
+            suspendResult = this.k7w_1.x7r_1.l7b(this.l7w_1, this.k7w_1.e7r_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16721,7 +16898,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 3:
             this.k7_1 = 4;
-            suspendResult = this.p7v_1.c7r_1.h7a(this.q7v_1, this.p7v_1.i7q_1, this);
+            suspendResult = this.k7w_1.y7r_1.l7b(this.l7w_1, this.k7w_1.e7r_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16729,7 +16906,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 4:
             this.k7_1 = 5;
-            suspendResult = this.p7v_1.d7r_1.y6r(this.r7v_1, this.p7v_1.i7q_1, this);
+            suspendResult = this.k7w_1.z7r_1.y6r(this.m7w_1, this.k7w_1.e7r_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16737,7 +16914,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 5:
             this.k7_1 = 6;
-            suspendResult = this.p7v_1.e7r_1.y6r(this.r7v_1, this.p7v_1.i7q_1, this);
+            suspendResult = this.k7w_1.a7s_1.y6r(this.m7w_1, this.k7w_1.e7r_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16745,21 +16922,21 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 6:
             this.k7_1 = 7;
-            suspendResult = this.p7v_1.f7r_1.y6r(this.r7v_1, this.p7v_1.i7q_1, this);
+            suspendResult = this.k7w_1.b7s_1.y6r(this.m7w_1, this.k7w_1.e7r_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
 
             continue $sm;
           case 7:
-            var tmp_1 = this.p7v_1.j7q_1.p6w_1.v3s_1;
-            this.p7v_1.y7q_1.m1e(ImageAtlasSpec_init_$Create$(tmp_1, 0, 0, null, 14, null));
-            var tmp0_safe_receiver = this.p7v_1.h7q_1.f6w_1;
+            var tmp_1 = this.k7w_1.f7r_1.n6w_1.v3s_1;
+            this.k7w_1.u7r_1.m1e(ImageAtlasSpec_init_$Create$(tmp_1, 0, 0, null, 14, null));
+            var tmp0_safe_receiver = this.k7w_1.d7r_1.j6t_1;
             if (tmp0_safe_receiver == null)
               null;
             else {
-              tmp0_safe_receiver.j7m(this.p7v_1.z7q_1.d7a_1);
-              tmp0_safe_receiver.n7d_1 = true;
+              tmp0_safe_receiver.f7n(this.k7w_1.v7r_1.h7b_1);
+              tmp0_safe_receiver.s7e_1 = true;
             }
 
             ;
@@ -16780,9 +16957,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   $reloadCOROUTINE$10.$metadata$ = classMeta('$reloadCOROUTINE$10', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function $loadResourcesCOROUTINE$11(_this__u8e3s4, assets, ctx, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.a7w_1 = _this__u8e3s4;
-    this.b7w_1 = assets;
-    this.c7w_1 = ctx;
+    this.v7w_1 = _this__u8e3s4;
+    this.w7w_1 = assets;
+    this.x7w_1 = ctx;
   }
   $loadResourcesCOROUTINE$11.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -16793,10 +16970,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 9;
             var tmp_0 = this;
-            var tmp_1 = this.a7w_1.j7q_1.p6w_1.v3s_1;
-            tmp_0.d7w_1 = ImageAtlasSpec_init_$Create$(tmp_1, 0, 0, null, 14, null);
+            var tmp_1 = this.v7w_1.f7r_1.n6w_1.v3s_1;
+            tmp_0.y7w_1 = ImageAtlasSpec_init_$Create$(tmp_1, 0, 0, null, 14, null);
             this.k7_1 = 1;
-            suspendResult = this.a7w_1.z7q_1.h7a(this.a7w_1.j7q_1.p6w_1.v3s_1, this.b7w_1, this);
+            suspendResult = this.v7w_1.v7r_1.l7b(this.v7w_1.f7r_1.n6w_1.v3s_1, this.w7w_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16804,7 +16981,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 1:
             this.k7_1 = 2;
-            suspendResult = this.a7w_1.a7r_1.h7a(this.a7w_1.j7q_1.p6w_1.v3s_1, this.b7w_1, this);
+            suspendResult = this.v7w_1.w7r_1.l7b(this.v7w_1.f7r_1.n6w_1.v3s_1, this.w7w_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16812,7 +16989,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 2:
             this.k7_1 = 3;
-            suspendResult = this.a7w_1.b7r_1.h7a(this.a7w_1.j7q_1.p6w_1.v3s_1, this.b7w_1, this);
+            suspendResult = this.v7w_1.x7r_1.l7b(this.v7w_1.f7r_1.n6w_1.v3s_1, this.w7w_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16820,7 +16997,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 3:
             this.k7_1 = 4;
-            suspendResult = this.a7w_1.c7r_1.h7a(this.a7w_1.j7q_1.p6w_1.v3s_1, this.b7w_1, this);
+            suspendResult = this.v7w_1.y7r_1.l7b(this.v7w_1.f7r_1.n6w_1.v3s_1, this.w7w_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16828,7 +17005,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 4:
             this.k7_1 = 5;
-            suspendResult = this.a7w_1.d7r_1.y6r(this.d7w_1, this.b7w_1, this);
+            suspendResult = this.v7w_1.z7r_1.y6r(this.y7w_1, this.w7w_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16836,7 +17013,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 5:
             this.k7_1 = 6;
-            suspendResult = this.a7w_1.e7r_1.y6r(this.d7w_1, this.b7w_1, this);
+            suspendResult = this.v7w_1.a7s_1.y6r(this.y7w_1, this.w7w_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16844,7 +17021,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 6:
             this.k7_1 = 7;
-            suspendResult = this.a7w_1.f7r_1.y6r(this.d7w_1, this.b7w_1, this);
+            suspendResult = this.v7w_1.b7s_1.y6r(this.y7w_1, this.w7w_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16852,7 +17029,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             continue $sm;
           case 7:
             this.k7_1 = 8;
-            suspendResult = this.a7w_1.g7r_1.y7b(this);
+            suspendResult = this.v7w_1.c7s_1.c7d(this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
@@ -16876,27 +17053,27 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   $loadResourcesCOROUTINE$11.$metadata$ = classMeta('$loadResourcesCOROUTINE$11', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function GameScene(game, assets, appContext, conf, name) {
     AsyncScene.call(this, name);
-    this.h7q_1 = game;
-    this.i7q_1 = assets;
-    this.j7q_1 = appContext;
-    this.k7q_1 = conf;
-    this.l7q_1 = null;
-    this.m7q_1 = this.k7q_1.i6s();
-    this.n7q_1 = this.k7q_1.j6s();
+    this.d7r_1 = game;
+    this.e7r_1 = assets;
+    this.f7r_1 = appContext;
+    this.g7r_1 = conf;
+    this.h7r_1 = null;
+    this.i7r_1 = this.g7r_1.i6s();
+    this.j7r_1 = this.g7r_1.j6s();
     var tmp = this;
     var tmp$ret$1;
     {
       var tmp$ret$0;
       {
-        var tmp0_sqrt = imul(this.m7q_1, this.m7q_1) + imul(this.n7q_1, this.n7q_1) | 0;
+        var tmp0_sqrt = imul(this.i7r_1, this.i7r_1) + imul(this.j7r_1, this.j7r_1) | 0;
         tmp$ret$0 = Math.sqrt(tmp0_sqrt);
       }
       var tmp1_ceil = tmp$ret$0 / 2;
       tmp$ret$1 = Math.ceil(tmp1_ceil);
     }
-    tmp.o7q_1 = numberToInt(tmp$ret$1);
-    this.p7q_1 = null;
-    this.q7q_1 = null;
+    tmp.k7r_1 = numberToInt(tmp$ret$1);
+    this.l7r_1 = null;
+    this.m7r_1 = null;
     var tmp_0 = this;
     var tmp$ret$2;
     {
@@ -16908,19 +17085,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$2 = tmp0_apply;
     }
-    tmp_0.r7q_1 = tmp$ret$2;
-    this.s7q_1 = null;
-    this.t7q_1 = null;
-    this.u7q_1 = 0.0;
+    tmp_0.n7r_1 = tmp$ret$2;
+    this.o7r_1 = null;
+    this.p7r_1 = null;
+    this.q7r_1 = 0.0;
     var tmp_1 = this;
-    tmp_1.v7q_1 = GameScene$ticker$lambda(this);
+    tmp_1.r7r_1 = GameScene$ticker$lambda(this);
     var tmp_2 = this;
-    tmp_2.w7q_1 = Job$default(null, 1, null);
-    this.x7q_1 = CoroutineScope_0(this.w7q_1);
-    this.j7q_1.p6w_1.b3t(GameScene$lambda(this));
+    tmp_2.s7r_1 = Job$default(null, 1, null);
+    this.t7r_1 = CoroutineScope_0(this.s7r_1);
+    this.f7r_1.n6w_1.b3t(GameScene$lambda(this));
     var tmp$ret$3;
     {
-      var tmp0_apply_0 = Companion_getInstance_11().w73(this.k7q_1.i6s(), this.k7q_1.j6s());
+      var tmp0_apply_0 = Companion_getInstance_12().b75(this.g7r_1.i6s(), this.g7r_1.j6s());
       {
       }
       {
@@ -16929,107 +17106,107 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       tmp$ret$3 = tmp0_apply_0;
     }
     this.i54(tmp$ret$3);
-    this.c5l().d4r(Companion_getInstance_5().t34_1);
+    this.c5l().d4r(Companion_getInstance_7().t34_1);
     var tmp_3 = this;
-    var tmp_4 = this.j7q_1.p6w_1.v3s_1;
-    tmp_3.y7q_1 = mutableStateOf(ImageAtlasSpec_init_$Create$(tmp_4, 0, 0, null, 14, null));
+    var tmp_4 = this.f7r_1.n6w_1.v3s_1;
+    tmp_3.u7r_1 = mutableStateOf(ImageAtlasSpec_init_$Create$(tmp_4, 0, 0, null, 14, null));
     var tmp_5 = this;
-    tmp_5.z7q_1 = ImageAtlas_init_$Create$('tiles', null, 2, null);
+    tmp_5.v7r_1 = ImageAtlas_init_$Create$('tiles', null, 2, null);
     var tmp_6 = this;
-    tmp_6.a7r_1 = ImageAtlas_init_$Create$('runner', null, 2, null);
+    tmp_6.w7r_1 = ImageAtlas_init_$Create$('runner', null, 2, null);
     var tmp_7 = this;
-    tmp_7.b7r_1 = ImageAtlas_init_$Create$('guard', null, 2, null);
+    tmp_7.x7r_1 = ImageAtlas_init_$Create$('guard', null, 2, null);
     var tmp_8 = this;
-    tmp_8.c7r_1 = ImageAtlas_init_$Create$('text', null, 2, null);
+    tmp_8.y7r_1 = ImageAtlas_init_$Create$('text', null, 2, null);
     var tmp_9 = this;
-    tmp_9.d7r_1 = AnimationFrames_init_$Create$('runner', null, 2, null);
+    tmp_9.z7r_1 = AnimationFrames_init_$Create$('runner', null, 2, null);
     var tmp_10 = this;
-    tmp_10.e7r_1 = AnimationFrames_init_$Create$('guard', null, 2, null);
+    tmp_10.a7s_1 = AnimationFrames_init_$Create$('guard', null, 2, null);
     var tmp_11 = this;
-    tmp_11.f7r_1 = AnimationFrames_init_$Create$('hole', null, 2, null);
-    this.g7r_1 = new SoundPlayer(this.i7q_1);
+    tmp_11.b7s_1 = AnimationFrames_init_$Create$('hole', null, 2, null);
+    this.c7s_1 = new SoundPlayer(this.e7r_1);
     var tmp_12 = this;
-    tmp_12.h7r_1 = lazy(GameScene$bg$delegate$lambda(this));
+    tmp_12.d7s_1 = lazy(GameScene$bg$delegate$lambda(this));
   }
-  GameScene.prototype.u7h = function () {
-    return this.h7q_1;
+  GameScene.prototype.q7i = function () {
+    return this.d7r_1;
   };
-  GameScene.prototype.e7w = function () {
-    return this.i7q_1;
+  GameScene.prototype.z7w = function () {
+    return this.e7r_1;
   };
-  GameScene.prototype.i7r = function () {
-    return this.j7q_1;
-  };
-  GameScene.prototype.k7r = function () {
-    return this.k7q_1;
-  };
-  GameScene.prototype.t7r = function () {
-    return this.r7q_1.n2().n2();
-  };
-  GameScene.prototype.m7r = function () {
-    return this.l7q_1;
-  };
-  GameScene.prototype.i6s = function () {
-    return this.m7q_1;
-  };
-  GameScene.prototype.j6s = function () {
-    return this.n7q_1;
-  };
-  GameScene.prototype.m7t = function () {
-    return this.o7q_1;
-  };
-  GameScene.prototype.n7t = function (_set____db54di) {
-    this.p7q_1 = _set____db54di;
-  };
-  GameScene.prototype.q7r = function () {
-    return this.r7q_1;
-  };
-  GameScene.prototype.w7s = function () {
-    return this.s7q_1;
-  };
-  GameScene.prototype.o7t = function () {
-    return this.t7q_1;
-  };
-  GameScene.prototype.t7a = function () {
-    return this.x7q_1;
-  };
-  GameScene.prototype.f7w = function () {
-    return this.y7q_1;
-  };
-  GameScene.prototype.j7r = function () {
-    return this.z7q_1;
-  };
-  GameScene.prototype.g7w = function () {
-    return this.c7r_1;
-  };
-  GameScene.prototype.r7r = function () {
+  GameScene.prototype.e7s = function () {
     return this.f7r_1;
   };
-  GameScene.prototype.h7w = function () {
+  GameScene.prototype.g7s = function () {
     return this.g7r_1;
   };
-  GameScene.prototype.p7t = function (newts, $cont) {
+  GameScene.prototype.p7s = function () {
+    return this.n7r_1.n2().n2();
+  };
+  GameScene.prototype.i7s = function () {
+    return this.h7r_1;
+  };
+  GameScene.prototype.i6s = function () {
+    return this.i7r_1;
+  };
+  GameScene.prototype.j6s = function () {
+    return this.j7r_1;
+  };
+  GameScene.prototype.h7u = function () {
+    return this.k7r_1;
+  };
+  GameScene.prototype.i7u = function (_set____db54di) {
+    this.l7r_1 = _set____db54di;
+  };
+  GameScene.prototype.m7s = function () {
+    return this.n7r_1;
+  };
+  GameScene.prototype.s7t = function () {
+    return this.o7r_1;
+  };
+  GameScene.prototype.j7u = function () {
+    return this.p7r_1;
+  };
+  GameScene.prototype.x7b = function () {
+    return this.t7r_1;
+  };
+  GameScene.prototype.a7x = function () {
+    return this.u7r_1;
+  };
+  GameScene.prototype.f7s = function () {
+    return this.v7r_1;
+  };
+  GameScene.prototype.b7x = function () {
+    return this.y7r_1;
+  };
+  GameScene.prototype.n7s = function () {
+    return this.b7s_1;
+  };
+  GameScene.prototype.c7x = function () {
+    return this.c7s_1;
+  };
+  GameScene.prototype.k7u = function (newts, $cont) {
     var tmp = new $reloadCOROUTINE$10(this, newts, $cont);
     tmp.m7_1 = Unit_getInstance();
     tmp.n7_1 = null;
     return tmp.r7();
   };
-  GameScene.prototype.a7p = function (assets, ctx, $cont) {
+  GameScene.prototype.w7p = function (assets, ctx, $cont) {
     var tmp = new $loadResourcesCOROUTINE$11(this, assets, ctx, $cont);
     tmp.m7_1 = Unit_getInstance();
     tmp.n7_1 = null;
     return tmp.r7();
   };
-  GameScene.prototype.o7o = function (ctx) {
-    this.h7q_1.g6w_1 = this.g7r_1;
+  GameScene.prototype.k7p = function (ctx) {
+    this.d7r_1.k6t_1 = this.c7s_1;
     this.v4v(_get_bg__ndby06(this));
-    this.v4v(new RunnerController(ctx.t2d(), this.h7q_1.y6v_1));
-    this.h7q_1.r4v();
+    this.v4v(new RunnerController(ctx.t2d(), this.d7r_1.c6t_1));
+    this.d7r_1.r4v();
   };
-  GameScene.prototype.s7r = function (ctx, level) {
-    this.q7t(ctx);
-    this.l7q_1 = new LevelView(this.h7q_1, level, this.k7q_1, this.z7q_1, this.a7r_1, this.d7r_1, this.b7r_1, this.e7r_1);
-    var tmp0_safe_receiver = this.l7q_1;
+  GameScene.prototype.o7s = function (ctx, level) {
+    this.l7u(ctx);
+    this.h7r_1 = new LevelView(this.d7r_1, level, this.g7r_1, this.v7r_1, this.w7r_1, this.z7r_1, this.x7r_1, this.a7s_1);
+    var tmp0_safe_receiver = this.h7r_1;
     if (tmp0_safe_receiver == null)
       null;
     else {
@@ -17043,17 +17220,17 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           var builder = new ConfigBuilder();
           {
             builder.e50_1 = 'bg';
-            builder.q50(this.m7q_1, this.n7q_1);
+            builder.q50(this.i7r_1, this.j7r_1);
             builder.s50(false);
             builder.b51(GameScene$addLevelView$lambda());
           }
           tmp$ret$0 = new Config(builder);
         }
-        tmp.s7q_1 = new OffscreenRenderPass2d(tmp0_safe_receiver, tmp$ret$0);
+        tmp.o7r_1 = new OffscreenRenderPass2d(tmp0_safe_receiver, tmp$ret$0);
         tmp$ret$1 = Unit_getInstance();
       }
     }
-    var tmp1_safe_receiver = this.s7q_1;
+    var tmp1_safe_receiver = this.o7r_1;
     if (tmp1_safe_receiver == null)
       null;
     else {
@@ -17065,7 +17242,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         {
           var tmp$ret$2;
           {
-            var tmp0_apply = Companion_getInstance_11().w73(this.m7q_1, this.n7q_1);
+            var tmp0_apply = Companion_getInstance_12().b75(this.i7r_1, this.j7r_1);
             {
             }
             {
@@ -17079,8 +17256,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           var tmp_0 = this;
           var tmp_1 = tmp1_safe_receiver.j54();
           var tmp_2 = tmp_1 instanceof OrthographicCamera ? tmp_1 : THROW_CCE();
-          tmp_0.p7q_1 = CameraController_init_$Create$(tmp_2, null, ctx, 2, null);
-          var tmp0_safe_receiver_0 = this.t7q_1;
+          tmp_0.l7r_1 = CameraController_init_$Create$(tmp_2, null, ctx, 2, null);
+          var tmp0_safe_receiver_0 = this.p7r_1;
           var tmp_3;
           if (tmp0_safe_receiver_0 == null) {
             tmp_3 = null;
@@ -17114,7 +17291,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         tmp$ret$6 = tmp$ret$5;
       }
     }
-    var tmp2_safe_receiver = this.p7q_1;
+    var tmp2_safe_receiver = this.l7r_1;
     if (tmp2_safe_receiver == null)
       null;
     else {
@@ -17125,7 +17302,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         var tmp$ret$8;
         {
           this.k4v(tmp2_safe_receiver);
-          var tmp0_safe_receiver_1 = this.l7q_1;
+          var tmp0_safe_receiver_1 = this.h7r_1;
           var tmp_5;
           if (tmp0_safe_receiver_1 == null) {
             tmp_5 = null;
@@ -17135,7 +17312,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               {
               }
               {
-                tmp2_safe_receiver.d7x(this.h7q_1, tmp0_safe_receiver_1, tmp0_safe_receiver_1.v7s());
+                tmp2_safe_receiver.y7x(this.d7r_1, tmp0_safe_receiver_1, tmp0_safe_receiver_1.r7t());
               }
               tmp$ret$7 = tmp0_safe_receiver_1;
             }
@@ -17147,17 +17324,17 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
     }
     var tmp_6 = this;
-    tmp_6.q7q_1 = group$default(null, GameScene$addLevelView$lambda_2(this), 1, null);
-    this.v4v(ensureNotNull(this.q7q_1));
+    tmp_6.m7r_1 = group$default(null, GameScene$addLevelView$lambda_2(this), 1, null);
+    this.v4v(ensureNotNull(this.m7r_1));
     var tmp3_this = this;
     {
       var tmp0_plusAssign = tmp3_this.n4p();
-      var tmp1_plusAssign_0 = this.v7q_1;
+      var tmp1_plusAssign_0 = this.r7r_1;
       tmp0_plusAssign.a(tmp1_plusAssign_0);
     }
   };
-  GameScene.prototype.q7t = function (ctx) {
-    var tmp0_safe_receiver = this.p7q_1;
+  GameScene.prototype.l7u = function (ctx) {
+    var tmp0_safe_receiver = this.l7r_1;
     if (tmp0_safe_receiver == null)
       null;
     else {
@@ -17165,17 +17342,17 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
         {
         }
-        tmp0_safe_receiver.e7x(this.h7q_1);
+        tmp0_safe_receiver.z7x(this.d7r_1);
         tmp$ret$0 = this.y5j(tmp0_safe_receiver);
       }
     }
     var tmp1_this = this;
     {
       var tmp0_minusAssign = tmp1_this.n4p();
-      var tmp1_minusAssign = this.v7q_1;
+      var tmp1_minusAssign = this.r7r_1;
       tmp0_minusAssign.c4(tmp1_minusAssign);
     }
-    var tmp2_safe_receiver = this.s7q_1;
+    var tmp2_safe_receiver = this.o7r_1;
     if (tmp2_safe_receiver == null)
       null;
     else {
@@ -17187,8 +17364,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         tmp$ret$1 = ctx.k2f(1, GameScene$removeLevelView$lambda(tmp2_safe_receiver, ctx));
       }
     }
-    this.s7q_1 = null;
-    var tmp3_safe_receiver = this.q7q_1;
+    this.o7r_1 = null;
+    var tmp3_safe_receiver = this.m7r_1;
     if (tmp3_safe_receiver == null)
       null;
     else {
@@ -17200,8 +17377,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         tmp$ret$2 = ctx.k2f(1, GameScene$removeLevelView$lambda_0(tmp3_safe_receiver, ctx));
       }
     }
-    this.q7q_1 = null;
-    var tmp4_safe_receiver = this.l7q_1;
+    this.m7r_1 = null;
+    var tmp4_safe_receiver = this.h7r_1;
     if (tmp4_safe_receiver == null)
       null;
     else {
@@ -17212,44 +17389,44 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         tmp$ret$3 = ctx.k2f(1, GameScene$removeLevelView$lambda_1(tmp4_safe_receiver, ctx));
       }
     }
-    this.l7q_1 = null;
+    this.h7r_1 = null;
   };
-  GameScene.prototype.l7r = function (ctx) {
+  GameScene.prototype.h7s = function (ctx) {
     var tmp$ret$0;
     {
-      var tmp0_apply = this.r7q_1;
+      var tmp0_apply = this.n7r_1;
       {
       }
       {
         tmp0_apply.w5l(1.0);
         tmp0_apply.a5m(0.0);
-        tmp0_apply.n2().l5m_1 = this.o7q_1;
+        tmp0_apply.n2().l5m_1 = this.k7r_1;
         tmp0_apply.n2().m5m_1 = 0.0;
       }
       tmp$ret$0 = tmp0_apply;
     }
     return tmp$ret$0;
   };
-  GameScene.prototype.o7r = function (ctx) {
+  GameScene.prototype.k7s = function (ctx) {
     var tmp$ret$0;
     {
-      var tmp0_apply = this.r7q_1;
+      var tmp0_apply = this.n7r_1;
       {
       }
       {
         tmp0_apply.w5l(1.0);
         tmp0_apply.a5m(0.0);
         tmp0_apply.n2().l5m_1 = 0.0;
-        tmp0_apply.n2().m5m_1 = this.o7q_1;
+        tmp0_apply.n2().m5m_1 = this.k7r_1;
       }
       tmp$ret$0 = tmp0_apply;
     }
     return tmp$ret$0;
   };
-  GameScene.prototype.p7r = function (ctx) {
+  GameScene.prototype.l7s = function (ctx) {
     var tmp$ret$0;
     {
-      var tmp0_apply = this.r7q_1;
+      var tmp0_apply = this.n7r_1;
       {
       }
       {
@@ -17260,7 +17437,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return tmp$ret$0;
   };
   GameScene.prototype.l4p = function (ctx) {
-    this.w7q_1.v18(null, 1, null);
+    this.s7r_1.v18(null, 1, null);
     AsyncScene.prototype.l4p.call(this, ctx);
   };
   GameScene.$metadata$ = classMeta('GameScene', undefined, undefined, undefined, undefined, AsyncScene.prototype);
@@ -17280,50 +17457,50 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return GameUI_init_$Init$(game, assets, gameSettings, conf, $mask0, $marker, Object.create(GameUI.prototype));
   }
   function getStatusText(_this__u8e3s4, $this) {
-    var scores = padStart(_this__u8e3s4.y6v_1.v7e_1.toString(), 7, _Char___init__impl__6a9atx(48));
-    var lives = padStart(_this__u8e3s4.y6v_1.u7e_1.toString(), 3, _Char___init__impl__6a9atx(48));
-    var tmp0_safe_receiver = _this__u8e3s4.f6w_1;
-    var tmp1_elvis_lhs = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.y7c_1;
+    var scores = padStart(_this__u8e3s4.c6t_1.a7g_1.toString(), 7, _Char___init__impl__6a9atx(48));
+    var lives = padStart(_this__u8e3s4.c6t_1.z7f_1.toString(), 3, _Char___init__impl__6a9atx(48));
+    var tmp0_safe_receiver = _this__u8e3s4.j6t_1;
+    var tmp1_elvis_lhs = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.c7e_1;
     var level = padStart(((tmp1_elvis_lhs == null ? -1 : tmp1_elvis_lhs) + 1 | 0).toString(), 3, _Char___init__impl__6a9atx(48));
     return 'score' + scores + ' men' + lives + ' level' + level;
   }
   function GameUI$lambda(this$0) {
     return function ($this$null) {
-      this$0.s7y_1 = true;
+      this$0.n7z_1 = true;
       return Unit_getInstance();
     };
   }
   function GameUI$lambda_0(this$0) {
     return function (it) {
-      this$0.s7y_1 = true;
+      this$0.n7z_1 = true;
       return Unit_getInstance();
     };
   }
   function GameUI$lambda_1(this$0) {
     return function (it) {
-      this$0.s7y_1 = true;
+      this$0.n7z_1 = true;
       return Unit_getInstance();
     };
   }
   function GameUI$lambda_2(this$0) {
     return function (it) {
-      this$0.s7y_1 = true;
+      this$0.n7z_1 = true;
       return Unit_getInstance();
     };
   }
   function GameUI$setup$lambda(this$0) {
     return function ($this$$receiver) {
-      $this$$receiver.b2i(this$0.o7y_1.e6s_1.e23(), this$0.o7y_1.e6s_1.g23(), 1.0);
-      $this$$receiver.v2h(-(this$0.t7y_1.v3s_1.length / 2.0), 0.0, 0.0);
+      $this$$receiver.b2i(this$0.j7z_1.e6s_1.e23(), this$0.j7z_1.e6s_1.g23(), 1.0);
+      $this$$receiver.v2h(-(this$0.o7z_1.v3s_1.length / 2.0), 0.0, 0.0);
       return Unit_getInstance();
     };
   }
   function GameUI$setup$lambda_0(this$0) {
     return function (it) {
       var tmp;
-      if (this$0.s7y_1) {
-        this$0.t7y_1.m1e(getStatusText(this$0.l7y_1, this$0));
-        this$0.s7y_1 = false;
+      if (this$0.n7z_1) {
+        this$0.o7z_1.m1e(getStatusText(this$0.g7z_1, this$0));
+        this$0.n7z_1 = false;
         tmp = Unit_getInstance();
       }
       return Unit_getInstance();
@@ -17331,9 +17508,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function $loadResourcesCOROUTINE$12(_this__u8e3s4, assets, ctx, resultContinuation) {
     CoroutineImpl.call(this, resultContinuation);
-    this.c7z_1 = _this__u8e3s4;
-    this.d7z_1 = assets;
-    this.e7z_1 = ctx;
+    this.x7z_1 = _this__u8e3s4;
+    this.y7z_1 = assets;
+    this.z7z_1 = ctx;
   }
   $loadResourcesCOROUTINE$12.prototype.r7 = function () {
     var suspendResult = this.m7_1;
@@ -17344,14 +17521,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           case 0:
             this.l7_1 = 2;
             this.k7_1 = 1;
-            suspendResult = this.c7z_1.q7y_1.h7a(this.c7z_1.p7y_1.v3s_1, this.d7z_1, this);
+            suspendResult = this.x7z_1.l7z_1.l7b(this.x7z_1.k7z_1.v3s_1, this.y7z_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
 
             continue $sm;
           case 1:
-            this.c7z_1.s7y_1 = true;
+            this.x7z_1.n7z_1 = true;
             return Unit_getInstance();
           case 2:
             throw this.n7_1;
@@ -17369,38 +17546,38 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   $loadResourcesCOROUTINE$12.$metadata$ = classMeta('$loadResourcesCOROUTINE$12', undefined, undefined, undefined, undefined, CoroutineImpl.prototype);
   function GameUI(game, assets, gameSettings, conf) {
     AsyncScene_init_$Init$(null, 1, null, this);
-    this.l7y_1 = game;
-    this.m7y_1 = assets;
-    this.n7y_1 = gameSettings;
-    this.o7y_1 = conf;
-    this.p7y_1 = this.n7y_1.p6w_1;
+    this.g7z_1 = game;
+    this.h7z_1 = assets;
+    this.i7z_1 = gameSettings;
+    this.j7z_1 = conf;
+    this.k7z_1 = this.i7z_1.n6w_1;
     var tmp = this;
-    tmp.q7y_1 = ImageAtlas_init_$Create$('text', null, 2, null);
+    tmp.l7z_1 = ImageAtlas_init_$Create$('text', null, 2, null);
     var tmp_0 = this;
-    var tmp_1 = this.n7y_1.p6w_1.v3s_1;
-    tmp_0.r7y_1 = mutableStateOf(ImageAtlasSpec_init_$Create$(tmp_1, 0, 0, null, 14, null));
-    this.s7y_1 = true;
-    this.t7y_1 = mutableStateOf(getStatusText(this.l7y_1, this));
-    this.i54(Companion_getInstance_11().w73(this.o7y_1.i6s(), this.o7y_1.j6s()));
+    var tmp_1 = this.i7z_1.n6w_1.v3s_1;
+    tmp_0.m7z_1 = mutableStateOf(ImageAtlasSpec_init_$Create$(tmp_1, 0, 0, null, 14, null));
+    this.n7z_1 = true;
+    this.o7z_1 = mutableStateOf(getStatusText(this.g7z_1, this));
+    this.i54(Companion_getInstance_12().b75(this.j7z_1.i6s(), this.j7z_1.j6s()));
     this.c5l().d4r(null);
-    var tmp0_this = this.l7y_1;
+    var tmp0_this = this.g7z_1;
     {
-      var tmp0_plusAssign = tmp0_this.j6w_1;
+      var tmp0_plusAssign = tmp0_this.n6t_1;
       tmp0_plusAssign.a(GameUI$lambda(this));
     }
-    this.n7y_1.o6w_1.b3t(GameUI$lambda_0(this));
-    this.n7y_1.r6w_1.b3t(GameUI$lambda_1(this));
-    this.n7y_1.v6w_1.b3t(GameUI$lambda_2(this));
+    this.i7z_1.m6w_1.b3t(GameUI$lambda_0(this));
+    this.i7z_1.p6w_1.b3t(GameUI$lambda_1(this));
+    this.i7z_1.t6w_1.b3t(GameUI$lambda_2(this));
   }
-  GameUI.prototype.a7p = function (assets, ctx, $cont) {
+  GameUI.prototype.w7p = function (assets, ctx, $cont) {
     var tmp = new $loadResourcesCOROUTINE$12(this, assets, ctx, $cont);
     tmp.m7_1 = Unit_getInstance();
     tmp.n7_1 = null;
     return tmp.r7();
   };
-  GameUI.prototype.o7o = function (ctx) {
-    var tmp = this.q7y_1;
-    this.v4v(TextView_init_$Create$(this.t7y_1, tmp, this.r7y_1, 0, GameUI$setup$lambda(this), 8, null));
+  GameUI.prototype.k7p = function (ctx) {
+    var tmp = this.l7z_1;
+    this.v4v(TextView_init_$Create$(this.o7z_1, tmp, this.m7z_1, 0, GameUI$setup$lambda(this), 8, null));
     var tmp0_this = this;
     {
       var tmp0_plusAssign = tmp0_this.n4p();
@@ -17409,15 +17586,15 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   GameUI.$metadata$ = classMeta('GameUI', undefined, undefined, undefined, undefined, AsyncScene.prototype);
   function MainMenuContext(levelSet, level) {
-    this.w6w_1 = levelSet;
-    this.x6w_1 = level;
+    this.u6w_1 = levelSet;
+    this.v6w_1 = level;
   }
   MainMenuContext.prototype.toString = function () {
-    return 'MainMenuContext(levelSet=' + this.w6w_1 + ', level=' + this.x6w_1 + ')';
+    return 'MainMenuContext(levelSet=' + this.u6w_1 + ', level=' + this.v6w_1 + ')';
   };
   MainMenuContext.prototype.hashCode = function () {
-    var result = hashCode(this.w6w_1);
-    result = imul(result, 31) + hashCode(this.x6w_1) | 0;
+    var result = hashCode(this.u6w_1);
+    result = imul(result, 31) + hashCode(this.v6w_1) | 0;
     return result;
   };
   MainMenuContext.prototype.equals = function (other) {
@@ -17426,9 +17603,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (!(other instanceof MainMenuContext))
       return false;
     var tmp0_other_with_cast = other instanceof MainMenuContext ? other : THROW_CCE();
-    if (!equals(this.w6w_1, tmp0_other_with_cast.w6w_1))
+    if (!equals(this.u6w_1, tmp0_other_with_cast.u6w_1))
       return false;
-    if (!equals(this.x6w_1, tmp0_other_with_cast.x6w_1))
+    if (!equals(this.v6w_1, tmp0_other_with_cast.v6w_1))
       return false;
     return true;
   };
@@ -17482,35 +17659,35 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     var tmp$ret$0;
     {
       var tmp0_getValue = map$factory();
-      tmp$ret$0 = $this.t6v_1.n2();
+      tmp$ret$0 = $this.j6w_1.n2();
     }
     return tmp$ret$0;
   }
   function _get_reloadLevels__5yzso3($this) {
-    var tmp = $this.t7a();
+    var tmp = $this.x7b();
     return launch$default(tmp, null, null, MainMenuScene$_get_reloadLevels_$slambda_m0t77b_0($this, null), 3, null);
   }
   function StaticLabel(text, x, y) {
-    this.f7z_1 = text;
-    this.g7z_1 = x;
-    this.h7z_1 = y;
+    this.a80_1 = text;
+    this.b80_1 = x;
+    this.c80_1 = y;
   }
   StaticLabel.prototype.u45 = function () {
-    return this.f7z_1;
+    return this.a80_1;
   };
   StaticLabel.prototype.e23 = function () {
-    return this.g7z_1;
+    return this.b80_1;
   };
   StaticLabel.prototype.g23 = function () {
-    return this.h7z_1;
+    return this.c80_1;
   };
   StaticLabel.prototype.toString = function () {
-    return 'StaticLabel(text=' + this.f7z_1 + ', x=' + this.g7z_1 + ', y=' + this.h7z_1 + ')';
+    return 'StaticLabel(text=' + this.a80_1 + ', x=' + this.b80_1 + ', y=' + this.c80_1 + ')';
   };
   StaticLabel.prototype.hashCode = function () {
-    var result = getStringHashCode(this.f7z_1);
-    result = imul(result, 31) + getNumberHashCode(this.g7z_1) | 0;
-    result = imul(result, 31) + getNumberHashCode(this.h7z_1) | 0;
+    var result = getStringHashCode(this.a80_1);
+    result = imul(result, 31) + getNumberHashCode(this.b80_1) | 0;
+    result = imul(result, 31) + getNumberHashCode(this.c80_1) | 0;
     return result;
   };
   StaticLabel.prototype.equals = function (other) {
@@ -17519,60 +17696,60 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (!(other instanceof StaticLabel))
       return false;
     var tmp0_other_with_cast = other instanceof StaticLabel ? other : THROW_CCE();
-    if (!(this.f7z_1 === tmp0_other_with_cast.f7z_1))
+    if (!(this.a80_1 === tmp0_other_with_cast.a80_1))
       return false;
-    if (!equals(this.g7z_1, tmp0_other_with_cast.g7z_1))
+    if (!equals(this.b80_1, tmp0_other_with_cast.b80_1))
       return false;
-    if (!equals(this.h7z_1, tmp0_other_with_cast.h7z_1))
+    if (!equals(this.c80_1, tmp0_other_with_cast.c80_1))
       return false;
     return true;
   };
   StaticLabel.$metadata$ = classMeta('StaticLabel');
   function MenuCommand(pos, onEnter) {
-    this.i7z_1 = pos;
-    this.j7z_1 = onEnter;
+    this.d80_1 = pos;
+    this.e80_1 = onEnter;
   }
-  MenuCommand.prototype.k7z = function () {
-    return this.i7z_1;
+  MenuCommand.prototype.m7m = function () {
+    return this.d80_1;
   };
   MenuCommand.$metadata$ = classMeta('MenuCommand');
   function LabeledMenuCommand(pos, label, labelDelta, onEnter) {
     MenuCommand.call(this, pos, onEnter);
-    this.n7z_1 = label;
-    this.o7z_1 = labelDelta;
+    this.h80_1 = label;
+    this.i80_1 = labelDelta;
   }
-  LabeledMenuCommand.prototype.p7z = function () {
-    return this.n7z_1;
+  LabeledMenuCommand.prototype.j80 = function () {
+    return this.h80_1;
   };
-  LabeledMenuCommand.prototype.q7z = function () {
-    return this.o7z_1;
+  LabeledMenuCommand.prototype.k80 = function () {
+    return this.i80_1;
   };
   LabeledMenuCommand.$metadata$ = classMeta('LabeledMenuCommand', undefined, undefined, undefined, undefined, MenuCommand.prototype);
   function afterTeleport(_this__u8e3s4, $this) {
-    _this__u8e3s4.y6v_1.b7i().p2j(0);
-    _this__u8e3s4.y6v_1.b7i().q2j(0);
-    _this__u8e3s4.y6v_1.u5z();
+    _this__u8e3s4.c6t_1.x7i().p2j(0);
+    _this__u8e3s4.c6t_1.x7i().q2j(0);
+    _this__u8e3s4.c6t_1.u5z();
   }
   function teleportRunnerLeft(_this__u8e3s4, $this) {
-    var tmp0_this = _this__u8e3s4.y6v_1.a7i();
+    var tmp0_this = _this__u8e3s4.c6t_1.w7i();
     var tmp1 = tmp0_this.e23();
     tmp0_this.p2j(tmp1 - 1 | 0);
     afterTeleport(_this__u8e3s4, $this);
   }
   function teleportRunnerRight(_this__u8e3s4, $this) {
-    var tmp0_this = _this__u8e3s4.y6v_1.a7i();
+    var tmp0_this = _this__u8e3s4.c6t_1.w7i();
     var tmp1 = tmp0_this.e23();
     tmp0_this.p2j(tmp1 + 1 | 0);
     afterTeleport(_this__u8e3s4, $this);
   }
   function teleportRunnerDown(_this__u8e3s4, $this) {
-    var tmp0_this = _this__u8e3s4.y6v_1.a7i();
+    var tmp0_this = _this__u8e3s4.c6t_1.w7i();
     var tmp1 = tmp0_this.g23();
     tmp0_this.q2j(tmp1 + 1 | 0);
     afterTeleport(_this__u8e3s4, $this);
   }
   function teleportRunnerUp(_this__u8e3s4, $this) {
-    var tmp0_this = _this__u8e3s4.y6v_1.a7i();
+    var tmp0_this = _this__u8e3s4.c6t_1.w7i();
     var tmp1 = tmp0_this.g23();
     tmp0_this.q2j(tmp1 - 1 | 0);
     afterTeleport(_this__u8e3s4, $this);
@@ -17607,7 +17784,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     };
   }
   function MainMenuScene$_get_reloadLevels_$slambda_m0t77b(this$0, resultContinuation) {
-    this.z7z_1 = this$0;
+    this.t80_1 = this$0;
     CoroutineImpl.call(this, resultContinuation);
   }
   MainMenuScene$_get_reloadLevels_$slambda_m0t77b.prototype.d1v = function ($this$launch, $cont) {
@@ -17627,16 +17804,16 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         switch (tmp) {
           case 0:
             this.l7_1 = 2;
-            this.b80_1 = new LevelsRep(this.z7z_1.e7w(), this.z7z_1.t7a());
+            this.v80_1 = new LevelsRep(this.t80_1.z7w(), this.t80_1.x7b());
             this.k7_1 = 1;
-            suspendResult = this.b80_1.m76(this.z7z_1.i6v_1.w6w_1.v3s_1, this);
+            suspendResult = this.v80_1.p77(this.t80_1.w6v_1.u6w_1.v3s_1, this);
             if (suspendResult === get_COROUTINE_SUSPENDED()) {
               return suspendResult;
             }
 
             continue $sm;
           case 1:
-            this.z7z_1.n6v_1 = this.b80_1.k76_1.m() - 1 | 0;
+            this.t80_1.b6w_1 = this.v80_1.n77_1.m() - 1 | 0;
             return Unit_getInstance();
           case 2:
             throw this.n7_1;
@@ -17652,8 +17829,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
      while (true);
   };
   MainMenuScene$_get_reloadLevels_$slambda_m0t77b.prototype.e1v = function ($this$launch, completion) {
-    var i = new MainMenuScene$_get_reloadLevels_$slambda_m0t77b(this.z7z_1, completion);
-    i.a80_1 = $this$launch;
+    var i = new MainMenuScene$_get_reloadLevels_$slambda_m0t77b(this.t80_1, completion);
+    i.u80_1 = $this$launch;
     return i;
   };
   MainMenuScene$_get_reloadLevels_$slambda_m0t77b.$metadata$ = classMeta('MainMenuScene$<get-reloadLevels>$slambda', undefined, undefined, undefined, [1], CoroutineImpl.prototype);
@@ -17667,19 +17844,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function MainMenuScene$lambda(this$0) {
     return function (it) {
-      this$0.k6v_1.m1e(it.d6s());
+      this$0.y6v_1.m1e(it.d6s());
       return Unit_getInstance();
     };
   }
   function MainMenuScene$lambda_0(this$0) {
     return function (it) {
-      this$0.l6v_1.m1e(it.d6s());
+      this$0.z6v_1.m1e(it.d6s());
       return Unit_getInstance();
     };
   }
   function MainMenuScene$lambda_1(this$0) {
     return function (it) {
-      this$0.m6v_1.m1e(it.d6s());
+      this$0.a6w_1.m1e(it.d6s());
       _get_reloadLevels__5yzso3(this$0);
       return Unit_getInstance();
     };
@@ -17691,9 +17868,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         var tmp0_with = it + 1 | 0;
         {
         }
-        this$0.o6v_1.m1e(digit(tmp0_with, this$0, 1).toString());
-        this$0.p6v_1.m1e(digit(tmp0_with, this$0, 2).toString());
-        tmp$ret$0 = this$0.q6v_1.m1e(digit(tmp0_with, this$0, 3).toString());
+        this$0.c6w_1.m1e(digit(tmp0_with, this$0, 1).toString());
+        this$0.d6w_1.m1e(digit(tmp0_with, this$0, 2).toString());
+        tmp$ret$0 = this$0.e6w_1.m1e(digit(tmp0_with, this$0, 3).toString());
       }
       return Unit_getInstance();
     };
@@ -17702,10 +17879,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$$receiver) {
       var tmp$ret$1;
       {
-        var tmp0_with = $this$$receiver.i6v_1.w6w_1;
+        var tmp0_with = $this$$receiver.w6v_1.u6w_1;
         {
         }
-        $this$$receiver.n6v_1 = IntCompanionObject_getInstance().d1_1;
+        $this$$receiver.b6w_1 = IntCompanionObject_getInstance().d1_1;
         var tmp = values_3();
         var tmp$ret$0;
         {
@@ -17724,10 +17901,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$$receiver) {
       var tmp$ret$0;
       {
-        var tmp0_with = $this$$receiver.i6v_1.w6w_1;
+        var tmp0_with = $this$$receiver.w6v_1.u6w_1;
         {
         }
-        $this$$receiver.n6v_1 = 0;
+        $this$$receiver.b6w_1 = 0;
         tmp0_with.m1e(values_3()[(tmp0_with.v3s_1.y1() + 1 | 0) % values_3().length | 0]);
         tmp$ret$0 = teleportRunnerLeft($game, $this$$receiver);
       }
@@ -17739,12 +17916,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       teleportRunnerDown($game, $this$$receiver);
       var tmp$ret$1;
       {
-        var tmp0_with = $this$$receiver.i6v_1.x6w_1;
+        var tmp0_with = $this$$receiver.w6v_1.v6w_1;
         {
         }
         var tmp$ret$0;
         {
-          var tmp0_min = $this$$receiver.n6v_1;
+          var tmp0_min = $this$$receiver.b6w_1;
           var tmp1_min = replaceDigit(tmp0_with.v3s_1, $this$$receiver, 3, digit(tmp0_with.v3s_1, $this$$receiver, 3) + 1 | 0);
           tmp$ret$0 = Math.min(tmp0_min, tmp1_min);
         }
@@ -17758,7 +17935,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       teleportRunnerUp($game, $this$$receiver);
       var tmp$ret$1;
       {
-        var tmp0_with = $this$$receiver.i6v_1.x6w_1;
+        var tmp0_with = $this$$receiver.w6v_1.v6w_1;
         {
         }
         var tmp$ret$0;
@@ -17776,12 +17953,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       teleportRunnerDown($game, $this$$receiver);
       var tmp$ret$1;
       {
-        var tmp0_with = $this$$receiver.i6v_1.x6w_1;
+        var tmp0_with = $this$$receiver.w6v_1.v6w_1;
         {
         }
         var tmp$ret$0;
         {
-          var tmp0_min = $this$$receiver.n6v_1;
+          var tmp0_min = $this$$receiver.b6w_1;
           var tmp1_min = replaceDigit(tmp0_with.v3s_1, $this$$receiver, 2, digit(tmp0_with.v3s_1, $this$$receiver, 2) + 1 | 0);
           tmp$ret$0 = Math.min(tmp0_min, tmp1_min);
         }
@@ -17795,7 +17972,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       teleportRunnerUp($game, $this$$receiver);
       var tmp$ret$1;
       {
-        var tmp0_with = $this$$receiver.i6v_1.x6w_1;
+        var tmp0_with = $this$$receiver.w6v_1.v6w_1;
         {
         }
         var tmp$ret$0;
@@ -17813,12 +17990,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       teleportRunnerDown($game, $this$$receiver);
       var tmp$ret$1;
       {
-        var tmp0_with = $this$$receiver.i6v_1.x6w_1;
+        var tmp0_with = $this$$receiver.w6v_1.v6w_1;
         {
         }
         var tmp$ret$0;
         {
-          var tmp0_min = $this$$receiver.n6v_1;
+          var tmp0_min = $this$$receiver.b6w_1;
           var tmp1_min = replaceDigit(tmp0_with.v3s_1, $this$$receiver, 1, digit(tmp0_with.v3s_1, $this$$receiver, 1) + 1 | 0);
           tmp$ret$0 = Math.min(tmp0_min, tmp1_min);
         }
@@ -17832,7 +18009,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       teleportRunnerUp($game, $this$$receiver);
       var tmp$ret$1;
       {
-        var tmp0_with = $this$$receiver.i6v_1.x6w_1;
+        var tmp0_with = $this$$receiver.w6v_1.v6w_1;
         {
         }
         var tmp$ret$0;
@@ -17849,7 +18026,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$$receiver) {
       var tmp$ret$1;
       {
-        var tmp0_with = $this$$receiver.i7r().s6w_1;
+        var tmp0_with = $this$$receiver.e7s().q6w_1;
         {
         }
         var tmp = values();
@@ -17870,7 +18047,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$$receiver) {
       var tmp$ret$0;
       {
-        var tmp0_with = $this$$receiver.i7r().s6w_1;
+        var tmp0_with = $this$$receiver.e7s().q6w_1;
         {
         }
         tmp0_with.m1e(values()[(tmp0_with.v3s_1.y1() + 1 | 0) % values().length | 0]);
@@ -17883,7 +18060,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$$receiver) {
       var tmp$ret$1;
       {
-        var tmp0_with = $this$$receiver.i7r().p6w_1;
+        var tmp0_with = $this$$receiver.e7s().n6w_1;
         {
         }
         var tmp = values_2();
@@ -17904,7 +18081,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$$receiver) {
       var tmp$ret$0;
       {
-        var tmp0_with = $this$$receiver.i7r().p6w_1;
+        var tmp0_with = $this$$receiver.e7s().n6w_1;
         {
         }
         tmp0_with.m1e(values_2()[(tmp0_with.v3s_1.y1() + 1 | 0) % values_2().length | 0]);
@@ -17915,28 +18092,28 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function MainMenuScene$lambda_15() {
     return function ($this$$receiver) {
-      MainMenuState_getInstance().v6s_1 = true;
+      $this$$receiver.i6w_1 = true;
       return Unit_getInstance();
     };
   }
   function MainMenuScene$lambda_16() {
     return function ($this$$receiver) {
-      MainMenuState_getInstance().w6s_1 = true;
+      $this$$receiver.h6w_1 = true;
       return Unit_getInstance();
     };
   }
   function MainMenuScene$setup$lambda(this$0) {
     return function (g, _anonymous_parameter_1__qggqgd) {
-      this$0.u6v_1.m1e('' + g.y6v_1.e23() + ' x ' + g.y6v_1.g23());
+      this$0.k6w_1.m1e('' + g.c6t_1.e23() + ' x ' + g.c6t_1.g23());
       var tmp$ret$1;
       $l$block: {
-        var tmp0_firstOrNull = this$0.r6v_1;
+        var tmp0_firstOrNull = this$0.f6w_1;
         var tmp0_iterator = tmp0_firstOrNull.h();
         while (tmp0_iterator.n()) {
           var element = tmp0_iterator.o();
           var tmp$ret$0;
           {
-            tmp$ret$0 = element.i7z_1.e23() === g.y6v_1.a7i().e23() ? element.i7z_1.g23() === g.y6v_1.a7i().g23() : false;
+            tmp$ret$0 = element.d80_1.e23() === g.c6t_1.w7i().e23() ? element.d80_1.g23() === g.c6t_1.w7i().g23() : false;
           }
           if (tmp$ret$0) {
             tmp$ret$1 = element;
@@ -17953,9 +18130,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         {
           {
           }
-          var tmp = this$0.h7w();
-          tmp.a7c('getGold', false, false, 6, null);
-          tmp$ret$2 = tmp0_safe_receiver.j7z_1(this$0);
+          var tmp = this$0.c7x();
+          tmp.e7d('getGold', false, false, 6, null);
+          tmp$ret$2 = tmp0_safe_receiver.e80_1(this$0);
         }
       }
       return Unit_getInstance();
@@ -17963,39 +18140,39 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function MainMenuScene$setup$lambda$lambda(this$0, $version) {
     return function ($this$textView) {
-      $this$textView.b2i(this$0.k7r().e6s_1.e23() / 2.0, this$0.k7r().e6s_1.g23() / 2.0, 1.0);
+      $this$textView.b2i(this$0.g7s().e6s_1.e23() / 2.0, this$0.g7s().e6s_1.g23() / 2.0, 1.0);
       $this$textView.v2h(-($version.length / 2.0), 0.0, 0.0);
       return Unit_getInstance();
     };
   }
   function MainMenuScene$setup$lambda$lambda_0($element) {
     return function ($this$textView) {
-      $this$textView.v2h($element.g7z_1, $element.h7z_1, 0.0);
+      $this$textView.v2h($element.b80_1, $element.c80_1, 0.0);
       $this$textView.b2i(0.5, 0.5, 1.0);
       return Unit_getInstance();
     };
   }
   function MainMenuScene$setup$lambda$lambda_1($element, this$0) {
     return function ($this$$receiver) {
-      $this$$receiver.v2h($element.k7z().e23() + $element.o7z_1.e23() - ensureNotNull(this$0.u7h().f6w_1).c7d_1 / 2.0, ((ensureNotNull(this$0.u7h().f6w_1).d7d_1 - $element.k7z().g23() | 0) - 1 | 0) + $element.o7z_1.g23(), 0.0);
+      $this$$receiver.v2h($element.m7m().e23() + $element.i80_1.e23() - ensureNotNull(this$0.q7i().j6t_1).g7e_1 / 2.0, ((ensureNotNull(this$0.q7i().j6t_1).h7e_1 - $element.m7m().g23() | 0) - 1 | 0) + $element.i80_1.g23(), 0.0);
       return Unit_getInstance();
     };
   }
   function MainMenuScene$setup$lambda_0(this$0, $ctx) {
     return function ($this$null) {
-      println('main menu game change: ' + $this$null.y6z_1);
-      var tmp0_subject = $this$null.y6z_1;
+      println('main menu game change: ' + $this$null.w6w_1);
+      var tmp0_subject = $this$null.w6w_1;
       var tmp0 = tmp0_subject.y1();
       var tmp;
       switch (tmp0) {
         case 6:
-          this$0.s7r($ctx, ensureNotNull(this$0.u7h().f6w_1));
+          this$0.o7s($ctx, ensureNotNull(this$0.q7i().j6t_1));
           var version = get_Version() + ' by Andrey Zakharov';
-          var tmp_0 = this$0.g7w();
-          var tmp_1 = this$0.f7w();
+          var tmp_0 = this$0.b7x();
+          var tmp_1 = this$0.a7x();
           var tmp_2 = version.length;
           this$0.v4v(textView(version, tmp_0, tmp_1, tmp_2, MainMenuScene$setup$lambda$lambda(this$0, version)));
-          var tmp1_safe_receiver = this$0.m7r();
+          var tmp1_safe_receiver = this$0.i7s();
           if (tmp1_safe_receiver == null)
             null;
           else {
@@ -18003,14 +18180,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             {
               {
               }
-              var tmp0_forEach = this$0.s6v_1;
+              var tmp0_forEach = this$0.g6w_1;
               var tmp0_iterator = tmp0_forEach.h();
               while (tmp0_iterator.n()) {
                 var element = tmp0_iterator.o();
                 {
-                  var tmp_3 = this$0.g7w();
-                  var tmp_4 = this$0.f7w();
-                  var tmp_5 = textView$default(element.f7z_1, tmp_3, tmp_4, 0, MainMenuScene$setup$lambda$lambda_0(element), 8, null);
+                  var tmp_3 = this$0.b7x();
+                  var tmp_4 = this$0.a7x();
+                  var tmp_5 = textView$default(element.a80_1, tmp_3, tmp_4, 0, MainMenuScene$setup$lambda$lambda_0(element), 8, null);
                   tmp1_safe_receiver.t4w(tmp_5, 0, 2, null);
                 }
               }
@@ -18021,7 +18198,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           ;
           var tmp$ret$2;
           {
-            var tmp0_filterIsInstance = this$0.r6v_1;
+            var tmp0_filterIsInstance = this$0.f6w_1;
             var tmp$ret$1;
             {
               var tmp0_filterIsInstanceTo = ArrayList_init_$Create$_0();
@@ -18042,13 +18219,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           while (tmp0_iterator_1.n()) {
             var element_1 = tmp0_iterator_1.o();
             {
-              var tmp0_safe_receiver = this$0.m7r();
+              var tmp0_safe_receiver = this$0.i7s();
               if (tmp0_safe_receiver == null)
                 null;
               else {
-                var tmp_6 = this$0.g7w();
-                var tmp_7 = this$0.f7w();
-                var tmp_8 = new TextView(element_1.n7z_1, tmp_6, tmp_7, 25, MainMenuScene$setup$lambda$lambda_1(element_1, this$0));
+                var tmp_6 = this$0.b7x();
+                var tmp_7 = this$0.a7x();
+                var tmp_8 = new TextView(element_1.h80_1, tmp_6, tmp_7, 25, MainMenuScene$setup$lambda$lambda_1(element_1, this$0));
                 tmp0_safe_receiver.t4w(tmp_8, 0, 2, null);
               }
             }
@@ -18057,11 +18234,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           tmp = Unit_getInstance();
           break;
         case 0:
-          this$0.o7r($ctx);
+          this$0.k7s($ctx);
           tmp = Unit_getInstance();
           break;
         case 2:
-          tmp = this$0.u7h().y6v_1.u5z();
+          tmp = this$0.q7i().c6t_1.u5z();
           break;
         default:
           tmp = Unit_getInstance();
@@ -18072,48 +18249,50 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function MainMenuScene(context, game, assets) {
     GameScene_init_$Init$(game, assets, context, null, 'mainmenu', 8, null, this);
-    this.i6v_1 = new MainMenuContext(mutableStateOf(context.q6w_1.v3s_1), mutableStateOf(context.r6w_1.v3s_1));
+    this.w6v_1 = new MainMenuContext(mutableStateOf(context.o6w_1.v3s_1), mutableStateOf(context.p6w_1.v3s_1));
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp.j6v_1 = tmp$ret$0;
-    this.k6v_1 = mutableStateOf(this.i7r().p6w_1.v3s_1.d6s());
-    this.l6v_1 = mutableStateOf(this.i7r().s6w_1.v3s_1.d6s());
-    this.m6v_1 = mutableStateOf(this.i6v_1.w6w_1.v3s_1.d6s());
-    this.n6v_1 = IntCompanionObject_getInstance().d1_1;
+    tmp.x6v_1 = tmp$ret$0;
+    this.y6v_1 = mutableStateOf(this.e7s().n6w_1.v3s_1.d6s());
+    this.z6v_1 = mutableStateOf(this.e7s().q6w_1.v3s_1.d6s());
+    this.a6w_1 = mutableStateOf(this.w6v_1.u6w_1.v3s_1.d6s());
+    this.b6w_1 = IntCompanionObject_getInstance().d1_1;
     var tmp_0 = this;
     var tmp$ret$1;
     {
       tmp$ret$1 = ArrayList_init_$Create$_0();
     }
-    tmp_0.r6v_1 = tmp$ret$1;
+    tmp_0.f6w_1 = tmp$ret$1;
     var tmp_1 = this;
     var tmp$ret$2;
     {
       tmp$ret$2 = ArrayList_init_$Create$_0();
     }
-    tmp_1.s6v_1 = tmp$ret$2;
+    tmp_1.g6w_1 = tmp$ret$2;
+    this.h6w_1 = false;
+    this.i6w_1 = false;
     var tmp_2 = this;
-    tmp_2.t6v_1 = lazy(MainMenuScene$map$delegate$lambda());
-    var tmp_3 = this.i7r().p6w_1;
+    tmp_2.j6w_1 = lazy(MainMenuScene$map$delegate$lambda());
+    var tmp_3 = this.e7s().n6w_1;
     tmp_3.b3t(MainMenuScene$lambda(this));
-    var tmp_4 = this.i7r().s6w_1;
+    var tmp_4 = this.e7s().q6w_1;
     tmp_4.b3t(MainMenuScene$lambda_0(this));
-    this.i6v_1.w6w_1.b3t(MainMenuScene$lambda_1(this));
+    this.w6v_1.u6w_1.b3t(MainMenuScene$lambda_1(this));
     _get_reloadLevels__5yzso3(this);
     var tmp$ret$3;
     {
-      var tmp0_with = this.i6v_1.x6w_1.v3s_1 + 1 | 0;
+      var tmp0_with = this.w6v_1.v6w_1.v3s_1 + 1 | 0;
       {
       }
-      this.o6v_1 = mutableStateOf(digit(tmp0_with, this, 1).toString());
-      this.p6v_1 = mutableStateOf(digit(tmp0_with, this, 2).toString());
-      this.q6v_1 = mutableStateOf(digit(tmp0_with, this, 3).toString());
+      this.c6w_1 = mutableStateOf(digit(tmp0_with, this, 1).toString());
+      this.d6w_1 = mutableStateOf(digit(tmp0_with, this, 2).toString());
+      this.e6w_1 = mutableStateOf(digit(tmp0_with, this, 3).toString());
       tmp$ret$3 = Unit_getInstance();
     }
-    this.i6v_1.x6w_1.b3t(MainMenuScene$lambda_2(this));
+    this.w6v_1.v6w_1.b3t(MainMenuScene$lambda_2(this));
     var levelHeight = _get_map__e6co1h(this).m();
     var levelWidth = first(_get_map__e6co1h(this)).length;
     var leftCol = 2;
@@ -18124,73 +18303,73 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     var labelsX = (rightCol + 2 | 0) + dx;
     var tmp0_this = this;
     {
-      var tmp1_plusAssign = tmp0_this.s6v_1;
+      var tmp1_plusAssign = tmp0_this.g6w_1;
       var tmp2_plusAssign = new StaticLabel('level set', labelsX, levelHeight - y + 1);
       tmp1_plusAssign.a(tmp2_plusAssign);
     }
     var tmp1_this = this;
     {
-      var tmp3_plusAssign = tmp1_this.r6v_1;
+      var tmp3_plusAssign = tmp1_this.f6w_1;
       var tmp_5 = new Vec2i(leftCol, y);
       var tmp4_plusAssign = new MenuCommand(tmp_5, MainMenuScene$lambda_3(game));
       tmp3_plusAssign.a(tmp4_plusAssign);
     }
     var tmp2_this = this;
     {
-      var tmp5_plusAssign = tmp2_this.r6v_1;
+      var tmp5_plusAssign = tmp2_this.f6w_1;
       var tmp_6 = new Vec2i(rightCol, y);
-      var tmp6_plusAssign = LabeledMenuCommand_init_$Create$(tmp_6, this.m6v_1, null, MainMenuScene$lambda_4(game), 4, null);
+      var tmp6_plusAssign = LabeledMenuCommand_init_$Create$(tmp_6, this.a6w_1, null, MainMenuScene$lambda_4(game), 4, null);
       tmp5_plusAssign.a(tmp6_plusAssign);
     }
     y = y + dy | 0;
     var origin = new Vec2i(rightCol + 2 | 0, y);
     var tmp3_this = this;
     {
-      var tmp7_plusAssign = tmp3_this.s6v_1;
+      var tmp7_plusAssign = tmp3_this.g6w_1;
       var tmp8_plusAssign = new StaticLabel('level', labelsX, levelHeight - y + 1);
       tmp7_plusAssign.a(tmp8_plusAssign);
     }
     var tmp4_this = this;
     {
-      var tmp9_plusAssign = tmp4_this.r6v_1;
+      var tmp9_plusAssign = tmp4_this.f6w_1;
       var tmp_7 = plus_1(origin, new Vec2i(0, -1));
       var tmp_8 = new Vec2i(0, -1);
-      var tmp10_plusAssign = new LabeledMenuCommand(tmp_7, this.q6v_1, tmp_8, MainMenuScene$lambda_5(game));
+      var tmp10_plusAssign = new LabeledMenuCommand(tmp_7, this.e6w_1, tmp_8, MainMenuScene$lambda_5(game));
       tmp9_plusAssign.a(tmp10_plusAssign);
     }
     var tmp5_this = this;
     {
-      var tmp11_plusAssign = tmp5_this.r6v_1;
+      var tmp11_plusAssign = tmp5_this.f6w_1;
       var tmp_9 = plus_1(origin, new Vec2i(0, 1));
       var tmp12_plusAssign = new MenuCommand(tmp_9, MainMenuScene$lambda_6(game));
       tmp11_plusAssign.a(tmp12_plusAssign);
     }
     var tmp6_this = this;
     {
-      var tmp13_plusAssign = tmp6_this.r6v_1;
+      var tmp13_plusAssign = tmp6_this.f6w_1;
       var tmp_10 = plus_1(origin, new Vec2i(1, -1));
       var tmp_11 = new Vec2i(0, -1);
-      var tmp14_plusAssign = new LabeledMenuCommand(tmp_10, this.p6v_1, tmp_11, MainMenuScene$lambda_7(game));
+      var tmp14_plusAssign = new LabeledMenuCommand(tmp_10, this.d6w_1, tmp_11, MainMenuScene$lambda_7(game));
       tmp13_plusAssign.a(tmp14_plusAssign);
     }
     var tmp7_this = this;
     {
-      var tmp15_plusAssign = tmp7_this.r6v_1;
+      var tmp15_plusAssign = tmp7_this.f6w_1;
       var tmp_12 = plus_1(origin, new Vec2i(1, 1));
       var tmp16_plusAssign = new MenuCommand(tmp_12, MainMenuScene$lambda_8(game));
       tmp15_plusAssign.a(tmp16_plusAssign);
     }
     var tmp8_this = this;
     {
-      var tmp17_plusAssign = tmp8_this.r6v_1;
+      var tmp17_plusAssign = tmp8_this.f6w_1;
       var tmp_13 = plus_1(origin, new Vec2i(2, -1));
       var tmp_14 = new Vec2i(0, -1);
-      var tmp18_plusAssign = new LabeledMenuCommand(tmp_13, this.o6v_1, tmp_14, MainMenuScene$lambda_9(game));
+      var tmp18_plusAssign = new LabeledMenuCommand(tmp_13, this.c6w_1, tmp_14, MainMenuScene$lambda_9(game));
       tmp17_plusAssign.a(tmp18_plusAssign);
     }
     var tmp9_this = this;
     {
-      var tmp19_plusAssign = tmp9_this.r6v_1;
+      var tmp19_plusAssign = tmp9_this.f6w_1;
       var tmp_15 = plus_1(origin, new Vec2i(2, 1));
       var tmp20_plusAssign = new MenuCommand(tmp_15, MainMenuScene$lambda_10(game));
       tmp19_plusAssign.a(tmp20_plusAssign);
@@ -18198,48 +18377,48 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     y = y + dy | 0;
     var tmp10_this = this;
     {
-      var tmp21_plusAssign = tmp10_this.s6v_1;
+      var tmp21_plusAssign = tmp10_this.g6w_1;
       var tmp22_plusAssign = new StaticLabel('speed', labelsX, levelHeight - y + 1);
       tmp21_plusAssign.a(tmp22_plusAssign);
     }
     var tmp11_this = this;
     {
-      var tmp23_plusAssign = tmp11_this.r6v_1;
+      var tmp23_plusAssign = tmp11_this.f6w_1;
       var tmp_16 = new Vec2i(leftCol, y);
       var tmp24_plusAssign = new MenuCommand(tmp_16, MainMenuScene$lambda_11(game));
       tmp23_plusAssign.a(tmp24_plusAssign);
     }
     var tmp12_this = this;
     {
-      var tmp25_plusAssign = tmp12_this.r6v_1;
+      var tmp25_plusAssign = tmp12_this.f6w_1;
       var tmp_17 = new Vec2i(rightCol, y);
-      var tmp26_plusAssign = LabeledMenuCommand_init_$Create$(tmp_17, this.l6v_1, null, MainMenuScene$lambda_12(game), 4, null);
+      var tmp26_plusAssign = LabeledMenuCommand_init_$Create$(tmp_17, this.z6v_1, null, MainMenuScene$lambda_12(game), 4, null);
       tmp25_plusAssign.a(tmp26_plusAssign);
     }
     y = y + dy | 0;
     var tmp13_this = this;
     {
-      var tmp27_plusAssign = tmp13_this.s6v_1;
+      var tmp27_plusAssign = tmp13_this.g6w_1;
       var tmp28_plusAssign = new StaticLabel('sprites', labelsX, levelHeight - y + 1);
       tmp27_plusAssign.a(tmp28_plusAssign);
     }
     var tmp14_this = this;
     {
-      var tmp29_plusAssign = tmp14_this.r6v_1;
+      var tmp29_plusAssign = tmp14_this.f6w_1;
       var tmp_18 = new Vec2i(leftCol, y);
       var tmp30_plusAssign = new MenuCommand(tmp_18, MainMenuScene$lambda_13(game));
       tmp29_plusAssign.a(tmp30_plusAssign);
     }
     var tmp15_this = this;
     {
-      var tmp31_plusAssign = tmp15_this.r6v_1;
+      var tmp31_plusAssign = tmp15_this.f6w_1;
       var tmp_19 = new Vec2i(rightCol, y);
-      var tmp32_plusAssign = LabeledMenuCommand_init_$Create$(tmp_19, this.k6v_1, null, MainMenuScene$lambda_14(game), 4, null);
+      var tmp32_plusAssign = LabeledMenuCommand_init_$Create$(tmp_19, this.y6v_1, null, MainMenuScene$lambda_14(game), 4, null);
       tmp31_plusAssign.a(tmp32_plusAssign);
     }
     var tmp16_this = this;
     {
-      var tmp33_plusAssign = tmp16_this.r6v_1;
+      var tmp33_plusAssign = tmp16_this.f6w_1;
       var tmp_20 = new Vec2i(7, levelHeight - 1 | 0);
       var tmp_21 = mutableStateOf('continue game');
       var tmp34_plusAssign = LabeledMenuCommand_init_$Create$(tmp_20, tmp_21, null, MainMenuScene$lambda_15(), 4, null);
@@ -18247,48 +18426,48 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     var tmp17_this = this;
     {
-      var tmp35_plusAssign = tmp17_this.r6v_1;
+      var tmp35_plusAssign = tmp17_this.f6w_1;
       var tmp_22 = new Vec2i(4, 0);
       var tmp_23 = mutableStateOf('new game');
       var tmp_24 = new Vec2i(0, 2);
       var tmp36_plusAssign = new LabeledMenuCommand(tmp_22, tmp_23, tmp_24, MainMenuScene$lambda_16());
       tmp35_plusAssign.a(tmp36_plusAssign);
     }
-    this.u6v_1 = mutableStateOf('' + game.y6v_1.e23() + ' x ' + game.y6v_1.g23());
+    this.k6w_1 = mutableStateOf('' + game.c6t_1.e23() + ' x ' + game.c6t_1.g23());
   }
-  MainMenuScene.prototype.o7o = function (ctx) {
-    GameScene.prototype.o7o.call(this, ctx);
-    var tmp = this.u7h();
+  MainMenuScene.prototype.k7p = function (ctx) {
+    GameScene.prototype.k7p.call(this, ctx);
+    var tmp = this.q7i();
     var tmp$ret$0;
     {
       var tmp_0 = _get_map__e6co1h(this);
-      var tmp_1 = this.j7r().d7a_1;
+      var tmp_1 = this.f7s().h7b_1;
       var tmp0_also = GameLevel_init_$Create$(0, tmp_0, tmp_1, 0, 8, null);
       {
       }
       {
-        tmp0_also.o7d_1 = this.r7r();
+        tmp0_also.t7e_1 = this.n7s();
       }
       tmp$ret$0 = tmp0_also;
     }
-    tmp.p7j(tmp$ret$0);
-    var tmp0_this = this.u7h();
+    tmp.l7k(tmp$ret$0);
+    var tmp0_this = this.q7i();
     {
-      var tmp1_plusAssign = tmp0_this.k6w_1;
+      var tmp1_plusAssign = tmp0_this.o6t_1;
       tmp1_plusAssign.a(MainMenuScene$setup$lambda(this));
     }
-    var tmp1_this = this.u7h();
+    var tmp1_this = this.q7i();
     {
-      var tmp2_plusAssign = tmp1_this.j6w_1;
+      var tmp2_plusAssign = tmp1_this.n6t_1;
       tmp2_plusAssign.a(MainMenuScene$setup$lambda_0(this, ctx));
     }
-    this.u7h().s7j();
+    this.q7i().o7k();
   };
   MainMenuScene.prototype.l4p = function (ctx) {
-    this.u7h().y6v_1.u5z();
+    this.q7i().c6t_1.u5z();
     GameScene.prototype.l4p.call(this, ctx);
-    unregisterActions(ctx.t2d(), this.j6v_1);
-    this.j6v_1.t7();
+    unregisterActions(ctx.t2d(), this.x6v_1);
+    this.x6v_1.t7();
   };
   MainMenuScene.$metadata$ = classMeta('MainMenuScene', undefined, undefined, undefined, undefined, GameScene.prototype);
   function map$factory() {
@@ -18298,7 +18477,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function CRTShader$Model$lambda$lambda$lambda(this$0, $n, $size, $fragCoord, $TAU, $YIQ, $tex) {
     return function ($this$for, it) {
-      var pos = $this$for.u3n(plus(this$0.o80_1.z36(), $this$for.m3n(div(toFloat1($n), toFloat1(get_x($size))), $this$for.m38(0.0))), 'pos');
+      var pos = $this$for.u3n(plus(this$0.i81_1.z36(), $this$for.m3n(div(toFloat1($n), toFloat1(get_x($size))), $this$for.m38(0.0))), 'pos');
       var phase = $this$for.s3n(div(times(toFloat1(plus_0(get_x($fragCoord), $n)), $TAU), $this$for.m38(4.0)), 'phase');
       $this$for.x33($YIQ, times_0(get_rgb($this$for.g36($tex, pos, null, 4, null)), $this$for.n3n($this$for.m38(1.0), $this$for.c3p(phase), $this$for.d3p(phase))));
       return Unit_getInstance();
@@ -18310,14 +18489,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var YIQ2RGB = $this$main.f3o($this$main.r3n($this$main.n3n($this$main.m38(1.0), $this$main.m38(1.0), $this$main.m38(1.0)), $this$main.n3n($this$main.m38(0.956), $this$main.m38(-0.272), $this$main.m38(-1.106)), $this$main.n3n($this$main.m38(0.621), $this$main.m38(-0.647), $this$main.m38(1.703))), 'YIQ2RGB');
       var tex = this$0.a32('tex');
       var size = $this$main.a3o($this$main.i3p(tex, null, 2, null), 'size');
-      var fragCoord = $this$main.a3o(toInt2(times_0(this$0.o80_1.z36(), toFloat2(size))), 'fragCoord');
+      var fragCoord = $this$main.a3o(toInt2(times_0(this$0.i81_1.z36(), toFloat2(size))), 'fragCoord');
       var YIQ = $this$main.w3n($this$main.g3n(0.0), 'YIQ');
       var n = $this$main.y3n($this$main.i3n(-2), 'n');
       var tmp = lt(n, $this$main.i3n(2));
       var tmp_0 = $this$main.i3n(1);
       $this$main.j3o(n, tmp, tmp_0, CRTShader$Model$lambda$lambda$lambda(this$0, n, size, fragCoord, TAU, YIQ, tex));
       $this$main.m3o(YIQ, $this$main.g3n(4.0));
-      var tmp_1 = this$0.o80_1.z36();
+      var tmp_1 = this$0.i81_1.z36();
       var tmp_2 = $this$main.g36(tex, tmp_1, null, 4, null);
       $this_fragmentStage.a3q($this$main, tmp_2, 0, 2, null);
       return Unit_getInstance();
@@ -18332,58 +18511,58 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Model() {
     KslProgram.call(this, 'NTSC emulate');
     var tmp = this;
-    tmp.o80_1 = this.c32('uv', null, 2, null);
+    tmp.i81_1 = this.c32('uv', null, 2, null);
     this.v3m(true);
-    FullscreenShaderUtil_getInstance().t4z(this, this.o80_1);
+    FullscreenShaderUtil_getInstance().t4z(this, this.i81_1);
     this.t31(CRTShader$Model$lambda(this));
   }
   Model.$metadata$ = classMeta('Model', undefined, undefined, undefined, undefined, KslProgram.prototype);
   function CRTShader() {
     KslShader.call(this, new Model(), FullscreenShaderUtil_getInstance().q4z_1);
     var tmp = this;
-    tmp.m7u_1 = this.x2y('intensity', null, 2, null);
+    tmp.h7v_1 = this.x2y('intensity', null, 2, null);
     var tmp_0 = this;
-    tmp_0.n7u_1 = this.z2y('video_size', null, 2, null);
+    tmp_0.i7v_1 = this.z2y('video_size', null, 2, null);
     var tmp_1 = this;
-    tmp_1.o7u_1 = this.z2y('output_size', null, 2, null);
+    tmp_1.j7v_1 = this.z2y('output_size', null, 2, null);
     var tmp_2 = this;
-    tmp_2.p7u_1 = this.x2y('frame_count', null, 2, null);
+    tmp_2.k7v_1 = this.x2y('frame_count', null, 2, null);
     var tmp_3 = this;
-    tmp_3.q7u_1 = this.x2y('frame_direction', null, 2, null);
+    tmp_3.l7v_1 = this.x2y('frame_direction', null, 2, null);
     var tmp_4 = this;
-    tmp_4.r7u_1 = this.g2z('tex', null, 2, null);
+    tmp_4.m7v_1 = this.g2z('tex', null, 2, null);
   }
-  CRTShader.prototype.s7u = function (_set____db54di) {
-    return this.r7u_1.m2w(this, tex$factory(), _set____db54di);
+  CRTShader.prototype.n7v = function (_set____db54di) {
+    return this.m7v_1.m2w(this, tex$factory(), _set____db54di);
   };
-  CRTShader.prototype.e7a = function () {
-    return this.r7u_1.x2u(this, tex$factory_0());
+  CRTShader.prototype.i7b = function () {
+    return this.m7v_1.x2u(this, tex$factory_0());
   };
   CRTShader.$metadata$ = classMeta('CRTShader', undefined, undefined, undefined, undefined, KslShader.prototype);
   function tex$factory() {
     return getPropertyCallableRef('tex', 1, KMutableProperty1, function (receiver) {
-      return receiver.e7a();
+      return receiver.i7b();
     }, function (receiver, value) {
-      return receiver.s7u(value);
+      return receiver.n7v(value);
     });
   }
   function tex$factory_0() {
     return getPropertyCallableRef('tex', 1, KMutableProperty1, function (receiver) {
-      return receiver.e7a();
+      return receiver.i7b();
     }, function (receiver, value) {
-      return receiver.s7u(value);
+      return receiver.n7v(value);
     });
   }
   function MaskShader$MaskModel$lambda$lambda(this$0, $this_vertexStage, $cfg) {
     return function ($this$main) {
       var tmp = mvpMatrix(this$0).u2h();
       var mvp = $this$main.v2z(tmp, null, 2, null);
-      $this$main.q30(this$0.b81_1.w37(), $this_vertexStage.r39(Companion_getInstance_10().z2z_1.g2t_1));
+      $this$main.q30(this$0.v81_1.w37(), $this_vertexStage.r39(Companion_getInstance_11().z2z_1.g2t_1));
       var tmp_0;
       if ($cfg.l30_1) {
-        tmp_0 = $this$main.i30(mvp, $this_vertexStage.h30(Companion_getInstance_10().f30_1.g2t_1));
+        tmp_0 = $this$main.i30(mvp, $this_vertexStage.h30(Companion_getInstance_11().f30_1.g2t_1));
       }
-      $this$main.q30($this_vertexStage.m2s_1, times_1(mvp, $this$main.p30($this_vertexStage.o30(Companion_getInstance_10().w2z_1.g2t_1), 1.0)));
+      $this$main.q30($this_vertexStage.m2s_1, times_1(mvp, $this$main.p30($this_vertexStage.o30(Companion_getInstance_11().w2z_1.g2t_1), 1.0)));
       return Unit_getInstance();
     };
   }
@@ -18424,7 +18603,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp = toFloat2($this$main.i3p(tex, null, 2, null));
       var texSize = $this$main.v3n(tmp, null, 2, null);
       var div_1 = $this$main.m38(2.0);
-      var centered = minus(this$0.b81_1.z36(), $this$main.f3n(0.5));
+      var centered = minus(this$0.v81_1.z36(), $this$main.f3n(0.5));
       var tmp_0 = ge($this$main.t3o($this$main.s3o(div_0(times_0(texSize, centered), div_1))), div(darkRadius, div_1));
       var tmp_1 = $this$main.h3o(tmp_0, MaskShader$MaskModel$lambda$lambda$lambda($this_fragmentStage));
       tmp_1.x3l(MaskShader$MaskModel$lambda$lambda$lambda_0($cfg, $this_fragmentStage));
@@ -18462,7 +18641,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function MaskModel(cfg) {
     KslProgram.call(this, 'Mask Shader');
     var tmp = this;
-    tmp.b81_1 = this.c32('uv', null, 2, null);
+    tmp.v81_1 = this.c32('uv', null, 2, null);
     this.s31(MaskShader$MaskModel$lambda(this, cfg));
     this.t31(MaskShader$MaskModel$lambda_0(this, cfg));
     var tmp0_safe_receiver = cfg.n30_1;
@@ -18475,27 +18654,27 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function MaskShader(cfg, model) {
     KslUnlitShader.call(this, cfg, model);
     var tmp = this;
-    tmp.f7v_1 = this.x2y('radius', null, 2, null);
+    tmp.a7w_1 = this.x2y('radius', null, 2, null);
   }
-  MaskShader.prototype.g7v = function (_set____db54di) {
-    return this.f7v_1.y2u(this, visibleRadius$factory(), _set____db54di);
+  MaskShader.prototype.b7w = function (_set____db54di) {
+    return this.a7w_1.y2u(this, visibleRadius$factory(), _set____db54di);
   };
-  MaskShader.prototype.c81 = function () {
-    return this.f7v_1.x2u(this, visibleRadius$factory_0());
+  MaskShader.prototype.w81 = function () {
+    return this.a7w_1.x2u(this, visibleRadius$factory_0());
   };
   MaskShader.$metadata$ = classMeta('MaskShader', undefined, undefined, undefined, undefined, KslUnlitShader.prototype);
   function visibleRadius$factory() {
     return getPropertyCallableRef('visibleRadius', 1, KMutableProperty1, function (receiver) {
-      return receiver.c81();
+      return receiver.w81();
     }, function (receiver, value) {
-      return receiver.g7v(value);
+      return receiver.b7w(value);
     });
   }
   function visibleRadius$factory_0() {
     return getPropertyCallableRef('visibleRadius', 1, KMutableProperty1, function (receiver) {
-      return receiver.c81();
+      return receiver.w81();
     }, function (receiver, value) {
-      return receiver.g7v(value);
+      return receiver.b7w(value);
     });
   }
   function TileMapShaderConf() {
@@ -18503,8 +18682,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   TileMapShaderConf.$metadata$ = classMeta('TileMapShaderConf');
   function TileMapShader$Program$lambda$lambda(this$0, $this_vertexStage, $uMvp) {
     return function ($this$main) {
-      $this$main.q30(this$0.p81_1.w37(), $this_vertexStage.r39(Companion_getInstance_10().z2z_1.g2t_1));
-      $this$main.q30($this_vertexStage.m2s_1, times_1($uMvp.u2h(), $this$main.p30($this_vertexStage.o30(Companion_getInstance_10().w2z_1.g2t_1), 1.0)));
+      $this$main.q30(this$0.j82_1.w37(), $this_vertexStage.r39(Companion_getInstance_11().z2z_1.g2t_1));
+      $this$main.q30($this_vertexStage.m2s_1, times_1($uMvp.u2h(), $this$main.p30($this_vertexStage.o30(Companion_getInstance_11().w2z_1.g2t_1), 1.0)));
       return Unit_getInstance();
     };
   }
@@ -18519,7 +18698,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$main) {
       var tmp = $this$main.k3p($tileSet, null, 2, null);
       var tileSetSize = $this$main.c3o(tmp, null, 2, null);
-      var inField = times_0($fieldSize, this$0.p81_1.z36());
+      var inField = times_0($fieldSize, this$0.j82_1.z36());
       var tilePos = $this$main.s3o(inField);
       var xyWithinTile = times_0(minus(inField, tilePos), toFloat2($tileSize));
       var tmp_0 = toInt2(tilePos);
@@ -18557,7 +18736,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Program(conf) {
     KslProgram.call(this, 'tilemap');
     var tmp = this;
-    tmp.p81_1 = this.c32('uv', null, 2, null);
+    tmp.j82_1 = this.c32('uv', null, 2, null);
     this.s31(TileMapShader$Program$lambda(this));
     this.t31(TileMapShader$Program$lambda_0(this));
   }
@@ -18578,140 +18757,140 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     KslShader.call(this, tmp, tmp$ret$0);
     var tmp_0 = this;
-    tmp_0.a82_1 = this.i2z('tiles', null, 2, null);
+    tmp_0.u82_1 = this.i2z('tiles', null, 2, null);
     var tmp_1 = this;
-    tmp_1.b82_1 = this.e2z('tileSize', null, 2, null);
+    tmp_1.v82_1 = this.e2z('tileSize', null, 2, null);
     var tmp_2 = this;
-    tmp_2.c82_1 = this.e2z('tileSizeInTileMap', null, 2, null);
+    tmp_2.w82_1 = this.e2z('tileSizeInTileMap', null, 2, null);
     var tmp_3 = this;
-    tmp_3.d82_1 = this.g2z('tileMap', null, 2, null);
+    tmp_3.x82_1 = this.g2z('tileMap', null, 2, null);
     var tmp_4 = this;
-    tmp_4.e82_1 = this.z2y('size', null, 2, null);
+    tmp_4.y82_1 = this.z2y('size', null, 2, null);
     var tmp_5 = this;
-    tmp_5.f82_1 = this.x2y('time', null, 2, null);
+    tmp_5.z82_1 = this.x2y('time', null, 2, null);
   }
-  TileMapShader.prototype.g82 = function (_set____db54di) {
-    return this.a82_1.b2x(this, tiles$factory(), _set____db54di);
+  TileMapShader.prototype.a83 = function (_set____db54di) {
+    return this.u82_1.b2x(this, tiles$factory(), _set____db54di);
   };
-  TileMapShader.prototype.h82 = function () {
-    return this.a82_1.x2u(this, tiles$factory_0());
+  TileMapShader.prototype.b83 = function () {
+    return this.u82_1.x2u(this, tiles$factory_0());
   };
-  TileMapShader.prototype.i82 = function (_set____db54di) {
-    this.b82_1.v2v(this, tileSize$factory(), _set____db54di);
+  TileMapShader.prototype.c83 = function (_set____db54di) {
+    this.v82_1.v2v(this, tileSize$factory(), _set____db54di);
     return Unit_getInstance();
   };
   TileMapShader.prototype.g6s = function () {
-    return this.b82_1.x2u(this, tileSize$factory_0());
+    return this.v82_1.x2u(this, tileSize$factory_0());
   };
-  TileMapShader.prototype.j82 = function (_set____db54di) {
-    this.c82_1.v2v(this, tileSizeInTileMap$factory(), _set____db54di);
+  TileMapShader.prototype.d83 = function (_set____db54di) {
+    this.w82_1.v2v(this, tileSizeInTileMap$factory(), _set____db54di);
     return Unit_getInstance();
   };
-  TileMapShader.prototype.k82 = function () {
-    return this.c82_1.x2u(this, tileSizeInTileMap$factory_0());
+  TileMapShader.prototype.e83 = function () {
+    return this.w82_1.x2u(this, tileSizeInTileMap$factory_0());
   };
-  TileMapShader.prototype.l82 = function (_set____db54di) {
-    return this.d82_1.m2w(this, field$factory(), _set____db54di);
+  TileMapShader.prototype.f83 = function (_set____db54di) {
+    return this.x82_1.m2w(this, field$factory(), _set____db54di);
   };
   TileMapShader.prototype.u4k = function () {
-    return this.d82_1.x2u(this, field$factory_0());
+    return this.x82_1.x2u(this, field$factory_0());
   };
-  TileMapShader.prototype.m82 = function (_set____db54di) {
-    this.e82_1.e2v(this, fieldSize$factory(), _set____db54di);
+  TileMapShader.prototype.g83 = function (_set____db54di) {
+    this.y82_1.e2v(this, fieldSize$factory(), _set____db54di);
     return Unit_getInstance();
   };
-  TileMapShader.prototype.n82 = function () {
-    return this.e82_1.x2u(this, fieldSize$factory_0());
+  TileMapShader.prototype.h83 = function () {
+    return this.y82_1.x2u(this, fieldSize$factory_0());
   };
-  TileMapShader.prototype.o82 = function (_set____db54di) {
-    return this.f82_1.y2u(this, time$factory(), _set____db54di);
+  TileMapShader.prototype.i83 = function (_set____db54di) {
+    return this.z82_1.y2u(this, time$factory(), _set____db54di);
   };
   TileMapShader.prototype.e58 = function () {
-    return this.f82_1.x2u(this, time$factory_0());
+    return this.z82_1.x2u(this, time$factory_0());
   };
   TileMapShader.$metadata$ = classMeta('TileMapShader', undefined, undefined, undefined, undefined, KslShader.prototype);
   function tiles$factory() {
     return getPropertyCallableRef('tiles', 1, KMutableProperty1, function (receiver) {
-      return receiver.h82();
+      return receiver.b83();
     }, function (receiver, value) {
-      return receiver.g82(value);
+      return receiver.a83(value);
     });
   }
   function tiles$factory_0() {
     return getPropertyCallableRef('tiles', 1, KMutableProperty1, function (receiver) {
-      return receiver.h82();
+      return receiver.b83();
     }, function (receiver, value) {
-      return receiver.g82(value);
+      return receiver.a83(value);
     });
   }
   function tileSize$factory() {
     return getPropertyCallableRef('tileSize', 1, KMutableProperty1, function (receiver) {
       return receiver.g6s();
     }, function (receiver, value) {
-      return receiver.i82(value);
+      return receiver.c83(value);
     });
   }
   function tileSize$factory_0() {
     return getPropertyCallableRef('tileSize', 1, KMutableProperty1, function (receiver) {
       return receiver.g6s();
     }, function (receiver, value) {
-      return receiver.i82(value);
+      return receiver.c83(value);
     });
   }
   function tileSizeInTileMap$factory() {
     return getPropertyCallableRef('tileSizeInTileMap', 1, KMutableProperty1, function (receiver) {
-      return receiver.k82();
+      return receiver.e83();
     }, function (receiver, value) {
-      return receiver.j82(value);
+      return receiver.d83(value);
     });
   }
   function tileSizeInTileMap$factory_0() {
     return getPropertyCallableRef('tileSizeInTileMap', 1, KMutableProperty1, function (receiver) {
-      return receiver.k82();
+      return receiver.e83();
     }, function (receiver, value) {
-      return receiver.j82(value);
+      return receiver.d83(value);
     });
   }
   function field$factory() {
     return getPropertyCallableRef('field', 1, KMutableProperty1, function (receiver) {
       return receiver.u4k();
     }, function (receiver, value) {
-      return receiver.l82(value);
+      return receiver.f83(value);
     });
   }
   function field$factory_0() {
     return getPropertyCallableRef('field', 1, KMutableProperty1, function (receiver) {
       return receiver.u4k();
     }, function (receiver, value) {
-      return receiver.l82(value);
+      return receiver.f83(value);
     });
   }
   function fieldSize$factory() {
     return getPropertyCallableRef('fieldSize', 1, KMutableProperty1, function (receiver) {
-      return receiver.n82();
+      return receiver.h83();
     }, function (receiver, value) {
-      return receiver.m82(value);
+      return receiver.g83(value);
     });
   }
   function fieldSize$factory_0() {
     return getPropertyCallableRef('fieldSize', 1, KMutableProperty1, function (receiver) {
-      return receiver.n82();
+      return receiver.h83();
     }, function (receiver, value) {
-      return receiver.m82(value);
+      return receiver.g83(value);
     });
   }
   function time$factory() {
     return getPropertyCallableRef('time', 1, KMutableProperty1, function (receiver) {
       return receiver.e58();
     }, function (receiver, value) {
-      return receiver.o82(value);
+      return receiver.i83(value);
     });
   }
   function time$factory_0() {
     return getPropertyCallableRef('time', 1, KMutableProperty1, function (receiver) {
       return receiver.e58();
     }, function (receiver, value) {
-      return receiver.o82(value);
+      return receiver.i83(value);
     });
   }
   function pop(_this__u8e3s4) {
@@ -18725,34 +18904,34 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return lastOrNull(_this__u8e3s4);
   }
   function StackedStateEdge(targetState, replace, weight) {
-    this.s7d_1 = targetState;
-    this.t7d_1 = replace;
-    this.u7d_1 = weight;
+    this.x7e_1 = targetState;
+    this.y7e_1 = replace;
+    this.z7e_1 = weight;
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp.v7d_1 = tmp$ret$0;
+    tmp.a7f_1 = tmp$ret$0;
     var tmp_0 = this;
     var tmp$ret$1;
     {
       tmp$ret$1 = ArrayList_init_$Create$_0();
     }
-    tmp_0.w7d_1 = tmp$ret$1;
+    tmp_0.b7f_1 = tmp$ret$1;
   }
   StackedStateEdge.prototype.a5v = function () {
-    return this.u7d_1;
+    return this.z7e_1;
   };
-  StackedStateEdge.prototype.y7d = function (action) {
-    return push(this.w7d_1, action);
+  StackedStateEdge.prototype.d7f = function (action) {
+    return push(this.b7f_1, action);
   };
-  StackedStateEdge.prototype.x7d = function (guard) {
-    return push(this.v7d_1, guard);
+  StackedStateEdge.prototype.c7f = function (guard) {
+    return push(this.a7f_1, guard);
   };
-  StackedStateEdge.prototype.p82 = function (retrieveState) {
+  StackedStateEdge.prototype.j83 = function (retrieveState) {
     {
-      var tmp0_forEach = this.w7d_1;
+      var tmp0_forEach = this.b7f_1;
       var tmp0_iterator = tmp0_forEach.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
@@ -18761,12 +18940,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         }
       }
     }
-    return retrieveState(this.s7d_1);
+    return retrieveState(this.x7e_1);
   };
-  StackedStateEdge.prototype.q82 = function (event) {
+  StackedStateEdge.prototype.k83 = function (event) {
     var tmp$ret$0;
     $l$block_0: {
-      var tmp0_any = this.v7d_1;
+      var tmp0_any = this.a7f_1;
       var tmp;
       if (isInterface(tmp0_any, Collection)) {
         tmp = tmp0_any.q();
@@ -18795,10 +18974,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   };
   StackedStateEdge.$metadata$ = classMeta('StackedStateEdge');
   function sam$kotlin_Comparator$0(function_0) {
-    this.r82_1 = function_0;
+    this.l83_1 = function_0;
   }
   sam$kotlin_Comparator$0.prototype.y = function (a, b) {
-    return this.r82_1(a, b);
+    return this.l83_1(a, b);
   };
   sam$kotlin_Comparator$0.prototype.compare = function (a, b) {
     return this.y(a, b);
@@ -18810,12 +18989,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       {
         var tmp$ret$0;
         {
-          tmp$ret$0 = a.u7d_1;
+          tmp$ret$0 = a.z7e_1;
         }
         var tmp = tmp$ret$0;
         var tmp$ret$1;
         {
-          tmp$ret$1 = b.u7d_1;
+          tmp$ret$1 = b.z7e_1;
         }
         tmp$ret$2 = compareValues(tmp, tmp$ret$1);
       }
@@ -18823,56 +19002,56 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     };
   }
   function StackedState(name) {
-    this.y6z_1 = name;
+    this.w6w_1 = name;
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp.z6z_1 = tmp$ret$0;
+    tmp.x6w_1 = tmp$ret$0;
     var tmp_0 = this;
     var tmp$ret$1;
     {
       tmp$ret$1 = ArrayList_init_$Create$_0();
     }
-    tmp_0.a70_1 = tmp$ret$1;
+    tmp_0.y6w_1 = tmp$ret$1;
     var tmp_1 = this;
     var tmp$ret$2;
     {
       tmp$ret$2 = ArrayList_init_$Create$_0();
     }
-    tmp_1.b70_1 = tmp$ret$2;
+    tmp_1.z6w_1 = tmp$ret$2;
     var tmp_2 = this;
     var tmp$ret$3;
     {
       tmp$ret$3 = ArrayList_init_$Create$_0();
     }
-    tmp_2.c70_1 = tmp$ret$3;
+    tmp_2.a6x_1 = tmp$ret$3;
   }
   StackedState.prototype.il = function () {
-    return this.y6z_1;
+    return this.w6w_1;
   };
-  StackedState.prototype.h75 = function (action) {
-    return push(this.z6z_1, action);
+  StackedState.prototype.b6x = function (action) {
+    return push(this.x6w_1, action);
   };
-  StackedState.prototype.i75 = function (action) {
-    return push(this.a70_1, action);
+  StackedState.prototype.c6x = function (action) {
+    return push(this.y6w_1, action);
   };
-  StackedState.prototype.w7f = function (action) {
-    return push(this.b70_1, action);
+  StackedState.prototype.d6x = function (action) {
+    return push(this.z6w_1, action);
   };
-  StackedState.prototype.x7f = function () {
-    return this.c7g();
+  StackedState.prototype.e6x = function () {
+    return this.k6x();
   };
-  StackedState.prototype.y7f = function (previous) {
-    return this.b7g(previous);
+  StackedState.prototype.f6x = function (previous) {
+    return this.j6x(previous);
   };
-  StackedState.prototype.z7f = function (targetState, replace, weight, init) {
+  StackedState.prototype.g6x = function (targetState, replace, weight, init) {
     var edge = new StackedStateEdge(targetState, replace, weight);
     init(edge);
-    this.c70_1.a(edge);
+    this.a6x_1.a(edge);
     {
-      var tmp0_sortBy = this.c70_1;
+      var tmp0_sortBy = this.a6x_1;
       if (tmp0_sortBy.m() > 1) {
         var tmp$ret$0;
         {
@@ -18883,23 +19062,23 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
     }
   };
-  StackedState.prototype.j75 = function (targetState, replace, weight, init, $mask0, $handler) {
+  StackedState.prototype.h6x = function (targetState, replace, weight, init, $mask0, $handler) {
     if (!(($mask0 & 2) === 0))
       replace = true;
     if (!(($mask0 & 4) === 0))
       weight = 0;
-    return this.z7f(targetState, replace, weight, init);
+    return this.g6x(targetState, replace, weight, init);
   };
-  StackedState.prototype.a7g = function (event) {
+  StackedState.prototype.i6x = function (event) {
     var tmp$ret$1;
     $l$block: {
-      var tmp0_firstOrNull = this.c70_1;
+      var tmp0_firstOrNull = this.a6x_1;
       var tmp0_iterator = tmp0_firstOrNull.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
         var tmp$ret$0;
         {
-          tmp$ret$0 = element.q82(event);
+          tmp$ret$0 = element.k83(event);
         }
         if (tmp$ret$0) {
           tmp$ret$1 = element;
@@ -18910,8 +19089,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return tmp$ret$1;
   };
-  StackedState.prototype.b7g = function (previous) {
-    var tmp0_forEach = this.z6z_1;
+  StackedState.prototype.j6x = function (previous) {
+    var tmp0_forEach = this.x6w_1;
     var tmp0_iterator = tmp0_forEach.h();
     while (tmp0_iterator.n()) {
       var element = tmp0_iterator.o();
@@ -18921,8 +19100,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return Unit_getInstance();
   };
-  StackedState.prototype.c7g = function () {
-    var tmp0_forEach = reversed(this.a70_1);
+  StackedState.prototype.k6x = function () {
+    var tmp0_forEach = reversed(this.y6w_1);
     var tmp0_iterator = tmp0_forEach.h();
     while (tmp0_iterator.n()) {
       var element = tmp0_iterator.o();
@@ -18932,10 +19111,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return Unit_getInstance();
   };
-  StackedState.prototype.d7g = function (event) {
+  StackedState.prototype.l6x = function (event) {
     var tmp$ret$1;
     $l$block: {
-      var tmp0_firstNotNullOfOrNull = this.b70_1;
+      var tmp0_firstNotNullOfOrNull = this.z6w_1;
       var tmp0_iterator = tmp0_firstNotNullOfOrNull.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
@@ -18956,50 +19135,50 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   StackedState.$metadata$ = classMeta('StackedState');
   function StackedStateMachine$update$lambda(this$0) {
     return function (it) {
-      return this$0.r7k(it);
+      return this$0.l7l(it);
     };
   }
   function StackedStateMachine(initialState) {
-    this.v71_1 = initialState;
+    this.y72_1 = initialState;
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp.w71_1 = tmp$ret$0;
+    tmp.z72_1 = tmp$ret$0;
     var tmp_0 = this;
     var tmp$ret$1;
     {
       tmp$ret$1 = ArrayList_init_$Create$_0();
     }
-    tmp_0.x71_1 = tmp$ret$1;
+    tmp_0.a73_1 = tmp$ret$1;
     var tmp_1 = this;
     var tmp$ret$2;
     {
       tmp$ret$2 = LinkedHashMap_init_$Create$_0();
     }
-    tmp_1.y71_1 = tmp$ret$2;
+    tmp_1.b73_1 = tmp$ret$2;
   }
-  StackedStateMachine.prototype.o7j = function () {
-    return ensureNotNull(current(this.w71_1));
+  StackedStateMachine.prototype.k7k = function () {
+    return ensureNotNull(current(this.z72_1));
   };
-  StackedStateMachine.prototype.t7k = function () {
-    return ensureNotNull(this.y71_1.b3(ensureNotNull(current(this.w71_1))));
+  StackedStateMachine.prototype.n7l = function () {
+    return ensureNotNull(this.b73_1.b3(ensureNotNull(current(this.z72_1))));
   };
-  StackedStateMachine.prototype.t7h = function (state) {
+  StackedStateMachine.prototype.m76 = function (state) {
     {
-      var tmp0_set = this.y71_1;
-      var tmp1_set = state.y6z_1;
+      var tmp0_set = this.b73_1;
+      var tmp1_set = state.w6w_1;
       tmp0_set.b(tmp1_set, state);
     }
   };
-  StackedStateMachine.prototype.k75 = function (name, init) {
+  StackedStateMachine.prototype.u7j = function (name, init) {
     var state = new StackedState(name);
     init(state);
-    this.t7h(state);
+    this.m76(state);
   };
-  StackedStateMachine.prototype.r7k = function (name) {
-    var tmp0_elvis_lhs = this.y71_1.b3(name);
+  StackedStateMachine.prototype.l7l = function (name) {
+    var tmp0_elvis_lhs = this.b73_1.b3(name);
     var tmp;
     if (tmp0_elvis_lhs == null) {
       throw NoSuchElementException_init_$Create$(toString_1(name));
@@ -19008,27 +19187,27 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     return tmp;
   };
-  StackedStateMachine.prototype.s82 = function (event, safe) {
-    if (this.t82())
+  StackedStateMachine.prototype.m83 = function (event, safe) {
+    if (this.n83())
       return Unit_getInstance();
-    var edge = this.t7k().a7g(event);
+    var edge = this.n7l().i6x(event);
     var tmp;
     if (edge instanceof StackedStateEdge) {
-      tmp = !equals(edge.s7d_1, this.o7j());
+      tmp = !equals(edge.x7e_1, this.k7k());
     } else {
       tmp = false;
     }
     if (tmp) {
-      if (safe ? !this.y71_1.c3().p(edge.s7d_1) : false) {
-        println('finish by unknown edge: ' + edge.s7d_1);
-        this.u82();
+      if (safe ? !this.b73_1.c3().p(edge.x7e_1) : false) {
+        println('finish by unknown edge: ' + edge.x7e_1);
+        this.o83();
         return Unit_getInstance();
       }
       var tmp_0 = edge;
-      var newState = tmp_0.p82(StackedStateMachine$update$lambda(this));
-      this.v82(newState, edge.t7d_1);
+      var newState = tmp_0.j83(StackedStateMachine$update$lambda(this));
+      this.p83(newState, edge.y7e_1);
     }
-    var tmp0_safe_receiver = this.t7k().d7g(event);
+    var tmp0_safe_receiver = this.n7l().l6x(event);
     if (tmp0_safe_receiver == null)
       null;
     else {
@@ -19048,8 +19227,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               {
               }
               var tmp_2;
-              if (!equals(tmp0_safe_receiver_0, Unit_getInstance()) ? !equals(tmp0_safe_receiver_0, this.o7j()) : false) {
-                tmp_2 = this.v82(this.r7k(tmp0_safe_receiver_0), true);
+              if (!equals(tmp0_safe_receiver_0, Unit_getInstance()) ? !equals(tmp0_safe_receiver_0, this.k7k()) : false) {
+                tmp_2 = this.p83(this.l7l(tmp0_safe_receiver_0), true);
               }
               tmp$ret$0 = tmp_2;
             }
@@ -19061,18 +19240,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
     }
   };
-  StackedStateMachine.prototype.j7i = function (event, safe, $mask0, $handler) {
+  StackedStateMachine.prototype.n76 = function (event, safe, $mask0, $handler) {
     if (!(($mask0 & 2) === 0))
       safe = false;
-    return this.s82(event, safe);
+    return this.m83(event, safe);
   };
-  StackedStateMachine.prototype.v7j = function (stateName) {
-    this.v82(this.r7k(stateName), true);
+  StackedStateMachine.prototype.d73 = function (stateName) {
+    this.p83(this.l7l(stateName), true);
   };
-  StackedStateMachine.prototype.v82 = function (newState, replace) {
+  StackedStateMachine.prototype.p83 = function (newState, replace) {
     var tmp;
     if (replace) {
-      var tmp0_safe_receiver = pop(this.w71_1);
+      var tmp0_safe_receiver = pop(this.z72_1);
       var tmp_0;
       if (tmp0_safe_receiver == null) {
         tmp_0 = null;
@@ -19083,7 +19262,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           }
           var tmp$ret$0;
           {
-            this.r7k(tmp0_safe_receiver).c7g();
+            this.l7l(tmp0_safe_receiver).k6x();
             tmp$ret$0 = tmp0_safe_receiver;
           }
           tmp$ret$1 = tmp$ret$0;
@@ -19092,7 +19271,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp = tmp_0;
     } else {
-      var tmp1_safe_receiver = current(this.w71_1);
+      var tmp1_safe_receiver = current(this.z72_1);
       var tmp_1;
       if (tmp1_safe_receiver == null) {
         tmp_1 = null;
@@ -19103,7 +19282,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           }
           var tmp$ret$2;
           {
-            this.r7k(tmp1_safe_receiver).x7f();
+            this.l7l(tmp1_safe_receiver).e6x();
             tmp$ret$2 = tmp1_safe_receiver;
           }
           tmp$ret$3 = tmp$ret$2;
@@ -19113,11 +19292,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       tmp = tmp_1;
     }
     var tmp2_elvis_lhs = tmp;
-    var prev = tmp2_elvis_lhs == null ? this.v71_1 : tmp2_elvis_lhs;
-    push(this.w71_1, newState.y6z_1);
-    newState.b7g(prev);
+    var prev = tmp2_elvis_lhs == null ? this.y72_1 : tmp2_elvis_lhs;
+    push(this.z72_1, newState.w6w_1);
+    newState.j6x(prev);
     {
-      var tmp0_forEach = this.x71_1;
+      var tmp0_forEach = this.a73_1;
       var tmp0_iterator = tmp0_forEach.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
@@ -19127,16 +19306,16 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
     }
   };
-  StackedStateMachine.prototype.w82 = function (newState, replace, $mask0, $handler) {
+  StackedStateMachine.prototype.q83 = function (newState, replace, $mask0, $handler) {
     if (!(($mask0 & 2) === 0))
       replace = false;
-    return this.v82(newState, replace);
+    return this.p83(newState, replace);
   };
-  StackedStateMachine.prototype.u82 = function () {
+  StackedStateMachine.prototype.o83 = function () {
     $l$loop: while (true) {
       var tmp$ret$0;
       {
-        var tmp0_isNotEmpty = this.w71_1;
+        var tmp0_isNotEmpty = this.z72_1;
         tmp$ret$0 = !tmp0_isNotEmpty.q();
       }
       if (!tmp$ret$0) {
@@ -19144,7 +19323,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       var tmp$ret$3;
       {
-        var tmp0_safe_receiver = pop(this.w71_1);
+        var tmp0_safe_receiver = pop(this.z72_1);
         var tmp;
         if (tmp0_safe_receiver == null) {
           tmp = null;
@@ -19155,7 +19334,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             }
             var tmp$ret$1;
             {
-              tmp$ret$1 = this.r7k(tmp0_safe_receiver);
+              tmp$ret$1 = this.l7l(tmp0_safe_receiver);
             }
             tmp$ret$2 = tmp$ret$1;
           }
@@ -19169,20 +19348,30 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           if (tmp0_safe_receiver_0 == null)
             null;
           else {
-            tmp0_safe_receiver_0.c7g();
+            tmp0_safe_receiver_0.k6x();
           }
         }
         tmp$ret$3 = tmp1_also;
       }
     }
   };
-  StackedStateMachine.prototype.t82 = function () {
-    return this.w71_1.q();
+  StackedStateMachine.prototype.n83 = function () {
+    return this.z72_1.q();
   };
-  StackedStateMachine.prototype.z71 = function () {
+  StackedStateMachine.prototype.e73 = function (stateName) {
+    var tmp;
+    if (equals(this.k7k(), stateName)) {
+      tmp = ensureNotNull(this.c73());
+    } else {
+      this.p83(this.l7l(stateName), false);
+      tmp = this.k7k();
+    }
+    return tmp;
+  };
+  StackedStateMachine.prototype.c73 = function () {
     var tmp$ret$2;
     {
-      var tmp0_safe_receiver = pop(this.w71_1);
+      var tmp0_safe_receiver = pop(this.z72_1);
       var tmp;
       if (tmp0_safe_receiver == null) {
         tmp = null;
@@ -19193,7 +19382,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           }
           var tmp$ret$0;
           {
-            tmp$ret$0 = this.r7k(tmp0_safe_receiver);
+            tmp$ret$0 = this.l7l(tmp0_safe_receiver);
           }
           tmp$ret$1 = tmp$ret$0;
         }
@@ -19207,56 +19396,56 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         if (tmp0_safe_receiver_0 == null)
           null;
         else {
-          tmp0_safe_receiver_0.c7g();
+          tmp0_safe_receiver_0.k6x();
         }
       }
       tmp$ret$2 = tmp0_also;
     }
     var old = tmp$ret$2;
-    if (this.w71_1.q()) {
-      this.w71_1.a(this.v71_1);
+    if (this.z72_1.q()) {
+      this.z72_1.a(this.y72_1);
     }
-    var tmp_0 = this.t7k();
+    var tmp_0 = this.n7l();
     var tmp1_safe_receiver = old;
-    var tmp2_elvis_lhs = tmp1_safe_receiver == null ? null : tmp1_safe_receiver.y6z_1;
-    tmp_0.y7f(tmp2_elvis_lhs == null ? this.v71_1 : tmp2_elvis_lhs);
+    var tmp2_elvis_lhs = tmp1_safe_receiver == null ? null : tmp1_safe_receiver.w6w_1;
+    tmp_0.f6x(tmp2_elvis_lhs == null ? this.y72_1 : tmp2_elvis_lhs);
     var tmp3_safe_receiver = old;
-    if (!equals(tmp3_safe_receiver == null ? null : tmp3_safe_receiver.y6z_1, this.o7j())) {
-      var tmp1_forEach = this.x71_1;
+    if (!equals(tmp3_safe_receiver == null ? null : tmp3_safe_receiver.w6w_1, this.k7k())) {
+      var tmp1_forEach = this.a73_1;
       var tmp0_iterator = tmp1_forEach.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
         {
-          element(ensureNotNull(this.t7k()));
+          element(ensureNotNull(this.n7l()));
         }
       }
     }
-    return this.o7j();
+    return this.k7k();
   };
-  StackedStateMachine.prototype.t7j = function (force) {
+  StackedStateMachine.prototype.v77 = function (force) {
     if (force) {
-      this.w71_1.t7();
-      this.w71_1.a(this.v71_1);
+      this.z72_1.t7();
+      this.z72_1.a(this.y72_1);
       {
-        var tmp0_forEach = this.x71_1;
+        var tmp0_forEach = this.a73_1;
         var tmp0_iterator = tmp0_forEach.h();
         while (tmp0_iterator.n()) {
           var element = tmp0_iterator.o();
           {
-            element(this.t7k());
+            element(this.n7l());
           }
         }
       }
     } else {
-      this.w71_1.t7();
-      var tmp = this.r7k(this.v71_1);
-      this.w82(tmp, false, 2, null);
+      this.z72_1.t7();
+      var tmp = this.l7l(this.y72_1);
+      this.q83(tmp, false, 2, null);
     }
   };
-  StackedStateMachine.prototype.k7i = function (force, $mask0, $handler) {
+  StackedStateMachine.prototype.f7j = function (force, $mask0, $handler) {
     if (!(($mask0 & 1) === 0))
       force = true;
-    return this.t7j(force);
+    return this.v77(force);
   };
   StackedStateMachine.$metadata$ = classMeta('StackedStateMachine');
   function buildStateMachine(initialState, init) {
@@ -19268,38 +19457,38 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return toByte(_this__u8e3s4);
   }
   function EnumDelegate(settings, key, defaultValue, convert) {
-    this.x70_1 = settings;
-    this.y70_1 = key;
-    this.z70_1 = defaultValue;
-    this.a71_1 = convert;
+    this.a72_1 = settings;
+    this.b72_1 = key;
+    this.c72_1 = defaultValue;
+    this.d72_1 = convert;
   }
   EnumDelegate.prototype.x2u = function (thisRef, property) {
-    var tmp0_elvis_lhs = this.y70_1;
+    var tmp0_elvis_lhs = this.b72_1;
     var lookupKey = tmp0_elvis_lhs == null ? property.callableName : tmp0_elvis_lhs;
     var tmp;
     var tmp$ret$0;
     {
-      var tmp0_contains = this.x70_1;
+      var tmp0_contains = this.a72_1;
       tmp$ret$0 = tmp0_contains.k6e(lookupKey);
     }
     if (tmp$ret$0) {
-      tmp = this.a71_1(this.x70_1.n6e(lookupKey, null, 2, null));
+      tmp = this.d72_1(this.a72_1.n6e(lookupKey, null, 2, null));
     } else {
-      tmp = this.z70_1;
+      tmp = this.c72_1;
     }
     return tmp;
   };
   EnumDelegate.prototype.r8 = function (thisRef, property) {
     return this.x2u((thisRef == null ? true : isObject(thisRef)) ? thisRef : THROW_CCE(), property);
   };
-  EnumDelegate.prototype.b71 = function (thisRef, property, value) {
-    var tmp0_elvis_lhs = this.y70_1;
+  EnumDelegate.prototype.e72 = function (thisRef, property, value) {
+    var tmp0_elvis_lhs = this.b72_1;
     var lookupKey = tmp0_elvis_lhs == null ? property.callableName : tmp0_elvis_lhs;
-    this.x70_1.l6e(lookupKey, value.w1_1);
+    this.a72_1.l6e(lookupKey, value.w1_1);
   };
   EnumDelegate.prototype.s8 = function (thisRef, property, value) {
     var tmp = (thisRef == null ? true : isObject(thisRef)) ? thisRef : THROW_CCE();
-    return this.b71(tmp, property, value instanceof Enum ? value : THROW_CCE());
+    return this.e72(tmp, property, value instanceof Enum ? value : THROW_CCE());
   };
   EnumDelegate.$metadata$ = classMeta('EnumDelegate', [ReadWriteProperty]);
   function choice(_this__u8e3s4, choices) {
@@ -19321,6 +19510,16 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function component2(_this__u8e3s4) {
     return _this__u8e3s4.g23();
   }
+  function get_nearestTwo(_this__u8e3s4) {
+    var x = _this__u8e3s4;
+    x = x - 1 | 0;
+    x = x | x >> 1;
+    x = x | x >> 2;
+    x = x | x >> 4;
+    x = x | x >> 8;
+    x = x | x >> 16;
+    return x + 1 | 0;
+  }
   function plus_1(_this__u8e3s4, o) {
     return new Vec2i(_this__u8e3s4.e23() + o.e23() | 0, _this__u8e3s4.g23() + o.g23() | 0);
   }
@@ -19335,8 +19534,8 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function ActorView$lambda(this$0) {
     return function (it) {
-      this$0.a2x(this$0.d84_1.b7a_1.v3s_1);
-      var tmp0_safe_receiver = this$0.e84_1.o6r_1.b3(this$0.c84_1.p7c_1.f7c_1);
+      this$0.a2x(this$0.x84_1.f7b_1.v3s_1);
+      var tmp0_safe_receiver = this$0.y84_1.o6r_1.b3(this$0.w84_1.t7d_1.j7d_1);
       if (tmp0_safe_receiver == null)
         null;
       else {
@@ -19344,32 +19543,32 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         {
           {
           }
-          if (this$0.c84_1.r7c_1 === 0)
-            this$0.c84_1.r7c_1 = tmp0_safe_receiver.m();
+          if (this$0.w84_1.v7d_1 === 0)
+            this$0.w84_1.v7d_1 = tmp0_safe_receiver.m();
           var tmp$ret$0;
           {
-            var tmp0_mod = this$0.c84_1.q7c_1;
+            var tmp0_mod = this$0.w84_1.u7d_1;
             var tmp1_mod = tmp0_safe_receiver.m();
             var r = tmp0_mod % tmp1_mod | 0;
             tmp$ret$0 = r + (tmp1_mod & ((r ^ tmp1_mod) & (r | (-r | 0))) >> 31) | 0;
           }
-          tmp$ret$1 = this$0.l85(tmp0_safe_receiver.r(tmp$ret$0));
+          tmp$ret$1 = this$0.f86(tmp0_safe_receiver.r(tmp$ret$0));
         }
       }
       this$0.p2g();
-      this$0.n2d(this$0.c84_1.e23() - this$0.c84_1.o5u().c7d_1 / 2.0 + 0.5, (this$0.c84_1.o5u().d7d_1 - this$0.c84_1.g23() | 0) - 0.5, 0.0);
-      this$0.n2d(this$0.c84_1.d7e() / this$0.f84_1.e23(), -this$0.c84_1.a7h() / this$0.f84_1.g23(), 0.0);
+      this$0.n2d(this$0.w84_1.e23() - this$0.w84_1.o5u().g7e_1 / 2.0 + 0.5, (this$0.w84_1.o5u().h7e_1 - this$0.w84_1.g23() | 0) - 0.5, 0.0);
+      this$0.n2d(this$0.w84_1.i7f() / this$0.z84_1.e23(), -this$0.w84_1.x7h() / this$0.z84_1.g23(), 0.0);
       return Unit_getInstance();
     };
   }
   function ActorView(actor, atlas, animations, tileSize, name) {
-    var tmp = atlas.b7a_1.v3s_1;
-    var tmp_0 = atlas.g7a();
+    var tmp = atlas.f7b_1.v3s_1;
+    var tmp_0 = atlas.k7b();
     Sprite3d_init_$Init$(tileSize, tmp, tmp_0, name, false, 16, null, this);
-    this.c84_1 = actor;
-    this.d84_1 = atlas;
-    this.e84_1 = animations;
-    this.f84_1 = tileSize;
+    this.w84_1 = actor;
+    this.x84_1 = atlas;
+    this.y84_1 = animations;
+    this.z84_1 = tileSize;
     var tmp0_this = this;
     {
       var tmp0_plusAssign = tmp0_this.n4p();
@@ -19382,17 +19581,17 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function InterpolatedVec3f(from, to) {
     InterpolatedValue.call(this, from);
-    this.r85_1 = from;
-    this.s85_1 = to;
+    this.l86_1 = from;
+    this.m86_1 = to;
   }
   InterpolatedVec3f.prototype.k5l = function (interpolationPos) {
-    var x = new InterpolatedFloat(this.r85_1.e23(), this.s85_1.e23());
-    var y = new InterpolatedFloat(this.r85_1.g23(), this.s85_1.g23());
-    var z = new InterpolatedFloat(this.r85_1.a2h(), this.s85_1.a2h());
+    var x = new InterpolatedFloat(this.l86_1.e23(), this.m86_1.e23());
+    var y = new InterpolatedFloat(this.l86_1.g23(), this.m86_1.g23());
+    var z = new InterpolatedFloat(this.l86_1.a2h(), this.m86_1.a2h());
     x.j5l(interpolationPos);
     y.j5l(interpolationPos);
     z.j5l(interpolationPos);
-    this.r85_1.b2h(x.n2(), y.n2(), z.n2());
+    this.l86_1.b2h(x.n2(), y.n2(), z.n2());
   };
   InterpolatedVec3f.$metadata$ = classMeta('InterpolatedVec3f', undefined, undefined, undefined, undefined, InterpolatedValue.prototype);
   function CameraController_init_$Init$(cameraToControl, name, ctx, $mask0, $marker, $this) {
@@ -19407,7 +19606,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function calculateCamera($this, boundNode, followNode) {
     var tmp$ret$2;
     {
-      var tmp0_with = $this.x7w_1;
+      var tmp0_with = $this.s7x_1;
       {
       }
       var tmp$ret$1;
@@ -19455,7 +19654,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var deadZone = tmp$ret$0;
       var tmp$ret$2;
       {
-        var tmp1_with = this$0.x7w_1;
+        var tmp1_with = this$0.s7x_1;
         {
         }
         var tmp$ret$1;
@@ -19488,12 +19687,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function (_anonymous_parameter_0__qggqh8, _anonymous_parameter_1__qggqgd) {
       var tmp$ret$1;
       {
-        var tmp0_with = this$0.x7w_1;
+        var tmp0_with = this$0.s7x_1;
         {
         }
         var tmp$ret$0;
         {
-          tmp0_with.qr().y2k(this$0.a7x_1.c5m(this$0.y7w_1));
+          tmp0_with.qr().y2k(this$0.v7x_1.c5m(this$0.t7x_1));
           tmp$ret$0 = tmp0_with.q5h().b2h(tmp0_with.qr().e23(), tmp0_with.qr().g23(), 0.0);
         }
         tmp$ret$1 = tmp$ret$0;
@@ -19504,46 +19703,46 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function CameraController$cameraCalculator$lambda($game, $calculator, this$0) {
     return function (ev) {
       var tmp;
-      if ($game.n7j()) {
+      if ($game.j7k()) {
         var pos = $calculator(ev.p54());
-        this$0.z7w_1.s85_1.b2h(pos.e23(), pos.g23(), 10.0);
-        this$0.z7w_1.r85_1.y2k(this$0.z7w_1.n2());
-        this$0.a7x_1.w5l(1.0);
-        tmp = this$0.a7x_1.a5m(0.0);
+        this$0.u7x_1.m86_1.b2h(pos.e23(), pos.g23(), 10.0);
+        this$0.u7x_1.l86_1.y2k(this$0.u7x_1.n2());
+        this$0.v7x_1.w5l(1.0);
+        tmp = this$0.v7x_1.a5m(0.0);
       }
       return Unit_getInstance();
     };
   }
   function CameraController(cameraToControl, name, ctx) {
     Node.call(this, name);
-    this.x7w_1 = cameraToControl;
-    this.y7w_1 = ctx;
-    this.z7w_1 = new InterpolatedVec3f(MutableVec3f_init_$Create$_0(this.x7w_1.qr()), MutableVec3f_init_$Create$_0(this.x7w_1.qr()));
+    this.s7x_1 = cameraToControl;
+    this.t7x_1 = ctx;
+    this.u7x_1 = new InterpolatedVec3f(MutableVec3f_init_$Create$_0(this.s7x_1.qr()), MutableVec3f_init_$Create$_0(this.s7x_1.qr()));
     var tmp = this;
     var tmp$ret$0;
     {
-      var tmp0_apply = new InverseSquareAnimator(this.z7w_1);
+      var tmp0_apply = new InverseSquareAnimator(this.u7x_1);
       {
       }
       {
         tmp0_apply.v5l(1.0 / 4.0);
-        tmp0_apply.y5l(Companion_getInstance_7().l5l_1);
+        tmp0_apply.y5l(Companion_getInstance_9().l5l_1);
         tmp0_apply.a5m(0.0);
         tmp0_apply.w5l(1.0);
       }
       tmp$ret$0 = tmp0_apply;
     }
-    tmp.a7x_1 = tmp$ret$0;
-    this.b7x_1 = null;
+    tmp.v7x_1 = tmp$ret$0;
+    this.w7x_1 = null;
     var tmp_0 = this;
-    tmp_0.c7x_1 = CameraController$cameraUpdater$lambda(this);
+    tmp_0.x7x_1 = CameraController$cameraUpdater$lambda(this);
   }
   CameraController.prototype.d58 = function () {
-    return this.y7w_1;
+    return this.t7x_1;
   };
-  CameraController.prototype.d7x = function (game, boundNode, followNode) {
-    this.b7x_1 = cameraCalculator(this, game, boundNode, followNode);
-    var tmp0_safe_receiver = this.b7x_1;
+  CameraController.prototype.y7x = function (game, boundNode, followNode) {
+    this.w7x_1 = cameraCalculator(this, game, boundNode, followNode);
+    var tmp0_safe_receiver = this.w7x_1;
     if (tmp0_safe_receiver == null)
       null;
     else {
@@ -19559,13 +19758,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     var tmp1_this = game;
     {
-      var tmp0_plusAssign_0 = tmp1_this.k6w_1;
-      var tmp1_plusAssign = this.c7x_1;
+      var tmp0_plusAssign_0 = tmp1_this.o6t_1;
+      var tmp1_plusAssign = this.x7x_1;
       tmp0_plusAssign_0.a(tmp1_plusAssign);
     }
   };
-  CameraController.prototype.e7x = function (game) {
-    var tmp0_safe_receiver = this.b7x_1;
+  CameraController.prototype.z7x = function (game) {
+    var tmp0_safe_receiver = this.w7x_1;
     if (tmp0_safe_receiver == null)
       null;
     else {
@@ -19581,21 +19780,21 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
     var tmp1_this = game;
     {
-      var tmp0_minusAssign_0 = tmp1_this.k6w_1;
-      var tmp1_minusAssign = this.c7x_1;
+      var tmp0_minusAssign_0 = tmp1_this.o6t_1;
+      var tmp1_minusAssign = this.x7x_1;
       tmp0_minusAssign_0.c4(tmp1_minusAssign);
     }
   };
   CameraController.$metadata$ = classMeta('CameraController', undefined, undefined, undefined, undefined, Node.prototype);
   function GameControls(game, inputManager) {
     Node_init_$Init$(null, 1, null, this);
-    this.i86_1 = game;
-    this.j86_1 = inputManager;
-    this.k86_1 = registerActions(this.j86_1, this.i86_1, asIterable(values_5()));
+    this.c87_1 = game;
+    this.d87_1 = inputManager;
+    this.e87_1 = registerActions(this.d87_1, this.c87_1, asIterable(values_5()));
   }
   GameControls.prototype.l4p = function (ctx) {
     Node.prototype.l4p.call(this, ctx);
-    unregisterActions(this.j86_1, this.k86_1);
+    unregisterActions(this.d87_1, this.e87_1);
   };
   GameControls.$metadata$ = classMeta('GameControls', undefined, undefined, undefined, undefined, Node.prototype);
   function GameKeyAction_init_$Init$(name, ordinal, keyCode, onPress, onRelease, $mask0, $marker, $this) {
@@ -19638,38 +19837,38 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function GameKeyAction$lambda_0() {
     return function ($this$null, it) {
-      $this$null.u7j();
+      $this$null.p7k();
       return Unit_getInstance();
     };
   }
   function GameKeyAction$lambda_1() {
     return function ($this$null, it) {
-      $this$null.z7j();
+      $this$null.t7k();
       return Unit_getInstance();
     };
   }
   function GameKeyAction$lambda_2() {
     return function ($this$null, it) {
-      $this$null.w7j();
+      $this$null.q7k();
       return Unit_getInstance();
     };
   }
   function GameKeyAction$lambda_3() {
     return function ($this$null, it) {
-      $this$null.c6w_1.m1e(!$this$null.c6w_1.v3s_1);
+      $this$null.g6t_1.m1e(!$this$null.g6t_1.v3s_1);
       return Unit_getInstance();
     };
   }
   function GameKeyAction$lambda_4() {
     return function ($this$null, it) {
-      $this$null.x7j();
+      $this$null.r7k();
       return Unit_getInstance();
     };
   }
   function GameKeyAction$lambda_5() {
     return function ($this$null, it) {
       println('pressed');
-      $this$null.y7j();
+      $this$null.s7k();
       return Unit_getInstance();
     };
   }
@@ -19707,18 +19906,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function GameKeyAction(name, ordinal, keyCode, onPress, onRelease) {
     Enum.call(this, name, ordinal);
-    this.n86_1 = keyCode;
-    this.o86_1 = onPress;
-    this.p86_1 = onRelease;
+    this.h87_1 = keyCode;
+    this.i87_1 = onPress;
+    this.j87_1 = onRelease;
   }
-  GameKeyAction.prototype.i6x = function () {
-    return this.n86_1;
+  GameKeyAction.prototype.c6y = function () {
+    return this.h87_1;
   };
-  GameKeyAction.prototype.j6x = function () {
-    return this.o86_1;
+  GameKeyAction.prototype.d6y = function () {
+    return this.i87_1;
   };
-  GameKeyAction.prototype.k6x = function () {
-    return this.p86_1;
+  GameKeyAction.prototype.e6y = function () {
+    return this.j87_1;
   };
   GameKeyAction.$metadata$ = classMeta('GameKeyAction', [KeyAction], undefined, undefined, undefined, Enum.prototype);
   function GameKeyAction_BACK_getInstance() {
@@ -19751,7 +19950,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function LevelView$runnerView$delegate$lambda($game, $runnerAtlas, $runnerAnims, $conf) {
     return function () {
-      var tmp = $game.y6v_1;
+      var tmp = $game.c6t_1;
       return ActorView_init_$Create$(tmp, $runnerAtlas, $runnerAnims, $conf.e6s_1, null, 16, null);
     };
   }
@@ -19762,7 +19961,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         this$0.o4v(n);
         n = this$0.e4q('guard');
       }
-      var tmp0_forEach = $game.z6v_1;
+      var tmp0_forEach = $game.d6t_1;
       var tmp0_iterator = tmp0_forEach.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
@@ -19777,7 +19976,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$generate) {
       var props = new RectProps();
       {
-        props.j4z_1.j2j($level.c7d_1, $level.d7d_1);
+        props.j4z_1.j2j($level.g7e_1, $level.h7e_1);
         props.i4z_1.b2h(-props.k46() / 2.0, 0.0, 0.0);
       }
       $this$generate.p4z(props);
@@ -19786,19 +19985,19 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function LevelView$lambda_0(this$0, $level, $tilesAtlas, $conf) {
     return function (it) {
-      this$0.q7s_1.o82(it.e58());
+      this$0.m7t_1.i83(it.e58());
       var tmp;
-      if ($level.n7d_1) {
+      if ($level.s7e_1) {
         var tmp$ret$1;
         {
-          var tmp0_with = this$0.q7s_1;
+          var tmp0_with = this$0.m7t_1;
           {
           }
           var tmp_0 = get_simpleValueTextureProps();
-          var tmp_1 = $level.k7m();
-          tmp0_with.l82(Texture2d_init_$Create$_0(tmp_0, tmp_1, null, 4, null));
-          tmp0_with.m82(new Vec2f($level.c7d_1, $level.d7d_1));
-          var tmp0_safe_receiver = $tilesAtlas.b7a_1.v3s_1;
+          var tmp_1 = $level.g7n();
+          tmp0_with.f83(Texture2d_init_$Create$_0(tmp_0, tmp_1, null, 4, null));
+          tmp0_with.g83(new Vec2f($level.g7e_1, $level.h7e_1));
+          var tmp0_safe_receiver = $tilesAtlas.f7b_1.v3s_1;
           if (tmp0_safe_receiver == null)
             null;
           else {
@@ -19806,13 +20005,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
             {
               {
               }
-              tmp$ret$0 = tmp0_with.g82(tmp0_safe_receiver);
+              tmp$ret$0 = tmp0_with.a83(tmp0_safe_receiver);
             }
           }
-          tmp0_with.j82($tilesAtlas.g7a());
-          tmp$ret$1 = tmp0_with.i82($conf.e6s_1);
+          tmp0_with.d83($tilesAtlas.k7b());
+          tmp$ret$1 = tmp0_with.c83($conf.e6s_1);
         }
-        $level.n7d_1 = this$0.q7s_1.k82().e23() === 0;
+        $level.s7e_1 = this$0.m7t_1.e83().e23() === 0;
         tmp = Unit_getInstance();
       }
       return Unit_getInstance();
@@ -19820,29 +20019,29 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function LevelView(game, level, conf, tilesAtlas, runnerAtlas, runnerAnims, guardAtlas, guardAnims) {
     Group_init_$Init$(null, 1, null, this);
-    this.q7s_1 = new TileMapShader(new TileMapShaderConf());
+    this.m7t_1 = new TileMapShader(new TileMapShaderConf());
     var tmp = this;
-    tmp.r7s_1 = lazy(LevelView$runnerView$delegate$lambda(game, runnerAtlas, runnerAnims, conf));
-    this.s7s_1 = imul(conf.e6s_1.e23(), level.c7d_1);
-    this.t7s_1 = imul(conf.e6s_1.g23(), level.d7d_1);
+    tmp.n7t_1 = lazy(LevelView$runnerView$delegate$lambda(game, runnerAtlas, runnerAnims, conf));
+    this.o7t_1 = imul(conf.e6s_1.e23(), level.g7e_1);
+    this.p7t_1 = imul(conf.e6s_1.g23(), level.h7e_1);
     var tmp_0 = this;
-    tmp_0.u7s_1 = LevelView$onLevelStart$lambda(this, game, guardAtlas, guardAnims, conf);
+    tmp_0.q7t_1 = LevelView$onLevelStart$lambda(this, game, guardAtlas, guardAnims, conf);
     this.b2i(conf.e6s_1.e23(), conf.e6s_1.g23(), 1.0);
     this.n2d(0.0, 1.0, 0.0);
     var tmp$ret$1;
     {
-      var tmp0_mesh = listOf([Companion_getInstance_10().w2z_1, Companion_getInstance_10().z2z_1]);
+      var tmp0_mesh = listOf([Companion_getInstance_11().w2z_1, Companion_getInstance_11().z2z_1]);
       var mesh = new Mesh(new IndexedVertexList(tmp0_mesh), null);
       {
         mesh.d4p(LevelView$lambda(level));
         var tmp$ret$0;
         {
-          var tmp0_apply = this.q7s_1;
+          var tmp0_apply = this.m7t_1;
           {
           }
           {
-            tmp0_apply.i82(conf.e6s_1);
-            tmp0_apply.j82(tilesAtlas.g7a());
+            tmp0_apply.c83(conf.e6s_1);
+            tmp0_apply.d83(tilesAtlas.k7b());
           }
           tmp$ret$0 = tmp0_apply;
         }
@@ -19856,28 +20055,28 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       tmp$ret$1 = mesh;
     }
     this.v4v(tmp$ret$1);
-    this.v4v(this.v7s());
+    this.v4v(this.r7t());
     var tmp0_this_0 = game;
     {
-      var tmp1_plusAssign_0 = tmp0_this_0.x6v_1;
-      var tmp2_plusAssign = this.u7s_1;
+      var tmp1_plusAssign_0 = tmp0_this_0.b6t_1;
+      var tmp2_plusAssign = this.q7t_1;
       tmp1_plusAssign_0.a(tmp2_plusAssign);
     }
-    this.u7s_1(ensureNotNull(game.f6w_1));
-    println('level px=' + this.s7s_1 + 'x' + this.t7s_1);
+    this.q7t_1(ensureNotNull(game.j6t_1));
+    println('level px=' + this.o7t_1 + 'x' + this.p7t_1);
   }
-  LevelView.prototype.v7s = function () {
+  LevelView.prototype.r7t = function () {
     var tmp$ret$0;
     {
       var tmp0_getValue = runnerView$factory();
-      tmp$ret$0 = this.r7s_1.n2();
+      tmp$ret$0 = this.n7t_1.n2();
     }
     return tmp$ret$0;
   };
   LevelView.$metadata$ = classMeta('LevelView', undefined, undefined, undefined, undefined, Group.prototype);
   function runnerView$factory() {
     return getPropertyCallableRef('runnerView', 1, KProperty1, function (receiver) {
-      return receiver.v7s();
+      return receiver.r7t();
     }, null);
   }
   var RunnerAction_RIGHT_instance;
@@ -19892,49 +20091,49 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function RunnerAction$lambda() {
     return function ($this$null, it) {
-      $this$null.g87_1.a77().p2j(1);
+      $this$null.a88_1.e78().p2j(1);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_0() {
     return function ($this$null, it) {
-      $this$null.g87_1.a77().p2j(0);
+      $this$null.a88_1.e78().p2j(0);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_1() {
     return function ($this$null, it) {
-      $this$null.g87_1.a77().p2j(-1);
+      $this$null.a88_1.e78().p2j(-1);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_2() {
     return function ($this$null, it) {
-      $this$null.g87_1.a77().p2j(0);
+      $this$null.a88_1.e78().p2j(0);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_3() {
     return function ($this$null, it) {
-      $this$null.g87_1.a77().q2j(-1);
+      $this$null.a88_1.e78().q2j(-1);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_4() {
     return function ($this$null, it) {
-      $this$null.g87_1.a77().q2j(0);
+      $this$null.a88_1.e78().q2j(0);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_5() {
     return function ($this$null, it) {
-      $this$null.g87_1.a77().q2j(1);
+      $this$null.a88_1.e78().q2j(1);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_6() {
     return function ($this$null, it) {
-      $this$null.g87_1.a77().q2j(0);
+      $this$null.a88_1.e78().q2j(0);
       return Unit_getInstance();
     };
   }
@@ -19942,7 +20141,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$null, it) {
       var tmp$ret$0;
       {
-        var tmp0_with = $this$null.g87_1.a77();
+        var tmp0_with = $this$null.a88_1.e78();
         {
         }
         tmp0_with.p2j(0);
@@ -19958,25 +20157,25 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function RunnerAction$lambda_9() {
     return function ($this$null, it) {
-      $this$null.g87_1.v77(true);
+      $this$null.a88_1.z78(true);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_10() {
     return function ($this$null, it) {
-      $this$null.g87_1.v77(false);
+      $this$null.a88_1.z78(false);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_11() {
     return function ($this$null, it) {
-      $this$null.g87_1.w77(true);
+      $this$null.a88_1.a79(true);
       return Unit_getInstance();
     };
   }
   function RunnerAction$lambda_12() {
     return function ($this$null, it) {
-      $this$null.g87_1.w77(false);
+      $this$null.a88_1.a79(false);
       return Unit_getInstance();
     };
   }
@@ -20009,18 +20208,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function RunnerAction(name, ordinal, keyCode, onPress, onRelease) {
     Enum.call(this, name, ordinal);
-    this.k87_1 = keyCode;
-    this.l87_1 = onPress;
-    this.m87_1 = onRelease;
+    this.e88_1 = keyCode;
+    this.f88_1 = onPress;
+    this.g88_1 = onRelease;
   }
-  RunnerAction.prototype.i6x = function () {
-    return this.k87_1;
+  RunnerAction.prototype.c6y = function () {
+    return this.e88_1;
   };
-  RunnerAction.prototype.j6x = function () {
-    return this.l87_1;
+  RunnerAction.prototype.d6y = function () {
+    return this.f88_1;
   };
-  RunnerAction.prototype.k6x = function () {
-    return this.m87_1;
+  RunnerAction.prototype.e6y = function () {
+    return this.g88_1;
   };
   RunnerAction.$metadata$ = classMeta('RunnerAction', undefined, undefined, undefined, undefined, Enum.prototype);
   function RunnerController$lambda() {
@@ -20031,22 +20230,22 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function RunnerController$lambda_0($item, this$0) {
     return function (ev) {
       if (ev.r26())
-        $item.m87_1(this$0, ev);
+        $item.g88_1(this$0, ev);
       else if (ev.q26())
-        $item.l87_1(this$0, ev);
+        $item.f88_1(this$0, ev);
       return Unit_getInstance();
     };
   }
   function RunnerController(inputManager, runner) {
     Node_init_$Init$(null, 1, null, this);
-    this.f87_1 = inputManager;
-    this.g87_1 = runner;
+    this.z87_1 = inputManager;
+    this.a88_1 = runner;
     var tmp = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp.h87_1 = tmp$ret$0;
+    tmp.b88_1 = tmp$ret$0;
     var tmp$ret$3;
     {
       var tmp0_map = values_6();
@@ -20063,7 +20262,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           {
             var tmp_0 = 'runner_action_' + item.il() + '_pressed';
             var tmp_1 = RunnerController$lambda();
-            tmp$ret$1 = this.f87_1.b2b(item.k87_1, tmp_0, tmp_1, RunnerController$lambda_0(item, this));
+            tmp$ret$1 = this.z87_1.b2b(item.e88_1, tmp_0, tmp_1, RunnerController$lambda_0(item, this));
           }
           tmp0_mapTo.a(tmp$ret$1);
         }
@@ -20071,17 +20270,17 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$3 = tmp$ret$2;
     }
-    this.h87_1.o1(tmp$ret$3);
+    this.b88_1.o1(tmp$ret$3);
   }
   RunnerController.prototype.l4p = function (ctx) {
     Node.prototype.l4p.call(this, ctx);
     {
-      var tmp0_forEach = this.h87_1;
+      var tmp0_forEach = this.b88_1;
       var tmp0_iterator = tmp0_forEach.h();
       while (tmp0_iterator.n()) {
         var element = tmp0_iterator.o();
         {
-          this.f87_1.c2b(element);
+          this.z87_1.c2b(element);
         }
       }
     }
@@ -20133,9 +20332,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$main) {
       var tmp = mvpMatrix(this$0).u2h();
       var mvp = $this$main.v2z(tmp, null, 2, null);
-      $this$main.q30($texCoords.w37(), $this_vertexStage.r39(Companion_getInstance_10().z2z_1.g2t_1));
-      $this$main.q30($color.w37(), $this_vertexStage.x37(Companion_getInstance_10().a30_1.g2t_1));
-      $this$main.q30($this_vertexStage.m2s_1, times_1(mvp, $this$main.p30($this_vertexStage.o30(Companion_getInstance_10().w2z_1.g2t_1), 1.0)));
+      $this$main.q30($texCoords.w37(), $this_vertexStage.r39(Companion_getInstance_11().z2z_1.g2t_1));
+      $this$main.q30($color.w37(), $this_vertexStage.x37(Companion_getInstance_11().a30_1.g2t_1));
+      $this$main.q30($this_vertexStage.m2s_1, times_1(mvp, $this$main.p30($this_vertexStage.o30(Companion_getInstance_11().w2z_1.g2t_1), 1.0)));
       return Unit_getInstance();
     };
   }
@@ -20160,13 +20359,13 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Sprite$SpriteShader$Model$lambda$lambda_0(this$0, $texCoords, $this_fragmentStage) {
     return function ($this$main) {
-      Companion_getInstance_23();
+      Companion_getInstance_24();
       var atlasTex = this$0.a32('tex');
-      Companion_getInstance_23();
+      Companion_getInstance_24();
       var textureOffset = this$0.z3m('texOffset');
-      Companion_getInstance_23();
+      Companion_getInstance_24();
       var tileSize = this$0.z3m('tileSize');
-      Companion_getInstance_23();
+      Companion_getInstance_24();
       var gray = this$0.y3m('gray');
       var atlasTexSize = toFloat2($this$main.i3p(atlasTex, null, 2, null));
       var tmp = toInt2($this$main.b3p(plus(times_0($texCoords.z36(), toFloat2(tileSize)), toFloat2(textureOffset))));
@@ -20185,11 +20384,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Companion_11() {
     Companion_instance_11 = this;
-    this.n87_1 = 'tex';
-    this.o87_1 = 'texOffset';
-    this.p87_1 = 'tileSize';
-    this.q87_1 = 'gray';
-    this.r87_1 = listOf([Companion_getInstance_10().w2z_1, Companion_getInstance_10().z2z_1, Companion_getInstance_10().a30_1]);
+    this.h88_1 = 'tex';
+    this.i88_1 = 'texOffset';
+    this.j88_1 = 'tileSize';
+    this.k88_1 = 'gray';
+    this.l88_1 = listOf([Companion_getInstance_11().w2z_1, Companion_getInstance_11().z2z_1, Companion_getInstance_11().a30_1]);
     var tmp = this;
     var tmp$ret$0;
     {
@@ -20203,11 +20402,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$0 = tmp0_apply;
     }
-    tmp.s87_1 = tmp$ret$0;
+    tmp.m88_1 = tmp$ret$0;
   }
   Companion_11.$metadata$ = objectMeta('Companion');
   var Companion_instance_11;
-  function Companion_getInstance_23() {
+  function Companion_getInstance_24() {
     if (Companion_instance_11 == null)
       new Companion_11();
     return Companion_instance_11;
@@ -20226,46 +20425,46 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     $this.v4v(group('scaler', Sprite$buildMesh$lambda($this)));
   }
   function SpriteShader() {
-    Companion_getInstance_23();
-    KslShader.call(this, new Model_0(), Companion_getInstance_23().s87_1);
+    Companion_getInstance_24();
+    KslShader.call(this, new Model_0(), Companion_getInstance_24().m88_1);
     var tmp = this;
-    Companion_getInstance_23();
-    tmp.d88_1 = this.g2z('tex', null, 2, null);
+    Companion_getInstance_24();
+    tmp.x88_1 = this.g2z('tex', null, 2, null);
     var tmp_0 = this;
-    Companion_getInstance_23();
-    tmp_0.e88_1 = this.e2z('texOffset', null, 2, null);
+    Companion_getInstance_24();
+    tmp_0.y88_1 = this.e2z('texOffset', null, 2, null);
     var tmp_1 = this;
-    Companion_getInstance_23();
-    tmp_1.f88_1 = this.e2z('tileSize', null, 2, null);
+    Companion_getInstance_24();
+    tmp_1.z88_1 = this.e2z('tileSize', null, 2, null);
     var tmp_2 = this;
-    Companion_getInstance_23();
-    tmp_2.g88_1 = this.c2z('gray', null, 2, null);
+    Companion_getInstance_24();
+    tmp_2.a89_1 = this.c2z('gray', null, 2, null);
   }
   SpriteShader.prototype.k2w = function (_set____db54di) {
-    return this.d88_1.m2w(this, texture$factory(), _set____db54di);
+    return this.x88_1.m2w(this, texture$factory(), _set____db54di);
   };
   SpriteShader.prototype.l2w = function () {
-    return this.d88_1.x2u(this, texture$factory_0());
+    return this.x88_1.x2u(this, texture$factory_0());
   };
-  SpriteShader.prototype.h88 = function (_set____db54di) {
-    this.e88_1.v2v(this, textureOffset$factory(), _set____db54di);
+  SpriteShader.prototype.b89 = function (_set____db54di) {
+    this.y88_1.v2v(this, textureOffset$factory(), _set____db54di);
     return Unit_getInstance();
   };
-  SpriteShader.prototype.i88 = function () {
-    return this.e88_1.x2u(this, textureOffset$factory_0());
+  SpriteShader.prototype.c89 = function () {
+    return this.y88_1.x2u(this, textureOffset$factory_0());
   };
-  SpriteShader.prototype.i82 = function (_set____db54di) {
-    this.f88_1.v2v(this, tileSize$factory_1(), _set____db54di);
+  SpriteShader.prototype.c83 = function (_set____db54di) {
+    this.z88_1.v2v(this, tileSize$factory_1(), _set____db54di);
     return Unit_getInstance();
   };
   SpriteShader.prototype.g6s = function () {
-    return this.f88_1.x2u(this, tileSize$factory_2());
+    return this.z88_1.x2u(this, tileSize$factory_2());
   };
-  SpriteShader.prototype.j88 = function (_set____db54di) {
-    return this.g88_1.p2v(this, grayScaled$factory(), _set____db54di);
+  SpriteShader.prototype.d89 = function (_set____db54di) {
+    return this.a89_1.p2v(this, grayScaled$factory(), _set____db54di);
   };
-  SpriteShader.prototype.k88 = function () {
-    return this.g88_1.x2u(this, grayScaled$factory_0());
+  SpriteShader.prototype.e89 = function () {
+    return this.a89_1.x2u(this, grayScaled$factory_0());
   };
   SpriteShader.$metadata$ = classMeta('SpriteShader', undefined, undefined, undefined, undefined, KslShader.prototype);
   function Sprite$spriteShader$delegate$lambda() {
@@ -20276,24 +20475,24 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Sprite$lambda(this$0) {
     return function (it) {
       var tmp;
-      if (this$0.z74_1.equals(Companion_getInstance_6().u2i_1) ? true : this$0.a75_1.equals(Companion_getInstance_6().u2i_1)) {
+      if (this$0.e76_1.equals(Companion_getInstance_8().u2i_1) ? true : this$0.f76_1.equals(Companion_getInstance_8().u2i_1)) {
         var tmp_0;
-        var tmp0_safe_receiver = this$0.u74_1;
+        var tmp0_safe_receiver = this$0.z75_1;
         if (equals(tmp0_safe_receiver == null ? null : tmp0_safe_receiver.r5a(), LoadingState_LOADED_getInstance())) {
-          if (this$0.a75_1.equals(Companion_getInstance_6().u2i_1)) {
-            this$0.a75_1.p2j(ensureNotNull(ensureNotNull(this$0.u74_1).p5a()).k46());
-            this$0.a75_1.q2j(ensureNotNull(ensureNotNull(this$0.u74_1).p5a()).m46());
+          if (this$0.f76_1.equals(Companion_getInstance_8().u2i_1)) {
+            this$0.f76_1.p2j(ensureNotNull(ensureNotNull(this$0.z75_1).p5a()).k46());
+            this$0.f76_1.q2j(ensureNotNull(ensureNotNull(this$0.z75_1).p5a()).m46());
           }
           var tmp_1;
-          if (this$0.z74_1.equals(Companion_getInstance_6().u2i_1)) {
-            this$0.z74_1.p2j(ensureNotNull(ensureNotNull(this$0.u74_1).p5a()).k46());
-            this$0.z74_1.q2j(ensureNotNull(ensureNotNull(this$0.u74_1).p5a()).m46());
-            var tmp0_forEach = this$0.b75_1;
+          if (this$0.e76_1.equals(Companion_getInstance_8().u2i_1)) {
+            this$0.e76_1.p2j(ensureNotNull(ensureNotNull(this$0.z75_1).p5a()).k46());
+            this$0.e76_1.q2j(ensureNotNull(ensureNotNull(this$0.z75_1).p5a()).m46());
+            var tmp0_forEach = this$0.g76_1;
             var tmp0_iterator = tmp0_forEach.h();
             while (tmp0_iterator.n()) {
               var element = tmp0_iterator.o();
               {
-                element(this$0, this$0.z74_1.e23(), this$0.z74_1.g23());
+                element(this$0, this$0.e76_1.e23(), this$0.e76_1.g23());
               }
             }
             tmp_1 = Unit_getInstance();
@@ -20310,21 +20509,21 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var props = new RectProps();
       {
         props.i4z_1.b2h(-props.k46() / 2.0, -props.m46() / 2.0, 0.0);
-        if (this$0.v74_1) {
+        if (this$0.a76_1) {
           props.o4z();
         }
       }
       $this$generate.p4z(props);
-      $mesh.e4p(this$0.m85());
+      $mesh.e4p(this$0.g86());
       return Unit_getInstance();
     };
   }
   function Sprite$buildMesh$lambda$lambda_0(this$0) {
     return function (it) {
-      this$0.m85().k2w(this$0.u74_1);
-      this$0.m85().h88(this$0.w74_1);
-      this$0.m85().i82(this$0.a75_1);
-      this$0.m85().j88(this$0.x74_1 ? 1 : 0);
+      this$0.g86().k2w(this$0.z75_1);
+      this$0.g86().b89(this$0.b76_1);
+      this$0.g86().c83(this$0.f76_1);
+      this$0.g86().d89(this$0.c76_1 ? 1 : 0);
       return Unit_getInstance();
     };
   }
@@ -20339,7 +20538,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return function ($this$group) {
       var tmp$ret$0;
       {
-        var tmp0_mesh = Companion_getInstance_23().r87_1;
+        var tmp0_mesh = Companion_getInstance_24().l88_1;
         var tmp1_mesh = '' + this$0.il() + ' mesh';
         var mesh = new Mesh(new IndexedVertexList(tmp0_mesh), tmp1_mesh);
         {
@@ -20354,39 +20553,39 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       $this$group.v4v(tmp$ret$0);
       var tmp0_this_0 = this$0;
-      var tmp2_plusAssign = tmp0_this_0.b75_1;
+      var tmp2_plusAssign = tmp0_this_0.g76_1;
       tmp2_plusAssign.a(Sprite$buildMesh$lambda$lambda_1($this$group));
       return Unit_getInstance();
     };
   }
   function Sprite(spriteSize, texture, regionSize, name, mirrorTexCoordsY) {
     Group.call(this, 'sprite ' + name + ' group');
-    this.u74_1 = texture;
-    this.v74_1 = mirrorTexCoordsY;
-    this.w74_1 = MutableVec2i_init_$Create$(Companion_getInstance_6().u2i_1);
-    this.x74_1 = false;
+    this.z75_1 = texture;
+    this.a76_1 = mirrorTexCoordsY;
+    this.b76_1 = MutableVec2i_init_$Create$(Companion_getInstance_8().u2i_1);
+    this.c76_1 = false;
     var tmp = this;
-    tmp.y74_1 = lazy(Sprite$spriteShader$delegate$lambda());
+    tmp.d76_1 = lazy(Sprite$spriteShader$delegate$lambda());
     var tmp_0 = this;
     var tmp0_safe_receiver = spriteSize;
     var tmp1_elvis_lhs = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.e23();
     var tmp_1 = tmp1_elvis_lhs == null ? 0 : tmp1_elvis_lhs;
     var tmp2_safe_receiver = spriteSize;
     var tmp3_elvis_lhs = tmp2_safe_receiver == null ? null : tmp2_safe_receiver.g23();
-    tmp_0.z74_1 = new MutableVec2i(tmp_1, tmp3_elvis_lhs == null ? 0 : tmp3_elvis_lhs);
+    tmp_0.e76_1 = new MutableVec2i(tmp_1, tmp3_elvis_lhs == null ? 0 : tmp3_elvis_lhs);
     var tmp_2 = this;
     var tmp0_safe_receiver_0 = regionSize;
     var tmp1_elvis_lhs_0 = tmp0_safe_receiver_0 == null ? null : tmp0_safe_receiver_0.e23();
     var tmp_3 = tmp1_elvis_lhs_0 == null ? 0 : tmp1_elvis_lhs_0;
     var tmp2_safe_receiver_0 = regionSize;
     var tmp3_elvis_lhs_0 = tmp2_safe_receiver_0 == null ? null : tmp2_safe_receiver_0.g23();
-    tmp_2.a75_1 = new MutableVec2i(tmp_3, tmp3_elvis_lhs_0 == null ? 0 : tmp3_elvis_lhs_0);
+    tmp_2.f76_1 = new MutableVec2i(tmp_3, tmp3_elvis_lhs_0 == null ? 0 : tmp3_elvis_lhs_0);
     var tmp_4 = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp_4.b75_1 = tmp$ret$0;
+    tmp_4.g76_1 = tmp$ret$0;
     buildMesh(this);
     var tmp0_this = this;
     {
@@ -20395,42 +20594,42 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
   }
   Sprite.prototype.l2w = function () {
-    return this.u74_1;
+    return this.z75_1;
   };
-  Sprite.prototype.i88 = function () {
-    return this.w74_1;
+  Sprite.prototype.c89 = function () {
+    return this.b76_1;
   };
-  Sprite.prototype.l88 = function (_set____db54di) {
-    this.x74_1 = _set____db54di;
+  Sprite.prototype.f89 = function (_set____db54di) {
+    this.c76_1 = _set____db54di;
   };
-  Sprite.prototype.k88 = function () {
-    return this.x74_1;
+  Sprite.prototype.e89 = function () {
+    return this.c76_1;
   };
-  Sprite.prototype.m85 = function () {
+  Sprite.prototype.g86 = function () {
     var tmp$ret$0;
     {
       var tmp0_getValue = spriteShader$factory();
-      tmp$ret$0 = this.y74_1.n2();
+      tmp$ret$0 = this.d76_1.n2();
     }
     return tmp$ret$0;
   };
-  Sprite.prototype.o85 = function () {
-    return this.z74_1;
+  Sprite.prototype.i86 = function () {
+    return this.e76_1;
   };
-  Sprite.prototype.m88 = function () {
-    return this.a75_1;
+  Sprite.prototype.g89 = function () {
+    return this.f76_1;
   };
-  Sprite.prototype.n88 = function () {
-    return this.b75_1;
+  Sprite.prototype.h89 = function () {
+    return this.g76_1;
   };
   Sprite.$metadata$ = classMeta('Sprite', undefined, undefined, undefined, undefined, Group.prototype);
   function Sprite3d$SpriteAtlasShader$Model$lambda$lambda(this$0, $texCoords, $this_vertexStage, $color) {
     return function ($this$main) {
       var tmp = mvpMatrix(this$0).u2h();
       var mvp = $this$main.v2z(tmp, null, 2, null);
-      $this$main.q30($texCoords.w37(), $this_vertexStage.r39(Companion_getInstance_10().z2z_1.g2t_1));
-      $this$main.q30($color.w37(), $this_vertexStage.x37(Companion_getInstance_10().a30_1.g2t_1));
-      $this$main.q30($this_vertexStage.m2s_1, times_1(mvp, $this$main.p30($this_vertexStage.o30(Companion_getInstance_10().w2z_1.g2t_1), 1.0)));
+      $this$main.q30($texCoords.w37(), $this_vertexStage.r39(Companion_getInstance_11().z2z_1.g2t_1));
+      $this$main.q30($color.w37(), $this_vertexStage.x37(Companion_getInstance_11().a30_1.g2t_1));
+      $this$main.q30($this_vertexStage.m2s_1, times_1(mvp, $this$main.p30($this_vertexStage.o30(Companion_getInstance_11().w2z_1.g2t_1), 1.0)));
       return Unit_getInstance();
     };
   }
@@ -20442,9 +20641,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Sprite3d$SpriteAtlasShader$Model$lambda$lambda_0(this$0, $texCoords, $this_fragmentStage) {
     return function ($this$main) {
-      Companion_getInstance_24();
+      Companion_getInstance_25();
       var atlasTex = this$0.a3n('tex');
-      Companion_getInstance_24();
+      Companion_getInstance_25();
       var tileIndex = this$0.y3m('texOffset');
       var atlasTexSize = toFloat3($this$main.k3p(atlasTex, null, 2, null));
       var xyInTile = toInt2(times_0($texCoords.z36(), get_xy(atlasTexSize)));
@@ -20462,11 +20661,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Companion_12() {
     Companion_instance_12 = this;
-    this.o88_1 = 'tex';
-    this.p88_1 = 'texOffset';
-    this.q88_1 = 'tileSize';
-    this.r88_1 = 'gray';
-    this.s88_1 = listOf([Companion_getInstance_10().w2z_1, Companion_getInstance_10().z2z_1, Companion_getInstance_10().a30_1]);
+    this.i89_1 = 'tex';
+    this.j89_1 = 'texOffset';
+    this.k89_1 = 'tileSize';
+    this.l89_1 = 'gray';
+    this.m89_1 = listOf([Companion_getInstance_11().w2z_1, Companion_getInstance_11().z2z_1, Companion_getInstance_11().a30_1]);
     var tmp = this;
     var tmp$ret$0;
     {
@@ -20480,11 +20679,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$0 = tmp0_apply;
     }
-    tmp.t88_1 = tmp$ret$0;
+    tmp.n89_1 = tmp$ret$0;
   }
   Companion_12.$metadata$ = objectMeta('Companion');
   var Companion_instance_12;
-  function Companion_getInstance_24() {
+  function Companion_getInstance_25() {
     if (Companion_instance_12 == null)
       new Companion_12();
     return Companion_instance_12;
@@ -20510,7 +20709,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     $this.p2g();
     var tmp$ret$0;
     {
-      var tmp0_mesh = Companion_getInstance_24().s88_1;
+      var tmp0_mesh = Companion_getInstance_25().m89_1;
       var tmp1_mesh = $this.il();
       var mesh = new Mesh(new IndexedVertexList(tmp0_mesh), tmp1_mesh);
       {
@@ -20526,26 +20725,26 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     $this.v4v(tmp$ret$0);
   }
   function SpriteAtlasShader() {
-    Companion_getInstance_24();
-    KslShader.call(this, new Model_1(), Companion_getInstance_24().t88_1);
+    Companion_getInstance_25();
+    KslShader.call(this, new Model_1(), Companion_getInstance_25().n89_1);
     var tmp = this;
-    Companion_getInstance_24();
-    tmp.e89_1 = this.i2z('tex', null, 2, null);
+    Companion_getInstance_25();
+    tmp.y89_1 = this.i2z('tex', null, 2, null);
     var tmp_0 = this;
-    Companion_getInstance_24();
-    tmp_0.f89_1 = this.c2z('texOffset', null, 2, null);
+    Companion_getInstance_25();
+    tmp_0.z89_1 = this.c2z('texOffset', null, 2, null);
   }
   SpriteAtlasShader.prototype.a2x = function (_set____db54di) {
-    return this.e89_1.b2x(this, texture$factory_1(), _set____db54di);
+    return this.y89_1.b2x(this, texture$factory_1(), _set____db54di);
   };
   SpriteAtlasShader.prototype.l2w = function () {
-    return this.e89_1.x2u(this, texture$factory_2());
+    return this.y89_1.x2u(this, texture$factory_2());
   };
-  SpriteAtlasShader.prototype.l85 = function (_set____db54di) {
-    return this.f89_1.p2v(this, tileIndex$factory(), _set____db54di);
+  SpriteAtlasShader.prototype.f86 = function (_set____db54di) {
+    return this.z89_1.p2v(this, tileIndex$factory(), _set____db54di);
   };
-  SpriteAtlasShader.prototype.n85 = function () {
-    return this.f89_1.x2u(this, tileIndex$factory_0());
+  SpriteAtlasShader.prototype.h86 = function () {
+    return this.z89_1.x2u(this, tileIndex$factory_0());
   };
   SpriteAtlasShader.$metadata$ = classMeta('SpriteAtlasShader', undefined, undefined, undefined, undefined, KslShader.prototype);
   function Sprite3d$spriteShader$delegate$lambda() {
@@ -20556,29 +20755,29 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function Sprite3d$lambda(this$0) {
     return function (it) {
       var tmp;
-      if (this$0.i85_1.equals(Companion_getInstance_6().u2i_1) ? true : this$0.j85_1.equals(Companion_getInstance_6().u2i_1)) {
+      if (this$0.c86_1.equals(Companion_getInstance_8().u2i_1) ? true : this$0.d86_1.equals(Companion_getInstance_8().u2i_1)) {
         var tmp_0;
-        var tmp0_safe_receiver = this$0.d85_1;
+        var tmp0_safe_receiver = this$0.x85_1;
         if (equals(tmp0_safe_receiver == null ? null : tmp0_safe_receiver.r5a(), LoadingState_LOADED_getInstance())) {
-          if (this$0.i85_1.equals(Companion_getInstance_6().u2i_1)) {
-            this$0.i85_1.p2j(ensureNotNull(ensureNotNull(this$0.d85_1).p5a()).k46());
-            this$0.i85_1.q2j(ensureNotNull(ensureNotNull(this$0.d85_1).p5a()).m46());
+          if (this$0.c86_1.equals(Companion_getInstance_8().u2i_1)) {
+            this$0.c86_1.p2j(ensureNotNull(ensureNotNull(this$0.x85_1).p5a()).k46());
+            this$0.c86_1.q2j(ensureNotNull(ensureNotNull(this$0.x85_1).p5a()).m46());
             {
-              var tmp0_forEach = this$0.k85_1;
+              var tmp0_forEach = this$0.e86_1;
               var tmp0_iterator = tmp0_forEach.h();
               while (tmp0_iterator.n()) {
                 var element = tmp0_iterator.o();
                 {
-                  element(this$0, this$0.i85_1.e23(), this$0.i85_1.g23());
+                  element(this$0, this$0.c86_1.e23(), this$0.c86_1.g23());
                 }
               }
             }
           }
-          if (this$0.j85_1.equals(Companion_getInstance_6().u2i_1)) {
-            this$0.j85_1.p2j(ensureNotNull(ensureNotNull(this$0.d85_1).p5a()).k46());
-            this$0.j85_1.q2j(ensureNotNull(ensureNotNull(this$0.d85_1).p5a()).m46());
+          if (this$0.d86_1.equals(Companion_getInstance_8().u2i_1)) {
+            this$0.d86_1.p2j(ensureNotNull(ensureNotNull(this$0.x85_1).p5a()).k46());
+            this$0.d86_1.q2j(ensureNotNull(ensureNotNull(this$0.x85_1).p5a()).m46());
           }
-          this$0.x4w().o2d(this$0.i85_1.e23(), this$0.i85_1.g23(), 1.0);
+          this$0.x4w().o2d(this$0.c86_1.e23(), this$0.c86_1.g23(), 1.0);
           tmp_0 = Unit_getInstance();
         }
         tmp = tmp_0;
@@ -20593,51 +20792,51 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         props.b5q(1.0);
         props.c5q(1.0);
         props.i4z_1.b2h(-props.k46() / 2.0, -props.m46() / 2.0, 0.0);
-        if (this$0.f85_1) {
+        if (this$0.z85_1) {
           props.o4z();
         }
       }
       $this$generate.p4z(props);
-      $mesh.e4p(this$0.m85());
+      $mesh.e4p(this$0.g86());
       return Unit_getInstance();
     };
   }
   function Sprite3d$buildMesh$lambda_0(this$0) {
     return function (it) {
-      this$0.m85().a2x(this$0.d85_1);
-      this$0.m85().l85(this$0.h85_1);
+      this$0.g86().a2x(this$0.x85_1);
+      this$0.g86().f86(this$0.b86_1);
       return Unit_getInstance();
     };
   }
   function Sprite3d(spriteSize, texture, regionSize, name, mirrorTexCoordsY) {
     Group.call(this, 'sprite 3d ' + name + ' group');
-    this.c85_1 = spriteSize;
-    this.d85_1 = texture;
-    this.e85_1 = regionSize;
-    this.f85_1 = mirrorTexCoordsY;
+    this.w85_1 = spriteSize;
+    this.x85_1 = texture;
+    this.y85_1 = regionSize;
+    this.z85_1 = mirrorTexCoordsY;
     var tmp = this;
-    tmp.g85_1 = lazy(Sprite3d$spriteShader$delegate$lambda());
-    this.h85_1 = 0;
+    tmp.a86_1 = lazy(Sprite3d$spriteShader$delegate$lambda());
+    this.b86_1 = 0;
     var tmp_0 = this;
-    var tmp0_safe_receiver = this.c85_1;
+    var tmp0_safe_receiver = this.w85_1;
     var tmp1_elvis_lhs = tmp0_safe_receiver == null ? null : tmp0_safe_receiver.e23();
     var tmp_1 = tmp1_elvis_lhs == null ? 0 : tmp1_elvis_lhs;
-    var tmp2_safe_receiver = this.c85_1;
+    var tmp2_safe_receiver = this.w85_1;
     var tmp3_elvis_lhs = tmp2_safe_receiver == null ? null : tmp2_safe_receiver.g23();
-    tmp_0.i85_1 = new MutableVec2i(tmp_1, tmp3_elvis_lhs == null ? 0 : tmp3_elvis_lhs);
+    tmp_0.c86_1 = new MutableVec2i(tmp_1, tmp3_elvis_lhs == null ? 0 : tmp3_elvis_lhs);
     var tmp_2 = this;
-    var tmp0_safe_receiver_0 = this.e85_1;
+    var tmp0_safe_receiver_0 = this.y85_1;
     var tmp1_elvis_lhs_0 = tmp0_safe_receiver_0 == null ? null : tmp0_safe_receiver_0.e23();
     var tmp_3 = tmp1_elvis_lhs_0 == null ? 0 : tmp1_elvis_lhs_0;
-    var tmp2_safe_receiver_0 = this.e85_1;
+    var tmp2_safe_receiver_0 = this.y85_1;
     var tmp3_elvis_lhs_0 = tmp2_safe_receiver_0 == null ? null : tmp2_safe_receiver_0.g23();
-    tmp_2.j85_1 = new MutableVec2i(tmp_3, tmp3_elvis_lhs_0 == null ? 0 : tmp3_elvis_lhs_0);
+    tmp_2.d86_1 = new MutableVec2i(tmp_3, tmp3_elvis_lhs_0 == null ? 0 : tmp3_elvis_lhs_0);
     var tmp_4 = this;
     var tmp$ret$0;
     {
       tmp$ret$0 = ArrayList_init_$Create$_0();
     }
-    tmp_4.k85_1 = tmp$ret$0;
+    tmp_4.e86_1 = tmp$ret$0;
     buildMesh_0(this);
     var tmp0_this = this;
     {
@@ -20646,32 +20845,32 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     }
   }
   Sprite3d.prototype.a2x = function (_set____db54di) {
-    this.d85_1 = _set____db54di;
+    this.x85_1 = _set____db54di;
   };
   Sprite3d.prototype.l2w = function () {
-    return this.d85_1;
+    return this.x85_1;
   };
-  Sprite3d.prototype.m85 = function () {
+  Sprite3d.prototype.g86 = function () {
     var tmp$ret$0;
     {
       var tmp0_getValue = spriteShader$factory_0();
-      tmp$ret$0 = this.g85_1.n2();
+      tmp$ret$0 = this.a86_1.n2();
     }
     return tmp$ret$0;
   };
-  Sprite3d.prototype.l85 = function (_set____db54di) {
-    this.h85_1 = _set____db54di;
+  Sprite3d.prototype.f86 = function (_set____db54di) {
+    this.b86_1 = _set____db54di;
   };
-  Sprite3d.prototype.n85 = function () {
-    return this.h85_1;
+  Sprite3d.prototype.h86 = function () {
+    return this.b86_1;
   };
-  Sprite3d.prototype.o85 = function () {
-    return this.i85_1;
+  Sprite3d.prototype.i86 = function () {
+    return this.c86_1;
   };
   Sprite3d.$metadata$ = classMeta('Sprite3d', undefined, undefined, undefined, undefined, Group.prototype);
   function spriteShader$factory() {
     return getPropertyCallableRef('spriteShader', 1, KProperty1, function (receiver) {
-      return receiver.m85();
+      return receiver.g86();
     }, null);
   }
   function texture$factory() {
@@ -20690,49 +20889,49 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function textureOffset$factory() {
     return getPropertyCallableRef('textureOffset', 1, KMutableProperty1, function (receiver) {
-      return receiver.i88();
+      return receiver.c89();
     }, function (receiver, value) {
-      return receiver.h88(value);
+      return receiver.b89(value);
     });
   }
   function textureOffset$factory_0() {
     return getPropertyCallableRef('textureOffset', 1, KMutableProperty1, function (receiver) {
-      return receiver.i88();
+      return receiver.c89();
     }, function (receiver, value) {
-      return receiver.h88(value);
+      return receiver.b89(value);
     });
   }
   function tileSize$factory_1() {
     return getPropertyCallableRef('tileSize', 1, KMutableProperty1, function (receiver) {
       return receiver.g6s();
     }, function (receiver, value) {
-      return receiver.i82(value);
+      return receiver.c83(value);
     });
   }
   function tileSize$factory_2() {
     return getPropertyCallableRef('tileSize', 1, KMutableProperty1, function (receiver) {
       return receiver.g6s();
     }, function (receiver, value) {
-      return receiver.i82(value);
+      return receiver.c83(value);
     });
   }
   function grayScaled$factory() {
     return getPropertyCallableRef('grayScaled', 1, KMutableProperty1, function (receiver) {
-      return receiver.k88();
+      return receiver.e89();
     }, function (receiver, value) {
-      return receiver.j88(value);
+      return receiver.d89(value);
     });
   }
   function grayScaled$factory_0() {
     return getPropertyCallableRef('grayScaled', 1, KMutableProperty1, function (receiver) {
-      return receiver.k88();
+      return receiver.e89();
     }, function (receiver, value) {
-      return receiver.j88(value);
+      return receiver.d89(value);
     });
   }
   function spriteShader$factory_0() {
     return getPropertyCallableRef('spriteShader', 1, KProperty1, function (receiver) {
-      return receiver.m85();
+      return receiver.g86();
     }, null);
   }
   function texture$factory_1() {
@@ -20751,16 +20950,16 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function tileIndex$factory() {
     return getPropertyCallableRef('tileIndex', 1, KMutableProperty1, function (receiver) {
-      return receiver.n85();
+      return receiver.h86();
     }, function (receiver, value) {
-      return receiver.l85(value);
+      return receiver.f86(value);
     });
   }
   function tileIndex$factory_0() {
     return getPropertyCallableRef('tileIndex', 1, KMutableProperty1, function (receiver) {
-      return receiver.n85();
+      return receiver.h86();
     }, function (receiver, value) {
-      return receiver.l85(value);
+      return receiver.f86(value);
     });
   }
   function textView(text, fontAtlas, imageAtlasSpec, capacity, init) {
@@ -20788,7 +20987,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function Companion_13() {
     Companion_instance_13 = this;
-    this.g89_1 = 0;
+    this.a8a_1 = 0;
     var tmp = this;
     var tmp$ret$1;
     {
@@ -20846,17 +21045,17 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       }
       tmp$ret$1 = tmp0_apply;
     }
-    tmp.h89_1 = tmp$ret$1;
+    tmp.b8a_1 = tmp$ret$1;
   }
   Companion_13.$metadata$ = objectMeta('Companion');
   var Companion_instance_13;
-  function Companion_getInstance_25() {
+  function Companion_getInstance_26() {
     if (Companion_instance_13 == null)
       new Companion_13();
     return Companion_instance_13;
   }
   function drawFromBuffer($this, string) {
-    $this.h8a_1.t7();
+    $this.b8b_1.t7();
     var tmp$ret$1;
     {
       var tmp$ret$0;
@@ -20873,10 +21072,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       inductionVariable = inductionVariable + 1 | 0;
       var tmp$ret$2;
       {
-        var tmp1_elvis_lhs = Companion_getInstance_25().h89_1.b3(new Char(c));
+        var tmp1_elvis_lhs = Companion_getInstance_26().b8a_1.b3(new Char(c));
         var tmp;
         if (tmp1_elvis_lhs == null) {
-          Companion_getInstance_25();
+          Companion_getInstance_26();
           tmp = 0;
         } else {
           tmp = tmp1_elvis_lhs;
@@ -20884,38 +21083,38 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         var tmp0_and = toByte(tmp);
         tmp$ret$2 = toByte(tmp0_and & 127);
       }
-      $this.h8a_1.t5s(tmp$ret$2);
+      $this.b8b_1.t5s(tmp$ret$2);
     }
-    $this.h8a_1.y4b();
-    return new TextureData2d($this.h8a_1, $this.h8a_1.u5s(), 1, TexFormat_R_getInstance());
+    $this.b8b_1.y4b();
+    return new TextureData2d($this.b8b_1, $this.b8b_1.u5s(), 1, TexFormat_R_getInstance());
   }
   function _get_textWidth__aptsyg($this) {
-    return $this.e8a_1.v3s_1.length;
+    return $this.y8a_1.v3s_1.length;
   }
   function _get_textHeight__vt67qh($this) {
     return 1.0;
   }
   function rebuildMeshes($this, spec) {
-    if ($this.e8a_1.v3s_1.length === $this.j8a_1)
+    if ($this.y8a_1.v3s_1.length === $this.d8b_1)
       return Unit_getInstance();
     $this.x5j();
     var pads = 2.0;
     $this.v4v(group('scalethis', TextView$rebuildMeshes$lambda($this, spec, pads)));
-    $this.j8a_1 = $this.e8a_1.v3s_1.length;
+    $this.d8b_1 = $this.y8a_1.v3s_1.length;
   }
   function updateShader($this) {
     var tmp$ret$0;
     {
-      var tmp0_with = $this.i8a_1;
+      var tmp0_with = $this.c8b_1;
       {
       }
       var tmp = get_simpleValueTextureProps();
-      var tmp_0 = drawFromBuffer($this, $this.e8a_1.v3s_1);
-      tmp0_with.l82(Texture2d_init_$Create$_0(tmp, tmp_0, null, 4, null));
-      tmp0_with.m82(new Vec2f($this.e8a_1.v3s_1.length, 1.0));
-      tmp0_with.g82($this.f8a_1.b7a_1.v3s_1);
-      tmp0_with.i82($this.f8a_1.g7a());
-      tmp$ret$0 = tmp0_with.j82(new Vec2i($this.f8a_1.g78(), $this.f8a_1.h78()));
+      var tmp_0 = drawFromBuffer($this, $this.y8a_1.v3s_1);
+      tmp0_with.f83(Texture2d_init_$Create$_0(tmp, tmp_0, null, 4, null));
+      tmp0_with.g83(new Vec2f($this.y8a_1.v3s_1.length, 1.0));
+      tmp0_with.a83($this.z8a_1.f7b_1.v3s_1);
+      tmp0_with.c83($this.z8a_1.k7b());
+      tmp$ret$0 = tmp0_with.d83(new Vec2i($this.z8a_1.k79(), $this.z8a_1.l79()));
     }
     return tmp$ret$0;
   }
@@ -20970,18 +21169,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       $this$group.v4v(colorMesh$default(null, TextView$rebuildMeshes$lambda$lambda(), 1, null));
       var tmp$ret$1;
       {
-        var tmp0_mesh = listOf([Companion_getInstance_10().w2z_1, Companion_getInstance_10().z2z_1]);
+        var tmp0_mesh = listOf([Companion_getInstance_11().w2z_1, Companion_getInstance_11().z2z_1]);
         var mesh = new Mesh(new IndexedVertexList(tmp0_mesh), null);
         {
           mesh.d4p(TextView$rebuildMeshes$lambda$lambda_0($pads, $spec, this$0));
           var tmp$ret$0;
           {
-            var tmp0_apply = this$0.i8a_1;
+            var tmp0_apply = this$0.c8b_1;
             {
             }
             {
-              tmp0_apply.i82(new Vec2i($spec.v6r_1, $spec.w6r_1));
-              tmp0_apply.j82(new Vec2i(this$0.f8a_1.g78(), this$0.f8a_1.h78()));
+              tmp0_apply.c83(new Vec2i($spec.v6r_1, $spec.w6r_1));
+              tmp0_apply.d83(new Vec2i(this$0.z8a_1.k79(), this$0.z8a_1.l79()));
             }
             tmp$ret$0 = tmp0_apply;
           }
@@ -20996,20 +21195,20 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   }
   function TextView$lambda(this$0) {
     return function (it) {
-      this$0.g8a_1 = true;
+      this$0.a8b_1 = true;
       return Unit_getInstance();
     };
   }
   function TextView$lambda_0(this$0) {
     return function (it) {
-      this$0.g8a_1 = true;
+      this$0.a8b_1 = true;
       return Unit_getInstance();
     };
   }
   function TextView$lambda_1(this$0) {
     return function (it) {
       var tmp;
-      if (this$0.g8a_1) {
+      if (this$0.a8b_1) {
         var tmp$ret$1;
         {
           var tmp_0 = this$0.v3v().r(0);
@@ -21024,24 +21223,24 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
           tmp$ret$1 = tmp$ret$0;
         }
         updateShader(this$0);
-        this$0.g8a_1 = this$0.i8a_1.k82().e23() === 0;
+        this$0.a8b_1 = this$0.c8b_1.e83().e23() === 0;
         tmp = Unit_getInstance();
       }
       return Unit_getInstance();
     };
   }
   function TextView(text, fontAtlas, spec, capacity, init) {
-    Companion_getInstance_25();
+    Companion_getInstance_26();
     Group_init_$Init$(null, 1, null, this);
-    this.e8a_1 = text;
-    this.f8a_1 = fontAtlas;
-    this.g8a_1 = true;
-    this.h8a_1 = createUint8Buffer(capacity);
+    this.y8a_1 = text;
+    this.z8a_1 = fontAtlas;
+    this.a8b_1 = true;
+    this.b8b_1 = createUint8Buffer(capacity);
     var tmp = this;
-    tmp.i8a_1 = TileMapShader_init_$Create$(null, 1, null);
-    this.j8a_1 = 0;
-    this.e8a_1.b3t(TextView$lambda(this));
-    this.f8a_1.b7a_1.b3t(TextView$lambda_0(this));
+    tmp.c8b_1 = TileMapShader_init_$Create$(null, 1, null);
+    this.d8b_1 = 0;
+    this.y8a_1.b3t(TextView$lambda(this));
+    this.z8a_1.f7b_1.b3t(TextView$lambda_0(this));
     var tmp0_this = this;
     {
       var tmp0_plusAssign = tmp0_this.n4p();
@@ -21069,7 +21268,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   $serializer_0.prototype.uu = typeParametersSerializers;
   //endregion
   //region block: init
-  Version = '0.4-221115.1041';
+  Version = '0.4-221118.1843';
   TILE_HEIGHT = 22;
   W4 = 5;
   H4 = 5;
@@ -22107,10 +22306,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   Ui2Shader.prototype.constructor = Ui2Shader;
   ListPropertyHolder.prototype = Object.create(PropertyHolder.prototype);
   ListPropertyHolder.prototype.constructor = ListPropertyHolder;
-  AlignmentY.prototype = Object.create(Enum.prototype);
-  AlignmentY.prototype.constructor = AlignmentY;
   AlignmentX.prototype = Object.create(Enum.prototype);
   AlignmentX.prototype.constructor = AlignmentX;
+  AlignmentY.prototype = Object.create(Enum.prototype);
+  AlignmentY.prototype.constructor = AlignmentY;
   Model_2.prototype = Object.create(KslProgram.prototype);
   Model_2.prototype.constructor = Model_2;
   PrimitiveShader.prototype = Object.create(KslShader.prototype);
@@ -35208,11 +35407,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function get_rgb(_this__u8e3s4) {
     return float3(_this__u8e3s4, 'rgb');
   }
-  function get_xy_0(_this__u8e3s4) {
-    return float2(_this__u8e3s4, 'xy');
-  }
   function get_zw(_this__u8e3s4) {
     return float2(_this__u8e3s4, 'zw');
+  }
+  function get_xy_0(_this__u8e3s4) {
+    return float2(_this__u8e3s4, 'xy');
   }
   function KslVertexAttributeVector(value, inputRate) {
     KslVertexAttribute.call(this, value, inputRate);
@@ -36573,12 +36772,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     block(column);
     return column;
   }
-  function Box(_this__u8e3s4, width, height, block) {
-    var box = _this__u8e3s4.f3t().v3t(getKClass(BoxNode), Companion_getInstance_17().e3v_1);
-    size(box.m3u(), width, height);
-    block(box);
-    return box;
-  }
   function BoxNode$Companion$factory$lambda() {
     return function (parent, surface) {
       return new BoxNode(parent, surface);
@@ -36605,6 +36798,12 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return this.t3v_1;
   };
   BoxNode.$metadata$ = classMeta('BoxNode', [UiScope], undefined, undefined, undefined, UiNode.prototype);
+  function Box(_this__u8e3s4, width, height, block) {
+    var box = _this__u8e3s4.f3t().v3t(getKClass(BoxNode), Companion_getInstance_17().e3v_1);
+    size(box.m3u(), width, height);
+    block(box);
+    return box;
+  }
   function RowNode$Companion$factory$lambda() {
     return function (parent, surface) {
       return new RowNode(parent, surface);
@@ -38059,145 +38258,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function mutableStateOf(value) {
     return new MutableStateValue(value);
   }
-  function MutableStateList_init_$Init$(values, $mask0, $marker, $this) {
-    if (!(($mask0 & 1) === 0)) {
-      var tmp$ret$0;
-      var tmp$ret$0_0;
-      {
-        tmp$ret$0 = ArrayList_init_$Create$_0();
-        tmp$ret$0_0 = Unit_getInstance();
-      }
-      values = tmp$ret$0;
-    }
-    MutableStateList.call($this, values);
-    return $this;
-  }
-  function MutableStateList_init_$Create$(values, $mask0, $marker) {
-    return MutableStateList_init_$Init$(values, $mask0, $marker, Object.create(MutableStateList.prototype));
-  }
-  function MutableStateList(values) {
-    MutableState.call(this);
-    this.x4d_1 = values;
-  }
-  MutableStateList.prototype.m = function () {
-    return this.x4d_1.m();
-  };
-  MutableStateList.prototype.m3 = function (element) {
-    return this.x4d_1.p(element);
-  };
-  MutableStateList.prototype.p = function (element) {
-    if (!(element == null ? true : isObject(element)))
-      return false;
-    return this.m3((element == null ? true : isObject(element)) ? element : THROW_CCE());
-  };
-  MutableStateList.prototype.n3 = function (elements) {
-    return this.x4d_1.s1(elements);
-  };
-  MutableStateList.prototype.s1 = function (elements) {
-    return this.n3(elements);
-  };
-  MutableStateList.prototype.r = function (index) {
-    return this.x4d_1.r(index);
-  };
-  MutableStateList.prototype.y4d = function (element) {
-    return this.x4d_1.u(element);
-  };
-  MutableStateList.prototype.u = function (element) {
-    if (!(element == null ? true : isObject(element)))
-      return -1;
-    return this.y4d((element == null ? true : isObject(element)) ? element : THROW_CCE());
-  };
-  MutableStateList.prototype.q = function () {
-    return this.x4d_1.q();
-  };
-  MutableStateList.prototype.h = function () {
-    return this.x4d_1.h();
-  };
-  MutableStateList.prototype.ef = function () {
-    return this.x4d_1.ef();
-  };
-  MutableStateList.prototype.a3t = function (surface) {
-    this.c3t(surface);
-    return this;
-  };
-  MutableStateList.prototype.z4d = function (element) {
-    this.y3s();
-    return this.x4d_1.a(element);
-  };
-  MutableStateList.prototype.a = function (element) {
-    return this.z4d((element == null ? true : isObject(element)) ? element : THROW_CCE());
-  };
-  MutableStateList.prototype.a4e = function (index, element) {
-    this.y3s();
-    this.x4d_1.cf(index, element);
-  };
-  MutableStateList.prototype.cf = function (index, element) {
-    return this.a4e(index, (element == null ? true : isObject(element)) ? element : THROW_CCE());
-  };
-  MutableStateList.prototype.b4e = function (elements) {
-    this.y3s();
-    return this.x4d_1.o1(elements);
-  };
-  MutableStateList.prototype.o1 = function (elements) {
-    return this.b4e(elements);
-  };
-  MutableStateList.prototype.t7 = function () {
-    var tmp$ret$0;
-    {
-      tmp$ret$0 = !this.q();
-    }
-    if (tmp$ret$0) {
-      this.y3s();
-    }
-    this.x4d_1.t7();
-  };
-  MutableStateList.prototype.c4e = function (element) {
-    var result = this.x4d_1.c4(element);
-    if (result) {
-      this.y3s();
-    }
-    return result;
-  };
-  MutableStateList.prototype.c4 = function (element) {
-    if (!(element == null ? true : isObject(element)))
-      return false;
-    return this.c4e((element == null ? true : isObject(element)) ? element : THROW_CCE());
-  };
-  MutableStateList.prototype.d4e = function (elements) {
-    var result = this.x4d_1.f4(elements);
-    if (result) {
-      this.y3s();
-    }
-    return result;
-  };
-  MutableStateList.prototype.f4 = function (elements) {
-    return this.d4e(elements);
-  };
-  MutableStateList.prototype.d4 = function (index) {
-    this.y3s();
-    return this.x4d_1.d4(index);
-  };
-  MutableStateList.prototype.e4e = function (index, element) {
-    this.y3s();
-    return this.x4d_1.t(index, element);
-  };
-  MutableStateList.prototype.t = function (index, element) {
-    return this.e4e(index, (element == null ? true : isObject(element)) ? element : THROW_CCE());
-  };
-  MutableStateList.$metadata$ = classMeta('MutableStateList', [MutableList], undefined, undefined, undefined, MutableState.prototype);
-  function mutableStateListOf(elements) {
-    var tmp$ret$0;
-    {
-      var tmp0_apply = MutableStateList_init_$Create$(null, 1, null);
-      {
-      }
-      {
-        addAll_0(tmp0_apply, elements);
-      }
-      tmp$ret$0 = tmp0_apply;
-    }
-    return tmp$ret$0;
-  }
   function toggle(_this__u8e3s4) {
     _this__u8e3s4.w2u(!_this__u8e3s4.v3s_1);
   }
@@ -38219,7 +38279,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         do {
           var i = inductionVariable;
           inductionVariable = inductionVariable + 1 | 0;
-          this.x3s_1.r(i).f4e();
+          this.x3s_1.r(i).v4d();
         }
          while (inductionVariable <= last);
     }
@@ -38231,9 +38291,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         var tmp0_plusAssign = tmp0_this.x3s_1;
         tmp0_plusAssign.a(surface);
       }
-      surface.g4e(this);
+      surface.w4d(this);
       if (this.w3s_1) {
-        surface.f4e();
+        surface.v4d();
       }
     }
   };
@@ -38246,6 +38306,145 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.w3s_1 = false;
   };
   MutableState.$metadata$ = classMeta('MutableState');
+  function MutableStateList_init_$Init$(values, $mask0, $marker, $this) {
+    if (!(($mask0 & 1) === 0)) {
+      var tmp$ret$0;
+      var tmp$ret$0_0;
+      {
+        tmp$ret$0 = ArrayList_init_$Create$_0();
+        tmp$ret$0_0 = Unit_getInstance();
+      }
+      values = tmp$ret$0;
+    }
+    MutableStateList.call($this, values);
+    return $this;
+  }
+  function MutableStateList_init_$Create$(values, $mask0, $marker) {
+    return MutableStateList_init_$Init$(values, $mask0, $marker, Object.create(MutableStateList.prototype));
+  }
+  function MutableStateList(values) {
+    MutableState.call(this);
+    this.z4d_1 = values;
+  }
+  MutableStateList.prototype.m = function () {
+    return this.z4d_1.m();
+  };
+  MutableStateList.prototype.m3 = function (element) {
+    return this.z4d_1.p(element);
+  };
+  MutableStateList.prototype.p = function (element) {
+    if (!(element == null ? true : isObject(element)))
+      return false;
+    return this.m3((element == null ? true : isObject(element)) ? element : THROW_CCE());
+  };
+  MutableStateList.prototype.n3 = function (elements) {
+    return this.z4d_1.s1(elements);
+  };
+  MutableStateList.prototype.s1 = function (elements) {
+    return this.n3(elements);
+  };
+  MutableStateList.prototype.r = function (index) {
+    return this.z4d_1.r(index);
+  };
+  MutableStateList.prototype.a4e = function (element) {
+    return this.z4d_1.u(element);
+  };
+  MutableStateList.prototype.u = function (element) {
+    if (!(element == null ? true : isObject(element)))
+      return -1;
+    return this.a4e((element == null ? true : isObject(element)) ? element : THROW_CCE());
+  };
+  MutableStateList.prototype.q = function () {
+    return this.z4d_1.q();
+  };
+  MutableStateList.prototype.h = function () {
+    return this.z4d_1.h();
+  };
+  MutableStateList.prototype.ef = function () {
+    return this.z4d_1.ef();
+  };
+  MutableStateList.prototype.a3t = function (surface) {
+    this.c3t(surface);
+    return this;
+  };
+  MutableStateList.prototype.b4e = function (element) {
+    this.y3s();
+    return this.z4d_1.a(element);
+  };
+  MutableStateList.prototype.a = function (element) {
+    return this.b4e((element == null ? true : isObject(element)) ? element : THROW_CCE());
+  };
+  MutableStateList.prototype.c4e = function (index, element) {
+    this.y3s();
+    this.z4d_1.cf(index, element);
+  };
+  MutableStateList.prototype.cf = function (index, element) {
+    return this.c4e(index, (element == null ? true : isObject(element)) ? element : THROW_CCE());
+  };
+  MutableStateList.prototype.d4e = function (elements) {
+    this.y3s();
+    return this.z4d_1.o1(elements);
+  };
+  MutableStateList.prototype.o1 = function (elements) {
+    return this.d4e(elements);
+  };
+  MutableStateList.prototype.t7 = function () {
+    var tmp$ret$0;
+    {
+      tmp$ret$0 = !this.q();
+    }
+    if (tmp$ret$0) {
+      this.y3s();
+    }
+    this.z4d_1.t7();
+  };
+  MutableStateList.prototype.e4e = function (element) {
+    var result = this.z4d_1.c4(element);
+    if (result) {
+      this.y3s();
+    }
+    return result;
+  };
+  MutableStateList.prototype.c4 = function (element) {
+    if (!(element == null ? true : isObject(element)))
+      return false;
+    return this.e4e((element == null ? true : isObject(element)) ? element : THROW_CCE());
+  };
+  MutableStateList.prototype.f4e = function (elements) {
+    var result = this.z4d_1.f4(elements);
+    if (result) {
+      this.y3s();
+    }
+    return result;
+  };
+  MutableStateList.prototype.f4 = function (elements) {
+    return this.f4e(elements);
+  };
+  MutableStateList.prototype.d4 = function (index) {
+    this.y3s();
+    return this.z4d_1.d4(index);
+  };
+  MutableStateList.prototype.g4e = function (index, element) {
+    this.y3s();
+    return this.z4d_1.t(index, element);
+  };
+  MutableStateList.prototype.t = function (index, element) {
+    return this.g4e(index, (element == null ? true : isObject(element)) ? element : THROW_CCE());
+  };
+  MutableStateList.$metadata$ = classMeta('MutableStateList', [MutableList], undefined, undefined, undefined, MutableState.prototype);
+  function mutableStateListOf(elements) {
+    var tmp$ret$0;
+    {
+      var tmp0_apply = MutableStateList_init_$Create$(null, 1, null);
+      {
+      }
+      {
+        addAll_0(tmp0_apply, elements);
+      }
+      tmp$ret$0 = tmp0_apply;
+    }
+    return tmp$ret$0;
+  }
   function Panel(colors, sizes, name, content) {
     var surface = new UiSurface(colors, sizes, name);
     var tmp = surface;
@@ -38830,18 +39029,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return tmp == null ? null : tmp.h4c_1;
   };
   TextModifier.$metadata$ = classMeta('TextModifier', undefined, undefined, undefined, undefined, UiModifier.prototype);
-  function textColor(_this__u8e3s4, color) {
-    _this__u8e3s4.x45(color);
-    return _this__u8e3s4;
-  }
-  function font(_this__u8e3s4, font) {
-    _this__u8e3s4.v45(font);
-    return _this__u8e3s4;
-  }
-  function textAlignX(_this__u8e3s4, alignment) {
-    _this__u8e3s4.z45(alignment);
-    return _this__u8e3s4;
-  }
   function TextNode$Companion$factory$lambda() {
     return function (parent, surface) {
       return new TextNode(parent, surface);
@@ -39058,6 +39245,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   TextNode.$metadata$ = classMeta('TextNode', [TextScope], undefined, undefined, undefined, UiNode.prototype);
   function text(_this__u8e3s4, text) {
     _this__u8e3s4.t45(text);
+    return _this__u8e3s4;
+  }
+  function textColor(_this__u8e3s4, color) {
+    _this__u8e3s4.x45(color);
+    return _this__u8e3s4;
+  }
+  function font(_this__u8e3s4, font) {
+    _this__u8e3s4.v45(font);
+    return _this__u8e3s4;
+  }
+  function textAlignX(_this__u8e3s4, alignment) {
+    _this__u8e3s4.z45(alignment);
     return _this__u8e3s4;
   }
   function textAlign(_this__u8e3s4, alignX, alignY) {
@@ -40126,6 +40325,30 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     return tmp;
   };
   UiModifier.$metadata$ = classMeta('UiModifier');
+  function alignX(_this__u8e3s4, alignment) {
+    _this__u8e3s4.l47(alignment);
+    return _this__u8e3s4;
+  }
+  var AlignmentX_Start_instance;
+  var AlignmentX_Center_instance;
+  var AlignmentX_End_instance;
+  var AlignmentX_entriesInitialized;
+  function AlignmentX_initEntries() {
+    if (AlignmentX_entriesInitialized)
+      return Unit_getInstance();
+    AlignmentX_entriesInitialized = true;
+    AlignmentX_Start_instance = new AlignmentX('Start', 0);
+    AlignmentX_Center_instance = new AlignmentX('Center', 1);
+    AlignmentX_End_instance = new AlignmentX('End', 2);
+  }
+  function AlignmentX(name, ordinal) {
+    Enum.call(this, name, ordinal);
+  }
+  AlignmentX.$metadata$ = classMeta('AlignmentX', undefined, undefined, undefined, undefined, Enum.prototype);
+  function alignY(_this__u8e3s4, alignment) {
+    _this__u8e3s4.n47(alignment);
+    return _this__u8e3s4;
+  }
   var AlignmentY_Top_instance;
   var AlignmentY_Center_instance;
   var AlignmentY_Bottom_instance;
@@ -40168,22 +40391,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       bottom = _this__u8e3s4.k47();
     return margin(_this__u8e3s4, start, end, top, bottom);
   }
-  var AlignmentX_Start_instance;
-  var AlignmentX_Center_instance;
-  var AlignmentX_End_instance;
-  var AlignmentX_entriesInitialized;
-  function AlignmentX_initEntries() {
-    if (AlignmentX_entriesInitialized)
-      return Unit_getInstance();
-    AlignmentX_entriesInitialized = true;
-    AlignmentX_Start_instance = new AlignmentX('Start', 0);
-    AlignmentX_Center_instance = new AlignmentX('Center', 1);
-    AlignmentX_End_instance = new AlignmentX('End', 2);
-  }
-  function AlignmentX(name, ordinal) {
-    Enum.call(this, name, ordinal);
-  }
-  AlignmentX.$metadata$ = classMeta('AlignmentX', undefined, undefined, undefined, undefined, Enum.prototype);
   function PointerEvent(pointer, ctx) {
     this.f49_1 = pointer;
     this.g49_1 = ctx;
@@ -40198,14 +40405,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     this.j49_1 = false;
   };
   PointerEvent.$metadata$ = classMeta('PointerEvent');
-  function alignY(_this__u8e3s4, alignment) {
-    _this__u8e3s4.n47(alignment);
-    return _this__u8e3s4;
-  }
-  function alignX(_this__u8e3s4, alignment) {
-    _this__u8e3s4.l47(alignment);
-    return _this__u8e3s4;
-  }
   function layout(_this__u8e3s4, layout) {
     _this__u8e3s4.n46(layout);
     return _this__u8e3s4;
@@ -40228,6 +40427,15 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       var tmp0_plusAssign = tmp0_this.u47();
       tmp0_plusAssign.a(block);
     }
+    return _this__u8e3s4;
+  }
+  function backgroundColor(_this__u8e3s4, color) {
+    _this__u8e3s4.p46(!(color == null) ? new RectBackground(color) : null);
+    return _this__u8e3s4;
+  }
+  function size(_this__u8e3s4, width, height) {
+    _this__u8e3s4.j46(width);
+    _this__u8e3s4.l46(height);
     return _this__u8e3s4;
   }
   function background(_this__u8e3s4, background) {
@@ -40268,15 +40476,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
         tmp$ret$1 = _this__u8e3s4.x46(tmp1_safe_receiver);
       }
     }
-    return _this__u8e3s4;
-  }
-  function backgroundColor(_this__u8e3s4, color) {
-    _this__u8e3s4.p46(!(color == null) ? new RectBackground(color) : null);
-    return _this__u8e3s4;
-  }
-  function size(_this__u8e3s4, width, height) {
-    _this__u8e3s4.j46(width);
-    _this__u8e3s4.l46(height);
     return _this__u8e3s4;
   }
   function hoverListener(_this__u8e3s4, hoverable) {
@@ -40354,18 +40553,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     l.callableName = 'onClick';
     return l;
   }
-  function AlignmentY_Top_getInstance() {
-    AlignmentY_initEntries();
-    return AlignmentY_Top_instance;
-  }
-  function AlignmentY_Center_getInstance() {
-    AlignmentY_initEntries();
-    return AlignmentY_Center_instance;
-  }
-  function AlignmentY_Bottom_getInstance() {
-    AlignmentY_initEntries();
-    return AlignmentY_Bottom_instance;
-  }
   function AlignmentX_Start_getInstance() {
     AlignmentX_initEntries();
     return AlignmentX_Start_instance;
@@ -40377,6 +40564,18 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function AlignmentX_End_getInstance() {
     AlignmentX_initEntries();
     return AlignmentX_End_instance;
+  }
+  function AlignmentY_Top_getInstance() {
+    AlignmentY_initEntries();
+    return AlignmentY_Top_instance;
+  }
+  function AlignmentY_Center_getInstance() {
+    AlignmentY_initEntries();
+    return AlignmentY_Center_instance;
+  }
+  function AlignmentY_Bottom_getInstance() {
+    AlignmentY_initEntries();
+    return AlignmentY_Bottom_instance;
   }
   function width$factory() {
     return getPropertyCallableRef('width', 1, KMutableProperty1, function (receiver) {
@@ -42805,14 +43004,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   UiSurface.prototype.l4x = function () {
     return this.x40_1;
   };
-  UiSurface.prototype.g4e = function (state) {
+  UiSurface.prototype.w4d = function (state) {
     var tmp0_this = this;
     {
       var tmp0_plusAssign = tmp0_this.j40_1;
       tmp0_plusAssign.a(state);
     }
   };
-  UiSurface.prototype.f4e = function () {
+  UiSurface.prototype.v4d = function () {
     this.k40_1 = true;
   };
   UiSurface.prototype.z4m = function (layer) {
@@ -51936,7 +52135,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
               tmp0_plusAssign.a(clampedTxt);
             }
           } else if (!(clampedTxt === $this.e5t_1.r(tmp2__anonymous__z9zvc9))) {
-            $this.e5t_1.e4e(tmp2__anonymous__z9zvc9, clampedTxt);
+            $this.e5t_1.g4e(tmp2__anonymous__z9zvc9, clampedTxt);
           }
         }
       }
@@ -60898,6 +61097,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   function createFloat32Buffer(capacity) {
     return new Float32BufferImpl(capacity);
   }
+  function createUint32Buffer(capacity) {
+    return new Uint32BufferImpl(capacity);
+  }
   function BufferUtil() {
     BufferUtil_instance = this;
   }
@@ -60926,9 +61128,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
     if (BufferUtil_instance == null)
       new BufferUtil();
     return BufferUtil_instance;
-  }
-  function createUint32Buffer(capacity) {
-    return new Uint32BufferImpl(capacity);
   }
   function createMixedBuffer(capacity) {
     return new MixedBufferImpl(capacity);
@@ -61285,47 +61484,47 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   _.$_$.a2 = height;
   _.$_$.b2 = hoverListener;
   _.$_$.c2 = layout;
-  _.$_$.d2 = mutableStateListOf;
-  _.$_$.e2 = mutableStateOf;
-  _.$_$.f2 = onClick_0;
-  _.$_$.g2 = onClick_1;
-  _.$_$.h2 = onToggle;
-  _.$_$.i2 = padding_0;
-  _.$_$.j2 = size;
-  _.$_$.k2 = textAlign;
-  _.$_$.l2 = text;
-  _.$_$.m2 = toggleState;
-  _.$_$.n2 = toggle;
-  _.$_$.o2 = width;
-  _.$_$.p2 = BufferedTextureLoader;
-  _.$_$.q2 = ConfigBuilder;
-  _.$_$.r2 = Config;
-  _.$_$.s2 = OffscreenRenderPass2d;
-  _.$_$.t2 = Texture3d;
-  _.$_$.u2 = TextureData2d;
-  _.$_$.v2 = TextureProps;
-  _.$_$.w2 = CosAnimator;
-  _.$_$.x2 = InterpolatedFloat;
-  _.$_$.y2 = InterpolatedValue;
-  _.$_$.z2 = InverseSquareAnimator;
-  _.$_$.a3 = LinearAnimator;
-  _.$_$.b3 = IndexedVertexList;
-  _.$_$.c3 = RectProps;
-  _.$_$.d3 = Group;
-  _.$_$.e3 = Mesh;
-  _.$_$.f3 = Node;
-  _.$_$.g3 = OrthographicCamera;
-  _.$_$.h3 = Scene;
-  _.$_$.i3 = group;
-  _.$_$.j3 = Color;
-  _.$_$.k3 = createUint8Buffer;
-  _.$_$.l3 = AssetManager;
-  _.$_$.m3 = createDefaultContext;
-  _.$_$.n3 = AlignmentX_Center_getInstance;
-  _.$_$.o3 = AlignmentX_End_getInstance;
-  _.$_$.p3 = AlignmentX_Start_getInstance;
-  _.$_$.q3 = AlignmentY_Bottom_getInstance;
-  _.$_$.r3 = AlignmentY_Center_getInstance;
+  _.$_$.d2 = mutableStateOf;
+  _.$_$.e2 = onClick_0;
+  _.$_$.f2 = onClick_1;
+  _.$_$.g2 = onToggle;
+  _.$_$.h2 = padding_0;
+  _.$_$.i2 = size;
+  _.$_$.j2 = textAlign;
+  _.$_$.k2 = text;
+  _.$_$.l2 = toggleState;
+  _.$_$.m2 = toggle;
+  _.$_$.n2 = width;
+  _.$_$.o2 = BufferedTextureLoader;
+  _.$_$.p2 = ConfigBuilder;
+  _.$_$.q2 = Config;
+  _.$_$.r2 = OffscreenRenderPass2d;
+  _.$_$.s2 = Texture3d;
+  _.$_$.t2 = TextureData2d;
+  _.$_$.u2 = TextureProps;
+  _.$_$.v2 = CosAnimator;
+  _.$_$.w2 = InterpolatedFloat;
+  _.$_$.x2 = InterpolatedValue;
+  _.$_$.y2 = InverseSquareAnimator;
+  _.$_$.z2 = LinearAnimator;
+  _.$_$.a3 = IndexedVertexList;
+  _.$_$.b3 = RectProps;
+  _.$_$.c3 = Group;
+  _.$_$.d3 = Mesh;
+  _.$_$.e3 = Node;
+  _.$_$.f3 = OrthographicCamera;
+  _.$_$.g3 = Scene;
+  _.$_$.h3 = group;
+  _.$_$.i3 = Color;
+  _.$_$.j3 = createUint8Buffer;
+  _.$_$.k3 = AssetManager;
+  _.$_$.l3 = createDefaultContext;
+  _.$_$.m3 = AlignmentX_Center_getInstance;
+  _.$_$.n3 = AlignmentX_End_getInstance;
+  _.$_$.o3 = AlignmentX_Start_getInstance;
+  _.$_$.p3 = AlignmentY_Bottom_getInstance;
+  _.$_$.q3 = AlignmentY_Center_getInstance;
+  _.$_$.r3 = AlignmentY_Top_getInstance;
   _.$_$.s3 = AddressMode_CLAMP_TO_EDGE_getInstance;
   _.$_$.t3 = BlendMode_BLEND_ADDITIVE_getInstance;
   _.$_$.u3 = BlendMode_BLEND_PREMULTIPLIED_ALPHA_getInstance;
@@ -61369,13 +61568,14 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
   _.$_$.g5 = Companion_getInstance_23;
   _.$_$.h5 = RowLayout_getInstance;
   _.$_$.i5 = Companion_getInstance_18;
-  _.$_$.j5 = Companion_getInstance_27;
-  _.$_$.k5 = Companion_getInstance_26;
-  _.$_$.l5 = Companion_getInstance_33;
-  _.$_$.m5 = FullscreenShaderUtil_getInstance;
-  _.$_$.n5 = Companion_getInstance_42;
-  _.$_$.o5 = Companion_getInstance_45;
-  _.$_$.p5 = Companion_getInstance_0;
+  _.$_$.j5 = Companion_getInstance_25;
+  _.$_$.k5 = Companion_getInstance_27;
+  _.$_$.l5 = Companion_getInstance_26;
+  _.$_$.m5 = Companion_getInstance_33;
+  _.$_$.n5 = FullscreenShaderUtil_getInstance;
+  _.$_$.o5 = Companion_getInstance_42;
+  _.$_$.p5 = Companion_getInstance_45;
+  _.$_$.q5 = Companion_getInstance_0;
   //endregion
   return _;
 }));
@@ -65090,11 +65290,11 @@ if (typeof Math.imul === 'undefined') {
     return tmp$ret$0;
   };
   _no_name_provided__qut3iv_9.$metadata$ = classMeta(undefined, [Sequence]);
-  function mutableSetOf() {
-    return LinkedHashSet_init_$Create$();
-  }
-  function mutableSetOf_0(elements) {
+  function mutableSetOf(elements) {
     return toCollection(elements, LinkedHashSet_init_$Create$_1(mapCapacity(elements.length)));
+  }
+  function mutableSetOf_0() {
+    return LinkedHashSet_init_$Create$();
   }
   function EmptySet() {
     EmptySet_instance = this;
@@ -67003,11 +67203,11 @@ if (typeof Math.imul === 'undefined') {
     }
     return _this__u8e3s4;
   }
-  function padStart(_this__u8e3s4, length, padChar) {
-    return toString_2(padStart_0(isCharSequence(_this__u8e3s4) ? _this__u8e3s4 : THROW_CCE(), length, padChar));
-  }
   function isNotEmpty_1(_this__u8e3s4) {
     return charSequenceLength(_this__u8e3s4) > 0;
+  }
+  function padStart(_this__u8e3s4, length, padChar) {
+    return toString_2(padStart_0(isCharSequence(_this__u8e3s4) ? _this__u8e3s4 : THROW_CCE(), length, padChar));
   }
   function padEnd(_this__u8e3s4, length, padChar) {
     return toString_2(padEnd_0(isCharSequence(_this__u8e3s4) ? _this__u8e3s4 : THROW_CCE(), length, padChar));
@@ -77264,7 +77464,7 @@ if (typeof Math.imul === 'undefined') {
   _.$_$.c6 = minus;
   _.$_$.d6 = mutableListOf_0;
   _.$_$.e6 = mutableMapOf_0;
-  _.$_$.f6 = mutableSetOf_0;
+  _.$_$.f6 = mutableSetOf;
   _.$_$.g6 = plus_0;
   _.$_$.h6 = removeAll_0;
   _.$_$.i6 = removeAll;
